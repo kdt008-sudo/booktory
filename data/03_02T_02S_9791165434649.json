@@ -1,0 +1,83 @@
+﻿{
+  "title": "애벌레야, 애벌레야, 뭐 하니?",
+  "author": "정혜원",
+  "illustrator": "노정래",
+  "isbn": "9791165434649",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43506",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 윙윙 붕붕, 흉내 내기 놀이해. 어때, 나 꼭 꿀벌 같지?",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "43501",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 사각사각 오물오물 맛있는 이파리 먹고 있지. 아, 맛있어. 너도 먹을래?",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "43504",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 살금살금 줄기 타고 올라가고 있지. 저 위엔 뭐가 있는지 너무너무 궁금해. 넌 궁금하지 않니?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "43510",
+      "srcText": "왜 그러고 있는데? 예쁜 나비 되려고. 에이, 네가 어떻게 나비가 돼? 어떻게 되는지 한번 볼래? 놀랐지? 우리는 번데기에서 깨어나 하늘을 훨훨 날아다녀.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "43507",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 어? 내가 애벌레인 줄 어떻게 알았어? 새들이 날 못 알아보게 하려고 새똥인 척하고 있는데. 넌 참 똑똑하구나.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "43509",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 나뭇가지에 풀 같은 액체 찐득찐득 묻히고. 거꾸로 매달려 있어.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "43503",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 숨바꼭질하느라 꼭꼭 숨었지. 나 벌써 들킨 거 아니지? 나 찾아 봐라!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "43505",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 폭신폭신 꽃 침대에 누웠지. 배춧잎 실컷 먹고 왔더니 아~함! 배부르고 졸려. 난 한잠 잘 테야.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "43508",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 꼼틀꼼틀 쭉쭉, 꼼틀꼼틀 쭉쭉, 어디 가고 있니? 너는 꾸물꾸물 가지 않고 그렇게 가는구나?",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "43502",
+      "srcText": "애벌레야, 애벌레야, 뭐 하니? 포도나무의 잎이 맛있어 보여서 사각사각 먹어 보려고. 넌 포도 좋아하니?",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

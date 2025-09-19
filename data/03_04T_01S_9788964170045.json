@@ -1,0 +1,125 @@
+﻿{
+  "title": "비버씨! 도와주세요! ",
+  "author": "우와조아",
+  "illustrator": "박종배",
+  "isbn": "9788964170045",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15789",
+      "srcText": "그때였어요. 동물 친구들이 우르르 뛰어왔어요. \"걱정하지 마세요. 비버씨.\" \"이번엔 우리가 도울게요.\" 비버씨는 친구들을 와락 안아주었어요. \"모두들, 고마워.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15783",
+      "srcText": "\"대머리라고 친구들이 놀려요.\" 쓱쓱쓱! 비버씨는 나뭇잎 가발을 만들어주었어요. \"고마워요, 비버씨!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "15784",
+      "srcText": "이번엔 독수리가 푸드덕거리며 내려앉았어요. 머리를 푹 숙인 채 가만히 있었어요. \"독수리야, 무슨 일이 있니?\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "15790",
+      "srcText": "뚝딱뚝딱! 콩콩콩콩! \"와! 드디어 완성이다.\" 모두들 기뻐서 소리쳤어요. 비 갠 다음 날이었어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "15791",
+      "srcText": "비버씨는 나뭇가지를 모아서 집을 지었어요. '무엇이든 도와 드립니다!' 집 앞에다 예쁜 팻말도 붙였지요. 비버씨는 유유히 헤엄치며 생각했어요. \"오늘은 누굴 도와줄까?\"",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "15780",
+      "srcText": "\"코가 납작하다고 친구들이 놀려요.\" 뚝딱뚝딱! 비버씨는 코 집개를 만들어 주었어요. \"고마워요, 비버씨.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "15781",
+      "srcText": "도토리나무를 지날 때였어요. 원숭이가 훌쩍거리며 걸어오고 있었어요. \"원숭아, 왜 울어?\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "18173",
+      "srcText": "\"등이 가려워서요.\" 뚝딱뚝딱! 비버씨는 효자손을 만들어 주었어요. \"고마워요, 비버씨.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "18174",
+      "srcText": "이번엔 진흙탕 앞에서 코끼리를 만났어요. 코를 이리저리 돌리며 낑낑거리고 있었지요. \"코끼리야 왜그래?\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "18171",
+      "srcText": "\"기린아, 왜그래?\" \"목이 너무 아파서요.\" 뚝딱뚝딱! 비버씨는 목 받침대를 만들어 주었어요. \"고마워요, 비버씨.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "18172",
+      "srcText": "\"나만의 집을 짓고 싶어.\" 비버씨는 집 지을 곳을 찾아 나섰어요. 한참을 가다 보니 기린이 얼굴을 찡그리고 있었어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15782",
+      "srcText": "갑자기 뱀이 불쑥 튀어나왔어요. \"어이쿠! 깜짝이야.\" 뱀은 온몸을 비틀었어요. \"뱀아, 왜그래?\" \"입에 가시가 걸렸나 봐요.\" 뚝딱뚝딱! 비버씨는 족집게를 만들어 주었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "15785",
+      "srcText": "언덕에 오르자 산양이 절뚝거리며 올라왔어요. \"산양아, 다쳤니?\" \"발이 너무 아파요.\" 뚝딱뚝딱! 비버씨는 발굽을 만들어 주었어요. \"고마워요, 비버씨.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15788",
+      "srcText": "그런데 이게 웬일이에요. 주르르르륵! 쏴아아아! 비가 자꾸자꾸 내리는 거예요. \"강물이 넘치지 않게 댐을 만들어야겠어.\" 뚝딱뚝딱! \"어떡하지? 혼자 하기에는 너무 힘들어.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "15786",
+      "srcText": "\"물소야, 왜 그래?\" \"강이 너무 깊어서 건널 수가 없어요.\" 뚝딱뚝딱! 비버씨는 대나무 빨대를 만들어 주었어요. \"고마워요, 비버씨.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15787",
+      "srcText": "비버씨는 강가에 이르렀어요. \"숲도 있고, 물도 있으니 여기가 좋겠군.\" 그런데 물소가 강가에서 우물쭈물하고 있었지요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "title": "무슨 모양일까?",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165437350",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7076",
+      "srcText": "동글동글 알록달록 동그라미! 무엇이 될까? 짠! 동글동글 알록달록 무늬가 되었네. 뾰족뾰족 알록달록 세모! 무엇이 될까?",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "7077",
+      "srcText": "짠! 뾰족뾰족 알록달록 산이 되었네. 반듯반듯 알록달록 네모! 무엇이 될까? 짠! 반듯반듯 알록달록 성이 되었네.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    }
+  ]
+}

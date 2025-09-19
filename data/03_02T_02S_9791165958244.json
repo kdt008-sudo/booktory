@@ -1,0 +1,62 @@
+﻿{
+  "title": "점, 선, 면 같이 놀자!",
+  "author": "장선혜",
+  "illustrator": "박수지",
+  "isbn": "9791165958244",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "33221",
+      "srcText": "\"어? 넌 또 누구야?\" \"에헴! 나는 상자 모양이야. 네모난 면이 쌓이면 속이 꽉 찬 상자 모양이 생겨.\" \"동그란 면이 쌓이면 둥근기둥 모양이 생기지.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "33222",
+      "srcText": "“다른 모양도 있어?” “응! 이렇게 반달 모양을 빙그르 돌리면 커다란 공 모양이 생겨. 어때? 상자 모양도, 둥근기둥 모양도, 공 모양도 모두 작은 점에서 시작된다니, 정말 신기하지?”",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "33219",
+      "srcText": "\"나는 점이야! 내가 재미있는 거 보여 줄까?\" \"재미있는 거? 좋아! 좋아!\" \"다들 모여 봐! 점이 모이면, 짜잔!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "33218",
+      "srcText": "\"얘들아, 같이 놀자!\" \"우리, 선을 따라 달리기 시합 할까?\" \"응, 좋아! 앞으로 쭉쭉 우아, 신난다!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "33220",
+      "srcText": "\"면이라고?\" \"응, 선이 움직이면 면이 생겨. 내가 바로 면이야.\" 곧은 선이 움직이면 곧은 면! 굽은 선이 움직이면 굽은 면!",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "33216",
+      "srcText": "\"안녕? 나는 선이야! 점이 모이면 내가 생기지. 난 모양이 다른 친구가 아주 많아. 내 친구들을 소개해 줄게.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "33217",
+      "srcText": "쭉쭉 뻗은 곧은 선! 구불구불 굽은 선! 뾰족뾰족 꺾은 선!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    }
+  ]
+}

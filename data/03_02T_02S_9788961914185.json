@@ -1,0 +1,48 @@
+﻿{
+  "title": "숨은 색깔 나와라",
+  "author": "김정희",
+  "illustrator": "국지승",
+  "isbn": "9788961914185",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "한얼교육",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40470",
+      "srcText": "숨었다, 숨었다. 온 세상 온갖 색깔이 캄캄한 어둠 속에 숨었다. 나온다, 나온다. 숨은 색깔 나온다. 반짝반짝 햇빛에 활기차게 나온다.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "40473",
+      "srcText": "오늘도 모인다, 모인다. 가지가지 무지개 빛깔이 모이면 눈부시게 환한 햇빛! 그리고 빛이 온 세상을 비추면. 나온다, 나온다. 온 세상 온갖 색깔 나온다!",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "40472",
+      "srcText": "보인다, 보인다! 온 세상 온갖 색깔로 우리 눈에 보인다! 빨강은 빨간빛만 내보내서 빨갛게 보이고, 노랑은 노란빛만 내보내서 노랗게 보이고, 파랑은 파란빛만 내보내서 파랗게 보인다! 온 세상 온갖 색깔은 무지개 빛깔을 꽁꽁 숨긴 햇빛 덕분에 잘 보인다.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "40471",
+      "srcText": "온 세상 온갖 색깔 속속들이 보여 주는 햇빛. 햇빛 속에는 아무것도 숨지 않았을까? 아니, 아니. 눈부시게 환한 햇빛 속에는 빨주노초파남보 무지개 빛깔이 숨었다. 무지개 빛깔은 햇빛 속에 가만가만 숨었다가.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "40469",
+      "srcText": "칠하자, 칠하자. 크레파스로 알록달록 칠하자. 숨었다, 숨었다. 알록달록 색깔이 까만 크레파스 뒤에 숨었다! 나온다, 나온다. 숨은 색깔 나온다. 쭉쭉 그으니까 재미나게 나온다.",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28
+    }
+  ]
+}

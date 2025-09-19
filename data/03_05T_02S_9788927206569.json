@@ -1,0 +1,62 @@
+﻿{
+  "title": "지키면 모두 안전해요",
+  "author": "꿈바라기",
+  "illustrator": "유혜림",
+  "isbn": "9788927206569",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17408",
+      "srcText": "현준이는 엄마의 말씀대로 창문도 닫고, 안전띠를 꼭 맸어요. 창문 밖 길은 무척 예뻣지요. 어느새 목적지에 도착했어요. “야호, 다 왔다!”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "17409",
+      "srcText": "현준이는 자동차 문을 벌컥 열었어요. 차가 완전히 멈추지도 않았는데 말이에요. “이런, 현준아. 큰일 나려고!”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17410",
+      "srcText": "“차에서 내릴 땐 차가 완전히 멈춘 다음에 내려야 해. 그렇지 않으면 크게 다칠 수가 있단다. 또 한 가지 더!” “차에서 내릴 땐 주변에 다른 차가 없는지, 오토바이나 자전거가 오지 않는지 살피고 내려야 해.” 엄마가 말하자 현준이는 시무룩해졌어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "17407",
+      "srcText": "“어머! 현준아. 그러면 안 돼! 창밖으로 몸을 내밀면 운전에 방해가 되고, 지나가는 차에 부딪힐 수도 있단다.” “그리고 안전띠도 꼭 매야 해. 급하게 정지하게 될 경우에 몸이 앞으로 쏠려서 크게 다칠 수도 있거든.” “네, 엄마.”",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 38
+    },
+    {
+      "srcTextID": "16464",
+      "srcText": "한참을 달리자 현준이는 심심했어요. 그래서 창밖으로 몸을 내밀고 장난을 쳤어요. “누나, 나 좀 봐!”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16465",
+      "srcText": "“휴, 지킬 게 너무 많아요.” “질서를 지키지 않으면 큰 사고가 날 수 있기 때문이지. 목숨을 잃을 수도 있고 말이야. 그러니까 현준이도 꼭 지킬 거지?” “네, 꼭 지킬게요!”",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "17406",
+      "srcText": "현준이네 가족이 나들이 가는 날이에요. 모두들 아침부터 설레는 마음으로 짐을 꾸렸어요. “얘들아, 차에 타자!” 아빠가 외치자 현준이와 누나는 뒷좌석에 올라탔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    }
+  ]
+}

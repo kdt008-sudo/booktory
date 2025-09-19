@@ -1,0 +1,62 @@
+﻿{
+  "title": "호랑이가 나가신다",
+  "author": "김유리",
+  "illustrator": "아람북스",
+  "isbn": "9791197046292",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1658",
+      "srcText": "모두 숨어! 무시무시한 숲속의 왕 호랑이야! 어슬렁어슬렁 돌아다니잖아? 이제 곧 사냥을 시작하려나 봐. 가만! 호랑이가 먹잇감을 본 걸까?  ",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1660",
+      "srcText": "앗! 먹잇감에 가까워지자 호랑이가 달려들 준비를 해! 날렵한 네 다리로 타타타타타탓~! 타타 타타타타타 타타타타타타타 탓~!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1659",
+      "srcText": "바스락바스락, 수풀 속으로 쑥 숨어. 줄무늬 덕분에 감쪽같지? 쉿! 호랑이가 먹잇감을 향해 살금살금 다가가고 있어. 먹잇감은 절대 눈치채지 못할걸.",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1664",
+      "srcText": "휴! 숲속이 다시 평화로워졌어. 호랑이가 친구랑 수영을 하고 있네. 참방참방, 재미있나 봐.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1662",
+      "srcText": "호랑이가 눈 깜짝할 사이 사냥 성공! 우적우적, 잘도 먹는걸. 역시 호랑이는 최고의 사냥꾼이야.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1663",
+      "srcText": "호랑이 발톱 자국을 보았다고? 호랑이 오줌 냄새도 맡았다고? 그럼 빨리빨리 도망쳐! 언제 호랑이가 나타날지 몰라. ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1661",
+      "srcText": "어흥! 뾰족한 발톱으로 먹잇감을 꽉! 길고 날카로운 송곳니로 목덜미를 콱! 호랑이에게 잡히면 절대 빠져나갈 수 없어. ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

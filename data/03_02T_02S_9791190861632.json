@@ -1,0 +1,90 @@
+﻿{
+  "title": "도토리가 툭",
+  "author": "아람북스",
+  "illustrator": "아람북스",
+  "isbn": "9791190861632",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5258",
+      "srcText": "도토리를 먹어 봐. 도토리를 프라이팬에 볶으면 먹을 수 있어. 껍데기를 벗겨서 먹으면 돼.  와, 맛있다.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5260",
+      "srcText": "뿌리가 나와. 그다음엔 싹이 나. 봐, 도토리나무가 새로 태어났어! 지금은 아직 조그맣지만 언젠가 커다란 나무가 되어 도토리를 만들 거야. 많이많이.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5259",
+      "srcText": "숲의 동물들이 모두 도토리를 먹으면 도토리가 다 없어지지 않냐고? 걱정 마, 절대 그런 일은 없어. 까먹기 대장 다람쥐랑 덜렁이 원숭이가 미처 먹지 못한 도토리에서.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5253",
+      "srcText": "나는 돌참나무의 도토리야. 날씬하고 길쭉하지. 나는 상수리나무의 도토리야. 동글동글 잘생겼지? 나는 모밀잣밤나무의 도토리. 모밀잣밤나무에 열리지만, 밤이 아니라 도토리야.  생김새는 조금 다르지만 밤도 도토리의 친구야.",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5254",
+      "srcText": "나는 졸참나무의 도토리야. 졸참나무 물참나무 갈참나무 줄무늬 비늘무늬 보통 모자가 벗겨진 채 떨어져 있어요.  나는 떡갈나무의 도토리야. 토실토실 알찬 도토리. 떡갈나무 삐쭉삐쭉해요. 끝이 톡 튀어나와 있어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "5255",
+      "srcText": "도토리는 종류가 이렇게 많아. 종류가 다른 나무의 열매지만 모두 도토리라고 해. 나는 종가시나무의 도토리야. 모자는 가로 줄무늬, 옷은 세로 줄무늬. 멋쟁이 도토리지. 하나가가시 붉가시나무 쓰쿠바네가시 개가시나무 가시나무 참가시나무 오키나와참가시나무.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "5256",
+      "srcText": "다르게 생긴 도토리도 있어.  열매 모양이 둥그스름해요.  바닥이 넓고 둥글어요. 상수리나무의 도토리 모자에는 갈기 같은 것이 삐쭉삐쭉 나 있어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5257",
+      "srcText": "도토리야, 우리랑 같이 놀자. 응, 좋아. 어? 엄마 얼굴이야? 도토리로 그림을 그려 보자! 이쑤시개를 꽂으면 도토리 팽이 어유, 어지러워. 소꿉놀이 어때, 도토리 맛있어?",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5250",
+      "srcText": "봄에 태어난 아기 도토리 큰 모자를 쓰고 있네. 아유, 귀여워. 따뜻한 햇빛을 듬뿍 받으며 무럭무럭 쑥쑥 자라나서 모자가 점점 작아져서 그만 벗고 싶지만 아직은 안 돼. 몸이 갈색이 되고 가을바람이 “이제 됐어.” 하고 말할 때까진.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "5251",
+      "srcText": "안녕, 난 도토리야. 지금부터 도토리 이야기를 들려줄게. 우리는 봄에 나무 위에서 태어났어.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5252",
+      "srcText": "야호, 가을바람이 “이제 됐어.” 하고 말했어. 자, 간다! 드디어 땅에 내려왔다! 낙엽 위에서 나를 찾아내거든 자세히 살펴봐.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21
+    }
+  ]
+}

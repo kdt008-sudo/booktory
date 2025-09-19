@@ -1,0 +1,90 @@
+﻿{
+  "title": "왈왈이를 찾아라!",
+  "author": "우와조아",
+  "illustrator": "박선용",
+  "isbn": "9788964170120",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "18439",
+      "srcText": "운동장에는 아이들이 놀고 있었어요. \"예들아, 혹시 왈왈이 봤니?\" \"코가 납작한 왈왈이? \"아까 땅에다 코를 대고 킁킁거렸는데.\" \"어! 저기 발자국이 있다.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "18438",
+      "srcText": "송송이는 꽃밭으로 가 보았어요. \"나비야, 혹시 왈왈이 봤니?\" \"아! 왈왈이? 뼈다귀를 묻으러 가던데.\" \"거기가 어디야?\" \"저기, 운동장으로 가봐.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "18727",
+      "srcText": "골목을 돌아서자 복슬 강아지가 왔어요. \" 이거 네 것이지?\" \"낑낑, 그건 왈왈이 것이야.\" \"왈왈이? 어떻게 생겼어?\" \"내 몸보다 작아. 귀는 반쯤 접혀 있어.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "18434",
+      "srcText": "대문 밖에는 아무도 없었어요. 강아지 목걸이만 골목에 떨어져 있었지요. 송송이는 요리조리 살펴보았어요. \"떨어뜨리고 갔나 봐. 그래, 주인을 찾아주자!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "18437",
+      "srcText": "큰길로 가보니 동물병원이 보였어요. \"너네 혹시 왈왈이 봤니?\" \"아! 이마에 줄무늬가 있는 왈왈이?\" \"응!\" \"아까 저쪽으로 갔어.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "18441",
+      "srcText": "\"어? 저기 있다!\" 그런데 모두 똑같이 생긴 강아지였어요. \"누가 왈왈이지?\"",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "18440",
+      "srcText": "송송이는 발자국을 따라가며 중얼거렸지요. \"몸은 요만하고, 귀가 반쯤 접혀 있어.\" \"하얗고, 꼬리가 빙글빙글 말려 있어.\" \"이마에 줄무늬가 있고, 코가 납작해.\" \"참! 앞머리는 묶었지.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "18433",
+      "srcText": "\"왈왈! 왈왈!\" 대문 밖에서 강아지 소리가 들렸어요. \"어? 왜 그러지?\" 송송이는 얼른 대문을 열어보았어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "18435",
+      "srcText": "송송이는 동네 놀이터로 가보았어요. 비둘기는 과자를 쪼아 먹느라 바빴어요. 콕! 콕! 콕콕! \"비둘기야! 왈왈이 봤니?\" \"하얀 강아지? 아까 저쪽 골목길에서 봤어.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "18728",
+      "srcText": "어느 쪽으로 갔을까? 그때 하수구에서 생쥐가 쏙 튀어나왔어요. \"생쥐야! 너 혹시 왈왈이 봤니?\" \"머리 묶은 왈왈이? 아까 꽃밭으로 갔어.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18436",
+      "srcText": "슈퍼 쪽 골목길로 가보았어요. \"고양아! 너 혹시 왈왈이 못 봤니?\" \"그 녀석 꼬리는 봤지.\" \"그래? 어디에 있어?\" \"저쪽! 꼬리가 돼지처럼 돌돌 말려 있었어.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    }
+  ]
+}

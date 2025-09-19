@@ -1,0 +1,69 @@
+﻿{
+  "title": "지하철을 탔어요",
+  "author": "꿈바라기",
+  "illustrator": "최승화",
+  "isbn": "9788927206590",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15601",
+      "srcText": "\"아빠, 다녀오셨어요!\" \"그래, 원준이도 잘 있었니?\" 아빠는 원준이를 번쩍 들어 올렸어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "15600",
+      "srcText": "‘딩동 딩동!’ 아빠가 오셨나 봐요. 벨이 울리자 원준이가 현관문을 열었어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "15605",
+      "srcText": "\"그리고 지하철에 올라타면 뛰거나 장난을 쳐서는 안 돼. 지하철은 덜컹덜컹 움직이기 때문에 장난을 치다가 넘어질 수도 있기 때문이란다.\" \"출입문에 붙어 있는 스티커도 봐 두렴. 문에 기대거나 손대지 말라는 뜻이야. 출입문이 열리고 닫힐 때 옷이 끼거나 손을 다칠 수 있거든.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 42
+    },
+    {
+      "srcTextID": "15602",
+      "srcText": "\"여보, 내일 원준이 데리고 장모님 댁에 갑시다.\" 원준이는 아빠의 말에 신이 났어요. 외갓집에 가면 외사촌들이랑 놀 수 있으니까요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15603",
+      "srcText": "저절로 올라가는 에스컬레이터를 타자 원준이는 신이 났어요. \"야호! 내가 제일 먼저 내려야지!\" 그러자 엄마 아빠가 말했어요. \"이런, 원준이가 지하철 안전 수칙을 잘 모르는구나. 오늘 가면서 잘 알려 주마.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "17717",
+      "srcText": "다음 날 원준이는 엄마 아빠와 외갓집으로 향했어요. \"오늘은 지하철을 이용합시다.\" 원준이는 지하철역 출입구의 에스컬레이터에 도착하자 아빠의 손을 잡고 안전하게 올랐어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "15606",
+      "srcText": "드디어 외갓집이 있는 동네에 도착했어요. 아빠 덕분에 원준이는 안전하게 지하철을 이용했지요. \"아빠, 이제부터 지하철 안전 수칙을 잘 지킬게요.\" \"좋아!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15604",
+      "srcText": "원준이는 아빠 손을 잡고 지하철을 기다렸어요. \"지하철은 많은 사람이 이용하기 때문에 아까처럼 뛰어다니면 안 되는 거야. 그리고 이렇게 줄을 서서 기다렸다가 차례대로 타야 해.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    }
+  ]
+}

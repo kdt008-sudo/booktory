@@ -1,0 +1,48 @@
+﻿{
+  "title": "엄마랑 함께",
+  "author": "찰스 푸지",
+  "illustrator": "찰스 푸지",
+  "isbn": "9791165951894",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5081",
+      "srcText": "휘잉휘잉 거센 바람이 불어도 괜찮아요. 엄마가 내 손을 꼭 잡아 주니까요. 가끔 따뜻한 섬으로 엄마랑 함께 여행 가는 상상을 하기도 해요. 하지만 추운 이곳도 괜찮아요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5080",
+      "srcText": "엄마랑 함께 있으니까요. 난 언제나 엄마랑 함께해요. 엄마랑 함께 여기저기 산책도 다니고, 엄마랑 함께 재미나게 놀기도 해요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5083",
+      "srcText": "잠이 들 때, 난 엄마에게 물어요. “엄마, 우린 언제나 함께 있을거죠?” “그럼그럼! 엄마는 언제나 너와 함께 있을 거야. 잘 자, 우리 아기!”",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5082",
+      "srcText": "엄마랑 함께 있으면 어디든 좋아요. 엄마는 별에 관한 이야기도 들려주어요. 듣고 또 들어도 늘 신기해요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5079",
+      "srcText": "하얀 세상에 아무도 없고, 아무것도 없어요. 온통 하얀 눈이에요. 그래도 난 행복해요. 하얀 눈이 사르르 녹아 사라진대도 난 행복할 거예요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    }
+  ]
+}

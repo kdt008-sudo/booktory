@@ -1,0 +1,76 @@
+﻿{
+  "title": "기침이 콜록콜록!",
+  "author": "꿈바라기",
+  "illustrator": "윤영숙",
+  "isbn": "9788927207030",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15954",
+      "srcText": "“엄마, 죄송해요. 다시는 함부로 약을 먹지 않을게요.” 엄마는 경훈이를 보고 미소 지었어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "15955",
+      "srcText": "경훈이는 다시 의사 선생님께 약을 처방을 받았어요. 그리고 엄마가 주시는 만큼만 꿀꺽! 경훈이는 집으로 오면서 엄마에게 말했어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15945",
+      "srcText": "그런데 한참을 놀고 나니 몸이 오들오들 떨렸어요. 재채기도 나고요. “에취!” 킁킁 오들오들 부르르르.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "15947",
+      "srcText": "집에 돌아온 경훈이는 약상자를 뒤졌어요. 그리고 평소에 먹던 감기약 시럽을 꿀꺽 삼켰지요. “콜록콜록!” 그래도 여전히 춥고 떨렸어요. “아무래도 몇 숟가락 더 먹어야겠다! 많이 먹으면 더 빨리 낫겠지.”",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "15946",
+      "srcText": "아무래도 감기에 걸렸나 봐요. 경훈이는 먼저 집으로 돌아갔어요. “얘들아, 나 먼저 갈게!”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "15943",
+      "srcText": "펑펑 함박눈이 내리는 날이에요. 경훈이는 친구들과 함께 눈싸움을 했어요. “이얍! 이얍!” 그리고 눈을 데굴데굴 굴려서, 커다란 눈사람도 만들었어요. 코도 삐뚤, 입도 삐뚤!",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "15949",
+      "srcText": "경훈이가 식은땀을 흘리며 끙끙 앓고 있었거든요. “어머! 얘가 왜 이러지.” 엄마는 경훈이를 안고 급히 병원에 갔어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "15950",
+      "srcText": "경훈이는 감기약 시럽을 여러 번 먹었어요. 그러고는 졸려서 이불 속에 들어가 잠을 잤지요. 한참 뒤, 엄마는 깜짝 놀랐어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15953",
+      "srcText": "의사 선생님이 진찰을 하더니 경훈이에게 물었어요. “이런, 혹시 감기약 시럽을 많이 먹었니?” “네, 너무 춥고 기침이 나와서요.” “약은 엄마의 허락을 받거나, 병원에서 처방을 받아서 먹어야 한단다. 큰일 날 뻔했어.”",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+﻿{
+  "title": "숲 속으로 놀러갔어요 ",
+  "author": "우와조아",
+  "illustrator": "지민규",
+  "isbn": "9788993877878",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15796",
+      "srcText": "\"나는 풀씨를 주울 거야.\" 개미의 말에 쇠똥구리가 물었어요. \"그렇게 작은 걸로 뭘 하게?\" \"추운 겨울에 냠냠 먹을 거야.\" 개미는 풀밭으로 가버렸지요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "15798",
+      "srcText": "귀뚜라미는 빨간 잎을 모았어요. \"나는 빨간색이 좋더라.\" \"영차영차! 아이, 힘들어.\" 커다란 감잎을 옮기느라고 얼굴이 빨개졌어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15800",
+      "srcText": "선생님이 부는 호루라기 소리가 들렸어요. \"모두 주운 것을 가지고 모이세요.\" 개미는 풀씨를 물고 갔어요. 쇠똥구리는 도토리를 굴리며 갔지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15803",
+      "srcText": "\"모아 온 것으로 무엇을 할까요?\" 모두들 생각하고 생각했어요. 풀씨는 눈, 도토리는 코. 잎과 열매는 몸, 이건 치마. 우와! 멋진 사람이 되었어요!",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "15795",
+      "srcText": "톡! 알밤이 떨어졌어요. \"아얏! 누가 내 머리 때렸어?\" 쇠똥구리 머리에 혹이 생겼어요. \"약 오르지. 메롱!\" 밤나무가 내려다보며 놀렸어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "15801",
+      "srcText": "\"귀뚜라미는 어디 있지?\" 선생님은 이리저리 둘러보았어요. \"선생님, 저 여기 있어요.\" 귀뚜라미는 감잎을 등에 지고 왔지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15794",
+      "srcText": "팔랑 팔랑 팔랑! 꽃비처럼 단풍잎이 떨어졌어요. 토실토실! 곡식들이 알알이 여물었어요. 빨강, 노랑, 보라, 갈색의 단풍잎! 숲길을 꽃무늬로 수놓았어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "15802",
+      "srcText": "스르륵 스르륵! \"어? 풍뎅이가 잎을 한 줄로 끌고 오네.\" 친구들은 깜짝 놀라며 소리쳤지요. \"거미줄로 엮어서 오는 거야.\" 풍뎅이는 날개를 퍼덕거리며 으스댔지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "15799",
+      "srcText": "풍뎅이는 알록달록 잎을 찾았어요. \"나는 알록달록 잎만 주울 거야.\" \"왜?\" 귀뚜라미가 궁금한 듯 물었어요. \"여러 가지 색이 더 곱잖아.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15792",
+      "srcText": "랄랄랄 랄랄라! 곤충들의 가을 소풍날이 되었어요. 뒤뚱뒤뚱 사슴벌레 선생님 따라 개미, 풍뎅이, 쇠똥구리, 귀뚜라미가 다 함께 노래 부르며 따라갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "15793",
+      "srcText": "살랑살랑 가을 바람이 불었어요. 짹짹! 재잘재잘! 참새들이 허수아비 어깨 위에 앉아 떠들었어요. 찌륵찌륵, 찌르르르! 풀벌레는 즐겁게 노래를 불렀어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    }
+  ]
+}

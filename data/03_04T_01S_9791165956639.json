@@ -1,0 +1,132 @@
+﻿{
+  "title": "곰 인형을 구하러 출동!",
+  "author": "티에리 로베레흐트",
+  "illustrator": "데이비드 비 드래퍼",
+  "isbn": "9791165956639",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5478",
+      "srcText": "“이런, 팔이 홀쭉해졌네요. 구름 병동에 가서 치료해 줄게요.” 구름 병동은 병원 꼭대기에 있었어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5479",
+      "srcText": "구급대원들이 러비를 조심조심 구급차에 태웠어요. 삐뽀삐뽀! 구급차는 사이렌을 울리며, 곰 인형 병원으로 달렸어요. 곰 인형 병원에 도착하니, 의사가 러비를 다정하게 맞아 주었어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5480",
+      "srcText": "의사들은 잠자리채로 보송보송한 구름을 한가득 잡았어요. 그런 다음, 러비의 팔에 구름을 꼭꼭 채워 주었어요. 러비의 팔은 다시 통통해졌어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5473",
+      "srcText": "“어디로 가야 하지?” 러비는 오도카니 앉아서 두리번거렸어요. 그러다 누군가의 발에 부딪혀 툭 넘어졌어요. “아야!” 그 바람에 러비의 팔이 찢어졌어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5474",
+      "srcText": "부슬부슬 비 내리는 저녁이에요. 곰 인형 러비가 혼자 거리를 헤매고 있어요. 언제나 토미 품에 꼭 안겨 있었는데, 토미는 어디 가고 혼자일까요?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5477",
+      "srcText": "37번가에 구급차가 도착했어요. 구급대원은 러비를 도우러 서둘러 내렸어요. “오른쪽 팔을 다쳤어요!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "5492",
+      "srcText": "“드디어 토미가 잠이 들었나 봐요.” 엄마가 속삭였어요. “아함! 이제 우리도 잘까요?” 아빠는 금세 코를 골며 잠이 들었어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5493",
+      "srcText": "러비는 토미의 방으로 살금살금 걸어갔어요. 고양이와 생쥐가 함께 힘을 모아 러비를 토미의 침대 위로 올려 주었어요. “러비야, 어디 갔었어? 이제 아무 데도 가지 마!” 토미가 러비를 꼭 안았어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5475",
+      "srcText": "37번가로 구급차를 보내 주세요! “여기는 곰 인형 구조 본부!” “서둘러 구급차를 보낼게요!”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "5476",
+      "srcText": "거리를 순찰하던 곰 인형 구조대가 러비를 발견했어요. “여기는 곰 인형 구조대!” 팔을 다친 곰 인형이 있어요!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5490",
+      "srcText": "빨간 자동차가 좁은 길을 달리고 있을 때, 러비가 다급하게 소리쳤어요. “토미예요! 토미의 울음소리가 들려요!” 빨간 자동차는 까만 문 앞에 멈췄어요. “드디어 토미의 집을 찾았네요.” 구조대원이 기뻐하며 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5481",
+      "srcText": "“벌써 내 팔이 다 나은 것 같아요.” 러비가 말했어요. “조금 더 치료해야 해요.” “별똥별에서 뽑은 부드러운 실로 안 아프게 꿰매 줄게요.”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5486",
+      "srcText": "그런데 토미가 어디에 사는지 모르겠어요. 러비는 슬픈 표정으로 말했어요. “걱정하지 마세요. 곰 인형 구조대가 찾아 줄 거예요.” 의사가 말했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5487",
+      "srcText": "러비의 팔은 다 나았어요. 하지만 마음은 아직도 아팠어요. 토미가 보고 싶어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5491",
+      "srcText": "러비와 구조대원들은 토미의 집으로 들어갔어요. “쉿! 고양이가 있어요!” 구조대원이 조용히 말했어요. 고양이가 러비를 보고 무척 반가워했어요. “러비야, 어디 갔었냐옹? 네가 없으니 토미가 잠이 오지 않는다고 울고 있다냐옹.”",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5489",
+      "srcText": "“토미의 울음소리가 들리나요?” 구조대원이 물었어요. “아니요. 이 마을이 아닌가 봐요.” 빨간 자동차는 다른 마을을 향해 부릉부릉 달렸어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5488",
+      "srcText": "어느새 깜깜한 밤이 되었어요. 러비는 헤드폰을 쓰고 빨간 자동차에 올라탔어요. 빨간 자동차는 토미를 찾으러 마을 여기저기를 부릉부릉 달렸어요. 이따금 헤드폰에서 아이들의 울음소리가 들렸어요. “으앙! 내 곰 인형이 없어졌어!”",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32
+    }
+  ]
+}

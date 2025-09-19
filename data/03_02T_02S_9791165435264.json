@@ -1,0 +1,34 @@
+﻿{
+  "title": "씨앗아 멀리멀리 퍼져라",
+  "author": "김인숙",
+  "illustrator": "전지은",
+  "isbn": "9791165435264",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1210",
+      "srcText": "어느새 꽃이 시들고, 꽃이 시든 자리에 단단한 씨앗이 맺혔어. 꽃마다 가득가득 여러 모습의 씨앗을 만들었지. 이다음에 더 많은 꽃들을 피워 내려는 거야.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1211",
+      "srcText": "어유, 추워! 이 추위만 잘 견디면 돼. 열심히 먹이를 모아 두었으니 이번 겨울도 문제없어. 어디 갔지? 분명히 이 근처에 숨겨 놨는데. ",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "1212",
+      "srcText": "청설모에게 들키지 말아야 하는데. 나도 예쁜 꽃을 피우고 싶은데. 제발 나를 밟지 말아 줘. ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿{
+  "title": "위험한 공기놀이",
+  "author": "꿈바라기",
+  "illustrator": "유이안",
+  "isbn": "9788927206637",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16556",
+      "srcText": "현주와 세빈이는 동네를 여기저기 돌아다니며 공기놀이를 할 만한 곳을 찾아다녔어요. 그때 주차장이 눈에 띄었어요. \"저기 자동차 뒤에서 하면 되겠다!\" \"좋아!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16559",
+      "srcText": "현주와 세빈이는 놀라서 가슴이 콩닥거렸어요. “얘들아, 정말 큰일 날 뻔했구나! 주차된 차 뒤에서 놀면 정말 위험하단다.” 아저씨는 현주와 세빈이를 안전한 곳으로 데려다 주기로 했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "16555",
+      "srcText": "동네 골목길에서 현주와 세빈이가 만났어요. \"우리 공기놀이하자!\" 현주의 손에는 알록달록 예쁜 공기가 들려 있었지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16557",
+      "srcText": "현주와 세빈이는 자동차 뒤 작은 공터에서 공기놀이를 했어요. “이번에는 내 차례야. 이얍!” 앗! 그런데 갑자기 자동차가 ‘부릉!’ 하고 시동이 걸리더니 뿌연 연기가 얼굴에 쏟아졌어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "16558",
+      "srcText": "그러고는 곧 현주와 세빈이를 향해 후진을 하기 시작했지요. “으악! 빨리 피하자!” 현주와 세빈이를 본 아저씨는 깜짝 놀라 차 밖으로 뛰어나왔어요. “얘들아, 다친 데는 없니?”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "16560",
+      "srcText": "\"여기서 노는 건 위험하니, 아저씨가 놀 만한 곳을 찾아봐 줄게.\" \"저기 공원이 좋겠다. 놀이터나 공원, 학교 운동장에는 차가 없으니 너희가 놀기 좋을 거야.\" \"감사합니다. 아저씨!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    }
+  ]
+}

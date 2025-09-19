@@ -1,0 +1,76 @@
+﻿{
+  "title": "블록 성에 놀러 오세요",
+  "author": "권은경",
+  "illustrator": "김선진",
+  "isbn": "9791165437459",
+  "readAge": "초등_저학년",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2916",
+      "srcText": "빨강, 노랑, 파랑, 세모, 네모, 동그라미. 나무로 만든 블록이에요. 이 블록으로 무얼 만들까요?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "2924",
+      "srcText": "나는야, 꼬마 건축가! 커다랗고 멋진 성이 완성되어요. 튼튼하고 예쁜 블록 성에 놀러 오세요.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "2923",
+      "srcText": "네모 블록을 넓게 쌓고, 그 위에 반듯반듯 높이 쌓으니 거대한 빌딩 완성! 높은 빌딩 위에서 내려다볼까? 이번에는 나만의 성을 만들어 볼까요? 높이높이 착착착. 차곡차곡 척척척. 쌓고 올리고, 쌓고 올리고!",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "2921",
+      "srcText": "멋진 기둥들이 우뚝 솟은 그리스의 옛날 신전도 만들 수 있어요. 길쭉길쭉한 블록으로 기둥을 만들어요. 기우뚱기우뚱 조심조심. 어떡해, 우당탕 무너져 버려요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "2918",
+      "srcText": "네모를 차곡차곡 쌓아 동그라미를 올리면 짠, 사람이 되어요! 블록으로 세계의 유명한 건축물도 만들 수 있어요. 단단한 돌을 쌓아 세운 우리나라 돌탑을 만들어 볼까요? ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "2922",
+      "srcText": "둥근 블록으로 기둥들을 만들고, 네모 블록으로 지붕을 만들면 멋진 신전 완성! 신전 지붕 위에 올라가 볼까? 반듯한 네모 블록을 위로 높이높이 쌓아요. 하늘 높이 우뚝 솟은 미국의 유명한 빌딩도 만들어요. 아슬아슬 조심조심. 앗, 우르르 무너져 버려요.",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 41
+    },
+    {
+      "srcTextID": "2919",
+      "srcText": "네모, 세모 블록을  높이높이 쌓아요. 흔들흔들 조심조심. 어이쿠, 와르르 무너져 버려요.큰 네모 위에 작은 네모, 아래부터 하나둘 차곡차곡 올려 쌓으니 튼튼한 탑 완성! 탑을 따라 빙글빙글 돌아 볼까?",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "2920",
+      "srcText": "이번에는 양쪽 탑에 두 개의 다리로 연결된 영국의 멋진 다리를 만들어 볼까요? 아슬아슬 조심조심. 어랏, 우르르 무너져 버려요. 두 개의 기둥을 양쪽에 차곡차곡 쌓고, 기다란 네모 판을 올리니 안전한 다리 완성! 어디 한번 다리를 건너 볼까?",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "2917",
+      "srcText": "블록으로 만드는 건 간단해요. 네모 위에 세모 블록을 얹으면 집! 동그라미 위에 세모를 얹으면 나무!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿{
+  "title": "짝, 짝, 짝을 찾아요!",
+  "author": "유가은",
+  "illustrator": "유한숙",
+  "isbn": "9791157595235",
+  "readAge": "초등_저학년",
+  "publishedYear": 2016,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41812",
+      "srcText": "새로운 친구들이 복작복작! 또 한번 짝을 찾아볼까요? 얼룩말을 닮은 엄마 구두, 잃어버린 짝을 찾아요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "41813",
+      "srcText": "저기 짝이 있어요! 또각또각, 집으로 돌아가요. 짝을 찾아 나란히 신발장에 넣어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "41817",
+      "srcText": "신발들의 짝을 찾아 주어요. 배를 닮은 아빠 구두, 얼룩말을 닮은 엄마 구두, 소방차를 닮은 언니 운동화, 기차를 닮은 내 장화가 뒤죽박죽 섞여 있어요. 모양이 같은 신발끼리 짝을 찾아 신발장에 넣어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "41810",
+      "srcText": "“어머나, 신발들이 소풍을 왔구나! 이제 집으로 돌아갈 시간인걸?” “제가 데려다줄게요, 엄마.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "41814",
+      "srcText": "소방차를 닮은 언니 운동화, 잃어버린 짝을 찾아요. 저기 짝이 있어요! 삐뽀삐뽀, 집으로 돌아가요. 짝을 찾아 나란히 신발장에 넣어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "41811",
+      "srcText": "배를 닮은 아빠 구두, 잃어버린 짝을 찾아요. 저기 짝이 있어요! 뚜우뚜우, 집으로 돌아가요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "41815",
+      "srcText": "기차를 닮은 내 장화도 짝을 찾았어요! 칙칙폭폭, 집으로 돌아가요. 짝을 찾아 나란히 신발장에 넣어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "title": "돼지는 그래도 되지",
+  "author": "지혜",
+  "illustrator": "아람북스",
+  "isbn": "9791197046247",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1278",
+      "srcText": "오줌이 마려운데, 아무 데나 누어도 되지? 안 돼. 그건 안 되지. 정해진 곳에 똥오줌을 누어야 돼지지.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1276",
+      "srcText": "간지러운데, 진흙탕에서 데굴데굴 굴러도 되지? 되지. 진흙탕에서 구르면 열도 식히고 벌레도 잡을 수 있지. 꿀꿀, 아이 시원해! ",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "1275",
+      "srcText": "기분 좋은데, 돌돌 말린 꼬리 쭉 펴도 되지? 되지. 네 꼬리인데 마음대로 해. 먹었더니 기분 좋아! ",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1273",
+      "srcText": "킁킁. 땅에서 냄새나는데, 땅을 파도 되지? 되지. 냄새로 땅속 벌레를 찾으니 땅을 파도 되지. 땅속에 맛있는 벌레가 숨어 있거든.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1277",
+      "srcText": "심심한데, 저 언덕까지 후다닥 뛰어도 되지? 되지. 발굽이 단단하니까 날쌔게 달려도 되지. 나 잡아 봐라. ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    }
+  ]
+}

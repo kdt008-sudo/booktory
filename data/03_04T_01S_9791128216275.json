@@ -1,0 +1,41 @@
+﻿{
+  "title": "창문을 열어 보니",
+  "author": "이선아",
+  "illustrator": "문구선",
+  "isbn": "9791128216275",
+  "readAge": "유아",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4614",
+      "srcText": "쫑긋쫑긋, 무슨 소리지? 창문을 열어 보니. 사각사각 수박 먹는 소리예요. 창문 너머로 여름이 왔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "4611",
+      "srcText": "발름발름, 무슨 냄새지? 창문을 열어 보니. 향긋한 라일락 냄새예요. 창문 너머로 봄이 왔어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "4615",
+      "srcText": "킁킁 킁킁, 이건 또 무슨 냄새지? 창문을 열어 보니. 달콤한 사과 냄새예요. 창문 너머로 가을이 왔어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "4616",
+      "srcText": "왁자지껄, 이건 또 무슨 소리야? 창문을 열어 보니. 와글와글 눈싸움 하는 소리예요. 창문 너머로 겨울이 왔어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    }
+  ]
+}

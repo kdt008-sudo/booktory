@@ -1,0 +1,125 @@
+﻿{
+  "title": "쿠쿠와 보물 지도 ",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788964170281",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17130",
+      "srcText": "먼저 온 올빼미가 날개를 툭툭 털고 있었어요. \"앗! 올빼미 아저씨 맞죠?\" 쿠쿠가 드디어 올빼미 아저씨를 만났어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17131",
+      "srcText": "쿠쿠는 팅거의 도움으로 강을 건넜어요. 강 건너편에 도착하자 후두둑 비가 내렸지요. 쿠쿠는 허둥지둥 나무 구멍으로 들어갔어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17936",
+      "srcText": "마침 눈앞에 당근 밭이 보였지요. \"와! 싱싱한 당근이잖아!\" 쿠쿠는 야금야금 당근을 먹어치웠어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17937",
+      "srcText": "쿠쿠는 다시 길을 떠났어요. 꿀벌을 만나려면 땅 위로 나가야 했지요. 쿠쿠는 슬슬 배가 고팠어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17127",
+      "srcText": "보물을 찾지 못한 쿠쿠는 어깨가 축 처져서 강으로 갔어요. 하지만 물이 많아서 건너갈 수 없었어요. 쿠쿠는 어떻게 해야 할지 깜깜했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17090",
+      "srcText": "쿠쿠는 길을 떠나야겠다고 결심했어요. 나침반과 전등을 준비했지요. 물에 젖지 않게 우비도 챙겨 입었어요. 쿠쿠는 가방에 짐을 넣으며 생각했어요. '보석과 맛있는 음식이 가득할거야. 분명해!'",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "17089",
+      "srcText": "느티나무 밑에 두더지 쿠쿠가 살았어요. 어느 날, 쿠쿠의 집에 친구 푸푸가 찾아왔어요. \"내가 가져온 걸 보면 깜짝 놀랄걸?\" 푸푸는 베시시 웃으며 지도를 내밀었어요. 세상에! 그건 보물지도였지 뭐예요?",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "17124",
+      "srcText": "쿠쿠는 땅 위로 나왔어요. 보리 물결이 눈앞에 펼쳐져 있었지요. 쿠쿠는 눈이 부셔서 선글라스를 썼어요. \"이렇게 멋있는 구경은 처음인걸!\" 쿠쿠는 다시 꿀벌을 찾아 걸어가기 시작했어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "17935",
+      "srcText": "일개미는 쿠쿠를 방으로 안내했어요. 푹신푹신 소파에 앉아 코코아를 마셨지요. 쿠쿠는 일개미에게 보물지도를 보여 주었어요. \"여기가 어딘지 아니?\" \"글쎄, 여왕님이라면 아실지도 몰라.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "17093",
+      "srcText": "쿠쿠는 꼬불꼬불 길을 따라 여왕개미에게 갔어요. 여왕개미는 지도를 보고 고개를 갸웃했어요. 여섯 개의 발이 쉴 새 없이 움직였지요. \"나도 잘 모르겠는데? 꿀벌에게 물어볼래?\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "17128",
+      "srcText": "\"강을 건너가야 하는데 방법이 없어서 그래.\" 팅거는 날개를 퍼덕거리며 말했어요. \"내가 강 건너로 데려가 줄게.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17129",
+      "srcText": "시무룩하게 앉아있는데 까마귀가 다가왔어요. \"깍깍! 난 팅거야. 왜 그렇게 슬퍼하고 있니?\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "17934",
+      "srcText": "쿠쿠는 앞발로 땅을 파기 시작했어요. 왜냐하면 쿠쿠는 두더지이기 때문이에요. 지도를 따라간 쿠쿠는 환한 빛을 보았어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "17132",
+      "srcText": "\"이 길로 쭉 따라가면 바로 그곳이란다.\" 올빼미 아저씨가 알려준 길로 가자 느티나무가 보였어요. 보물이 있는 곳은 빙빙 돌아 쿠쿠의 집으로 가는 길이었어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "17133",
+      "srcText": "비가 그치자 올빼미 아저씨는 지도를 자세히 보았어요. 그리고 생각난 듯 환한 표정이 되었지요. \"아, 여기! 기억났구나. 아주 멋진 곳이지.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17126",
+      "srcText": "한참 걷다 보니 꽃향기가 났어요. 꿀벌들이 부지런히 돌아다니고 있었고요. \"안녕? 혹시 여기가 어딘지 아니?\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

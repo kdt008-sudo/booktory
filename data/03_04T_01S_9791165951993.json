@@ -1,0 +1,104 @@
+﻿{
+  "title": "기린아, 무얼 그릴까?",
+  "author": "커스티 팩스턴",
+  "illustrator": "메간 뢰터",
+  "isbn": "9791165951993",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 13,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5213",
+      "srcText": "투덜이 기린도, 반짝반짝 별도, 밝은 해도, 키 큰 나무도 몽땅 지울래. 잠이 안 와! 자꾸자꾸 내 그림이 생각나. 괜히 지웠나 봐. 열심히 그린 그림인데.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5220",
+      "srcText": "이제 헤어질 시간이네. 잘 가, 내 기린아! “잘 있어. 넌 진짜 멋진 화가야!”",
+      "srcPage": 19,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5211",
+      "srcText": "아하! 밝은 해를 그리면 되겠다. 이제 안 어둡지? “너무 밝아서 눈을 못 뜨겠어.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5214",
+      "srcText": "야호! 아침이다. 다시 그림을 그려 볼까? 둥글둥글 해도 그리고, 반짝반짝 별도 그리고. 파릇파릇 나무랑 폭신폭신 풀밭도 그리고, 길쭉길쭉 기린도 그려야지.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5212",
+      "srcText": "흥! 이제 그림 안 그릴래. 기린이 불평만 하니까 속상해. 투덜이 기린은 싫어.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5209",
+      "srcText": "“아함!” 기린이 졸린가 봐. 폭신폭신 풀밭이랑 반짝반짝 별들을 그려 줄게. 기린아, 잘 자!",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5218",
+      "srcText": "코뿔소와 코끼리, 악어도 쓱쓱! 이제 다 됐지? “아니, 빠진 게 하나 있어. 내가 그릴래.”",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5215",
+      "srcText": "“또 만났네?” 응, 어제 일은 미안해. “괜찮아, 내 위에 올라타 봐.” 우아! 기린 목은 정말 길구나. 하지만 난 나무 타기 선수니까 올라갈 수 있어.",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5216",
+      "srcText": "후유, 다 올라왔다. 아래를 내려다볼까? 별도 있고, 해도 있고, 나무랑 풀밭 그리고. 아하! 기린아, 너 친구가 필요했구나.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5208",
+      "srcText": "무얼 그릴까? 그래, 키가 큰 기린을 그리자. “아, 배고파!” 어? 기린이 말을 하네. 나뭇잎이 달린 키 큰 나무를 그려 줄게. 기린아, 많이 먹어.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5219",
+      "srcText": "어머! 너랑 똑 닮은 기린을 그렸구나. 기린아, 잠깐만! 네 목에 작은 점 하나를 그려 둘래. 나만 알아볼 수 있게.",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5217",
+      "srcText": "우리 함께 그리자. 기린은 뱀이랑 치타랑 얼룩말을 쓱쓱! 난 사슴이랑 표범이랑 사향고양이를 쓱쓱!",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5210",
+      "srcText": "“아, 잠을 못 자겠어!” 기린아, 왜 그래? “여긴 너무 어두워!” 무얼 그려 줄까?",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    }
+  ]
+}

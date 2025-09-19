@@ -1,0 +1,132 @@
+﻿{
+  "title": "뿡, 뿌지직, 쏴아!",
+  "author": "이경혜",
+  "illustrator": "김소영",
+  "isbn": "9791165435141",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "948",
+      "srcText": "우리 몸에서 나오는 게 다 찌꺼기는 아니에요. 입 안에서 나오는 침은 음식물이 잘 섞이게 도와줘요. 입 속을 촉촉하게 하고 음식물을 쉽게 삼키게 하면서 입 속에 들어온 나쁜 균들도 없애 주지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "949",
+      "srcText": "침은 침샘에서 나와요. 입 안에 여러 개가 있지요. 침이 나오지 않으면 소화도 잘 안돼요. 그러니까 침도 잘 나와야 돼요. 질질! ",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "955",
+      "srcText": " 엄마가 귀를 살살 파 주면 졸음이 소르르 오지요? 귀에 생기는 때와 먼지 등이 섞여 만들어지는 게 귀지예요.  귀지는 세균이 귓속에 들어오는 것을 막아 주기도 해요. 더럽지만 고마운 귀지! 알고 보면 귀지도 꼭 필요하지요?",
+      "srcPage": 16,
+      "srcSentenceEA": 5,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "946",
+      "srcText": "여름이면 땀이 송글송글 맺혀요. 땀도 오줌과 비슷해요. 몸속의 물 찌꺼기를 싹 쓸어 담아 나온답니다. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "947",
+      "srcText": "우리 몸이 너무 더워지는 걸 막아 주기도 하고요. 땀은 땀샘에서  나와요.땀샘은 셀 수 없이 많지요. 땀을 흘리지 못하면 우리 몸은 너무 뜨거워져요. 그러니까 땀을 잘 흘려야 돼요. 뻘~뻘! ",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "938",
+      "srcText": "뿡! 이게 무슨 소리죠? 그래요. 바로 방귀가 나오는 소리예요. 여러분 방귀 소리는 뿡이 아니라 뽕이라고요?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "953",
+      "srcText": "더럽지만 고마운 콧물! 알고 보면 콧물도 꼭 필요하지요. 콧물은 콧구멍에서 나오죠. 감기에 걸리면 콧물이 줄줄 흘러요. 감기를 일으키는 바이러스나 나쁜 세균이 들어오면 이 세균과 싸우느라고 콧물이 줄줄 흐르는 거예요.",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "943",
+      "srcText": " 내 오줌은 쪼르르 나오는데! 나는 오줌을 쫄쫄 눠! 내 동생은 밤마다 이불에 지도를 그려. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "944",
+      "srcText": "쏴아! 이게 무슨 소리죠? 그래요. 바로 오줌이 나오는 소리예요. 여러분 오줌은 쏴아가 아니라 졸졸졸이라고요?",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "945",
+      "srcText": "우리 몸속 찌꺼기 중에서 물로 된 찌꺼기가 오줌이에요.오줌이 어디에서 나오는지는 다 알죠? 오줌은 (빈칸) 에서 나와요.오줌을 누지 못하면 우리 몸엔 물 찌꺼기가 가득 차겠죠? 그러니까 오줌을 잘 누어야 돼요. 쉬~이! ",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 36
+    },
+    {
+      "srcTextID": "950",
+      "srcText": "슬플 때면 우리는 엉엉 울어요. 그럴 때 흐르는 눈물은 우리 몸을 도와주지요. 눈물을 흘리면 마음이 개운하거든요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "951",
+      "srcText": "양파처럼 매운 냄새가 눈동자에 닿거나 먼지가 눈에 들어올 때도 눈물이 나와 씻어 주지요. 눈물은 눈물샘에서 나와요. 눈꺼풀 위쪽에 있지요. 눈물이 나오지 않으면 슬플 때도 울 수 없겠죠? 그러니까 눈물도 잘 나와야 돼요. 펑펑!",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 38
+    },
+    {
+      "srcTextID": "954",
+      "srcText": "콧속에는 코딱지가 진득진득 생겨요. 코안에는 코털이 있어요. 지저분한 먼지랑 콧물이 코털에 엉겨서 굳어진 게 코딱지예요. 더럽지만 고마운 코딱지! 알고 보면 코딱지도 꼭 필요하지요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "952",
+      "srcText": "눈병에 걸리면 눈에 눈곱이 덕지덕지 끼지요. 눈에 나쁜 균이나 먼지가 들어오면 그것들과 싸우다가 만들어지는 게 눈곱이에요. 더럽지만 고마운 눈곱! 알고 보면 눈곱도 꼭 필요하지요. ",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "942",
+      "srcText": "우리가 냠냠 맛있게 먹은 음식에서 영양분을 빼낸 찌꺼기가 똥이랍니다.똥은 방귀처럼(빈칸)에서 나와요. 똥을 누지 못하면 우리 몸엔 찌꺼기가 가득 차겠죠? 그러니까 똥을 잘 누어야 돼요. 끄~응! 끄~응!",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "940",
+      "srcText": "내 똥은 좌르르하고 나와! 나는 끙끙 똥을 누는데! 내 똥은 변기에 똥똥 하면서 떨어져.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "941",
+      "srcText": "뿌지직! 이게 무슨 소리죠? 그래요, 바로 똥이 나오는 소리예요. 여러분 똥은 뿌지직이 아니라 푸지직이라고요?",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    }
+  ]
+}

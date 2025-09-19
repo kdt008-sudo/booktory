@@ -1,0 +1,48 @@
+﻿{
+  "title": "아빠는 힘센 고릴라",
+  "author": "장선혜",
+  "illustrator": "곽성화",
+  "isbn": "9791165435509",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14495",
+      "srcText": "그래도 안 일어나면. 아빠 위로 올라가면 돼. 아빠 몸은 울퉁불퉁한 침대! 나도 한숨 자야지. 아함, 잘 잤다!",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "14497",
+      "srcText": "그래도 눈을 안 뜨면. 아빠 앞으로 가면 돼. 아빠 얼굴은 아프리카 밀림! 까끌까끌 고슴도치와 신나게 놀 수 있지.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "14496",
+      "srcText": "그래도 안 일어나면. 아빠 아래로 쏘옥 들어가면 돼. 아빠 몸은 알리바바 동굴! 동굴 속에 쏘옥 숨었다가 뱀처럼 스르르 빠져나갈 수도 있어.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "14498",
+      "srcText": "우아, 아빠 눈이 반짝! 이제 아빠 뒤에 서기만 하면 돼. 아빠는 힘센 고릴라! 나는 아빠 등에 매달린 아기 고릴라!",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "14494",
+      "srcText": "아빠 몸은 커다란 북이 되지. 둥둥둥, 둥둥둥! 요요요요, 요요요요!",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    }
+  ]
+}

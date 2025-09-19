@@ -1,0 +1,69 @@
+﻿{
+  "title": "누가 딸기를 만들었을까?",
+  "author": "김인숙",
+  "illustrator": "손경미",
+  "isbn": "9791190861144",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1346",
+      "srcText": "어머, 어머! 무슨 소리. 바로 나, 딸기꽃! 내가 만들었다고! 하얀 꽃잎 가운데 불룩한 꽃받침이 보이지? 바로 그게 부풀어서 딸기가 되는 거야. ",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "1347",
+      "srcText": "하얀 꽃잎이 주로 다섯 장인 딸기꽃 . 꽃잎이 떨어지면 꽃받침만 남아. 꽃받침이 영양분을 먹고 점점 부풀어. 살이 통통하게 올라 딸기 열매가 되었지? ",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1344",
+      "srcText": "어, 무슨 소리? 바로 나, 딸기잎! 내가 만들었다고! 잎자루 끝에 모여 난 작은 잎 세 장이 햇빛을 받아야 딸기가 열리는 거야. 그러니 내가 만들었지. ",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1345",
+      "srcText": "허허, 무슨 소리. 바로 나, 딸기 줄기! 내가 만들었어. 내가 있는 힘껏 땅바닥을 기어가서 새 뿌리도 내리고, 새잎도 나게 한 거라고. 그러니 내가 만들었지. ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1342",
+      "srcText": "내가 만들었지. 씨가 있어야 열매가 나오는 거 아니겠어? 그러니 내가 만들었지.  딸기 겉에 박혀 있는 깨알 같은 것들이 모두 딸기씨예요. ",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1343",
+      "srcText": "우아, 내가 제일 좋아하는 딸기케이크! 한입 베어 물면 새콤달콤 맛있는 딸기는 누가 만들었을까? 바로 나, 딸기씨!",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1348",
+      "srcText": "이런, 이런. 무슨 소리! 바로 나, 벌! 내가 만들었지. 내가 꽃가루를 옮겨 줬기 때문에 열매가 열린 거야. 그러니 내가 만들었지. ",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "1349",
+      "srcText": "쉿, 다들 조용! 누구 덕분인지 무슨 상관이야. 난 이렇게 새빨갛고 예쁜 딸기인데. ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    }
+  ]
+}

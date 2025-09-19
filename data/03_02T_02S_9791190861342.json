@@ -1,0 +1,90 @@
+﻿{
+  "title": "수달아, 놀자!",
+  "author": "김경수",
+  "illustrator": "아람북스",
+  "isbn": "9791190861342",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1586",
+      "srcText": "그런데 수달아, 나랑 안 놀 거야? 수달은 물속에서 5분 동안 잠수하며 사냥을 해요. 수달의 콧구멍과 주름 가죽으로 덮인 귀는 물속에 들어가면 저절로 닫혀서 물이 들어가지 않아요. ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1587",
+      "srcText": "콱! 수달이 물속으로 쑥 들어가더니 물고기를 잡았어. 팔딱이는 물고기를 이빨로 콱! 수달은 멋진 사냥꾼이야.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1590",
+      "srcText": "달은 비탈진 곳에서 미끄럼을 타며 놀아요. 또 이리저리 뒹굴며 털이 엉키지 않게 가지런히 고르기도 하지요. 주르륵 주르륵 , 미끄럼타기 ! ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1591",
+      "srcText": "배도 부르고, 털도 말렸으니 이젠 뒹굴뒹굴 노는 거야? 우아, 재미있겠다. 수달아, 나도 같이 할래. 데 굴 데 굴 데 구루루, 맘껏 구르기!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "1592",
+      "srcText": "수달아, 자려고 누운 거야? 아이참, 같이 놀자니까. 수달이 잠들면 난 정말 심심할 거야.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1585",
+      "srcText": "첨벙첨벙 우아, 물놀이하러 왔네! 물 위에 누워서 물속에 들어가 물을 수달은 수영을 잘해서 참 좋겠다. 쓱쓱! 둥둥! 수달은 발가락 사이의 넓은 물갈퀴로 물살을 헤치면서 나아가고, 굵고 긴 꼬리로 노를 젓듯이 날쌔게 방향을 바꾸어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "1593",
+      "srcText": "앗, 수달아! 이제 저녁인데 잠에서 깬 거야? 같이 놀고 싶지만 하암, 이젠 내가 집에 가야 해. 다음에는 우리 꼭 같이 놀자. 약속! ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "1589",
+      "srcText": " 물놀이도 하고 물고기도 잡았더니 온몸이 흠뻑 물에 젖었네. 저러다 감기에 걸리면 나랑 같이 놀 수 없잖아. 수달아, 어서 털 말리고 나랑 놀자! ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "1583",
+      "srcText": "물이 흐르는 조용한 곳이야. 그런데 , 누구 똥이지? 똥에 물고기 뼈가 많은 걸 보니 물고기를 먹는 동물인가 봐. 여기 어디 있을 텐데.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "1584",
+      "srcText": "앗! 수달이다, 수달! 수달아, 어디를 그렇게 급하게 가니? 나랑 놀자! 수달은 몸이 가늘고 길지만 다리는 짧아서 걸음나비가 좁아요. 그래서 수달은 뛸 때 등을 굽히고, 발가락 전체로 땅을 디뎌서 뛰어요. ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "1588",
+      "srcText": "달이 물고기를 발톱으로 움켜쥐고 입에 넣더니 우적우적, 와드득와드득! 와, 뼈까지 다 먹잖아? 이빨도 아주 튼튼한가 봐.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    }
+  ]
+}

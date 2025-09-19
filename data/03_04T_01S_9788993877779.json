@@ -1,0 +1,62 @@
+﻿{
+  "title": "그림이 맛있어! ",
+  "author": "우와조아",
+  "illustrator": "박현하",
+  "isbn": "9788993877779",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16131",
+      "srcText": "엄마가 샌드위치를 만들고 있어요. “식빵에 소스를 쭉쭉쭉 뿌리고!” “와! 길 같다.”",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "18462",
+      "srcText": "“엄마, 꽃도 있어야죠!” “그래그래, 꽃도 만들자.” 엄마는 삶은 메추리알을 얇게 썰어 놓았어요. “자! 흰 꽃, 노란 꽃이 피었다!” “와, 예쁘다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18268",
+      "srcText": "“지희야, 이번엔 뭘 만들어 볼까?” “음, 달님이요!” “그렇다면 계란으로 달님을 만들어볼까?” “달달 무슨 달, 쟁반 같은 둥근 달.” 노래하며 샌드위치를 만들어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18729",
+      "srcText": "“이제 샌드위치가 다 되었으니 먹어볼까?” “네! 이야, 맛있겠다!” 지희는 얼른 샌드위치를 먹어보았어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "18730",
+      "srcText": "부드러운 달님 맛과 고소한 꽃 맛이 달콤했어요. 빨간 해님 맛과 풀 맛은 상큼했지요. “엄마, 또 주세요!”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "18463",
+      "srcText": "“엄마, 우리 집도 지어요.” “맞아! 어떤 집을 지을까?” 엄마는 세모난 치즈 하나와 네모난 햄을 놓았어요. “와! 정말 집이네.” “예쁘지?”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18255",
+      "srcText": "“호호, 길가엔 풀이 있어야겠지.” 양상추를 잘게 썰어 올려놓으면? “와, 풀이다!” 토마토를 얇게 썰어 놓으면? “이야, 해님이다!”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18
+    }
+  ]
+}

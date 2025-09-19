@@ -1,0 +1,55 @@
+﻿{
+  "title": "토끼야, 어디 있니?",
+  "author": "샘 로먼",
+  "illustrator": "샘 로먼",
+  "isbn": "9791165951849",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5549",
+      "srcText": "“토끼야, 방에 있니? 인형 집에도 없고, 카펫 아래에도 없네.” “토끼야, 세탁실에 있니? 빨래 사이에도 없고, 바구니 속에도 없네.”",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5553",
+      "srcText": "“토끼야, 어디 있니?” “짠! 나 여기 있어! 계속 너랑 함께 있었는데.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5550",
+      "srcText": "“토끼야, 어디 있니? 함께 놀고 싶은데.” “토끼야, 부엌에 있니? 우리 함께 딸기 먹자!”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5548",
+      "srcText": "“토끼야, 어디 있니? 나랑 놀자!” “토끼야, 거실에 있니? 소파 밑에도 없고, 장 뒤에도 없네.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5551",
+      "srcText": "“새야, 혹시 내 토끼 봤어?” “아니, 못 봤는데.” “엄마, 혹시 내 토끼 보셨어요?” “글쎄, 못 봤는데.”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5552",
+      "srcText": "“혼자 목욕하니까 심심해. 토끼야, 어디 있는 거야?” “우체부 아저씨, 혹시 내 토끼 보셨어요?” “아니, 못 봤는데. 토끼를 잃어버렸구나.”",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    }
+  ]
+}

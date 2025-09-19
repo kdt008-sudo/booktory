@@ -1,0 +1,62 @@
+﻿{
+  "title": "앗, 정전기다",
+  "author": "초콜릿나무",
+  "illustrator": "최은영",
+  "isbn": "9791165435301",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1249",
+      "srcText": "“어머나! 이게 다 뭐니?” 엄마가 방문을 연 건 그때였어. 미래와 아롱이는 엄마에게 혼날까 봐 멈칫했어. ",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1244",
+      "srcText": "“아롱아, 우리 언니 방에 들어가자. 언니 방에는 재미있는 물건들이 많거든.” 미래는 조용조용 언니 방문 앞에 섰어. “쉿, 조용히 해.” 미래가 방문을 열려고 손을 쭉 내밀었어. ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1243",
+      "srcText": "미래는 심통이 났어. “언니가 놀아 주지도 않고 혼자 나가 버렸어. 인형 놀이도, 소꿉놀이도 혼자 하는 건 정말 재미없는데.” “멍멍, 끄응.” 미래가 심심해하면 아롱이도 덩달아 심심해했어.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "1245",
+      "srcText": "“내가 하는 걸 잘 봐.” 아롱이는 머리에 털옷을 대고 쓱쓱 비볐어. 그러자 아롱이의 털이 곤두섰지. “우아!” “보라고! 이게 정전기야.” “나도! 나도 해 볼래.” ",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "1247",
+      "srcText": "“정전기 놀이 또 해 볼래.” “그래 좋아. 다른 것도 해 보자.” 미래와 아롱이는 집 안을 구석구석 뒤져서 플라스틱 빗을 찾아냈어.  책받침이랑 풍선도 가져왔지. ",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "1248",
+      "srcText": "책받침으로 쓱쓱 풍선으로 쓱쓱 싹싹 털모자도 해 보자! 쓱쓱 싹싹 비비자, 비비자. 미래 머리털도 아롱이 털도 위로, 위로!",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "1246",
+      "srcText": "미래는 털옷을 머리에 대고 싹싹 비볐어. 털옷을 살짝 들자 머리털이 곤두섰어. “내 머리털도 곤두섰어! 정전기 때문에 그런 거지?” 미래가 으쓱거렸어.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+﻿{
+  "title": "누가 안 왔니? ",
+  "author": "우와조아",
+  "illustrator": "심혜린",
+  "isbn": "9788993877854",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 21,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16514",
+      "srcText": "곧 계곡물 흐르는 소리도 들렸지요. \"콸콸콸\" 할머니는 다시 털실과 바늘을 들었어요. \"가만있자, 너구리의 안경을 짜야지.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16515",
+      "srcText": "그때였어요. \"후드득후드득, 쏴아\" 할머니는 깜짝 놀랐어요. \"아니, 웬 가을에 장대비가 좍좍 내리누?\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "16517",
+      "srcText": "\"보들보들한 걸 보니 보라색 털실! 이건 울퉁불퉁한 걸 보니 고동색 털실! 아, 요건 말랑말랑한 노란색 털실이구나.\" 할머니는 만져만 보고도 척척 알았지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "16518",
+      "srcText": "할머니는 뜨개질을 하느라 바빴어요. \"가만있자, 어떤 색깔로 짜야 할까?\" 할머니는 털실뭉치를 이것저것 만져보았어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16516",
+      "srcText": "비가 그치자 할머니는 마당으로 나왔어요. \"철퍼덕철퍼덕\" \"거기 누구냐?\" 뭔가가 할머니에게 안겨 뽀뽀를 하지 뭐예요. \"긴 꼬리에다 손가락, 발가락이 다섯 개! 그래그래, 원숭이 너에겐 조끼를 짜 주마.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "16520",
+      "srcText": "짝짝짝! 짝짝짝! 손뼉 치는 소리. 쉬익! 쉿! 혀를 날름거리는 소리. 할머니 노랫소리를 따라 들려왔지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16521",
+      "srcText": "할머니 노랫소리는 숲 속으로 퍼졌어요. 피식! 뿡! 방귀 뀌는 소리. 팍팍팍! 땅 파는 소리.",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17411",
+      "srcText": "\"에구구, 따가운 걸 보니 고슴도치구나. 방귀까지 뀌다니! 그래그래, 얼른 네 팬티를 짜 주마.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17412",
+      "srcText": "그런데 이게 웬일이에요. \"샤샤삭 샤샤삭\" \"이번엔 또 누구니?\" 까칠까칠한 것이 할머니 손을 자꾸 건드렸어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16505",
+      "srcText": "숲에서 선들바람이 불어왔어요. \"이제 날씨가 추워지겠구나.\" 할머니는 흔들의자에 앉아 뜨개질을 하고 있었지요. \"누구 옷을 떠 줄까나?\" 안경이 슬금슬금 코끝으로 자꾸 내려왔어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16519",
+      "srcText": "할머니는 흥얼흥얼 노래를 불렀어요. \"뱀의 모자에는 풀잎을 그리고, 청솔모 장갑에는 나뭇잎 무늬를 넣고요. 고슴도치의 팬티에는 허브 꽃잎을 붙여주고요. 구리 안경은 나무뿌리 모양으로 만들고요. 원숭이 조끼에는 이름표를 달아줘야지.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "16506",
+      "srcText": "\"어디 보자, 미끌미끌한 걸 보니 뱀이로구나. 알았다, 알았어. 너에게 모자를 떠 주마.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16507",
+      "srcText": "그때였어요. \"바스락, 사사삭, 쉬이잇\" \"거기 누구니?\" 할머니 손으로 뭔가 스멀스멀 기어올라왔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16510",
+      "srcText": "\"뾰족한 주둥이, 짧은 다리를 가진 너구리구나. 그래, 알았다. 너에겐 안경을 짜 주마.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16511",
+      "srcText": "앞으로 기우뚱, 뒤로 기우뚱 흔들의자도 할머니도 또 꾸벅꾸벅 졸았어요. \"에그, 또 잠들어 버렸네.\" 뭔가가 끙끙거리며 할머니 무릎 위로 올라왔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16508",
+      "srcText": "그때 뭔가가 할머니 무릎 위로 폴짝 뛰어 올라왔어요. \"부들부들한 털, 긴 꼬리! 청솔모구나. 그래그래, 너에겐 장갑을 짜 주마.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16509",
+      "srcText": "할머니는 뜨개질을 하다가 꾸벅꾸벅 졸았어요. \"톡톡, 툭, 투득.\" \"에쿠, 깜빡 잠이 들었네!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16522",
+      "srcText": "모두 모두 할머니 앞으로 모였어요. 빨간 조끼가 잘 어울리는구나. 나무뿌리 안경이 멋진걸.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16523",
+      "srcText": "호호호, 팬티가 딱 맞는구나. 풀잎 모자를 쓰니 풀인 줄 알겠네. 그런데 노란 장갑이 남았어요. \"누가 안 왔니?\"",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "16512",
+      "srcText": "\"이건 까칠까칠, 달걀모양의 키위! 어디 보자. 이건 밥솥이고 이건 김치통!\" 조심조심! 더듬더듬! 할머니는 앞이 안 보였거든요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16513",
+      "srcText": "할머니 배에서 꼬르륵 소리가 났어요. \"점심 먹을 때가 되었네.\" 조심조심! 더듬더듬! 부엌으로 갔어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    }
+  ]
+}

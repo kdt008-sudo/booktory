@@ -1,0 +1,48 @@
+﻿{
+  "title": "안아 줄게! ",
+  "author": "우와조아",
+  "illustrator": "엄지현",
+  "isbn": "9788993877816",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16145",
+      "srcText": "\"이런, 엄마한테 혼났구나. 흥! 흥! 콧방귀는 이제 그만. 이리 와. 꼬옥! 안아 줄게!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17761",
+      "srcText": "\"이런, 화났구나. 자꾸 삐죽거리면 미운 생쥐 된다. 이리 와. 꼬옥! 안아 줄게!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17762",
+      "srcText": "\"호호호, 우리 아가 신났구나.\" 콧구멍이 벌름벌름! 넓적한 귀를 펄럭펄럭! \"그래그래, 이리 와. 꼬옥! 안아 줄게.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "16147",
+      "srcText": "\"저런! 돌부리에 콩! 부딪혔구나. 풀잎 약 바르면 금방 나을 거야. 괜찮아. 꼬옥! 안아 줄게!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16146",
+      "srcText": "폭신폭신 포근해요! \"에구! 무서운 꿈을 꾸었구나. 오들오들! 떨고 있잖아. 괜찮아. 꼬옥! 안아 줄게!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 19
+    }
+  ]
+}

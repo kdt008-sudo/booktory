@@ -1,0 +1,62 @@
+﻿{
+  "title": "그림자가 뭐지?",
+  "author": "김성은",
+  "illustrator": "홍찬주",
+  "isbn": "9788961914192",
+  "readAge": "초등_저학년",
+  "publishedYear": 2010,
+  "publisher": "한얼교육",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40595",
+      "srcText": "나무가 말했어요. “누구나 하나씩 가지고 있어.” 나무는 나무 그림자, 사람은 사람 그림자, 강아지는 강아지 그림자. 강아지가 말했어요. “뭐든지 따라 하는 흉내쟁이야.” 같이 뛰고, 같이 앉고, 같이 걷고.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "40589",
+      "srcText": "어느 날 나는 궁금해졌어요. “그림자는 뭘까?” 그러자 해가 말했어요. “그건 빛이 만드는 거야.” 빛을 비추면 반대쪽에 그림자가 짠!",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "40590",
+      "srcText": "송이가 말했어요. “늘 까만 옷만 입어.” 노란 옷을 입어도 까망, 빨간 옷을 입어도 까망. 웅이가 말했어요. “이랬다저랬다 하는 변덕쟁이야.” 길어졌다 짧아지고, 멀리 갔다 가까이 오고.",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "40594",
+      "srcText": "손전등이 말했어. “모습이 자꾸 변하는 마술쟁이야.” 전등 빛으로 손을 비추면 여우가 되었다가 독수리가 되었다가 토끼가 되었다가 백조로 얍! 그리고 엄마가 말했어. “그림자는 다정한 친구란다. 내일 해가 뜨면 다시 만나서 재미있게 놀아 줄 거야. 잘 자라, 우리 아기.”",
+      "srcPage": 15,
+      "srcSentenceEA": 7,
+      "srcWordEA": 41
+    },
+    {
+      "srcTextID": "40591",
+      "srcText": "고양이가 말했어요. “숨바꼭질을 좋아하는 장난꾸러기야.” 어디 어디 숨었나? 큰 그림자 속에 숨었다!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "40593",
+      "srcText": "낚시꾼 아저씨가 말했어요. “그림자는 춤을 잘 춰.” 물속에 비친 그림자, 흔들흔들 흔들리는 그림자. 먹구름이 말했어요. “빛을 가리면 사라지지.” 먹구름이 해를 가리면 그림자가 스르르.",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "40592",
+      "srcText": "우체부 아저씨가 말했어요. “어떤 때는 꼭 괴물 같아.” 계단을 올라가는 그림자, 구불구불 구부러진 그림자.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    }
+  ]
+}

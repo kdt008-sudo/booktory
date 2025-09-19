@@ -1,0 +1,69 @@
+﻿{
+  "title": "하마야, 뭐 하니?",
+  "author": "고영이",
+  "illustrator": "아람북스",
+  "isbn": "9791190861090",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1979",
+      "srcText": "하마야, 하마야, 뭐 하니? 하마야? 하마야? 어, 하마 자네. 서로 얼굴 맞대고 쿨쿨. 우리도 자러 갈까? ",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1977",
+      "srcText": "물속에서 나와 풀밭으로 가야지. 하마는 맛있는 풀을 찾아 어슬렁어슬렁 풀밭을 돌아다니지. 저녁부터 아침까지 풀을 뜯어 먹고 다시 물속으로 첨벙첨벙. ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1978",
+      "srcText": "하마야, 하마야, 뭐 하니? 풀 먹는다. 풀밭에서 우적우적 풀 먹는다. 저녁이 되었으니 밥 먹으러 가야지. ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1973",
+      "srcText": "하마 콧구멍만 물 밖으로 벌름벌름! 덩치 큰 하마는 물속에서 땅 짚고 헤엄을 쳐. 물에 들어갈 때는 콧구멍과 귓구멍을 꾹 닫아. ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1974",
+      "srcText": "하마야, 하마야, 뭐 하니? 숨 쉰다. 콧구멍 내놓고 숨 쉰다. 하마 엉덩이가 물속에서 실룩실룩! 하마 다리도 물속에서 첨벙첨벙!",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1972",
+      "srcText": "무시무시한 하마 아래턱, 꽉 물어 버리면 큰일이지. 뾰족뾰족한 하마 송곳니, 뻥 뚫어 버리면 큰일이지. 뾰족뾰족 무섭지? 내 송곳니 한번 볼래?",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1975",
+      "srcText": "하마 똥이 좍 흩어지네. 하마 꼬리는 짧지만, 굵고 힘이 세서 똥을 멀리 뿌릴 수 있어. 내 똥이 있는 곳은 다 내 놀이터!",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1971",
+      "srcText": "하마야, 하마야, 뭐 하니 ?  싸운다. 입 쩍 벌리고 싸운다. 저리 가! 여긴 내가 노는 곳이야! ",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    }
+  ]
+}

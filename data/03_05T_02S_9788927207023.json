@@ -1,0 +1,69 @@
+﻿{
+  "title": "새콤달콤한 게 좋은걸요",
+  "author": "꿈바라기",
+  "illustrator": "가만희",
+  "isbn": "9788927207023",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16058",
+      "srcText": "그런데 집에 온 새미는 배가 살살 아팠어요. “어머! 새미야, 왜 이러니?” 엄마는 얼른 새미를 병원으로 데리고 갔어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "16057",
+      "srcText": "새미는 딸기맛 사탕을 고르고, 송이는 오렌지맛 젤리를 골랐어요. 그런데 사탕과 젤리에는 원재료 표시도 없고, 유통 기한 표시도 없어요. 하지만 아무렴 어때요? 새콤달콤 맛있는 건 다 똑같은걸요! “냠냠, 맛있다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "16060",
+      "srcText": "“새미가 불량 식품을 먹었구나. 봉지에 원재료나 유통 기한 표시가 없는 것들은 안전한 식품이 아니라서 배탈이 날 수 있단다.” “그리고 불량 식품이 아니더라도 맛이 이상하고 냄새가 나거나, 색깔이 변한 것을 먹어서는 안 돼.” “네.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "16061",
+      "srcText": "“토하거나 설사를 할 수 있고, 피부병도 생길 수 있으니 조심하렴.” “네, 선생님!” “엄마, 걱정을 끼쳐드려서 죄송해요.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16062",
+      "srcText": "새미의 말에 엄마가 미소를 지으며 말했어요. “그래, 아파서 고생했지? 이제부터는 안전한 식품만 먹기로 하자.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16055",
+      "srcText": "길을 걸어가다 새미가 송이를 만났어요. “안녕, 새미야.” “안녕, 송이야.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 9
+    },
+    {
+      "srcTextID": "16056",
+      "srcText": "“송이야, 같이 과자 사 먹으러 가자.” “그래!” 새미와 송이는 동네의 작은 가게에 갔어요. 가게에는 맛있는 것들이 무척 많았어요. 바삭바삭 과자, 쫄깃쫄깃 젤리, 달콤한 초콜릿! “와! 맛있겠다.”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "16059",
+      "srcText": "의사 선생님이 진찰을 하며 물으셨어요. “새미야, 오늘 뭐 먹었니?” “가게에서 사탕을 사 먹었어요. 친구랑 젤리도 나눠 먹고요.”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    }
+  ]
+}

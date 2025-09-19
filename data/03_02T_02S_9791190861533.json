@@ -1,0 +1,90 @@
+﻿{
+  "title": "날았다, 매미!",
+  "author": "우은경",
+  "illustrator": "아람북스",
+  "isbn": "9791190861533",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1938",
+      "srcText": "매미야, 매미야! 어디에 있니?  아직 땅속에 있다! 여기에서 열심히 자라고 있어. 알에서 깨어 땅속으로 내려 왔어.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1939",
+      "srcText": "허물을 벗고, 몸이 조금 더 커졌어. 허물을 또 한 번 벗고, 나무뿌리 즙을 먹으며 자라고 있어. 허물을 한 번 더 벗었어. 이제 땅 위로 올라가고 있어.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1942",
+      "srcText": "매미야, 매미야! 왜 아직도 거기에 있니? 젖은 날개가 말라야 날 수 있거든. 그런데 배고파서 못 날겠어. ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1943",
+      "srcText": "뾰족한 주둥이를 나무에 콕 꽂아서 먼저 나무즙을 먹어야지. 배부르게 먹었으니까 오줌을 찍! 미는 주로 나무즙을 먹기 때문에 자주 오줌을 누어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1936",
+      "srcText": "매미야, 어디 있니? 매미를 찾아 볼까? 맴맴맴~ 맴맴~ 나무껍질 속에 있다!",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1937",
+      "srcText": "아직 매미알이야. 이곳에서 겨울을 보내고, 여름이 되면 알에서 나와 애벌레가 될 거야. 매미야, 매미야! 어디에 있니? 쉿! 엄마가 나를 낳고 있어. 암컷 매미의 배 끝에는 바늘처럼 생긴 기다란 산란관이 있어요. 이 관을 나무에 꽂고 나무껍질 속에 알을 낳아요.",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 45
+    },
+    {
+      "srcTextID": "1940",
+      "srcText": "매미야, 매미야! 뭐 하니? 나무 꼭대기로 올라가고 있어! 까슬까슬한 발톱으로 나무에 꼭 붙어서 올라가고 또 올라가면 드디어 도착! 영차! 영차! 매미야, 매미야! 왜 가만히 있니? ",
+      "srcPage": 10,
+      "srcSentenceEA": 8,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "1941",
+      "srcText": "쉿! 이제 마지막 허물을 벗고 어른 매미가 될 거야. 끙끙, 머리를 꺼내자! 다리를 쑥, 젖은 날개를 빼고 , 배까지 모두 나오면 드디어 어른 매미가 되었어!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1945",
+      "srcText": "매미야, 매미야! 뭐 하고 있어? 사랑하는 내 짝을 만났어. 우리가 사랑을 나누면, 예쁜 암컷 매미가 곧 알을 낳게 될 거야. ",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1946",
+      "srcText": "이제 내가 할 일은 다 끝났어. 다음 여름이 오면 우리가 낳은 매미들이 또다시 우렁찬 울음소리를 들려줄 거야. 매미야, 안녕! 내년 여름에 또 만나자. ",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "1944",
+      "srcText": "매미야, 매미야! 뭐 하고 있어? 무서운 새가 나타났잖아! 걱정하지 마. 이제는 날개가 다 말랐으니까 새나 사마귀가 와도 도망칠 수 있어. 아이코, 도망가자!",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    }
+  ]
+}

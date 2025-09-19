@@ -1,0 +1,69 @@
+﻿{
+  "title": "눈이 너무 많이 와요",
+  "author": "꿈바라기",
+  "illustrator": "오복선",
+  "isbn": "9788927206903",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14981",
+      "srcText": "“오늘은 눈이 너무 많이 왔구나. 밖에 나가서 노는 건 위험하겠는걸.” 엄마가 말했어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "14982",
+      "srcText": "하지만 태규는 밖에서 눈사람을 만들고 싶어요.  “그럼 마당에서만 놀게요.” “좋아! 그럼 털신을 신고, 목도리랑 장갑을 하렴! 엄마랑 같이 나가자.”",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "17716",
+      "srcText": "“그리고 눈사태가 나는 경우도 있어. 이런 경우에는 일기 예보를 잘 듣고 미리 대비해야 해.” “그러니까 태규는 앞으로 눈이 많이 오면 어떻게 해야 할까?” “음, 집 밖에 안 나가는 게 좋겠어요. 사고가 날 수 있으니까요!”",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36
+    },
+    {
+      "srcTextID": "14983",
+      "srcText": "“눈이 너무 많이 오는 걸 ‘대설’ 이라고 해. 도로는 눈 때문에 꽉 막히고, 농가에서는 작물이 얼어 버리거나 비닐하우스가 무너지기도 한단다.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17712",
+      "srcText": "아침에 일어나니 밖에 흰 눈이 펑펑 내려요. 지붕에도 길가에도 모두 눈이 수북이 쌓였어요. “와! 엄마, 밖에서 놀아도 돼요?” 태규가 신이 나 엄마에게 물어보았어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "17713",
+      "srcText": "태규는 엄마와 함께 눈을 굴렸어요. 그리고 눈덩이를 합쳐 커다란 눈사람을 만들었어요. 어, 그런데 눈이 너무 많이 와요. 벌써 태규의 무릎 위까지 눈이 쌓였는걸요. “안 되겠다. 이제 들어가자.”",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "17714",
+      "srcText": "“글쎄요. 눈이 오면 신나게 놀면 되는 거 아니에요?” 태규는 갸우뚱했어요. 그러자 엄마가 설명을 해 주셨어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17715",
+      "srcText": "태규는 엄마와 집 안으로 들어왔어요. “태규야, 오늘처럼 눈이 너무 많이 오면 피해가 많단다. 어떤 피해인지 알고 있니?”",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    }
+  ]
+}

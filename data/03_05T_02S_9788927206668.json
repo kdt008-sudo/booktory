@@ -1,0 +1,76 @@
+﻿{
+  "title": "씽씽 쌩쌩 스케이트 타기",
+  "author": "꿈바라기",
+  "illustrator": "오이슬",
+  "isbn": "9788927206668",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "18176",
+      "srcText": "아이들은 각자 발에 맞는 스케이트를 빌렸어요. 그리고 안전 보호 장구를 착용했지요. 헬멧을 착! 팔꿈치 보호대를 착! 장갑도 착! 무릎 보호대를 착!",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "18180",
+      "srcText": "어떤 친구들은 서로 장난을 치기 바빠요. 저러다가 넘어지면 큰일 날 텐데 말이에요. 어, 그런데 한 친구가 시계 방향으로 돌고 있어요. “반대로 타야지. 부딪힐 것 같아!”",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "18179",
+      "srcText": "친구를 밀거나 당기면 안 돼요! 위험한 동작은 안 돼요! 장난치면 안 돼요!",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "18178",
+      "srcText": "“네!” 아이들은 선생님을 따라 조심조심 트랙을 돌았어요. 그리고 곧 씽씽 달려 보았지요. “얘들아, 나 멋지지?”",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "16686",
+      "srcText": "그리고 헬멧과 팔꿈치 보호대, 장갑, 무릎 보호대를 샀어요. “우리 하진이는 다 준비했네.” 다음 날 아침, 안전 보호 장구를 넣은 가방을 메고 유치원 버스에 탔어요. 하진이는 무척 설레었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "18182",
+      "srcText": "“아니요! 친구가 다치는 건 싫어요! 앞사람을 따라서 조심조심 탈게요!” 그제야 선생님은 빙그레 웃으셨어요.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "18177",
+      "srcText": "선생님은 안전 수칙을 설명했어요. “스케이트 날은 날카로우니 친구들과 장난치지 말아요! 그리고 트랙을 돌 때는 시계 반대 방향으로 돌아요.”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "18181",
+      "srcText": "결국 선생님은 우리를 모두 불러 모았어요. “여러분! 이렇게 장난을 치며 타다가는 친구들이 다칠 수도 있어요. 친구가 다치는 게 좋아요?”",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "18175",
+      "srcText": "내일은 스케이트장에 가는 날이에요. “내일 헬멧이랑 보호대 등 안전 보호 장구를 가지고 오세요.” “네!” 하진이는 엄마 아빠와 스포츠 용품점에 갔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    }
+  ]
+}

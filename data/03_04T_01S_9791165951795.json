@@ -1,0 +1,69 @@
+﻿{
+  "title": "다정하게 말해요",
+  "author": "안체 테일러",
+  "illustrator": "맷 호워쓰",
+  "isbn": "9791165951795",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5293",
+      "srcText": "다이노가 엄마랑 놀이터에 갔어요. 세 친구가 토닥토닥 모래놀이를 하고 있었어요. “우아, 재미있겠다.”  다이노가 친구들에게 다가가 외쳤어요. “크아아아앙!” 그러자 친구들이 후다닥 가 버렸어요. “힝, 혼자 노는 건 재미없는데.”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5297",
+      "srcText": "한 친구가 빙글빙글 놀이 기구를 타고 있었어요. “우아, 나도 타고 싶다!” 다이노가 친구에게 다가가 외쳤어요. “크아아아앙!” 그 친구도 후다닥 가 버렸어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5299",
+      "srcText": "“그럼 어떻게 말해야 해요?” “다정하게 말해 보렴. 친구들이 알아들을 수 있게.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "5300",
+      "srcText": "그러자 친구들이 깜짝 놀랐어요. “다정하게 말해 보렴.” 엄마의 말이 떠올랐어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "5301",
+      "srcText": "친구들이 함께 모여 놀고 있었어요. 다이노가 친구들에게 다가갔어요. 다이노는 입을 커다랗게 벌렸어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5296",
+      "srcText": "두 친구가 주르륵 미끄럼을 타고 있었어요. “헤헤! 신나겠다!” 다이노가 친구들에게 다가가 외쳤어요. “크아아아앙!” 이번에도 친구들은 후다닥 가 버렸어요. “왜 다들 가는 거야?”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5302",
+      "srcText": "“얘들아, 아까는 미안했어. 나도 너희랑 놀고 싶어.” 다이노가 방긋 웃으며 말했어요. 그러자 친구들도 방긋 웃으며 말했지요. “좋아! 다이노, 우리 함께 놀자!”",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5298",
+      "srcText": "다이노는 눈물을 뚝뚝 흘리며 엄마에게 갔어요. “엄마!” “다이노, 무슨 일이니?” “친구들이 나랑 안 놀아 줘요.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+﻿{
+  "title": "새야, 새야, 넌 누구니?",
+  "author": "전지형",
+  "illustrator": "김보숙",
+  "isbn": "9791165434687",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "30065",
+      "srcText": "새야, 새야, 넌 누구니? 난 머리가 멋진 청둥오리야. 반짝반짝 빛나는 내 초록 머리 어때? 암컷 청둥오리는 나를 보고 한눈에 반하던데.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "30069",
+      "srcText": "새야, 새야, 넌 누구니? 난 부리에 주머니가 달린 펠리컨이야. 기다란 부리로 물을 가득 퍼 올리면 파닥파닥 물고기만 남고 물은 쭉쭉 빠져.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "30072",
+      "srcText": "새야, 새야, 예쁜 새야, 넌 누구니? 우린 예쁘고 사이좋은 앵무새들이야. 짝꿍이 되면 꼭 같이 다니지.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "30067",
+      "srcText": "새야, 새야, 넌 누구니? 난 둥지를 아주 잘 짓는 검은머리베짜는새야. 풀잎을 이렇게 콕콕 물어다 꼼꼼 튼튼 둥지를 짓지. 우리 둥지 보여 줄까?",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "30073",
+      "srcText": "새야, 새야, 멋쟁이 새야, 넌 누구니? 척 보면 모르겠니? 머리엔 왕관 쓰고, 화려한 깃털 옷을 입은 공작새야.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "30064",
+      "srcText": "새야, 새야, 넌 누구니? 난 세상에서 가장 작은 새, 벌새야. 윙윙 붕붕 날면서 기다란 부리로 꽃 속의 꿀을 냠냠 쪽쪽 빨아 먹어.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "30066",
+      "srcText": "새야, 새야, 넌 누구니? 난 후투 후투 노래하는 후투티야. 머리 깃이 인디언 추장 같다고 추장새라고 부르기도 해. 흙을 콕콕 파헤쳐서 땅강아지 잡는 덴 아주 선수야.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "30070",
+      "srcText": "새야, 새야, 넌 누구니? 난 밤의 왕자 올빼미야. 낮엔 나뭇가지에 앉아서 꾸벅꾸벅 졸지만 밤이 되면 무서운 사냥꾼이 되지.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "30071",
+      "srcText": "새야, 새야, 넌 누구니? 난 새들의 왕 독수리야! 하지만 사냥은 잘 못해. 그래서 죽은 동물의 썩은 고기를 먹고 살아.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "30068",
+      "srcText": "풀잎 한 잎 물어다 꼭꼭. 또 한 잎 물어다 꼭꼭. 이렇게 수없이 물어다 꼭꼭 동여매서 둥지를 지어.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

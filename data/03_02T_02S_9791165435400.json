@@ -1,0 +1,62 @@
+﻿{
+  "title": "아빠는 멋진 태양별",
+  "author": "이윤진",
+  "illustrator": "이화",
+  "isbn": "9791165435400",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1173",
+      "srcText": "“ 화성엔 커다란 혹이 있어. 그리고 지구의 달과 같은 두 개의 위성이 돌고 있지.” “ 아빠, 저기 바윗덩어리들이 굉장히 많아요. 저것도 태양의 가족이에요?” “그래, 저건 소행성들이란다.” ",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1175",
+      "srcText": "“ 누워서 태양 주위를 도는 건 천왕성이야. 그리고 푸른 행성은 해왕성이지.” “여기에선 태양이 아주 작게 보여요.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1174",
+      "srcText": "“후유!  겨우  빠져나왔구나.”  “이야!  엄청 커요.”  “ 덩치가  제일 큰 목성이야. 목성에선 무시무시한 폭풍이 항상 불고 있단다.” ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1170",
+      "srcText": "“ 저 커다란 태양이야! 태양의 가족은 모두 태양 주위를 빙글빙글 돌고 있단다. 우리 태양의 가족을 만나러 가 볼까?” “우아, 신난다.”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1171",
+      "srcText": "“ 태양 옆에 있는 건 수성이야. 태양과 가장 가까이 있어서 낮에는 아주 뜨겁단다. 게다가 아주 빠르게 태양 주위를 돌지.” “와, 정말 빨라요.” ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1172",
+      "srcText": "“흰 구름과 파란 바다가 보이니? 우리가 살고 있는 지구야.” “ 지구 옆을 도는 건 달이란다. 달은 지구의 좋은 친구지.”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1169",
+      "srcText": "“넓고 넓은 우주에도 아빠가 있을까? 난 아빠가 있어서 무섭지 않은데.” “우주에도 아빠가 있단다.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    }
+  ]
+}

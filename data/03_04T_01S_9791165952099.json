@@ -1,0 +1,111 @@
+﻿{
+  "title": "신나는 겨울 축제",
+  "author": "피파 커닉",
+  "illustrator": "피파 커닉",
+  "isbn": "9791165952099",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 14,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5231",
+      "srcText": "햇볕 쨍쨍한 여름이에요. 너무너무 더워요. 아이스크림도 줄줄, 땀도 줄줄. 바람도 뜨끈뜨끈, 털도 뜨끈뜨끈.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5235",
+      "srcText": "“어떡해! 스웨터에 구멍이 뻥뻥 뚫렸잖아!” “오소리네 가게에 가자!” 마마와 라라는 자전거를 타고 서둘러 출발했어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5241",
+      "srcText": "그제야 모두 마마와 라라의 말을 따르기로 했어요. 조금 실수도 하고, 조금 다투기도 했지만, 짜잔! 세상에서 하나뿐인 멋진 자동차가 탄생했어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5242",
+      "srcText": "자동차를 슬쩍 밀었더니, 주르륵 미끄러져 금방 오소리네 가게에 다다랐어요. 이런, 저기 좀 보세요. 모두들 길게 줄을 서 있어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5233",
+      "srcText": "“털북숭이 축제가 열리잖아!” 털북숭이 축제를 모두 좋아했어요. 털북숭이 축제에 가기 전, 꼭 하는 일이 있어요. 바로 오소리네 스웨터 가게에 들러 새 스웨터를 사는 일이었어요. “오소리가 뜬 스웨터는 정말 포근하고 멋져.”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "5240",
+      "srcText": "“부서진 것들을 모아 탈것을 새로 만들자. 그럼 오소리네 가게에 갈 수 있을 거야.” “내 숟가락은 안 돼.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5245",
+      "srcText": "짜잔! “정말 포근해!” “정말정말 멋져!” “정말정말 정말 최고야!” 이제 멋진 스웨터도 입었으니. 모두 신나게 축제를 즐겨요!",
+      "srcPage": 18,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5234",
+      "srcText": "속보. 겨울이 성큼. 꽁꽁 싸매세요. 눈이 펑펑 내립니다. 마마와 라라는 스웨터를 입으려고 옷장을 열었어요. 그런데. 곧 엄청난 추위가 닥칠 예정입니다. 모두 꽁꽁 싸매고 준비하세요.",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5232",
+      "srcText": "“아! 눈이 펑펑 내렸으면 좋겠어. 눈싸움도 하고 스케이트도 타고 싶어.” 라라가 말했어요. 마마도 고개를 끄덕이며 말했어요. “맞아, 빨리 겨울이 왔으면 좋겠어. 정말정말 신나는......”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5236",
+      "srcText": "마마와 라라가 탄 자전거 뒤에, 곰이 롤러스케이트를 타고 쌩쌩, 펭귄이 트럭을 타고 부릉부릉, 토끼가 캠핑카를 끌고 빵빵. 모두 오소리네 가게에 가는 거예요. 갑자기 빗방울이 똑똑! 눈송이가 톡톡! 바람에 날아간 우산이 앞을 가리자 깜짝 놀란 펭귄이 아이스크림 기계를 꾹 눌렀어요. 그러자. 으악!",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 47
+    },
+    {
+      "srcTextID": "5243",
+      "srcText": "“함께 힘을 모아 스웨터를 뜨자.” “난 반짝이를 달게!” “난 바느질을 할게!” “난 털 방울을 달게!” “솔방울도 달까?”",
+      "srcPage": 16,
+      "srcSentenceEA": 5,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5244",
+      "srcText": "드디어 친구들 차례가 되었어요. 하지만 스웨터는 다 팔리고 하나도 없었지요. 친구들은 실망하지 않고, 한마디씩 했어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5237",
+      "srcText": "“여기 있다간 꽁꽁 얼어붙고 말 거야.” 너도나도 투덜거렸어요. 라라와 마마는 달랐어요. “우리에게 좋은 생각이 있어!”",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5238",
+      "srcText": "온통 아이스크림 세상이 되었어요. 내 자전거! 내 캠핑카! 내 숟가락! 앗! 내 엉덩이! 모두 꼼짝도 못 하게 되었지요. “이를 어쩌지?” “오소리네 가게에 못 갈 것 같아.”",
+      "srcPage": 12,
+      "srcSentenceEA": 9,
+      "srcWordEA": 32
+    }
+  ]
+}

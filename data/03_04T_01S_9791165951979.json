@@ -1,0 +1,90 @@
+﻿{
+  "title": "아무도 모르나 봐",
+  "author": "루시 버나드",
+  "illustrator": "루시 버나드",
+  "isbn": "9791165951979",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5981",
+      "srcText": "“이 작은 케이크는 어쩌지?” 토끼가 쑥스러워하며 물었어요. “한 입씩 나눠 먹으면 되지!” 모두 환하게 웃으며 토끼의 생일 파티를 즐겼어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5971",
+      "srcText": "늦은 오후, 토끼는 자전거를 타고 집을 나섰어요. 아주아주 슬픈 표정으로 말이에요. “오늘 내 생일인데, 아무도 모르나 봐. 나 혼자 생일 파티를 해야겠어.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5979",
+      "srcText": "“정말 아무도 모르나 봐.”  드디어 집에 도착했어요. “정원에서 생일 파티를 열어야지. 따뜻한 햇볕을 받으면 기분이 좋아질 거야.” 토끼는 뒷문을 열었어요. 그런데.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5972",
+      "srcText": "토끼는 가게에서 이것저것 샀어요. “나 혼자 하는 생일 파티니까 작은 케이크면 돼.” 토끼는 자전거 바구니에 물건을 싣고 집으로 향했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5980",
+      "srcText": "“놀랐지?” 생일 축하해! “아무도 모르는 줄 알았어.” “그럴 리 없잖아.” “토끼야, 넌 정말 친절하고 좋은 친구야.” “생일 축하해, 토끼야!”",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5977",
+      "srcText": "“생쥐야, 내가 태워 줄까?” “좋아!” 생쥐는 강아지의 스쿠터를 타고 쌩 가 버렸어요. “안녕, 토끼야!” 생쥐도 강아지도 생일 축하 인사는 없었어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5978",
+      "srcText": "다리 앞에서 가방을 잔뜩 든 생쥐를 만났어요. 토끼는 생쥐를 도우려고 다가갔지요. 그때, 강아지가 스쿠터를 타고 왔어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5973",
+      "srcText": "“고마워, 토끼야!” 곰은 서둘러 자동차를 타고 부르릉 가 버렸어요. 생일 축하 인사도 없이 말이에요. “곰은 오늘이 내 생일인 걸 모르나 봐.”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5974",
+      "srcText": "마을을 지나다가 곰을 만났어요. 곰은 커다란 상자를 자동차에 실으려고 낑낑거렸어요. “곰아, 내가 도와줄게.” 토끼는 곰을 도와 커다란 상자를 자동차에 실었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5975",
+      "srcText": "공원을 지나다가 오소리를 만났어요. “토끼야, 나 좀 도와줘. 자전거 타이어에 바람이 빠졌지 뭐야.”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5976",
+      "srcText": "토끼는 자전거 펌프를 꺼내 타이어에 바람을 넣어 주었어요. “고마워, 토끼야!” 오소리는 서둘러 자전거를 타고 휙 가 버렸어요. 생일 축하 인사도 없이 말이에요. “오소리도 오늘이 내 생일인 걸 모르나 봐.”",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    }
+  ]
+}

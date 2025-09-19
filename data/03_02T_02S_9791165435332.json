@@ -1,0 +1,55 @@
+﻿{
+  "title": "자연을 보고 만들었어",
+  "author": "강은경",
+  "illustrator": "박재현",
+  "isbn": "9791165435332",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1021",
+      "srcText": "우리 주변을 잘 살펴봐. 연필, 가위, 칼 같은 수많은 물건이 있어. 우리가 편리한 생활을 할 수 있도록 돕는 도구들이야. 이 편리한 도구 중에는 자연을 보고 만든 발명품들이 있어.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "1024",
+      "srcText": "나야, 나. 말벌! 내 뾰족한 침을 보고 만들었어. 누가 나를 공격하면 내 뾰족한 침으로 상대의 몸을 찔러. 그 침을 통해서 상대의 몸에 독을 넣지.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1022",
+      "srcText": "나야, 나. 문어! 내 다리에 있는 빨판을 보고 만들었어. 빨판 덕분에 어디든 달라붙을 수 있지. 미끌미끌 바위에도 착 붙고, 먹이도 꽉 잡을 수 있어.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1025",
+      "srcText": "빙글빙글 윙윙!  빙글빙글 윙윙!  헬리콥터의 프로펠러는 무얼 보고 만들었을까?  나도 헬리콥터를 타고 싶어!",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1023",
+      "srcText": "나야, 나. 도꼬마리! 갈고리모양의 가시가 가득한 내 열매를 보고 만들었어. 열매에 난 수많은 가시 덕분에 동물의 몸에 달라붙어서 씨를 퍼뜨리지. 도꼬마리 열매처럼 수리취 열매, 도깨비바늘 씨앗 등도 가시가 나 있어서 물체나 동물의 몸에 찰싹 달라붙어 씨를 퍼뜨려요. ",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 41
+    },
+    {
+      "srcTextID": "1026",
+      "srcText": "나야, 나. 잠자리!  내 날개를 보고 만들었지.  나는 날개를 위아래로만 움직이는 게 아니라 둥글게 돌리듯 움직이며 하늘을 날지.  어때, 자연을 보고 만든 발명품들이 정말 많지?",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32
+    }
+  ]
+}

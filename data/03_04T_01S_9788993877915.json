@@ -1,0 +1,76 @@
+﻿{
+  "title": "여기 여기 모여라! ",
+  "author": "우와조아",
+  "illustrator": "이지연",
+  "isbn": "9788993877915",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16474",
+      "srcText": "“어딨지? 어딨지?” 모래사막으로 가 보았어요. “앗! 뜨거워! 뜨거워!” 카멜레온은 풀쩍풀쩍 뛰며 소리쳤어요. “나랑 친구 할 동물은 여기 여기 모여라!” 하지만 더운 모랫바람만 불어왔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16480",
+      "srcText": "“신난다, 신나!” “드디어 친구를 만났어.” 카멜레온은 기분이 좋았어요. “열심히 찾아보면 친구들이 더 있을지도 몰라.”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16475",
+      "srcText": "\"어딨지? 어딨지?\" \"아이구, 더워라! 도저히 못 참겠다.\" 카멜레온은 바다 속으로 첨벙 들어갔지요. \"나랑 친구 할 물고기는 여기 여기 모여라!\" 그러나 물풀만 흔들흔들거렸어요. \"어? 이상하다.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16481",
+      "srcText": "카멜레온은 다시 숲 속으로 돌아왔어요. “나랑 친구 할 동물은 여기 여기 모여라!” 숲 속은 여전히 조용했어요. 그래서 아주 큰소리로 외쳤지요. “나랑 친구 할 동물은 여기 여기 모여라!”",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16476",
+      "srcText": "“어딨지? 도대체 어디 있는 거야?” 이번엔 춥고 추운 북극에도 가보았어요. “에이, 여긴 하얀 눈과 얼음뿐이잖아.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "16477",
+      "srcText": "그때였어요. 커다란 눈덩이가 슬금슬금 다가왔어요. “나야 나! 안 보이니?”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "16478",
+      "srcText": " “친구가 뭔데?” “같이 재미있게 노는 거!” “그래, 우리 친구하자.”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 9
+    },
+    {
+      "srcTextID": "16479",
+      "srcText": "“어디? 어디?” 아기 곰이 카멜레온 앞으로 걸어왔어요. “난 카멜레온이야. 친구를 찾으러 왔어.”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16473",
+      "srcText": "카멜레온이 친구를 찾아 나섰어요. “나랑 친구 할 동물은 여기 여기 모여라!” 풀숲을 이리저리 들추어 보았지요. 하지만 아무도 없었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    }
+  ]
+}

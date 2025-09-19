@@ -1,0 +1,62 @@
+﻿{
+  "title": "급하다. 급해!",
+  "author": "꿈바라기",
+  "illustrator": "조아요",
+  "isbn": "9788927206705",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "31676",
+      "srcText": "‘오빠 말이 맞아. 늘 조심해야겠어.’ 세린이는 오빠 말대로 손을 뽀득뽀득 씻었어요. 이렇게 해야 병균이 없어지니까요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "31674",
+      "srcText": "“알았어, 오빠는 잔소리 대마왕이야!” 세린이는 문을 닫고는 변기에 앉았어요. “볼일 보고, 손 씻는 거 알지?” 문밖에서 오빠가 외치는 소리가 들렸어요. “알았어, 오빠!”",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "31675",
+      "srcText": "“그리고 욕실 바닥은 미끄러우니까, 항상 조심해야 해.” “알았다니까!” 세린이는 오빠의 잔소리가 싫었어요. 하지만 자세히 보니 바닥에 물기도 있고 드문드문 비눗물도 보였어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "31669",
+      "srcText": "‘우당탕!’ 말썽꾸러기 세린이가 문을 박차고 들어왔어요. “오빠, 화장실에 아무도 없지?” “급하다, 급해!” 세린이는 화장실 문을 벌컥 열었어요. 앗! 그런데 누군가 뒤에서 옷을 잡는 것 같아요! 으악!",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "31677",
+      "srcText": "“그래, 맞아. 우리 세린이가 최고!” 세린이는 오빠가 듬직했어요. 가끔은 잔소리 대마왕이지만요!",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "31678",
+      "srcText": "넘어지지 않게 욕실 바닥을 천천히 걷고, 문도 조심히 열었지요. “오빠 말이 맞아. 욕실은 조심히 사용해야 해.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "31670",
+      "srcText": "세린이는 깜짝 놀라 뒤를 돌아보았어요. 이런, 문고리에 옷이 걸렸네요. “으이구, 급하게 다니니까 그렇지. 천천히 다녀.” 오빠가 세린이의 옷을 빼 주며 말했어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    }
+  ]
+}

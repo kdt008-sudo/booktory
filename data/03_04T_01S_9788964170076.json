@@ -1,0 +1,132 @@
+﻿{
+  "title": "노래하고 싶어 ",
+  "author": "우와조아",
+  "illustrator": "바담",
+  "isbn": "9788964170076",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17812",
+      "srcText": "\"와, 여기는 폭신폭신한 구름 나라구나!\" 구름을 만지며 조몰락조몰락! \"손가락 하나를 펴고 구름을 오리면.\" 오호! 구름 마이크가 되었어요. \"삐악 삐악 병아리.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16386",
+      "srcText": "아이스크림 나라는 무척 달콤했어요. 초코 맛 아이스크림을 폭폭 떠서 고깔과자에 담으면! 키득키득, 아이스크림 마이크가 되었어요. \"아이스크림 맛은 좋아, 좋아.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16399",
+      "srcText": "고소한 빵 냄새가 나는 빵가게 앞으로 내려왔어요. \"앵무새야, 배고프지?\" 송송이는 진열장 안에 있는 빵을 들여다보았어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16400",
+      "srcText": "길쭉한 바게트에 동그란 팥빵을 올리면! 쩝쩝, 빵 마이크가 되겠네. \"맛있는 빵, 많이 많이 드세요.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16372",
+      "srcText": "\"히히! 내가 가수가 된 것 같아.\" 앵무새도 짝짝 박수를 쳤어요. \"잘한다, 잘한다!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16373",
+      "srcText": "송송이는 마이크를 들고 노래를 불렀어요. \"랄라라, 랄라라\" 송송이는 나풀나풀 춤까지 추었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16381",
+      "srcText": "\"와, 여기는 장난감 나라야?\" 기다란 블록을 붙이고, 동그란 블록을 척 올리면! 우후! 블록 마이크가 되었어요. \"장난감을 갖고 놀다가.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16388",
+      "srcText": "그런데 야채 마을은 쓴맛뿐이었어요. 송송이는 눈살을 찌푸렸어요. 하지만! 사각사각 당근위에 매운 양파 척!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16389",
+      "srcText": "길쭉길쭉 오이 위에 둥근 감자 척! 헤헤, 야채 마이크를 들고 폴짝폴짝. \"멋쟁이 토마토! 토마토!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17813",
+      "srcText": "\"이잉! 솜사탕 마이크를 다 먹어버렸네.\" 그러자 앵무새가 날아와 송송이의 머리를 잡아당겼어요. \"어? 앵무새야, 또 왜그래!\" 앵무새는 송송이를 물고 날아갔어요. \"천천히 가!\"",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "16402",
+      "srcText": "송송이는 노래를 부르며 집으로 갔어요. \"나는, 나는 자라서 무엇이 될까요?\" 앵무새는 졸졸졸 송송이를 따라왔지요. \"나는, 나는 노래하고 싶어\"",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "16393",
+      "srcText": "갑자기 공들이 마구 날아왔어요. \"여긴 하늘 나라 운동장인가?\" 운동장에는 여러 가지 공들이 있었지요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16394",
+      "srcText": "야구방망이 위에 야구공을 올리면! \"히히, 야구 마이크!\" \" 공을 굴려서, 공을 굴려서.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16374",
+      "srcText": "그때였어요. 오빠가 송송이의 마이크를 창밖으로 던졌어요. \"시끄러워! 조용히 해.\" \"아앙, 오빠 미워!\" 송송이는 마이크를 찾으러 밖에 나갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16396",
+      "srcText": "사르르, 솜사탕 마이크가 되었어요. 노래 한 번 부르고 솜사탕 한 입 먹고. \"나뭇가지에 걸린 분홍색 솜사탕.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "16397",
+      "srcText": "폴폴 솜사탕 가루가 날아왔어요. 앵무새를 따라 가보았더니 솜사탕 공장이었지요. 나무젓가락에 솜사탕을 휙휙 돌리면!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16375",
+      "srcText": "하지만 아무리 찾아도 마이크는 보이지 않았어요. \"내 마이크가 없어졌잖아! 아앙\" 그러자 앵무새가 송송이의 머리를 콕콕 건드렸어요. \"앵무새야, 왜 그래? 어어\" 앵무새는 송송이를 문 채 하늘로 올라갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30
+    }
+  ]
+}

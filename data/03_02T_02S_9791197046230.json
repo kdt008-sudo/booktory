@@ -1,0 +1,48 @@
+﻿{
+  "title": "스파이를 찾아라!",
+  "author": "하늘땅",
+  "illustrator": "아람북스",
+  "isbn": "9791197046230",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1792",
+      "srcText": "개들 가운데 누가 숨어 있을까? 길고 복슬복슬한 꼬리 가진 스파이를 찾아 봐. 고양이들 가운데 누가 숨어 있을까? 포동포동 둥글둥글 귀여운 스파이를 찾아 봐.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "1796",
+      "srcText": "꼭꼭 숨은 스파이를 잘 찾았니? 길고 복슬복슬한 꼬리 가진 여우! 포동포동 둥글둥글 귀여운 코알라! ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "1794",
+      "srcText": "토끼들 가운데 누가 숨어 있을까? 쪼르르 쭈르르 날쌘 스파이를 찾아 봐. 기린들 가운데 누가 숨어 있을까? 목이 짧은 스파이를 찾아 봐.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1795",
+      "srcText": "곰 인형들 가운데 누가 숨어 있을까? 살아 있는 진짜 스파이를 찾아 봐. 코끼리들 가운데 누가 숨어 있을까? 뾰족뾰족 뿔 달린 스파이를 찾아 봐.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "1793",
+      "srcText": "카멜레온들 가운데 누가 숨어 있을까? 삐쭉삐쭉 골판 달린 멋진 스파이를 찾아 봐. 얼룩말들 가운데 누가 숨어 있을까? 얼룩얼룩 점이 있는 스파이를 찾아 봐.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    }
+  ]
+}

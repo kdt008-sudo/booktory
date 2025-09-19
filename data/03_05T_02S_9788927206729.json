@@ -1,0 +1,69 @@
+﻿{
+  "title": "엄마랑 약속했어요",
+  "author": "꿈바라기",
+  "illustrator": "최영하",
+  "isbn": "9788927206729",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16750",
+      "srcText": "민수는 엄마랑 약속했어요. 하루에 동화책 한 권씩 읽기! 컴퓨터는 하루에 30분만 하기!",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17295",
+      "srcText": "\"민수야, 아직도 게임을 하고 있니? 벌써 몇 시간째야?\" 외출하고 오신 엄마가 깜짝 놀랐어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17296",
+      "srcText": "\"조금만 더 할게요. 곧 동화책도 읽을 거란 말이에요.\" 민수는 다시 게임을 하기 시작했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16752",
+      "srcText": "눈도 따끔거렸어요. 하지만 엄마가 아직 안 오셨기 때문에 조금만 더 게임을 하기로 했어요. 딩동! 딩동! 초인종 소리가 들렸어요. 게임을 하던 민수는 깜짝 놀랐지요.",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "16751",
+      "srcText": "민수는 컴퓨터로 게임을 했어요. “삐용삐용, 발사!” 시간이 가는 줄도 모르고 계속 게임을 했어요. 어깨도 아프고 손목도 아파왔어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17297",
+      "srcText": "민수는 방에서 동화책을 읽었어요. 하지만 머릿속은 온통 게임 생각뿐이었어요. '아, 게임하고 싶어.'",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "17298",
+      "srcText": "엄마가 들어오셨어요. \"민수야, 컴퓨터 게임을 오래 하면 눈도 아프고 손목도 아프잖니. 동화책도 게임만큼 재미있단다. 앞으로는 약속 잘 지킬 거지?\" \"네, 엄마!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16755",
+      "srcText": "드디어 엄마가 화나셨어요. \"지금이 몇 시인데 아직까지 게임을 하고 있니? 벌써 두 시간도 지났는데!\" 엄마는 컴퓨터의 플러그를 뽑았어요. \"약속을 안 지켰으니까 앞으로 일주일 동안 컴퓨터 사용 금지야!\"",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    }
+  ]
+}

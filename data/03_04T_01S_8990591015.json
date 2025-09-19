@@ -1,0 +1,20 @@
+﻿{
+  "title": "게돌이와 여우",
+  "author": "권영삼",
+  "illustrator": "박지영",
+  "isbn": "8990591015",
+  "readAge": "유아",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "classification": "예술경험",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51879",
+      "srcText": "여우는 게돌이에게 다가가 말했습니다. “배가 고프니 너를 잡아먹어야겠다!” 게돌이는 깜짝 놀랐습니다.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    }
+  ]
+}

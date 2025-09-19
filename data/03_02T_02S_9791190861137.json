@@ -1,0 +1,48 @@
+﻿{
+  "title": "먹고 싶다, 과일 삼총사!",
+  "author": "하루",
+  "illustrator": "아람북스",
+  "isbn": "9791190861137",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1315",
+      "srcText": "귤 알맹이의 하얀 줄은 양분이 지나가는 길이에요. 사과 껍질을 깎아 두면 속살이 갈색으로 변해요. 사과 안의 물질이 공기와 만나서 그런 거예요.배 껍질 속에 달콤한 배즙이 흠뻑!",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1316",
+      "srcText": "우아, 껍질을 까서 먹을까? 사과는 껍질째 먹어도 맛있지. 귤껍질 속에 옹기종기 귤 알맹이! 사과 껍질 속에 향긋한 사과 속살!",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1314",
+      "srcText": "또 찾았다! 사과와 배는 씨방의 모양도 닮았어요. 원래 귤 속에는 씨가 있어요. 하지만 먹기가 불편해서 씨 없는 귤을 만들어 냈지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1313",
+      "srcText": "우리가 처음부터 탐스러운 과일은 아니었어. 하늘하늘 예쁜 꽃이었다가, 조롱조롱 귀여운 열매였다가, 탐스러운 과일이 된 거야.과와 배는 꽃이 주로 4~5월 사이에 피고, 종류에 따라 8~11월 사이에 수확해요. 귤은 꽃이 주로 5~6월 사이에 피고, 종류에 따라 10~3월 사이에 수확해요. 하지만 비닐하우스에서 재배하는 덕분에 1년 내내 귤을 먹을 수 있어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 55
+    },
+    {
+      "srcTextID": "1312",
+      "srcText": "사과, 배, 귤! 과일 삼총사!우아! 먹고 싶다, 아니아니, 먹고 싶어도 조금만 참아. 우리 이야기를 다 듣고 먹으면 더 맛있을 거야!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿{
+  "title": "그래그래! ",
+  "author": "우와조아",
+  "illustrator": "김민영",
+  "isbn": "9788993877847",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15968",
+      "srcText": "보랏빛 제비꽃도 피었네. 제비꽃? 제비꽃? 그래그래. 제비가 강남 갔다가 돌아올 때쯤 피는 꽃이래. 훨훨 제비꽃?",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15970",
+      "srcText": "엄마 아빠가 가장 사랑하는 꽃이지. 무슨 꽃이지? 무슨 꽃이지? 바로바로 우리 연두꽃이란다!",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "15971",
+      "srcText": "이 세상에서 가장 아름다운 꽃은 어디 있을까? 어디에 있지? 어디에 있지?",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "15969",
+      "srcText": "여기, 여기에는 별꽃이 피었네. 별꽃? 별꽃 그래그래. 작은 별처럼 예뻐서 별꽃이래. 반짝반짝! 별꽃?",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "15964",
+      "srcText": "엄마, 엄마! 이건 뭐예요? 응, 그건 강아지풀이란다. 강아지풀? 강아지풀? 그래그래, 강아지 꼬리를 닮아서 강아지풀이래. 꼬리, 꼬리! 강아지풀?",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "15958",
+      "srcText": "연두야, 연두야! 이리 와 봐. 토끼풀이 파릇파릇 피었네. 토끼풀? 토끼풀? 그래그래, 토끼가 좋아해서 토끼풀이래. 폴짝! 폴짝! 토끼풀?",
+      "srcPage": 2,
+      "srcSentenceEA": 9,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "15967",
+      "srcText": "어머나! 어머나! 할미꽃도 피었네. 할미꽃? 할미꽃? 요렇게 허리를 숙이고 있어서 할미꽃이래. 꼬부랑, 꼬부랑 할미꽃?",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+﻿{
+  "title": "점 마을에 떨어진 빨간 상자",
+  "author": "한라경",
+  "illustrator": "곽수진",
+  "isbn": "9788963836331",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "별똥별",
+  "classification": "예술경험",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "32062",
+      "srcText": "\"네가 얘기한 거야?\" \"응. 나는 마법에 걸린 빨간 상자야. 나랑 똑같은 상자를 하나 더 만들어야 원래 내 모습을 찾을 수 있대.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "32063",
+      "srcText": "\"저런. 내가 도와주고 싶은데 나 혼자서는 안 될 것 같아. 기다려 봐.\" 점점이는 친구들을 불렀어요. 점들아, 모여라! 점점이, 바쁘다 바빠!",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "32061",
+      "srcText": "연기가 사라진 자리에 빨간 상자가 나타났어요. 호기심 많은 점점이가 빨간 상자에 다가갔어요. 그런데 상자에서 목소리가 들렸어요. \"나 좀 도와줄래?\" 누가 점점이를 부른 거 같은데?",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "32060",
+      "srcText": "점 마을에 나타난 노란 마녀가 지팡이를 흔들었어요. 그러자 연기가 뭉게뭉게 피어올랐죠. \"으하하하, 빨간 상자로 변해라. 얍!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "32066",
+      "srcText": "\"우리 이제 한 줄로 서 보자. 그러면 상자처럼 길어지지 않을까?\" 점점이 친구들 모여라! 크기가 같은 점끼리 모여 보자.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "32075",
+      "srcText": "점들은 다시는 마법에 걸리지 않았어요. 마녀가 어떤 모양으로 바꾸든 간에, 점들은 모였다 흩어지며 똑같은 모양을 만들어 냈거든요! 우리 다음에는 어떤 모양을 만들어 볼까?",
+      "srcPage": 31,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "32074",
+      "srcText": "설계도를 보고 면을 접자, 점 마을에 똑같이 생긴 상자가 두 개 생겼네요! 우리가 해냈어! 빨간 상자가 들썩들썩 움직이더니 \"짠!\" 상자가 열렸어요.",
+      "srcPage": 29,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "32071",
+      "srcText": "\"우리 이제 꽤 비슷해진 것 같은데?\" 건축가 점이 뿌듯해했어요. \"면끼리 붙이면 상자랑 같은 모양이 될 거야! 조금만 더 힘내!\" 점점이가 친구들을 응원했죠.",
+      "srcPage": 23,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "32073",
+      "srcText": "\"좋았어! 다시 해 보자!\" 재단사 점은 면의 크기를 정확하게 재고, 건축가 점은 설계도를 보고 면을 붙여요. \"이제 접어 볼까?\" 길이랑 각이 똑같은 정사각형이 됐어!",
+      "srcPage": 27,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "32068",
+      "srcText": "\"자, 이제 똑바로 서 봐!\" 경찰 점이 호루라기를 불며 점들을 줄 맞춰 세웠어요. 점은 기다란 직선이 되었죠.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "32069",
+      "srcText": "점들이 가까이 붙어 서자, 정말 긴 선이 되었어요. 구불구불 서니까 구불구불 한 선이 됐어! 구불 구불 구불 구불.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "32070",
+      "srcText": "\"직선을 쌓아 보면 어떨까?\" 건축가 점이 손을 들고 말했어요. \"좋아!\" 틈이 없이 손을 잡은 점은 선이 되었고, 선을 촘촘히 쌓자 면이 만들어졌어요. 면이 되고 있어!",
+      "srcPage": 21,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "32064",
+      "srcText": "빨간 상자를 만들려면 빨간 점들이 모여야 해.  미용사 점도 말했죠. 그러자 크기가 같은 빨간 점들이 모여들기 시작했어요. 크기도 같아야 할 거 같은데?",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "32065",
+      "srcText": "점들이 회의를 시작해요. \"어떻게 해야 우리가 상자처럼 될 수 있을까요?\" 점점이가 묻자, 큰점이가 손을 번쩍 들고 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "32072",
+      "srcText": "면이 된 점들이 신나서 여기저기에 붙었어요. \"이런, 어떻게 붙여야 상자가 되는 거지?\" \"어? 여기 설계도가 있어!\" 모험가 점이 상자 바닥에서 설계도를 찾았어요!",
+      "srcPage": 25,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "32067",
+      "srcText": "\"한 줄로 서도 상자랑 다른데?\" 점점이의 표정이 어두워졌어요. \"더 가까이 서 봐. 틈이 보이지 않을 정도로 가까이.\" 어느새 다가온 경찰 점이 점들을 더 가까이 세웠어요. 가까이!",
+      "srcPage": 17,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30
+    }
+  ]
+}

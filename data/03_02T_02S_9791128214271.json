@@ -1,0 +1,97 @@
+﻿{
+  "title": "깨끗한 지구를 위하여",
+  "author": "강은경",
+  "illustrator": " 전지은",
+  "isbn": "9791128214271",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 12,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42006",
+      "srcText": "버섯은 죽은 동물과 식물을 좋은 흙으로 바꾸어 놓아. 식물들은 버섯이 만든 좋은 흙에서 무럭무럭 자라. 버섯도 식물들이 잘 자라도록 도와주는 고마운 친구야.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "42016",
+      "srcText": "지렁이가 흙 속을 이리저리 돌아다니면, 흙 속에 공기가 들어와 식물들이 숨을 쉴 수 있어. 지렁이가 흙을 먹고 동글동글 똥을 누면, 양분이 넉넉해져서 식물들이 쑥쑥 자라지. 숲속에는 누가 살고 있을까? 많은 식물, 동물, 곤충 들이 살고 있어. 이 가운데에 숲속을 깨끗하게 해 주는 청소부는 누굴까?",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 48
+    },
+    {
+      "srcTextID": "42012",
+      "srcText": "강물에는 누가 살고 있을까? 다슬기, 가재, 그리고 여러 가지 물고기가 살아. 이 가운데에 강물을 깨끗하게 해 주는 청소부는 누굴까?",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "42015",
+      "srcText": "바로 지렁이야. 흙 속에는 동물과 식물 들이 만든 찌꺼기가 있어. 지렁이는 흙과 함께 이 찌꺼기를 먹어 치우지. 지렁이는 땅속을 깨끗하게 만드는 땅속 청소부야.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "42014",
+      "srcText": "땅속에 누가 살고 있을까? 지렁이, 두더지, 뱀, 곤충 들이 살고 있어. 이 가운데에 땅속을 깨끗하게 해 주는 청소부는 누굴까?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "42008",
+      "srcText": "식물 청소부 부레옥잠도 있어. 부레옥잠은 연못의 더러운 물을 먹고 쑥쑥 자라. 부레옥잠 덕분에 연못의 물은 점점 깨끗해지지.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "42013",
+      "srcText": "도시에는 누가 살고 있을까? 식물과 동물, 그리고 많은 사람들이 살고 있어. 이 가운데에 공기를 맑게 하는 청소부는 누굴까?",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "42011",
+      "srcText": "바로 곤충 청소부 물방개야. 물방개는 죽은 동물을 먹어. 물방개가 있어서 연못의 물은 언제나 깨끗하지.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "42009",
+      "srcText": "바로 다슬기야. 다슬기는 죽은 물고기나 물고기의 똥을 먹어. 또 초록색 이끼도 먹지. 다슬기는 강을 깨끗하게 만드는 강물 청소부야.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "42010",
+      "srcText": "바로 가로수야. 자동차가 내뿜는 매연은 공기를 오염시켜. 은행나무, 느티나무 같은 가로수는 오염된 공기를 깨끗한 공기로 바꾸어 주지. 우리는 지구 청소부! 깨끗한 지구를 위하여 열심히 일하지.",
+      "srcPage": 17,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "42007",
+      "srcText": "연못에는 누가 살고 있을까? 여러 식물과 동물이 살고 있어. 이 가운데에 연못을 깨끗하게 해 주는 청소부는 누굴까?",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "42005",
+      "srcText": "바로 버섯이야. 버섯은 낙엽과 죽은 나무, 죽은 동물을 먹고 자라나. 버섯 덕분에 숲속에 죽은 동물과 식물이 쌓이지 않아. 버섯은 숲속 청소부야.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    }
+  ]
+}

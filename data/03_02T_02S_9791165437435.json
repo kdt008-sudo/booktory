@@ -1,0 +1,90 @@
+﻿{
+  "title": "어떤 소리가 날까?",
+  "author": "이미애",
+  "illustrator": "송정화",
+  "isbn": "9791165437435",
+  "readAge": "초등_저학년",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2421",
+      "srcText": "“이제 젓가락으로 두드려 볼까?” 요정들이 유리컵을 하나씩 두드리자, 예쁜 소리가 똥 땅 당! 높고 낮은 음이 차례대로 들렸어요. “와, 신기하다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "2425",
+      "srcText": "“이 빈 통은 어떻게 하지?” “모래를 넣고 흔들어 볼까?” “다른 통에는 작은 콩과 큰 콩을 넣자.” 착착 찰찰 차르르르! 부딪치는 소리가 다르게 들렸어요. “와, 신기하다!”",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "2424",
+      "srcText": "“자, 이번에는 빨대 피리!” “빨대의 길이를 다르게 잘라서 붙여 볼까?” “부는 곳은 납작하게 해서 자르자.” 다 함께 입으로 빨대를 후후 불자, 높고 낮은 음이 삐 뽀 뿌! “와, 신기하다!”",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "2420",
+      "srcText": "“높은음과 낮은음이 나면 좋을 텐데.” “유리컵에 물을 채워 볼까?” 이 컵에 물을 쪼르르, 저 컵에도 물을 쪼르르. 요정들은 컵마다 높이가 다르게 물을 담았어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "2423",
+      "srcText": "가늘고 긴 고무줄, 굵고 짧은 고무줄. 요정들이 고무줄을 나뭇가지 사이에 맸어요. 요정들이 고무줄을 하나씩 퉁기자, 예쁜 소리가 딩 동 둥! 높고 낮은 음이 차례대로 들렸어요. “와, 재미있다!”",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "2427",
+      "srcText": "드디어 여왕님이 오시는 날! 꼬마 요정들은 연습한 대로 음악을 멋지게 연주했어요. “오! 정말 멋진 음악회였어요.” 여왕님은 크게 기뻐했어요. 그리고 상으로 꼬마 요정들의 모자에 반짝반짝 음표를 새겨 주었어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "2418",
+      "srcText": "“악기가 될 만한 것들을 찾아 보자.” 요정들은 악기를 찾아 폴짝폴짝 뛰어다녔어요. 하지만 마땅한 것들이 없었지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "2419",
+      "srcText": "요정들은 가져온 것들을 막 두드리고, 불고, 흔들었어요. 하지만 이상한 소리만 났지요. “이런 소리로 어떻게 음악회를 열지?”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "2426",
+      "srcText": "“다른 것들도 찾아서 소리를 내 보자.” 소라고둥은 부우 부우. 나무토막은 뚝뚝 딱딱. 풀잎은 삐이 삐이. 모두 모두 여러 가지 소리가 났어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "2417",
+      "srcText": "“며칠 뒤에 요정 여왕님이 오신대.” “와, 신난다!” “여왕님을 기쁘게 해 드리자.” 꼬마 요정들이 머리를 맞대고 이야기를 했어요. “음악회를 열면 어때?” “좋아, 좋아.”",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "2422",
+      "srcText": "“자, 이번에는 고무줄!” “어떻게 높은음과 낮은음을 내지?” “고무줄도 차례대로 매서 퉁겨 보자.”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    }
+  ]
+}

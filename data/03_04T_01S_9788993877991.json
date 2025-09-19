@@ -1,0 +1,125 @@
+﻿{
+  "title": "와삭와삭! 누가 먹었지? ",
+  "author": "우와조아",
+  "illustrator": "김영주",
+  "isbn": "9788993877991",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17103",
+      "srcText": "저기도 와삭! 이빨 자국! \"누가 내 수박을 몰래 먹었어!\" 화니는 팔짝팔짝 뛰며 화를 냈어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17105",
+      "srcText": "마침 개미핥기가 열심히 즙을 빨아 먹고 있었어요. \"할짝 할짝! 아유 맛있어.\" \"개미핥기야, 이 해봐!\" \"요렇게? 이!\" \"뭐야! 이빨이 없잖아.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17108",
+      "srcText": "이구아나도 따라 하고 싶은지 혀를 날름거렸어요. \"날름날름! 나도 해 볼까?\" \"그래, 어서 이 해봐!\" \"요렇게? 이!\" \"에이, 자잘하게 촘촘히 박혔잖아. 아니야, 아니야.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "17104",
+      "srcText": "\"좋아! 반드시 찾아내고야 말겠어.\" 화니는 돋보기로 수박을 자세히 들여다보았어요. \"뾰족뾰족한 긴 이빨 자국이 두개. 됐어! 꼭! 맞는 이빨을 찾아야지!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "17113",
+      "srcText": "\"입이 작아서 될지 모르겠네. 이!\" \"에그, 쪼그만 입에 자잘 자잘한 이빨들이 꽉꽉 박혔네. 아니야, 너도 아니야.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17114",
+      "srcText": "한참을 걷다 보니 강이 나왔어요. 미끌미끌 메기가 고개를 내밀었지요. \"메기야, 너도 이 해볼래?\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17109",
+      "srcText": "한참을 가다 보니 얼룩말들이 떼 지어 뛰어왔어요. \"이힝 이힝! 화니야, 뭐 해?\" \"너희들도 어서 이 해봐!\" \"뭔데? 이!\" \"이런, 뾰족뾰족 왕관모양 이빨이네. 아니야, 너도 아니야,\"",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "17115",
+      "srcText": "\"들쥐야! 너희들도 어서 이 해봐!\" \"싫어, 싫어! 지금 치카푸카! 이빨 닦을 거야.\" 어라? 들쥐 입에 수박씨가 찰싹 붙어 있지 뭐에요.",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "17116",
+      "srcText": "화니는 힘들어서 나무 밑에서 쉬었어요. 때마침 구멍에서 쥐들이 뛰어나왔지요. \"찍찍, 찍찍\"",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17110",
+      "srcText": "\"어유, 코끼리구나. 너도 어서 이 해봐.\" \"이렇게? 아님 요렇게? 이!\" \"기다란 어금니가 바깥으로 불쑥 튀어나왔네? 아니야, 너도 아니구나.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17111",
+      "srcText": "그런데 이게 웬일이에요. 진흙비가 찌익 찌익 내렸어요. \"뿌우 뿌우! 화니야, 같이 목욕하자.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17112",
+      "srcText": "그때 악어가 켁켁거리는 소리가 들렸어요. \"캬악 캬악! 가시가 걸렸나?\" \"악어야! 이 해봐. 가시가 있나 봐 줄게.\" \"그래? 고마워. 쩌억! 이!\" \"에구구, 날카로운 이빨이 번쩍번쩍하구나. 아니야 너도 아니야.\" ",
+      "srcPage": 10,
+      "srcSentenceEA": 10,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "17117",
+      "srcText": "\"바로 너희들이 내 수박을 훔쳐 먹었지? 방귀나 먹어라. 뿌웅!\" \"에구구, 구린내야! 미안, 미안.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17118",
+      "srcText": "'오호라, 드디어 찾았다!' \"들쥐야, 그럼 사진 찍어줄게!\" 들쥐들은 방긋! 벙긋! 활짝 웃었지요. \"찰칵! 뾰족한 이빨이 두개!\"",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "17106",
+      "srcText": "한참을 가다 보니 불곰이 돌 위에 누워 쉬고 있었어. \"크릉! 크릉! 배가 부른걸.\" \"불곰아, 이 해볼래?\" \"이!\" 무시무시한 송곳니가 번쩍번쩍했어. \"아니야, 넌 절대 아니야.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "17107",
+      "srcText": "들판에는 들소들이 질겅질겅 풀을 뜯어먹고 있었어. \"음매 음매! 화니야, 어디 가?\" \"맞아! 너희들도 어서 이 해봐!\" \"이렇게? 이!\" 네모 반듯한 어금니가 큼직큼직! \"아니야, 너희들도 아니야.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    }
+  ]
+}

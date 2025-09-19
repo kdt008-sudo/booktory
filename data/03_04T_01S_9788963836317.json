@@ -1,0 +1,188 @@
+﻿{
+  "title": "친구의 친구",
+  "author": "김진애",
+  "illustrator": "명진",
+  "isbn": "9788963836317",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "별똥별",
+  "classification": "예술경험",
+  "paragraphInfoCount": 25,
+  "paragraphInfo": [
+    {
+      "srcTextID": "32248",
+      "srcText": "\"오늘도 파도와 신나게 놀아야지!\" 티키는 파도와 잡기 놀이를 해요. 티키가 도망가면 파도가 달려오고 파도가 달아나면 티키가 쫓아가지요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "32249",
+      "srcText": "그런데 저게 뭘까요? 저 멀리 까만 점이 둥실둥실. \"앗, 펭귄이잖아!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "32250",
+      "srcText": "원숭이 티키는 오늘도 룰루랄라. 나무에서 나무로 휘익휘익! 숲이 끝나는 곳에 바다가 있지요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "32717",
+      "srcText": "알고 보니 펭귄 가족은 돌고래의 친구였대요. 돌고래는 펭귄의 편지를 가져왔어요. 티키는 언제 남극에 놀러 갈까 궁리했어요.",
+      "srcPage": 31,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "32718",
+      "srcText": "친구의 친구들이 있는데 왜 못 가겠어요? 티키에게 \"도와줘서 고마워, 친구야! 남극에 꼭 놀러와 친구의 친구의 친구의 친구의 친구의 친구들도 모두 함께 와!\"",
+      "srcPage": 31,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "32699",
+      "srcText": "티키가 소리쳤어요. \"펭귄에게 여기는 너무 더워. 얼른 돌려보내야 해!\"",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10
+    },
+    {
+      "srcTextID": "32700",
+      "srcText": "티키네 마을이 발칵 뒤집혔어요. \"아니, 이게 어떻게 된 일이야?\" \"남극에 있어야 할 펭귄이 어쩌다가 여기까지 왔을까?\" ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "32701",
+      "srcText": "펭귄이 무어라고 손짓 발짓. 아, 남극에서 얼음이 쪼개지는 바람에 얼음에 올라탄 채로 흘러왔군요. 그런데 펭귄이 비실비실 기운이 없어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "32711",
+      "srcText": "티키와 친구들이 뚝딱딱 뚝딱. 정말로 배를 다 만들었어요. 이제 펭귄은 배를 타고 출발할 거예요. 친구가 더 많아져서 인사가 아주 길어요. 잘가! 잘가! 안녕! 또 만나! 안녕! 안녕! 안녕! 남극으로 출발! 그런데?",
+      "srcPage": 21,
+      "srcSentenceEA": 13,
+      "srcWordEA": 43
+    },
+    {
+      "srcTextID": "32714",
+      "srcText": "쇠똥구리의 친구 꿀벌은 달콤한 꿀을 배에 가득 실었어요. 꿀벌의 친구 갈매기는 남쪽을 알려 주었어요. 갈매기의 친구 돌고래는 펭귄 가족에게 소식을 전하러 갔어요. 마침내 펭귄이 떠나는 날! 친구의 친구의 친구의 친구의 친구의 친구까지 펭귄을 배웅하느라 바닷가는 발 디딜 틈이 없네요. 잘 가! 안녕!",
+      "srcPage": 27,
+      "srcSentenceEA": 7,
+      "srcWordEA": 48
+    },
+    {
+      "srcTextID": "32702",
+      "srcText": "\"나무로 만들지!\" \"나무를 가져오자! 나무!\" 티키와 친구들이 나무를 가져왔어요. 그런데 이런 나무로 배를 만들 수 있을까요? \"친구에게 도움을 청해야겠어.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "32703",
+      "srcText": "어떻게 해야 펭귄을 남극으로 돌려보낼 수 있을까요? \"배를 만들어야 해. 바다를 건너가야 하잖아.\" \"배는 어떻게 만들지?\"",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "32707",
+      "srcText": "\"이런 배로는 멀리 가지 못해. 돛을 달면 바람이 배를 밀어 줄 거야.\" \"어떻게 하지?\"",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "32708",
+      "srcText": "모두가 고민에 빠졌어요. 그때 코끼리가 티키를 쿡쿡. \"내 친구가 도와줄 거야.\"",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "32706",
+      "srcText": "이제 펭귄은 배를 타고 남극으로 갈 거예요. 그새 정이 들어서 인사가 길어요. 잘가! 잘가! 안녕! 안녕! 그런데 티키가 갑자기 소리쳤어요. \"잠깐만, 멈춰!\"",
+      "srcPage": 15,
+      "srcSentenceEA": 8,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "32709",
+      "srcText": "코끼리 친구 왕부리새가 돛 만드는 걸 도와주었어요. 커다랗고 아름다운 돛이 생겼네요! \"고마워, 친구의 친구야!\"",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "32710",
+      "srcText": "티키가 왕부리새에게 고맙다고 인사했어요. \"친구의 친구잖아. 얼마든지 도울 수 있지.\"",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "32251",
+      "srcText": "\"고마워, 친구의 친구의 친구야!\" \"친구의 친구의 친구잖아. 얼마든지 도울 수 있지.\"",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "32252",
+      "srcText": "진흙 공이 데굴데굴 데구루루. 나무 틈을 튼튼하게 꼼꼼하게 메워요. 왕부리새의 친구 쇠똥구리가 도와주었어요.",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "32704",
+      "srcText": "\"우린 친구잖아. 얼마든지 도울 수 있지.\" 티키와 친구들이 영차 영차 뚝딱뚝딱. 함께하니까 금방 배가 완성되었어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "32705",
+      "srcText": "우람한 나무가 한가득! 티키의 친구 코끼리가 도와주었어요. \"고마워, 친구야!\"",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10
+    },
+    {
+      "srcTextID": "32712",
+      "srcText": "\"배에 틈이 있네? 틈을 메워야 멀리 갈 수 있어.\" \"어떻게 하지?\"",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "32713",
+      "srcText": "모두가 고민에 빠졌을 때, 왕부리새가 코끼리를 쿡쿡, 코끼리가 티키를 쿡쿡. \"친구의 친구가 도와줄 거야.\" \"내 친구의 친구의 친구가 도와준다고?\"",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "32715",
+      "srcText": "\"혹시 중간에 폭풍우를 만나진 않았겠지? 돌고래가 소식을 꼭 알려 준다고 했는데.\" 그때 저 멀리서 까만 점이 둥실둥실. \"돌고래다!\"",
+      "srcPage": 29,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "32716",
+      "srcText": "펭귄이 떠나고 여러 날이 지났어요. 티키는 날마다 바닷가로 와서 펭귄 소식을 기다렸어요. \"남극에 무사히 도착했을까?\"",
+      "srcPage": 29,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

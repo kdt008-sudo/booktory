@@ -1,0 +1,76 @@
+﻿{
+  "title": "어떻게 딸까요? ",
+  "author": "우와조아",
+  "illustrator": "구인성",
+  "isbn": "9788993877090",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17047",
+      "srcText": "밤나무에 가시가 뾰족뾰족한 밤송이가 열렸어요. 다람쥐가 야금야금 먹기 전에 따야해요. 어떻게 딸까요?",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17044",
+      "srcText": "\"아빠 목마타고 딸 거예요.\" '히히, 재밌다.' 동글동글 매끈매끈! 사각사각! 새콤달콤!",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "17041",
+      "srcText": "오물 오물~ 냠냠! 몽글 몽글~ 달콤해! 배나무에 노란 배가 주렁주렁 열렸어요. 까마귀가 콕! 콕! 쪼아 먹기 전에 따야 해요. 어떻게 딸까요?",
+      "srcPage": 4,
+      "srcSentenceEA": 9,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "17043",
+      "srcText": "사과나무에 빨간 사과가 대롱대롱 열렸어요. 애벌레가 야금야금 갉아먹기 전에 따야 해요. 어떻게 딸까요?",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17045",
+      "srcText": "감나무에 새빨간 홍시가 달랑달랑 매달려 있어요. 까치가 폭! 폭! 먹기 전에 따야 해요. 어떻게 딸까요?",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17042",
+      "srcText": "조심조심! \"사다리 타고 올라가요.\" 아작아작 쩝쩝! 서걱서걱! 단물이 줄줄~",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17055",
+      "srcText": "\"흔들흔들! 나무를 흔들어요.\" \"야! 신난다!\" 땡글땡글! 반질반질! 오도독오도독! 고소해. \"어떻게 땄나요?\" \"어떤 것을 먹었나요?\" \"포도, 사과, 배~\" \"또?\"",
+      "srcPage": 12,
+      "srcSentenceEA": 9,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "17046",
+      "srcText": "\"기다란 막대기로 딱! 딱! 딸 수 있어요.\" 아슬아슬! 반들반들 몰랑몰랑! 흐물흐물! 달콤달콤!",
+      "srcPage": 9,
+      "srcSentenceEA": 7,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17040",
+      "srcText": "포도나무에 보라색 포도가 송이송이 열렸어요. 여우가 똑! 똑! 따먹기 전에 따야 해요. 어떻게 딸까요? \"풀쩍풀쩍 뛰어서 똑! 똑! 따면 돼요.\" 요렇게!",
+      "srcPage": 2,
+      "srcSentenceEA": 9,
+      "srcWordEA": 28
+    }
+  ]
+}

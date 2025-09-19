@@ -1,0 +1,90 @@
+﻿{
+  "title": "여행간다고 상상해 봐! ",
+  "author": "우와조아",
+  "illustrator": "김미나",
+  "isbn": "9788964170212",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15673",
+      "srcText": "별은 다시 상상했어요. \"친구를 만나고 싶어. 또 여행을 해야겠어.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10
+    },
+    {
+      "srcTextID": "15676",
+      "srcText": "별은 생각했어요. '친구는 참 좋은 거구나.' 마음이 하나로 통하는 것 같았지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "15667",
+      "srcText": "크리스마스트리 위에 반짝반짝 별이 있었어요. 매일 같은 곳에 있는 별은 여행을 하고 싶었어요. \"바다에 갔으면 좋겠어.\"",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15671",
+      "srcText": "하늘로 올라간 별은 몸에서 빛이 났어요. 모든 것이 훤히 잘 보였지요. 반짝반짝 별 친구들도 많았어요. \"별이 되길 잘한 것 같아.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "15670",
+      "srcText": "하지만 다시 생각했어요. '하늘에 가면 어떨까?' 불가사리는 몸이 가벼워졌어요. 툭툭 물을 털고, 둥둥 떠올랐지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "15675",
+      "srcText": "하늘이 움직여서 별의 눈이 되었어요. 그리고 친구를 만났지요. 재잘재잘 즐거운 이야기를 했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "15669",
+      "srcText": "별은 몸이 말랑말랑해졌어요. 꼭 고무처럼 말이에요. 몸에서 바다 냄새가 솔솔 났지요. 불가사리가 된 거예요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15678",
+      "srcText": "한번 상상해 보세요. 나는 무엇이 되고 싶은지. 어떤 친구를 만나고 싶은지. \"상상하면 그대로 이루어진대요.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "15668",
+      "srcText": "별의 소원은 이루어졌어요. 나무가 점점 내려가기 시작했거든요. 아래로, 아래로, 점점 더 아래로.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "15674",
+      "srcText": "별의 말을 들은 하늘이 움직였어요. 기우뚱기우뚱 별도 달도 움직였지요. 하늘이 거꾸로 서는 것 같았어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "15677",
+      "srcText": "친구는 든든한 기동 같았어요. 별은 그만 여행하기로 결정했어요. 좋은 친구를 만났기 때문이지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    }
+  ]
+}

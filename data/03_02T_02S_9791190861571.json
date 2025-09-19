@@ -1,0 +1,90 @@
+﻿{
+  "title": "쉿! 버섯의 비밀",
+  "author": "김민진",
+  "illustrator": "아람북스",
+  "isbn": "9791190861571",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1751",
+      "srcText": "버섯은 숲의 청소부야! 버섯이 낙엽이랑 죽은 나무를 쏙쏙 먹어 치우면 숲속이 깨끗해져. 버섯은 숲속 동물들의 맛있는 먹이야. 버섯은 영양분도 많고 맛과 향이 좋아서 사람도 숲속 동물도 아주아주 좋아해. 다람쥐도 냠냠 . 달팽이도 냠냠. 버섯 맛있니?",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "1746",
+      "srcText": "동글동글 달걀 모양 달걀버섯.  자글자글 주름치마 모양 치마버섯. 오돌토돌 돌기 솟은 공 모양 말불버섯.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1747",
+      "srcText": "따따따 나팔 모양 나팔버섯. 움푹움푹 밥그릇 모양 들주발버섯. 얼기설기 그물 모양 노란망태버섯.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "1748",
+      "srcText": "버섯은 모양이 여러 가지야! 삐죽삐죽한 것도, 둥글넓적한 것도 모두 모두 버섯이야. 둥글둥글 엉덩이 모양 노루궁뎅이버섯.  후루룩후루룩 국수 모양 노란창싸리버섯.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1755",
+      "srcText": "버섯은 퐁, 방귀도 잘 뀌어! 버섯은 퐁, 방귀를 뀌는 것처럼 꼭대기 구멍으로 퐁, 홀씨를 내보내. 홀씨들아, 바람 타고 훨훨 날아가렴. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1749",
+      "srcText": "버섯은 무엇이든 잘 먹지! 버섯은 가는 실을 뻗어 어떤 영양분이든 쪽쪽 잘도 빨아 먹어. 나무를 쪽쪽, 영지버섯. ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1752",
+      "srcText": "노란색 찐빵 같은 노란다발버섯. 하얀 점 박힌 빨간 갓을 쓴 광대버섯. 선비처럼 갓을 쓴 갈색고리갓버섯.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1753",
+      "srcText": "새빨간 사슴뿔 같은 붉은사슴뿔버섯. 삐죽삐죽 바닷속 산호 같은 붉은싸리버섯. 반달 같은 낮의 화경버섯.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1754",
+      "srcText": "하지만 조심해야 해! 알록달록 예쁜 색깔이라고 덥석 먹으면 큰일 난단 말이야. 머리가 아프거나 쓰러질 수 있어.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1745",
+      "srcText": "한바탕 시원하게 비가 내렸어. 온 세상이 깨끗해진 것 같아. 저기 땅속에서 무언가 쑥 솟아났어. 아! 축축한 곳을 좋아하는 버섯이구나. 난 그늘지고 축축한 곳이 좋아. 쑥! 튀어나왔어.",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "1756",
+      "srcText": "버섯은 실뭉치 덩어리야. 잎도, 꽃도, 열매도 없는 버섯은 얼기설기 실뭉치가 얽혀 있는 곰팡이야. 버섯은 땅속이나 나무줄기 속에서 팡이실이 얽혀 있는 상태로 지내요. 그러다가 비 온 뒤 버섯 모양으로 솟아나와요.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32
+    }
+  ]
+}

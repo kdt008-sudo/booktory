@@ -1,0 +1,104 @@
+﻿{
+  "title": "같이 가고 싶었어",
+  "author": "옐레케 라이큰",
+  "illustrator": "매크 반 하헬동",
+  "isbn": "9791165952129",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 13,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5274",
+      "srcText": "그런데 새들이 보이지 않았어요. “나무늘보 씨! 새들이 어디로 날아갔는지 아세요?” 나무늘보는 느릿느릿 바위산 쪽을 가리켰어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5275",
+      "srcText": "셋은 강을 따라 둥실둥실 떠내려갔어요. “빨리 따뜻한 곳으로 가고 싶어!”  어느새 강기슭에 다다랐어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5272",
+      "srcText": "“곰아, 넌 겨울잠을 자야 하잖아. 코끼리랑 내가 다녀와서 말해 줄게.” 닭이 말했어요. “나도 갈래. 새들을 따라 따뜻한 곳으로!” 곰이 앞장섰어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5276",
+      "srcText": "셋은 줄 위를 걸어서 바위산을 건너기로 했어요. 코끼리와 닭은 금방 건넜는데, 곰은 계속 휘청거렸어요. “곰아, 눈을 떠! 자면 안 돼!” “아, 너무 졸려!”",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5273",
+      "srcText": "잠시 뒤, 셋은 컴컴한 숲을 조심조심 지났어요. 그리고 커다란 강에 다다랐어요. “커다란 잎을 타고 강을 건너자!”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5281",
+      "srcText": "열기구는 별이 총총한 밤하늘을 둥실둥실 날아갔어요. 무사히 숲에 도착했어요. 곰은 쿨쿨 잠이 들었어요. 코끼리와 닭이 다정히 속삭였어요. “곰아, 우린 언제까지나 네 친구야.”",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5280",
+      "srcText": "닭이 두리번거리더니 말했어요. “우리 이 열기구를 타고 숲으로 돌아가자!” 코끼리가 열기구에 바람을 후후 불어 넣었어요. 셋은 차례차례 열기구에 탔어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5277",
+      "srcText": "“내가 겨울잠을 자는 동안, 너희가 나를 잊을까 봐 따라온 거야.” 곰은 더 크게 울었어요. “곰아, 네가 겨울잠을 자는 동안에도 우린 널 잊지 않을 거야.” 닭이 곰을 어루만지며 말했어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5278",
+      "srcText": "“너무 덥고 너무 졸려! 숲으로 돌아가고 싶어, 엉엉!” “곰아, 힘들지? 괜히 함께 왔나 봐.”  코끼리가 걱정스레 말했어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5279",
+      "srcText": "곰은 꾸벅꾸벅 졸면서 걸었어요. “어? 새가 내려앉았어. 저기가 따뜻한 곳인가 봐.” 갑자기 곰이 푹 쓰러졌어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5271",
+      "srcText": "“어? 새들이 왜 멀리 날아가는 거야?” 곰이 물었어요. “날씨가 추워지니까 따뜻한 곳으로 가는 거야.” 코끼리가 알려 주었어요. “따뜻한 곳으로? 나도 가고 싶어.” 곰이 말했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5269",
+      "srcText": "곰은 고개를 저었어요. “난 못 놀아. 겨울잠을 자려면 많이 먹어야 해.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "5270",
+      "srcText": "찬 바람이 솔솔, 겨울이 오고 있어요. “곰아, 같이 놀자.” 코끼리와 닭이 다가왔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    }
+  ]
+}

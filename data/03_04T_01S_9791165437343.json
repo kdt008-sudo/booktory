@@ -1,0 +1,34 @@
+﻿{
+  "title": "나 찾아 봐",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165437343",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "아람키즈",
+  "classification": "예술경험",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7059",
+      "srcText": "나 찾아 봐! 야옹야옹! 담요 뒤에 있어. 나 찾아 봐! 야옹야옹! 액자 앞에 있어.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "7058",
+      "srcText": "나 찾아 봐! 야옹야옹! 피아노 건반 위에 있어. 나 찾아 봐! 야옹야옹! 의자 아래에 있어.",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "7060",
+      "srcText": "나 찾아 봐! 야옹야옹! 바구니 안에 있어. 나 찾아 봐! 야옹야옹! 엄마 옆에 누워 있어. 참 행복해.",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 23
+    }
+  ]
+}

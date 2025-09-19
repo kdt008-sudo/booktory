@@ -1,0 +1,62 @@
+﻿{
+  "title": "우린 닮았나? ",
+  "author": "우와조아",
+  "illustrator": "박선용",
+  "isbn": "9788993877755",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16275",
+      "srcText": "나무와 사람이 닮았대요. \"나무는 눈도 입도 코도 없어.\" \"나무는 걸어 다니지도 않잖아.\"",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17008",
+      "srcText": "알록 달록! 예쁜 모습이 닮았어! 하늘을 향해 쭉쭉 뻗은 굵은 나무!",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "17009",
+      "srcText": "초록빛 나뭇잎이 햇볕을 가려주었어요. \"이 나무는 든든한 네 아빠를 닮았구나!\" '아빠를 닮았다고?'",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17010",
+      "srcText": "튼튼! 튼튼! 씩씩한 모습이 닮았어! 납죽납죽 햇살 받아먹고, 꿀꺽꿀꺽 물도 받아먹고, 빨간 사과가 주렁주렁 열렸어요. \"사과가 발그레한 영아 얼굴이랑 닮았구나.\" '나랑 닮았다고?'",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "17011",
+      "srcText": "혼자 서 있는 빼빼 마른 겨울 나무. \"허허, 겨울 나무는 날 닮았구나.\" 영아는 할아버지를 꼬옥 안아주었어요. \"할아버지 따뜻하죠?\" \"그래그래, 고맙다.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "17006",
+      "srcText": "나뭇가지마다 노랑 꽃, 분홍 꽃이 피었어요. \"고운 꽃 빛깔이 엄마랑 닮았네!\" \"맞아요! 엄마처럼 예뻐요.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17005",
+      "srcText": "알쏭달쏭? 갸웃 갸웃! 연둣빛 새싹이 쏙쏙! 할아버지가 꽃밭에 주르륵 물을 주었어요. \"이 새싹은 작고 귀여운 아가를 닮았구나!\"  '아가를 닮았다고?'",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    }
+  ]
+}

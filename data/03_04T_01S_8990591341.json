@@ -1,0 +1,27 @@
+﻿{
+  "title": "뽀드득 뽀득 싹싹",
+  "author": "강윤정",
+  "illustrator": "정영희",
+  "isbn": "8990591341",
+  "readAge": "유아",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "classification": "예술경험",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49340",
+      "srcText": "‘꼬르륵!’ 뱃속에서 소리가 났습니다. 아하! 호야가 배가 고픈가 보네요. “집에 가서 밥 먹어야지.” 호야는 ‘안녕’ 손을 흔들며 집으로 갔습니다.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "49338",
+      "srcText": "“호야, 놀자!” “호야, 이리 와!” 놀이터에서 친구들이 불렀습니다. 호야는 냉큼 미끄럼대로 뛰어갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "title": "나비가 되기까지 ",
+  "author": "B&D 기획, 편집",
+  "illustrator": "김영주",
+  "isbn": "9788964170274",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17749",
+      "srcText": "번데기 속에서 기다리고, 기다리면 어느새 빛나는 한 줄기 희망의 빛. \"드디어 나갈 시간인가 봐.\" 몸을 꿈틀꿈틀, 번데기가 움찔움찔.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15214",
+      "srcText": "노란색 알은 점점 변해서 안에서 작은 애벌레가 꼬물꼬물. 애벌레는 배가 고파서 알껍데기를 아그작 아그작. 이곳저곳 맛있는 나뭇잎을 오물오물. 점점 더 쑥쑥 자랄 거야.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "17750",
+      "srcText": "알록달록 날개가 나오면 그래도 기다려야 해. 보송보송 날개가 다 마를 때까지 말이야. 시간이 흐르면 날개를 펴고 나풀나풀. 저 멀리 달콤한 꿀을 먹으러 갈 거야.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "15215",
+      "srcText": "새들이 쪼쪼 다가오면 풀잎 뒤에 그대로 멈춰라! 무시무시한 사마귀가 다가오면 노란 뿔을 내밀고, 어흥 무섭지! 그러다가 조금씩 몸이 딱딱해지면 가만가만 번데기가 되어야 해.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "15213",
+      "srcText": "한 마리 나비가 알을 낳으려고, 이리저리 팔랑팔랑 날아다녀. 매끌매끌한 알이 풀잎에 동글동글 톡톡! 쉿! 조금더 기다려야 해.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    }
+  ]
+}

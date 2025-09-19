@@ -1,0 +1,62 @@
+﻿{
+  "title": "바빠요, 바빠 ",
+  "author": "우와조아",
+  "illustrator": "박미옥",
+  "isbn": "9788993877762",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17800",
+      "srcText": "상수리나무가 나뭇가지를 살짝 흔들었어. \"다람쥐야, 다람쥐야! 열매를 맺고 있단다.\"맛있겠다! 정말 맛있겠다!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16325",
+      "srcText": "그때 바람이 휘익 불어왔어. \"가을아, 가을아! 뭐 하니?\" 정원사 아저씨가 땀을 닦으며 대답했지. \"나무들이 잘 자라게 보살펴 준단다.\" 그렇군요! 그렇군요!",
+      "srcPage": 11,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "17799",
+      "srcText": "황금빛 벼들이 바람에 출렁거렸지. \"아저씨, 아저씨! 알찬 곡식을 만들고 있어요.\" 그래그래! 수고하려무나!",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17801",
+      "srcText": "단풍나무가 얼굴을 붉히며 대답했지. \"잠자리야, 잠자리야! 단풍을 만들고 있단다.\" 빨간 단풍잎! 숨바꼭질할까?",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16329",
+      "srcText": "\"울긋불긋 단풍이 참 예쁘군요!\" \"달콤한 꿀맛! 고마워요.\" 가을은 산들산들 손 흔들며 떠나갔어. 안녕! 내년에 또 만나요!",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16330",
+      "srcText": "모두 모두 큰소리로 인사했어. \"맛난 햅쌀밥, 잘 먹을게.\" \"고소한 도토리로 겨울 준비 할게요.\"",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "16324",
+      "srcText": "하늘하늘 코스모스가 배시시 웃었어. \"꿀벌아, 꿀벌아! 예쁜 꽃을 피우고 있어.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    }
+  ]
+}

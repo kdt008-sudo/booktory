@@ -1,0 +1,62 @@
+﻿{
+  "title": "과자 사 줄게",
+  "author": "꿈바라기",
+  "illustrator": "김선미",
+  "isbn": "9788927206972",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17123",
+      "srcText": "아주머니는 미나를 엄마에게 데려다 주었어요. 엄마 품에 꼭 안긴 미나는 그제야 안심이 되었어요. “미나야, 참 잘했어!”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "17120",
+      "srcText": "미나는 친구와 헤어져 골목으로 들어섰어요. 그때 미나를 지켜보던 아저씨가 다가와 말했어요. “얘야, 잠깐만!”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17279",
+      "srcText": "“엄마가 모르는 사람한테 물건을 함부로 받지 말라고 했어요.” 미나는 엄마의 말을 떠올리고는 또박또박 말했어요. “그럼 예쁜 인형 사 줄게, 같이 가자.” “싫어요. 부모님의 허락 없이는 아무것도 안 받을래요.”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "17122",
+      "srcText": "“그리고 지금 집에서 엄마가 기다리신단 말예요.” 하지만 아저씨는 미나를 놔 주지 않았어요. 미나는 점점 무서웠어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "17285",
+      "srcText": "미나는 재빨리 아저씨의 손을 뿌리치고는 이웃집으로 뛰어들어 갔어요. “아주머니, 저 왔어요!” 그러고는 아주머니에게 말했어요. “저 아저씨가 자꾸 과자 사 준다면서 손을 잡았어요.” 아저씨는 깜짝 놀라 도망을 갔어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "17278",
+      "srcText": "미나가 친구와 놀이터에서 그네를 타고 있어요. 휘잉휘잉, 무척 신나요. 그런데 이런 미나를 지켜보는 아저씨가 있었어요. 계속 주위를 서성이면서 말이에요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17121",
+      "srcText": "그러고는 다정하게 물었어요. “얘야, 참 예쁘구나. 아저씨가 과자 사 줄까?”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    }
+  ]
+}

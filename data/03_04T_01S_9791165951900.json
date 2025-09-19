@@ -1,0 +1,69 @@
+﻿{
+  "title": "우리 아빠는요",
+  "author": "히도 반 헤네흐텐",
+  "illustrator": "히도 반 헤네흐텐",
+  "isbn": "9791165951900",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5290",
+      "srcText": "아빠랑 있으면 진짜진짜 즐거워요. 이리 와! 귀여운 우리 딸! 난 아빠를 정말정말 사랑해요. 왜냐고요? 우리 아빠니까요. 빠빠! 아빠! 멍멍!",
+      "srcPage": 18,
+      "srcSentenceEA": 9,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5287",
+      "srcText": "아빠는 장을 볼 때, 꼭 하나씩 빠트려요. 이것 봐! 빵, 치즈, 셀러리, 파, 당근, 바나나까지. 오늘은 아빠가 필요한 거 다 사 왔어. 어? 아기 기저귀는요? 흠, 이런!",
+      "srcPage": 12,
+      "srcSentenceEA": 7,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "5282",
+      "srcText": "아빠는 아빠 몸이 크다는 걸 잘 모르나 봐요. 아빠, 뭐 하세요? 물이 다 넘치잖아요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5288",
+      "srcText": "아빠는 뭐든 너무 열심히 해요. 영차, 영차! 여, 여보! 좀 살살 해요. 배가 너무 흔들려요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5284",
+      "srcText": "내가 아빠를 도와드려야 할 때도 종종 있어요. 어? 내 안경이 어디 갔지? 아무리 찾아도 안 보이네. 아빠 머리 위에 있어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5289",
+      "srcText": "오늘은 아빠가 모임에서 늦게 온대요. 엄마, 아빠 언제 와요? 이제 그만 자야지.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5285",
+      "srcText": "아빠는 뭐든 잘 고친다고 으스대지만, 아닌 것 같아요. 아빠, 플러그를 꽂아야죠. 이상하네, 왜 안 되지?",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5283",
+      "srcText": "아빠는 게임에서 지는 걸 무척 싫어해요. 지난번 아빠가 게임에서 졌을 때는 아이처럼 막 우기더라니까요. 야호, 내가 이겼다!",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

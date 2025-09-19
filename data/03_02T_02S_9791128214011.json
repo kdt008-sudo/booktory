@@ -1,0 +1,55 @@
+﻿{
+  "title": "우리 눈은 착각쟁이",
+  "author": "양지안",
+  "illustrator": " 김지현",
+  "isbn": "9791128214011",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41270",
+      "srcText": "선은 삐딱하고, 동그라미는 찌그러졌지? 아니야, 반듯반듯한 선에 동그란 원이야. 빗금 모양 때문에 달라 보이는 거야.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "41273",
+      "srcText": "무엇을 그린 걸까? 요렇게 보면 오리, 조렇게 보면 토끼야. 무늬와 색도 눈을 착각쟁이로 만들어. 실제보다 더 뚱뚱하게 보이게 하고, 더 날씬하게 보이게도 해.",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "41269",
+      "srcText": "피에로가 몸집이 작은 순서대로 서 있을까? 아니야, 피에로의 몸집은 모두 똑같아. 터널 모양 때문에 달라 보이는 거야.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "41268",
+      "srcText": "우리 눈은 착각쟁이야. 아래에 있는 물고기가 더 길어 보이지? 아니야, 두 물고기의 길이는 똑같아. 화살표 모양 때문에 달라 보이는 거야.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "41266",
+      "srcText": "빙글빙글 뱅글뱅글. 그림이 춤을 추는 것 같아. 우리 눈을 착각쟁이로 만드는 걸 찾아봐. 주위에 얼마든지 있으니까.",
+      "srcPage": 29,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "41267",
+      "srcText": "어두운색은 작아 보이게 하고 밝은색은 커 보이게 해. 착시를 이용하면 재미있는 사진도 찍을 수 있어. 글자들은 어떨까? 글자들도 나란히 나란히 모아 놓으면. 출렁출렁 파도처럼 글자들이 춤을 추는 것 같아.",
+      "srcPage": 29,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    }
+  ]
+}

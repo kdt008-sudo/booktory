@@ -1,0 +1,62 @@
+﻿{
+  "title": "신호등이 없어요",
+  "author": "꿈바라기",
+  "illustrator": "함정선",
+  "isbn": "9788927206545",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16998",
+      "srcText": "공원에 가려면 횡단보도를 건너야 해요. 차가 휭휭, 쌩쌩! \"그런데 신호등이 없네. 어떻게 건너지?\"",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16719",
+      "srcText": "한 아저씨가 횡단보도 앞에 멈춰 섰어요. \"저 아저씨를 따라서 건너면 안전할 거야.\" \"그래!\" 차가 뜸하자 아저씨는 길을 건너기 시작했어요. 태찬이와 예솔이도 손을 번쩍 들고 아저씨를 따라 건넜지요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16720",
+      "srcText": "\"네, 아저씨. 감사합니다!\" 태찬이와 예솔이는 아저씨에게 인사를 하고는 공원으로 갔어요. 둘은 공원에서 재미있게 놀았어요. 공을 팅팅, 탱탱!",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16718",
+      "srcText": "태찬이네 집에 예솔이가 놀러 왔어요. \"태찬아, 길 건너에 공원 가서 놀자.\" \"그래.\" 태찬이는 예솔이와 함께 집을 나섰어요. 그리고 도롯가의 횡단보도에 다다랐어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16721",
+      "srcText": "\"우리 이번에는 육교로 갈래?\" \"그래, 좀 멀기는 하지만 그게 더 안전할 것 같아.\" 태찬이와 예솔이는 육교를 건너 무사히 집에 도착했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "16722",
+      "srcText": "신호등이 없는 횡단보도에서는 손을 들고, 어른을 따라 천천히. 어른이 없을 때는 육교 이용하기! 태찬이와 예솔이는 늘 잊지 않고 안전하게 생활하는 어린이가 될 거예요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "16999",
+      "srcText": "태찬이와 예솔이가 길을 건너는 동안 운전자들은 정지선에 멈춰 섰어요. 횡단보도를 건너자, 아저씨가 말씀하셨어요. \"얘들아, 신호등이 없는 횡단보도는 위험하단다. 저 사거리에 있는 육교로 다니렴. 멀기는 하지만 그게 더 안전해.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    }
+  ]
+}

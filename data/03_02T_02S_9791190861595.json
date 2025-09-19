@@ -1,0 +1,90 @@
+﻿{
+  "title": "박, 박, 수박과 호박",
+  "author": "김인숙",
+  "illustrator": "아람북스",
+  "isbn": "9791190861595",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1665",
+      "srcText": "내가 고른 수박은 예쁜 까만색 씨. 호박은 어때? 내가 고른 호박은 누르스름한 하얀색 씨. 그런데 수박씨와 호박씨, 색깔은 다른데, 모양이 비슷해.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1666",
+      "srcText": "네가 고른 수박, 내가 고른 호박. 둘 다 박이니까 같은 점이 있겠지? 말도 안 돼. 둘 다 박이지만, 전혀 다르다고! ",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1671",
+      "srcText": "도르르 돌돌 말린 덩굴손! 수박은 덩굴손을 쭉쭉 펴서 가지를 뻗는다고. 호박도 그래. 호박도 덩굴손을 쫙 펴서 쭉쭉 뻗어 나간단 말이야! ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1667",
+      "srcText": " 흥, 떡잎이 비슷하다고 수박과 호박이 같을 수는 없어. 난 수박 싹. 난 호박 싹. ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1674",
+      "srcText": "수박은 꽃 아래 씨방이 볼록해져서 수박 열매가 나.  호박은 어때? 호박도 수박처럼 열매가 나. 아하! 박, 박, 수박과 호박은 공통점이 있는 친척이야. ",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "1672",
+      "srcText": "꽃잎이 하늘하늘 예뻐서 벌들이 수박꽃에만 올 것 같지? 호박꽃이 훨씬 예뻐. 벌들도 호박꽃을 더 찾아올걸?",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1673",
+      "srcText": "잠깐, 수박과 호박은 어쩌면 형제가 아닐까? 아니야, 둘은 분명 달라!  자, 봐. 수박꽃은 노란색이야. ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1669",
+      "srcText": "수박과 호박, 또 다른 게 있을까? 수박의 잎은 안쪽에서부터 3~4쌍의 갈래가 갈라져 있어요. 잎 가장자리에는 우둘투둘 톱니가 있어요. ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1670",
+      "srcText": "수박잎은 길쭉길쭉 갈래가 나뉘었어. 호박잎이랑 전혀 달라. 정말 그러네. 둘 다 박인데, 호박잎은 넓적넓적해. ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "1676",
+      "srcText": "수박을 반으로 자르면 빨간 속살에 까만 씨가 콕 콕 콕! 호박을 반으로 자르면 주황 속살에 하얀 씨가 콕 콕 콕! 그래. 박, 박, 수박과 호박은 친척이야.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1677",
+      "srcText": "이제 수박의 빨간 속살 파내어 화채랑 아이스크림, 주스를 만들까? 호박의 주황 속살 파내어 죽도 끓이고, 떡도 찌고, 찜도 만드는 거야! 다 파낸 수박과 호박으로는 가면 놀이를 하자!",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29
+    }
+  ]
+}

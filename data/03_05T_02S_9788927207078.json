@@ -1,0 +1,62 @@
+﻿{
+  "title": "강아지에게 물렸어요!",
+  "author": "꿈바라기",
+  "illustrator": "수아",
+  "isbn": "9788927207078",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15554",
+      "srcText": "동생의 팔은 퉁퉁 부어올랐어요. “엄마, 팔에 열도 나는 것 같아요. 엉엉.” 엄마는 동생 팔을 흐르는 물로 씻고는 소독약을 발라 주었어요. 그리고 거즈를 붙였지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "15552",
+      "srcText": "그 뒤로 강아지는 동생을 슬슬 피해 다녔어요. “강아지야, 같이 놀자.” 동생이 아무리 말해도 강아지는 계속 도망치기만 했지요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "15556",
+      "srcText": "동생은 미안한 얼굴로 강아지를 꼭 안아 주었어요. “강아지야, 앞으로는 정말 예뻐해 줄게.” 그러자 강아지도 기분이 좋은지 동생의 볼을 핥았어요!",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "15555",
+      "srcText": "병원으로 데려가 주사도 맞혔어요. “동물에게는 독이 있을 수도 있으니, 물리면 꼭 주사를 맞아야 해.” 집에 오자 엄마가 동생에게 말했어요. “강아지는 사람보다 힘이 약하단다. 놀고 싶다고 괴롭히면 강아지는 화가 나겠지? 앞으로는 강아지를 돌보고 사랑해 주렴.” “네, 엄마.”",
+      "srcPage": 13,
+      "srcSentenceEA": 7,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "15550",
+      "srcText": "우리 집에 새 가족이 생겼어요. 갈색의 예쁜 푸들이에요. “와, 정말 귀엽다.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "15553",
+      "srcText": "\"흥! 감히 나를 피해 다녀?\" 동생은 화가 났는지 강아지를 파리채로 때리기도 했어요. 동생이 또 강아지를 괴롭히러 와요. 그런데 동생이 강아지를 잡으려는 순간, 강아지가 동생의 팔을 콱 깨물고 말았어요. \"아얏!\"",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "15551",
+      "srcText": "그런데 동생은 매일 강아지를 괴롭혔어요. 강아지가 낑낑대도 말이에요. 그러던 어느 날, 동생이 실수로 강아지를 떨어뜨리고 말았어요. “깨갱 깽깽!”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    }
+  ]
+}

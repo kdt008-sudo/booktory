@@ -1,0 +1,41 @@
+﻿{
+  "title": "우린 이렇게 말해",
+  "author": "장선혜",
+  "illustrator": "혜마",
+  "isbn": "9791165435196",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1270",
+      "srcText": "우리는 긴 목으로 싸울 수 있어. 머리를 맞대고 누가 이기나 볼까? 꼬리로 단단히 받치고 앞발로 하나 둘!",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "1271",
+      "srcText": "우리는 똥으로 안부를 전하지. 똥을 살펴보니 친구가 잘 살고 있군. 으악, 냄새가 여기까지 나!",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "1269",
+      "srcText": "나무에 나 있는 내 발톱 자국 보이지? 내 소리가 들리는 곳까지 모두 내 땅이야! 내 냄새를 맡았다면 이곳에는 들어오지 마! ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1182",
+      "srcText": "우리는 멋진 춤만 추면 돼. 우리는 커다란 노랫소리면 충분해. 우리는 꽁지 깃털을 펼치지.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    }
+  ]
+}

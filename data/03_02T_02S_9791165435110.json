@@ -1,0 +1,41 @@
+﻿{
+  "title": "깨끗한 손, 깨끗한 이",
+  "author": "정소영",
+  "illustrator": "백정석",
+  "isbn": "9791165435110",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1236",
+      "srcText": "깨끗해 보이는 하얀 손을 자세히 들여다봐. 바글바글 득시글득시글 무언가 잔뜩 있어.  세균은 손바닥에 셀 수도 없이 많이 있어요. 한 손에 수만 마리나 있지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "1238",
+      "srcText": "하하하! 이 아이들 좀 봐! 서로서로 병을 옮기고 있잖아! 손만 깨끗하게 씻어도 여러 가지 전염병을 예방할 수 있어요. ",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1239",
+      "srcText": "깨끗해 보이는 하얀 이를 자세히 들여다봐. 바글바글 득시글득시글 무언가 잔뜩 있어. 입 안에는 이를 썩게 하는 충치균이 있어요. 충치균은 사탕, 초콜릿, 과자, 음료수같이 단 음식을 좋아해요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1237",
+      "srcText": "어디를 만져도 여기저기 숨어 있는 세균을 만지게 돼. 그리고 그 손으로. 세균은 전화기나 문손잡이, 장난감 등 어디에나 있어요. 그래서 이것저것 만질 때마다 세균은 여기저기로 쉽게 옮겨 가지요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    }
+  ]
+}

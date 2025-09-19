@@ -1,0 +1,90 @@
+﻿{
+  "title": "곰 인형아, 잘 가!",
+  "author": "톰 엘리안",
+  "illustrator": "제인 마시",
+  "isbn": "9791165952013",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6000",
+      "srcText": "겨울이 되니, 곰 인형은 더 작아졌어. 하나, 둘, 셋, 곰 인형은 양말 세 개 길이랑 같았어. “엄마, 곰 인형이 작아졌어요.”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5997",
+      "srcText": "곰 인형이 커서 좋을 때도 있었어. 비가 올 때는 곰 인형 품에 쏙 들어가고, 심술꾸러기 강아지가 짖을 때는 곰 인형 뒤에 쏙 숨으면 됐거든. 어느 날, 곰 인형이 좀 작아진 것 같았어. “아빠, 곰 인형이 작아졌어요.” “아니, 그대로인데?”",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "6005",
+      "srcText": "아, 다른 인형들과 함께 옷장 위에 있었네. 곰 인형이 행복해 보여. 난 침대에 혼자 있지만, 괜찮아. 이제 훌쩍 자랐으니까. 곰 인형아, 안녕!",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "6003",
+      "srcText": "“곰 인형아, 어디 있니?” 침대에도, 옷장에도, 서랍에도, 가방에도 없었어. 어디 숨은 걸까? 어디로 가 버린 걸까?",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "6004",
+      "srcText": "결국, 곰 인형은 내 품에 쏙 들어올 만큼 작아져 버렸어. 난 곰 인형을 가방에 넣어 어디든 데리고 다녔어. 며칠 전부터 곰 인형이 보이지 않았어.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5995",
+      "srcText": "곰 인형은 너무 무거웠어. 함께 다니려면, 두 손으로 끙끙 당겨야 했지. “곰 인형아, 이리 와!”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5996",
+      "srcText": "내가 작은 아기였을 때, 아빠가 아주아주 큰 곰 인형을 데려왔어. 곰 인형은 내 침대를 다 차지했어. “곰 인형아, 좀 비켜 줄래?”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5998",
+      "srcText": "난 곰 인형을 옷장에 세웠어. 그리고 나랑 키를 재어 보았지. 우린 키가 비슷했어.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "6002",
+      "srcText": "곰 인형은 점점 나보다 작아졌어. 난 더는 아무에게도 말하지 않았지. 곰 인형을 자라게 하려고 내 수프를 나눠 주기도 했어. 하지만 곰 인형은 그대로였어.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "6001",
+      "srcText": "“아니, 그대로인데?” “자주 빨아서 줄어든 게 아닐까요?” 곰 인형은 나보다 작았지만, 여전히 우린 친한 친구였어. 난 잠자리에 들 때마다 곰 인형을 꼭 안고 잠이 들었어.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5999",
+      "srcText": "곰 인형이 나랑 비슷해서 참 좋았어. 꼭 친구 같았거든. 우린 늘 함께 재미나게 놀았어.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

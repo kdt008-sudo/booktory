@@ -1,0 +1,62 @@
+﻿{
+  "title": "내 꼬리 봤니?",
+  "author": "츠쿠노스케",
+  "illustrator": "츠쿠노스케",
+  "isbn": "9791165951818",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6766",
+      "srcText": "“어떡해, 꼬리가 없어졌어. 내 꼬리, 어디에 있을까?” “들쥐야, 내 꼬리 봤니?” “내 꼬리처럼 분홍색이니?” “아니, 내 꼬리는 갈색이야.”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "6769",
+      "srcText": "“강아지야, 내 꼬리 봤니?” “내 꼬리처럼 북슬북슬하니?” “아니, 내 꼬리는 매끈매끈해.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "6770",
+      "srcText": "“돼지야, 내 꼬리 봤니?” “내 꼬리처럼 돌돌 말렸니?” “아니, 내 꼬리는 곧게 생겼어.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "6771",
+      "srcText": "“고양이야, 내 꼬리 봤니? 고양이야, 고양이야, 내 꼬리 봤냐니까.” “야옹! 네 꼬리 못 봤어!”",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "6768",
+      "srcText": "“뱀아, 내 꼬리 봤니?” “내 꼬리처럼 아주아주 길어?” “아니, 이렇게 길지는 않아.”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "6772",
+      "srcText": "“깜짝이야! 내 꼬리는 어디 있는 거야?” 어? 도마뱀아, 뒤 좀 돌아봐. “야호! 찾았다, 내 꼬리! 예전 꼬리랑 조금 다르지만, 맘에 들어. 이제 잃어버리지 않을 거야.”",
+      "srcPage": 18,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "6767",
+      "srcText": "“토끼야, 내 꼬리 봤니?” “내 꼬리처럼 동그랗게 생겼니?” “아니, 내 꼬리는 길쭉해.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    }
+  ]
+}

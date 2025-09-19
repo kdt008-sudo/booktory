@@ -1,0 +1,27 @@
+﻿{
+  "title": "장난꾸러기 원숭이",
+  "author": "제흐라 힉스",
+  "illustrator": "제흐라 힉스",
+  "isbn": "9791165951771",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5058",
+      "srcText": "미어캣들아, 나랑 놀자. 어? 차례를 지켜야지. 우리처럼 줄을 서. 차례차례! 원숭이야, 네 차례를 기다려야지.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5057",
+      "srcText": "너무너무 심심해! 누구랑 놀까? 어? 저기 누가 있네. 얼룩말아, 나랑 놀자! 아, 깜짝이야! 원숭이야, 내 꼬리에 색칠하지 마.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24
+    }
+  ]
+}

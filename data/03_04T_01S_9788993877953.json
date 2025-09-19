@@ -1,0 +1,62 @@
+﻿{
+  "title": "우리 집이 좋아요",
+  "author": "우와조아",
+  "illustrator": "구인성",
+  "isbn": "9788993877953",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17017",
+      "srcText": "공중에도 집을 지어요. 둥둥 떠 있는 집이에요. “줄줄 꽁무니에서 줄을 뽑아!” “살살 그물을 치면 끝!” 거미는 집을 지어 먹이를 잡지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17842",
+      "srcText": "땅 위에도 집을 짓지요. 쑥쑥 솟아있는 아파트. 다닥다닥 붙어 있는 기와집. 오밀조밀 예쁜 벽돌집. “난, 우리 집이 제일 좋아요.”",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17013",
+      "srcText": "처마 밑에서 제비들이 집을 지어요. “지푸라기 하나! 지지배배!” “흙덩이 하나! 지지배배!” 온종일 들락날락 물고 오지요.",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "17015",
+      "srcText": "땅속에서도 집을 지어요. “팍팍팍 땅굴을 파서!” “팍팍팍 깊이깊이 파야지.” 구불구불! 두더지의 집이지요. ",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "17841",
+      "srcText": "“처마 밑에 달랑!” 물가에서도 집을 지어요. “지푸라기 찾았다! 영차영차!” “나뭇가지도 구해와야지!” 차곡차곡, 얼기설기 엮어놓은 수달의 집이지요.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17016",
+      "srcText": "얼음 위에도 집을 지어요. “앗, 차가워. 얼음조각으로 지붕을 만들자.” “얼음덩이로 바닥을 만들자.” \"야, 둥글둥글 시원한 이글루다.” 반짝반짝 빛나는 얼음집이에요.",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "17014",
+      "srcText": "숲 속에서도 집을 지어요. 바글바글! 오글오글! 많기도 해요. “여긴 여왕님의 방이야!” “먹이를 모아 둘 방도 만들어야지.” “알들을 모아 둘 방도 있어야지.” 빼곡 빼곡 방들로 가득해요.",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 29
+    }
+  ]
+}

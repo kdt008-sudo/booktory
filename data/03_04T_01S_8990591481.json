@@ -1,0 +1,20 @@
+﻿{
+  "title": "데이지 꽃",
+  "author": "양승완",
+  "illustrator": "박지영",
+  "isbn": "8990591481",
+  "readAge": "유아",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "classification": "예술경험",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49519",
+      "srcText": "데이지 꽃은 슬펐어요. 장미와 튤립 같은 꽃들은 꽃밭에서 살고 있었지만 자신은 꽃밭 가장자리에 살고 있었기 때문이에요. “어머, 장미꽃이 활짝 피었네.” “이 튤립은 정말 예쁜걸.” 사람들은 꽃밭에 물을 주면서 꽃들을 칭찬했지만 데이지 꽃은 거들떠보지도 않았어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36
+    }
+  ]
+}

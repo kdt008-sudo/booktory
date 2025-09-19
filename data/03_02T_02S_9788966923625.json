@@ -1,0 +1,41 @@
+﻿{
+  "title": "아무렴 어때",
+  "author": "유가은",
+  "illustrator": "이종균",
+  "isbn": "9788966923625",
+  "readAge": "초등_저학년",
+  "publishedYear": 2012,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2927",
+      "srcText": "“알을 품으려면 배불리 먹어야 해.” “물고기도 냠냠.” “새우도 꿀꺽.” “알을 품으려면 준비 운동도 해야지.” “하나 둘, 하나 둘.” “영차, 영차.” “어? 내 알이 어떤 것이었더라? 이것 같기도 하고, 저것 같기도 하고.”",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "2926",
+      "srcText": "“우리가 품어 줄까?” “그래, 그러자.” “우리도 셋, 알도 셋이네!” 아빠 펭귄들은 알을 하나씩 나누어 가졌어요. ",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "2930",
+      "srcText": "알을 품은 지 오랜 시간이 흘렀어요.“힘내라, 힘!” “나온다, 나와!” “보인다, 보여!” “어? 다들 임금펭귄이 아니잖아?” “아무렴 어때. 아빠 하나에 새끼 하나! 우리 모두 한 가족인걸.” ",
+      "srcPage": 11,
+      "srcSentenceEA": 8,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "2925",
+      "srcText": "임금펭귄들이 먹이를 찾으러 하나둘 바다로 가요. “앗, 누가 알을 잃어버렸나 봐. 어쩌지?” “여기에도 알이 있어!” “여기에도!” 아빠 펭귄 셋이 말했어요. ",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    }
+  ]
+}

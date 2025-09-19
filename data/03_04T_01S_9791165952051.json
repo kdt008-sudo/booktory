@@ -1,0 +1,83 @@
+﻿{
+  "title": "내 동생은 못 말려!",
+  "author": "다이애나 헨드리",
+  "illustrator": "에드 이브즈",
+  "isbn": "9791165952051",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4525",
+      "srcText": "수요일, 내 동생은 볼록볼록 낙타예요. 우리는 바닷가에 가요. 낙타는 모래밭을 아주 잘 달려요. “우아! 신난다!”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "4522",
+      "srcText": "월요일, 내 동생은 까불까불 원숭이예요. “원숭이는 아침에 뭘 먹을까?” “하하하! 거꾸로 매달려서는 음식을 못 먹겠구나.” “원숭이가 뭐라고 하는 거지?” “바나나 달래요!” 원숭이 말은 나만 알아들어요. 끽끽! 끽끽! 끽끽!",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "4526",
+      "srcText": " 목요일, 우리는 쇼핑을 가요. “동생 신발이 정말 멋지구나.” 구두 가게 아저씨가 말해요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "4523",
+      "srcText": " “거기서 뭐 하니?” “쉬! 고양이 숨겨 주고 있어요. 고양이는 곰이 무서운가 봐요.” 으르릉!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "4524",
+      "srcText": "화요일, 내 동생은 둥글둥글 곰이에요. “설거지하고 놀아 줄게.” “어이쿠! 곰이 왜 여기 있지?”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "4530",
+      "srcText": "마침내 일요일이 되면. 귀여운 내 동생 프리야가 되지요. “프리야, 오빠는 어디 있니?” “정원에 우뚝 서 있어요.”",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "4528",
+      "srcText": "토요일, 내 동생은 어흥어흥 사자예요. 정원을 어슬렁어슬렁 돌아다녀요. 우체부 아저씨가 조심조심 지나가요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "4531",
+      "srcText": "짜잔! 이제 내 차례예요. 난 길쭉길쭉 기린이에요. 내일은 어떤 동물이될까요?",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "4527",
+      "srcText": "금요일, 내 동생은 울퉁불퉁 악어예요. “이제 우리 예쁜 딸로 돌아오는 게 어때? 악어는 꼭 안아 줄 수 없잖아.”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "4529",
+      "srcText": "“쟤는 사자가 아니라 내 동생이에요. 동생은 동물 흉내를 참 잘 내요.” “그, 그런 것 같구나. 하지만 네 동생일 때가 훨씬 좋아.” “저도 그래요.”",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    }
+  ]
+}

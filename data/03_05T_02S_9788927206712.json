@@ -1,0 +1,62 @@
+﻿{
+  "title": "예진이의 생일 파티",
+  "author": "꿈바라기",
+  "illustrator": "이희정",
+  "isbn": "9788927206712",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17803",
+      "srcText": "현정이가 예진이에게서 생일 초대장을 받았어요. 현정이는 예쁜 선물을 들고, 예진이네 집으로 향했어요. 예진이네 집은 높아서 계단이 무척 많았어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "17804",
+      "srcText": "예진이네 집에 도착하니 벌써 친구들이 와 있었어요. \"예진아, 생일 축하해!\" 친구들이 축하를 해 주자 예진이는 케이크의 촛불을 '후!' 하고 불었어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16069",
+      "srcText": "눈이 와서 계단은 무척 미끄러웠어요. 현정이는 조심조심 계단을 올랐지요. 난간을 잡고 한 계단, 한 계단.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "16071",
+      "srcText": "현정이와 친구들은 모두 눈을 보러 베란다로 몰려들었어요. “내가 앞에서 볼래!” “아니야, 내가 볼래.” 모두 눈 구경을 하려고 베란다에서 깡충깡충! 의자 위로 올라가서 콩콩!",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "16072",
+      "srcText": "“그러지 말고 이렇게 거실에 앉아서 눈 구경 하는 게 어떠니?” 엄마가 말씀하시자, 모두 고개를 끄덕였어요. 예진이와 친구들은 모두 얌전히 거실에 앉아 눈 구경을 했어요. 예진이의 생일 파티는 더 없이 멋졌어요!",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "16070",
+      "srcText": "그때 베란다 밖으로 눈이 오는 게 보였어요. “또 눈이 오네!” “와, 예쁘다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17805",
+      "srcText": "그때 예진이의 엄마가 급하게 다가와 말씀하셨어요. \"어머! 얘들아, 위험해!\" \"그러다가 넘어지거나 밖으로 떨어지면 어떡하려고 그러니? 베란다에 있는 창문 쪽으로는 가지 않는 것이 좋단다.\"",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    }
+  ]
+}

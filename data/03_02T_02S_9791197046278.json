@@ -1,0 +1,76 @@
+﻿{
+  "title": "행복한 판다",
+  "author": "고영이",
+  "illustrator": "아람북스",
+  "isbn": "9791197046278",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1870",
+      "srcText": " 펑펑 눈이 오고 꽁꽁 추워도 엄마랑 같이 있으면 걱정할 필요 없어. 엄마가 곁에서 꼭 지켜 주니까. 사랑한다는 건 이런 거야.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1868",
+      "srcText": " 오늘도 이 나무에 발톱 자국을 남겼어. 어제도 그랬고 내일도 그럴 거야. 습관이란 건 이런 거야. ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1867",
+      "srcText": "역시 올라오길 잘했어. 나는 나무타기 대장 판다! 뿌듯하다는 건 이런 거지. 먹고 놀고 쉬고. 신난다는 건 이런 거야.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "1871",
+      "srcText": "내가 엄마처럼 커지면 대나무가 우거진 산을 누비는 행복한 판다가 될 거야. 꿈이 있다는 건 바로 이런 거야. 새끼 판다는 어미젖을 먹으며 자라요. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "1862",
+      "srcText": "나는 대왕판다야. 여긴 숲이 우거진 아주 높은 산이야. 난 이곳이 좋아. 내가 여기서 어떻게 사는지 말해 줄게. ",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "1865",
+      "srcText": "너는 그쪽 잡고, 나는 이쪽 잡고. 너 한 입, 나 한 입, 사이좋게 나눠 먹자. 친하다는 건 이런 거야.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1869",
+      "srcText": "이키, 발 시려! 눈이 내리기 전에 산 아래로 내려갈 걸 그랬나 봐. 후회한다는 건 이런 거야. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "1863",
+      "srcText": "이파리는 사각사각, 줄기는 오독오독. 한참을 먹었는데도 대나무가 남았네! 행복하다는 건 이런 거야.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "1864",
+      "srcText": "더울 때에는 물속으로 풍덩! 가까운 곳에 개울이 있어서 얼마나 좋은지 몰라. 기분이 좋다는 건 이런 거야.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    }
+  ]
+}

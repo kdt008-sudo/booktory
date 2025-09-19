@@ -1,0 +1,104 @@
+﻿{
+  "title": "어디에 숨었지? ",
+  "author": "우와조아",
+  "illustrator": "유희선",
+  "isbn": "9788993877908",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 13,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16925",
+      "srcText": "“찾았다!” “으악! 이게 뭐야!” 으악. 도마뱀이 폴딱폴딱 뛰며 좋아했어요. “메롱, 속았지롱!” “에구! 속았다!” 개구리는 다시 술래가 되었어요. ‘이번엔 어디에 숨을까?’",
+      "srcPage": 13,
+      "srcSentenceEA": 7,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "16924",
+      "srcText": "“도대체 어디 숨은 거야?” 바위에 앉아 두리번두리번 살펴보았지요. 순간 도마뱀 꼬리가 살짝 보이지 뭐예요. “히히, 요기에 숨어 있었구나.” 풀쩍!",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16919",
+      "srcText": "“동굴 속에 숨었니?” 푸드덕푸드덕! 번쩍번쩍! 잠자고 있던 박쥐들이 짜증을 부렸어요. “한밤중에 누가 깨우는 거야?” “이런, 이런! 박쥐야, 미안!”",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16921",
+      "srcText": "“풀잎 뒤에 숨었나?” 길쭉길쭉, 쿵덕쿵덕! 방아깨비가 풀잎에 앉아 있었어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "16915",
+      "srcText": "“연못 속에 숨었나?” 반들반들 등껍질이 반짝반짝! 물방개가 깜짝 놀라며 더듬이를 흔들었어요. “야, 쉬고 있는데 왜 방해하는 거야?” “어이쿠! 물방개야, 미안해.”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16917",
+      "srcText": "“논바닥에 숨었나?” 미끌미끌, 꾸불텅꾸불텅! 미꾸라지가 진흙 속으로 파고들었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10
+    },
+    {
+      "srcTextID": "16918",
+      "srcText": "“어이구, 추워라! 왜 진흙을 파고 그러니?” “에고고! 미꾸라지야, 미안!”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "16916",
+      "srcText": "“숲 속에 숨었니?” 기다란 혀를 날름날름! 풀인 줄 알았더니 뱀이었어요. “날 찾아왔니?” “으악, 뱀이다!”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16922",
+      "srcText": "“바위틈에 숨었나?” 뾰족뾰족! 따끔따끔! 밤송이인 줄 알았더니 고슴도치였어요. “우리 아가 우유 먹이고 있는데 누구야?” “앗! 따가워. 고슴도치야, 미안.”",
+      "srcPage": 9,
+      "srcSentenceEA": 7,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16913",
+      "srcText": "“갯벌 속에 숨었나?” 동글동글 눈이 톡! 톡! 짱뚱어가 화를 내며 쏙 숨었어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16923",
+      "srcText": "“나무 구멍 속에 숨었니?” 딱딱! 콕콕! 딱따구리가 나무를 쪼고 있었어요. “지금은 놀 수가 없어. 일해야 해.” “이런! 딱따구리야, 미안.”",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "16911",
+      "srcText": "“이야! 내가 이겼다!” 도마뱀은 신이 나서 폴짝폴짝 뛰었어요. 개구리는 술래가 되었지요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16912",
+      "srcText": "도마뱀과 개구리는 사이좋은 친구예요. “우리 숨바꼭질하자!” “가위, 바위, 보!”",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 9
+    }
+  ]
+}

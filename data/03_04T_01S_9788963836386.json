@@ -1,0 +1,188 @@
+﻿{
+  "title": "그린 히어로를 찾아라!",
+  "author": "김이슬",
+  "illustrator": "임덕란",
+  "isbn": "9788963836386",
+  "readAge": "유아",
+  "publishedYear": 2023,
+  "publisher": "별똥별",
+  "classification": "예술경험",
+  "paragraphInfoCount": 25,
+  "paragraphInfo": [
+    {
+      "srcTextID": "31778",
+      "srcText": "“아빠, 북극곰이 아빠더러 그린 히어로라고 했어요. 아빠가 정말 북극곰을 지켜 주었어요? 어떻게요?” “하하하, 아빠가 자동차 대신 자전거를 타기 때문이야.”",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "31781",
+      "srcText": "“앗, 사진에서 본 화분! 이거 엄마 거구나!” 솜이가 화분을 가리키며 외쳤어요. “어때, 예쁘니? 이건 엄마가 안 쓰는 냄비로 만든 화분이야.”",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "31800",
+      "srcText": "하지만 우리 가족의 힘만으로는 지구 환경을 지킬 수 없어요. 이 책을 보고 있는 친구들도 함께해 줄 거죠? 우린 모두 그린 히어로니까요!",
+      "srcPage": 30,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "31782",
+      "srcText": "“북극곰이 이건 그린 히어로의 물건이랬어요. 그럼 엄마도 지구를 지키는 그린 히어로예요?” 호호호, 조금 부끄럽구나.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "31783",
+      "srcText": "엄마는 쓸모없게 된 물건을 버리지 않고 예쁘게 바꾸고 새롭게 만들어 사용하거든. 이렇게 쓰레기를 줄이면 환경을 지키는 데 도움이 된단다. “세상에 딱 하나뿐인 나만의 물건도 생기고 말이야.”",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "31777",
+      "srcText": "솜이는 첫 번째 사진을 들고 생각에 잠겼어요. “이렇게 생긴 모자를 어디서 봤더라?” “솜이야, 아빠 회사 다녀올게!” 앗, 출근하는 아빠가 사진 속 모자를 쓰고 있어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "31780",
+      "srcText": "아빠를 배웅하고 집으로 돌아온 솜이는 엄마와 함께 베란다로 나갔어요. 베란다에는 엄마가 가꾸는 꽃들이 활짝 피었어요. “엄마, 제가 꽃에 물 줄게요!”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "31794",
+      "srcText": "“그래서 시간이 날 때마다 친구들과 함께 바닷가에서 쓰레기를 줍고 있어.” “우아, 언니도 그린 히어로였잖아! 언니 정말 멋지다.”",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "31788",
+      "srcText": "집 안을 둘러보니 할아버지만큼 나이가 많은 물건이 잔뜩 있어요. 할아버지 손처럼 거칠고, 주름지고, 갈라진 물건도 있어요. 하지만 고장이 나거나 쓰지 못할 물건은 없었답니다.",
+      "srcPage": 20,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "31791",
+      "srcText": "“엥, 그 사진 뭐야? 내 집게 같은데?” 학교에서 돌아온 언니가 말했어요.",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "31792",
+      "srcText": "솜이가 묻자 엄마는 고개를 저었어요. “아니, 우리 요리 집게는 훨씬 더 작은걸?” 엄마가 내민 집게는 사진과 달랐어요.",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "31796",
+      "srcText": "솜이가 들고 있는 사진을 유심히 보던 언니가 말했어요. “솜이야, 그거 네 도시락 같은데?” “어, 내 거라고?",
+      "srcPage": 27,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "31797",
+      "srcText": "“내가 어떻게 그린 히어로가 되었지?” “스티로폼이나 은박지, 종이컵 같은 일회용품을 쓰면 쓰레기가 생기지만 솜이 너처럼 도시락을 들고 다니면 쓰레기가 생기지 않아. 그래서 너도 그린 히어로인 거야!”",
+      "srcPage": 28,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "31795",
+      "srcText": "“휴, 이제 거의 다 찾았다!” 이제 남은 사진은 딱 한 장뿐이에요. 과연 마지막 물건은 누구의 것일까요?",
+      "srcPage": 26,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "31786",
+      "srcText": "“이 시계 말이니? 이건 할아버지가 네 할머니랑 결혼할 때 샀던 시계란다. 50년이 넘었지만, 소중한 것이니 조심조심 쓰고 있단다.”",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "31787",
+      "srcText": "“흐에엑, 50년이요? 시계가 50살이나 되었어요? 시계가 엄마보다 더 어른이에요!”",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "31789",
+      "srcText": "시계도, 전화기도, 선풍기도 모두 제 역할을 다하고 있었거든요. 솜이는 골동품 가게 같은 할아버지 집을 보며 생각했어요. ‘물건을 아껴 쓰고, 오래 쓰고, 함부로 버리지 않으면 쓰레기가 덜 생기니까 환경을 보호할 수 있구나.’",
+      "srcPage": 21,
+      "srcSentenceEA": 3,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "31776",
+      "srcText": "상자 안에는 다섯 장의 사진과 다섯 개의 배지가 들어 있었어요. “흐음, 이게 다 그린 히어로의 물건이라고? 그런데 그린 히어로는 누구지?",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "31779",
+      "srcText": "“자동차에서 나오는 배기가스는 지구를 감싸서 열이 빠져나가지 못하게 한단다. 그러면 지구가 점점 더 뜨거워지고, 북극의 얼음이 녹아서 북극곰이 살 수 없게 되지. 그래서 아빠는 출퇴근할 때 자전거를 타고 다녀. 북극곰도 도울 수 있고, 건강에도 좋단다.”",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 38
+    },
+    {
+      "srcTextID": "31799",
+      "srcText": "언니가 솜이의 머리를 쓰다듬으며 말했어요. “우아, 정말? 내가 그린 히어로라고?”",
+      "srcPage": 29,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "31784",
+      "srcText": "“우리 솜이 왔구나?” “어, 할아버지! 이거!” 솜이가 할아버지의 손목을 가리키며 소리쳤어요.",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "31785",
+      "srcText": "자세히 살펴보니 집 안 곳곳에 엄마가 하나하나 새롭게 꾸며서 만든 물건이 가득해요. 하마터면 버려질 뻔했던 것들인데 고운 옷을 입고 새로운 일을 하게 되었네요. “할아버지, 솜이 왔어요!”",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "31793",
+      "srcText": "“언니 거야? 이게 뭔데?” “이건 내가 바닷가에서 쓰레기를 주울 때 쓰는 집게야.” “사람들이 버린 쓰레기가 바다로 흘러들면 바다에 사는 동물이 살기 힘들어진대.”",
+      "srcPage": 24,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "31790",
+      "srcText": "집으로 돌아온 솜이는 그린 히어로의 사진을 다시 살펴보았어요. 어느덧 사진은 딱 두 장 남았어요. “엄마, 이거 혹시 요리할 때 쓰는 집게예요?”",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "31775",
+      "srcText": "띵동. 솜이에게 택배가 왔어요. “누가 보낸 거지?” 택배 상자에는 정성스럽게 쓴 편지도 들어 있어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

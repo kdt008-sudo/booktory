@@ -1,0 +1,48 @@
+﻿{
+  "title": "술래잡기",
+  "author": "키무라 유우이치",
+  "illustrator": "히라노 유키코",
+  "isbn": "9791165951764",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5407",
+      "srcText": "고양이가 원숭이를 잡다가 그만, “앗! 내 원피스!”  “고양이야, 너 일부러 그랬지?” “아니야, 실수로 그랬어! 미안해.” 원숭이가 고양이를 다다다 쫓았어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5408",
+      "srcText": "“너희 때문에 그림이 다 지워졌어!” 여우가 원숭이랑 고양이랑 돼지를 다다다 쫓았어요. “잡았다, 고양이!” 여우가 고양이의 등을 톡! “어? 꼭 술래잡기 같아!”",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5409",
+      "srcText": "“술래잡기할 친구, 모두 모여라!” “나도, 나도!” “하나, 둘, 셋! 이제 잡으러 간다!” “도망가자!”",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5405",
+      "srcText": "“고양이야, 나랑 놀자.” “난 혼자 노는 게 좋아.” “함께 놀면 더 재밌어. 이리 와!” 원숭이가 고양이를 잡다가 그만, “앗! 내 모래 탑!”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5406",
+      "srcText": "“원숭이야, 너 일부러 그랬지?” “아니야, 실수로 그랬어! 미안해.” 고양이가 원숭이를 다다다 쫓았어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    }
+  ]
+}

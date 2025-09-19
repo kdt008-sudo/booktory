@@ -1,0 +1,55 @@
+﻿{
+  "title": "미리의 여행 가방",
+  "author": "오은실",
+  "illustrator": "김순영",
+  "isbn": "9788966923670",
+  "readAge": "초등_저학년",
+  "publishedYear": 2012,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3033",
+      "srcText": "내 작은 여행 가방! 이번에는 무얼 담을까? 수영복, 수영 모자, 튜브. 물놀이할 때 쓸 것을 담아야지. ",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3035",
+      "srcText": "내 작은 여행 가방! 이번에는 무얼 담을까? 과자, 주스, 엄마가 싼 김밥. 맛있는 것을 담아야지. ",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "3031",
+      "srcText": "엄마 아빠와 함께 바다에 갈 거야. 내 작은 여행 가방에 무엇을 담을까? 빨간 원피스, 반바지 갈아입을 옷부터 담아야지.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "3037",
+      "srcText": "와, 여행 준비 끝! 응, 그런데 뭔가 빠진 것 같아. 무얼까? “미리야, 기차표도 챙겨야지.” ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "3034",
+      "srcText": "째깍째깍, 기차 시간이 다가와. 내 작은 여행 가방! 이번에는 무얼 담을까? 스케치북, 연필, 크레용! 그림을 그릴 때 쓸 것을 담아야지.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "3032",
+      "srcText": "내 작은 여행 가방! 이번에는 무얼 담을까? 빗과 거울, 핀. 나를 예쁘게 해 주는 것을 담아야지.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    }
+  ]
+}

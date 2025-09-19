@@ -1,0 +1,69 @@
+﻿{
+  "title": "준비 운동을 해요",
+  "author": "꿈바라기",
+  "illustrator": "가만희",
+  "isbn": "9788927206804",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17300",
+      "srcText": "“엄마, 계곡에 들어가도 되죠?” 찬호는 얼른 수영복으로 갈아입으며 물었어요. “아니, 점심 먹고 물에 들어가자.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17310",
+      "srcText": " “이런, 찬호야. 찬물에서 너무 오래 놀았어. 이제 밖으로 나가자.” 물에서 나오자 엄마는 따뜻한 수프를 주셨어요. 그리고 아빠는 포근한 담요로 덮어 주셨지요. “올해 여름휴가는 정말 최고예요!”",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16687",
+      "srcText": "찬호는 얼른 물놀이를 하고 싶었지만 밥을 먹은 뒤에 들어가기로 했어요. 찬호는 허겁지겁 밥을 먹었어요. “빨리 먹고 물에 들어가서 놀래요.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "17301",
+      "srcText": "밥을 다 먹자, 찬호가 물로 들어가려고 했어요. “잠깐! 찬호야, 밥을 먹고 바로 물에 들어가면 배탈이 날 거야. 조금 쉬었다가 들어오렴.” 시간이 지나자, 소화가 다 되었어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "16716",
+      "srcText": "자칫하면 물에 빠질 수도 있으니까요! 첨벙 첨벙 아하하! 물고기다! 그런데 갑자기 찬호의 입술이 파래졌어요. 그리고 몸도 오들오들 떨렸어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "17302",
+      "srcText": "“하나, 둘, 셋, 넷!” 옆구리 운동! 으샤! 무릎 운동! 하나둘! 팔 운동! 으샤! 옆구리 운동! 셋 넷! “이제 물속으로! 풍덩!” 찬호는 깊은 곳에는 들어가지 않았어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 12,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "17299",
+      "srcText": "햇볕이 쨍쨍한 여름날, 찬호네 가족이 계곡으로 놀러 왔어요. “와, 물속에 들어가면 정말 시원하겠다!” 엄마가 음식을 준비하는 동안 아빠는 평평한 곳을 찾아 텐트를 쳤어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "16692",
+      "srcText": "“아빠, 이제 저도 들어갈 거예요!” “잠깐! 준비 운동 해야지!” 찬호네 가족은 준비 운동을 했어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}

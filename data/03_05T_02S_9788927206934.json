@@ -1,0 +1,69 @@
+﻿{
+  "title": "엄마를 잃어버렸어요",
+  "author": "꿈바라기",
+  "illustrator": "이가희",
+  "isbn": "9788927206934",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16077",
+      "srcText": "“네 이름이 뭐니?” “송지영이에요.” “엄마 성함은?” “이하림이에요.” 지영이는 또박또박 묻는 말에 대답했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "17806",
+      "srcText": "“지영아, 오늘 백화점 가자.” “와, 내 옷 사 주려고요?” “응. 예쁜 원피스 사 줄게.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "17807",
+      "srcText": "지영이는 엉엉 울면서 소리쳐 불렀어요. “엄마, 엄마!” 그때 백화점 직원이 다가왔어요. “엄마를 잃어버렸니?” “네.”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "18199",
+      "srcText": "엄마는 지영이를 꼭 안아 주었어요. “우리 지영이 많이 놀랐구나! 이런 곳에 오면 엄마 손을 꼭 잡고 다녀야 해. 알았지?” 네! “그리고 길을 잃었을 때는 꼭 그 자리에 서 있어야 해. 그래야 엄마가 빨리 찾을 수 있지.” “네, 엄마. 앞으로는 마음대로 돌아다니지 않을게요.”",
+      "srcPage": 14,
+      "srcSentenceEA": 9,
+      "srcWordEA": 47
+    },
+    {
+      "srcTextID": "17808",
+      "srcText": "백화점 직원은 지영이를 데리고 방송실로 갔어요. “송지영 어린이를 보호하고 있습니다. 보호자께서는 방송실로 오시기 바랍니다.” 잠시 후에 놀란 엄마가 방송실 문을 열고 달려오셨어요. “어머! 지영아.” “엄마! 엉엉!”",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "16074",
+      "srcText": "지영이는 엄마와 백화점으로 갔어요. “엄마, 저 바지도 예쁘고, 저 티셔츠도 예뻐요!” 지영이는 엄마의 손을 잡고 이리저리 옷 구경을 했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16075",
+      "srcText": "엄마는 천천히 지영이의 옷을 골랐어요. 그때 지영이의 눈에 장난감 코너가 보였어요. “와, 정말 예쁜 인형이네!”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16076",
+      "srcText": "지영이는 혼자 장난감 코너로 가 열심히 인형을 구경했어요. 그런데 한참을 둘러보던 지영이는 깜짝 놀랐어요. 엄마가 보이지 않았거든요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

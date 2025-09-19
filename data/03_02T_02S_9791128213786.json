@@ -1,0 +1,27 @@
+﻿{
+  "title": "누구의 똥일까?",
+  "author": "유영소",
+  "illustrator": "최은희",
+  "isbn": "9791128213786",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41594",
+      "srcText": "동물들이 무엇을 먹고 사는지 어떻게 알 수 있을까? 동물이 지나간 곳을 살펴보면 딱 알 수 있지. 이야, 진짜 크다! 똥 덩어린지, 풀 덩어린지 똥에 풀이 잔뜩 엉겨 붙었어. 풀을 많이 먹었나 봐. 누구의 똥일까?",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "41600",
+      "srcText": "땅 위에 사는 제일 큰 동물 코끼리의 똥이지. 코끼리는 진짜 많이 먹어. 풀, 나뭇잎, 열매 모두 다 먹고 간간이 흙도 먹는대. 흙 속에도 영양분이 많거든.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿{
+  "title": "임금님이 옷을 입어요",
+  "author": "마티아스 말린그레이",
+  "illustrator": "마티아스 말린그레이",
+  "isbn": "9791165951702",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4270",
+      "srcText": "칭 칭 칭! 짠, 임금님을 위해 특별히 만든 보송보송 털 코트예요. 이 코트는 너무 두꺼워. 아, 힘들어.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "4273",
+      "srcText": "이제 끝! 우리 임금님, 옷 다 입었네요. 이제 산책 나갈까요? 잠깐! 어떡하지? 나 오줌 마려운데.",
+      "srcPage": 16,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "4267",
+      "srcText": "딩 딩 딩! 무늬가 화려한 조끼예요. 무늬가 너무 어지러워.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "4263",
+      "srcText": " 자, 자! 우리 임금님, 옷 입을 시간이에요! 빨리 입혀 줘. 산책 나가고 싶단 말이야.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "4268",
+      "srcText": "부웅 부웅 부웅! 나풀나풀 깃털이 달린 구두예요. 이 구두는 너무 뾰족해. 발이 아파.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "4272",
+      "srcText": " 딩동댕 딩동댕 딩동댕! 알록달록 화려한 왕관이에요. 맘에 쏙 드실 거예요. 후유, 이제 다 입은 거지?",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    }
+  ]
+}

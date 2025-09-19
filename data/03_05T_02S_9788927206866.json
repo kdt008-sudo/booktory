@@ -1,0 +1,69 @@
+﻿{
+  "title": "가스를 점검해요",
+  "author": "꿈바라기",
+  "illustrator": "이진아",
+  "isbn": "9788927206866",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 8,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17379",
+      "srcText": "\"그리고 가스가 샜을 때는 꼭 창문과 출입문을 열어 환기시키세요. 가스에 중독이 되거나 화재가 날 수 있으니까요.\" 가스 검침원 아주머니 덕분에 우리 집이 더 안전해졌어요. \"아주머니, 감사합니다!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "17378",
+      "srcText": "\"가스레인지의 스위치를 꺼도 가스가 샐 수 있으니까요.\" \"요리를 할 때 국물이 넘치거나, 바람이 불어서 불이 꺼지는 경우도 있어요. 하지만 이때도 가스는 계속 샌답니다. 늘 확인하셔야 해요.\" 불이 꺼져도 가스가 샐 수 있어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "17374",
+      "srcText": "주현이가 어린이집이 끝나고 집에 돌아왔어요. \"오늘은 간식으로 감자 쪄 먹을까?\" \"그래요, 엄마.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "17376",
+      "srcText": "\"엄마, 가스 검침원이래요.\" \"그래, 엄마는 바쁘니까 주현이가 문을 열어 줄래?\" 주현이는 얼른 문을 열어 주었어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "17375",
+      "srcText": "엄마가 주방에서 감자를 씻는데 초인종이 울렸어요. \"엄마, 누가 왔나 봐요.\" 주현이는 인터폰을 들고 말했어요. \"누구세요?\" \"네, 가스 검침 나왔습니다.\"",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16583",
+      "srcText": "\"기계가 없을 땐 호스 연결 부위에 비눗물을 발라 보렴. 거품이 보글보글 생기면 가스가 새는 거란다.\" 비눗물로 점검해요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "17377",
+      "srcText": "검침원은 기계로 중간 밸브 주변을 이리저리 대 보았어요. \"아주머니, 뭐 하세요?\" \"응, 가스가 새는지 확인해 보는 거야.\"",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "16584",
+      "srcText": "그리고 엄마에게 말했어요. \"어머님, 중간 밸브가 열려 있네요. 가스를 쓰지 않을 땐 꼭 잠가 놓아야 해요.\" 중간 밸브를 잠가 놓아요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    }
+  ]
+}

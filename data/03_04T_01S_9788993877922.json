@@ -1,0 +1,132 @@
+﻿{
+  "title": "집이 움직여요! ",
+  "author": "우와조아",
+  "illustrator": "이지연",
+  "isbn": "9788993877922",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16364",
+      "srcText": "“알록달록한 나뭇잎으로 예쁘게 꾸며야지.” 이름표도 딱 붙여 놓았지요. ‘토토의 집입니다. 똑똑 노크하세요.’",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16365",
+      "srcText": "토토는 신이 났어요. “이젠 여기가 내 집이야.” 여기저기에 도토리도 꼭꼭 숨겨놓았어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16371",
+      "srcText": "“꺄아악! 집이 거꾸로 섰다!” 토토는 떨어지지 않으려고 꼭 매달렸어요. 느릿느릿! 꾸물꾸물! 글쎄, 집이 걸어가지 뭐예요. 게다가 나뭇잎까지 따 먹는 거예요. 가만가만! 토토네 집은 게으름쟁이 나무늘보였어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "16370",
+      "srcText": "토토네 집은 나무 밑까지 내려왔어요. 그때였어요. “주루루, 주루루룩” 토토는 비 오는 소리에 잠이 깼어요. 그런데 이게 웬일이에요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16366",
+      "srcText": "숲 속 친구들이 토토의 집으로 놀러 왔어요. “야! 여기 철봉도 있다.” 다람쥐들은 휘릭휘릭 잘도 넘었어요. “툭! 떨어져도 걱정 없어. 푹신푹신하니까.”",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "16355",
+      "srcText": "아기다람쥐 토토는 장난꾸러기였어요. 눈이 반짝반짝! 입은 오물오물! “헤헤, 오늘은 누구를 골려줄까?” 쪼르르 나무 위로 올라갔지요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "16367",
+      "srcText": "여기서 쏙! 저기서 쏙! “나 찾아봐라! 여기 있지롱!” 토토네 집은 정말 재미있는 놀이터였어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "16368",
+      "srcText": "이번엔 숨바꼭질 놀이를 했어요. “이렇게 쑤욱 들어가면 안 보이지롱!” “어디 있지? 어디 있지?”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16369",
+      "srcText": "어느새 모두가 잠든 밤이 되었어요. 토토도 새근새근 잠이 들었지요. “톡, 톡! 토독!” 토토네 집에서 도토리가 하나씩 떨어졌어요. 슬금슬금, 느릿느릿 토토네 집이 움직이지 뭐예요.",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "16358",
+      "srcText": "그런데 나뭇가지에 솜털 뭉치가 걸려 있었어요. 순간 토토의 눈빛이 반짝였지요. “히야, 이건 처음 보는 건데. 뭐지?” 그때였어요. 딱따구리가 딱딱거리며 쫑알거렸어요. “그건 독수리가 뺏어 온 아기 이불이야.”",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "16362",
+      "srcText": "그래도 토토는 솜털 뭉치가 좋았어요. “이건 내 것이야. 내가 발견했잖아.”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "16363",
+      "srcText": "토토는 솜털뭉치 속으로 쏙 들어가 보았지요. “어, 이건 또 뭐지?” 오돌오돌! 조몰락조몰락! 입으로 한번 빨아보았지요. “히야, 맛있는 우유도 나오네.”",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16359",
+      "srcText": "“아니야, 그건 먼지 묻은 구름이야.” 나뭇잎을 따 먹던 기린도 아는 척을 했어요. “구름? 구름 위로 올라가 볼까?” 토토는 폴짝 구름 위로 뛰어올랐어요. 까칠까칠! 포근포근!",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16356",
+      "srcText": "그런데 이를 어쩌지요? 나무가 아니라 얼룩이의 몸이었어요. “쉬이이익, 쉭! 쉭!”",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "16357",
+      "srcText": "얼룩이는 혀를 날름거리며 째려보았어요. “아이쿠! 잘못했어요.” 토토는 쪼르르 내려와 다른 나뭇가지로 올라갔지요. “휴, 살았다. 큰일 날 뻔했네.”",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16360",
+      "srcText": "“야! 여기 손잡이도 있다.” “아니야! 그건 커다란 포크야!” 개미가 고개를 살래살래 흔들었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "16361",
+      "srcText": "그러자 얼룩이가 화를 벌컥 내며 소리쳤어요. “야, 시끄러워! 그건 코끼리가 목욕하고 닦는 수건이야.” “정말? 퀴퀴한 냄새가 나는 걸.”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿{
+  "title": "눈이 아파요",
+  "author": "꿈바라기",
+  "illustrator": "오복선",
+  "isbn": "9788927207085",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16063",
+      "srcText": "햇볕이 따뜻한 봄날이에요. 선생님과 함께 꽃밭에 왔어요. 희선이가 친구들과 얘기를 할 때였어요. 휘익. 갑자기 바람이 불더니 먼지가 날아왔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16068",
+      "srcText": "선생님이 친구들에게 말씀하셨어요. “여러분, 눈에 먼지가 들어가면 절대 눈을 비벼서는 안 돼요.” “흐르는 물에 눈을 깜박여 보고, 그래도 먼지가 나오지 않으면 병원으로 가서 치료해야 해요.” “네.”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "16064",
+      "srcText": "“아얏!” 희선이가 눈을 감싸 쥐었어요. 희선이는 눈이 따가웠어요. 주르르 눈물도 났지요. 선생님은 재빨리 희선이의 눈을 살폈어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "16067",
+      "srcText": "선생님은 약하게 수도꼭지를 틀고 희선이에게 말했어요. “희선아, 수돗물에 눈을 대고 깜박거려 봐.” 흐르는 물에 눈을 대고 깜박거리자 곧 아픈 게 사라졌어요. “이제 괜찮아졌어요. 선생님.” “그래, 먼지가 씻겨 나갔나 보구나.”",
+      "srcPage": 12,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "16066",
+      "srcText": "선생님은 희선이를 수돗가로 데리고 갔어요. “물로 씻으면 괜찮아질 거야.” 선생님은 손을 깨끗이 씻은 뒤 희선이의 눈을 살펴보았어요. “너무 작아서 보이지가 않네.”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "16065",
+      "srcText": "“눈에 먼지가 들어갔나 보구나. 먼지가 들어갔을 땐 눈을 비비면 안 돼. 그러면 먼지가 더 깊이 들어가게 된단다.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

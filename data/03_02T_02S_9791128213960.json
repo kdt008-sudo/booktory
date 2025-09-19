@@ -1,0 +1,27 @@
+﻿{
+  "title": "나무가 쑥쑥 자라서",
+  "author": "장선혜",
+  "illustrator": "편형규",
+  "isbn": "9791128213960",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40329",
+      "srcText": "꼬꼬마 과학자가 들려주는 물체와 물질 이야기. 나무가 쑥쑥 자라서는 자연 물질의 이용에 대한 이야기입니다. 자연에서 얻은 물질은 우리 생활의 많은 부분에 이용되고 있습니다. 글 없는 순수한 그림책인 나무가 쑥쑥 자라서는 나무가 우리 생활에 어떻게 이용되고 있는지 알려 주고 있습니다.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 42
+    },
+    {
+      "srcTextID": "40330",
+      "srcText": "내가 심은 나무야. 내 키가 크는 것처럼 나무도 쑥쑥 자라지. 나무는 아주 큰 나무가 되었어. 그리고 그 나무로 내 아기의 침대를 만들었지.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "title": "바보 개구리",
+  "author": "양승완",
+  "illustrator": "전복순",
+  "isbn": "8990591430",
+  "readAge": "유아",
+  "publishedYear": 2003,
+  "publisher": "생각의샘",
+  "classification": "예술경험",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49540",
+      "srcText": "친구들로부터 도망친 개구리는 외떨어진 바위를 찾아갔어요. “이제 난 날 수 있을 거야!” 개구리는 힘차게 팔을 휘두르며 바위 꼭대기에서 뛰어내렸어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "title": "난 너무 귀여워!",
+  "author": "가브리엘 에반스",
+  "illustrator": "가브리엘 에반스",
+  "isbn": "9791165951948",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5607",
+      "srcText": "올빼미야, 안녕? 넌 너무 귀여운 거 같아. 진짜 올빼미는 날개도 크고 멋진데 말이야. 왜 아무 말도 안 해? 흠, 딴 친구를 만나러 갈래.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5605",
+      "srcText": "거기 누구 없어? 책장 좀 넘겨 봐. 안녕? 난 펭귄이야. 모두 날 보면 귀엽다고 해. 귀여운 눈 귀여운 부리 귀여운 날개.  나도 알아, 내가 귀엽다는 걸.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "5609",
+      "srcText": "고래야, 안녕? 넌 진짜 고래보다 너무 귀여운 거 같아. 내 말 듣고 있어? 다들 왜 그래? 우리는 너무 귀엽다고!",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5608",
+      "srcText": "곰아, 안녕? 진짜 곰은 앞발에 무시무시한 발톱이 있대. 그런데 넌 너무 귀여워. 그치? 뭐라고 말 좀 해 봐.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5606",
+      "srcText": "하지만 멋진 펭귄이면 좋겠어. 진짜 펭귄 사진을 본 적이 있는데, 멋있더라고. 난 너무 귀여워. 그래서 속상해. 다른 친구들은 어떤지 보러 가야겠다. 출동!",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    }
+  ]
+}

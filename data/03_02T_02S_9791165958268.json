@@ -1,0 +1,90 @@
+﻿{
+  "title": "양쪽이 똑같은 나라로!",
+  "author": "녘",
+  "illustrator": "혜마",
+  "isbn": "9791165958268",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 11,
+  "paragraphInfo": [
+    {
+      "srcTextID": "40392",
+      "srcText": "그런데 달그락달그락, 덜커덩덜커덩! 수납장에서 이상한 소리가 들렸어요. 끼익! 수납장 문이 열리면서 물건들이 와르르 쏟아졌어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "40389",
+      "srcText": "“앗! 여기는 아까 읽던 그림책 세상이네!” 모모는 어리둥절 주위를 살펴보았어요. “안녕? 나는 소소야.” “어? 넌 그림책 속 주인공!”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "40385",
+      "srcText": "“고마워, 소소야. 우리 다음에 또 만나!” 모모는 무지개 미끄럼틀을 타고 집으로 갔어요. “헤헤, 무지개도 양쪽이 똑같네. 정말 신기한 여행이었어!”",
+      "srcPage": 14,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "40386",
+      "srcText": "“소소야, 나도 이제 집에 가야겠어.” “벌써? 그럼 이 무지개 미끄럼틀을 타고 가. 네가 보던 그림책 속 무지개야.” ",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "40387",
+      "srcText": "그림책을 읽던 모모의 눈이 동그래졌어요. “양쪽이 똑같은 나라라고? 우아, 재미있겠다! 나도 가고 싶어!” 그때 책장 사이에서 색종이 한 장이 팔랑팔랑 떨어졌어요. ",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "40388",
+      "srcText": "“이건 뭐지?” 모모가 색종이를 반으로 접어 싹둑싹둑 오렸더니. 짜잔! 하트 모양이 되었어요! 그런데 하트가 반짝반짝 빛나며 글자가 뿅! 나타났어요. 양쪽이 똑같은 모양을 만든 당신! 양쪽이 똑같은 나라로 초대합니다.",
+      "srcPage": 2,
+      "srcSentenceEA": 8,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "40382",
+      "srcText": "정말 양쪽이 똑같네! 양쪽이 똑같이 생긴 집 안에는 양쪽이 똑같은 물건들로 가득했어요! “우아! 소파도, 곰 인형도, 꽃병도, 공도 모두 양쪽이 똑같잖아!”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "40390",
+      "srcText": "“양쪽이 똑같은 나라에 온 걸 환영해!” “내가 양쪽이 똑같은 나라에 온 거야?” “그래! 나를 따라와 봐.” 소소는 모모를 자기 집으로 데려갔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "40391",
+      "srcText": "“모모야, 배고프지?” 소소가 식빵에 딸기잼을 발라 주었어요. “우리는 음식도 양쪽이 똑같은 것만 먹어.” “와, 정말 대단하다!”",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "40383",
+      "srcText": "“이런, 양쪽이 다른 물건들이 몽땅 쏟아져 버렸네.” “양쪽이 다르다고?” 모모는 물건들을 하나하나 살펴보았어요. 그리고 소소에게 하나씩 건네주었지요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "40384",
+      "srcText": "소소는 양쪽이 다른 물건들을 차곡차곡 상자에 담았어요. “양쪽이 다른 나라로 보내야겠어.” 양쪽이 달라! 양쪽이 똑같지 않아!",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    }
+  ]
+}

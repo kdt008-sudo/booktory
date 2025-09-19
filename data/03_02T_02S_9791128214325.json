@@ -1,0 +1,48 @@
+﻿{
+  "title": "지구야 지구야",
+  "author": "하늘땅",
+  "illustrator": "곽재연",
+  "isbn": "9791128214325",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 5,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41389",
+      "srcText": "안녕, 나는 지구라고 해. 그런데 나는 어디에 있을까? 포근포근한 이불 속에 있을까?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "41390",
+      "srcText": "찰랑찰랑한 물속에 있을까? 끈적끈적한 거미줄에 걸려 있을까? 어두컴컴한 땅속에 있을까?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "41393",
+      "srcText": "나는 스스로 뱅글뱅글 돌고 있지. 어지럽지 않느냐고? 아니, 난 이렇게 도는 게 즐거운걸. 나는 태양 둘레도 빙글빙글 돌고 있어. 하루 종일 뱅글뱅글, 일 년 내내 빙글빙글.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "41394",
+      "srcText": "내가 스스로 뱅글뱅글 돌아야 낮과 밤이 생기거든. 태양 빛을 받는 곳이 낮이 되고, 태양 빛을 받지 않는 곳이 밤이 되지. 또 내가 태양 둘레를 빙글빙글 돌아야 계절도 생기거든. 태양 빛을 곧장 받는 곳이 여름이 되고, 태양 빛을 비스듬하게 받는 곳이 겨울이 되지.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 45
+    },
+    {
+      "srcTextID": "41387",
+      "srcText": "그런데 말이야, 나는 왜 대부분 푸릇푸릇 파란색일까? 노릇노릇 갈색일 수도 있고, 이글이글 빨간색일 수도 있잖아. 지구 표면은 육지가 약 30퍼센트를 차지하고, 바다가 약 70퍼센트를 차지하고 있어요. 물은 생물이 살아가는 데 꼭 필요하지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 35
+    }
+  ]
+}

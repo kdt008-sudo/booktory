@@ -1,0 +1,41 @@
+﻿{
+  "title": "코끼리와 그네",
+  "author": "상립",
+  "illustrator": "마부대왕",
+  "isbn": "9791165951788",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4577",
+      "srcText": "바람을 세게 불어 볼까? 외계인에게 우주로 데려가라고 할까? 인어 아가씨에게 바다로 데려가라고 할까? ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "4574",
+      "srcText": "코끼리는 왜 종일 그네만 탈까? 바나나를 주면 내려올까? 깜짝 놀라게 하면 내려올까? ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "4588",
+      "srcText": "기구에 태우자! 아하! 가위로 오리면 어떨까? 가위를 쓸 때는 조심해! 마법의 보자기로 수리 수리 마하 수리! 얍! 아이코! 그네까지 사라졌네! 수리 수리 마하 수리! 얍! 다시! ",
+      "srcPage": 22,
+      "srcSentenceEA": 11,
+      "srcWordEA": 36
+    },
+    {
+      "srcTextID": "4589",
+      "srcText": "원반을 던지면 어떨까? 강아지가 아니잖아. 빨간 천을 펄럭이면 어떨까? 소가 아니잖아. 우르르 쾅쾅! 우산을 쓰고 그네를 타네. 어? 아기 코끼리다. 형아! 나 그네 타고 싶어! 그래그래! 내가 밀어 줄게. ",
+      "srcPage": 22,
+      "srcSentenceEA": 12,
+      "srcWordEA": 39
+    }
+  ]
+}

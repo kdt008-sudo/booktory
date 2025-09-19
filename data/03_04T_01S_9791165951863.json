@@ -1,0 +1,27 @@
+﻿{
+  "title": "101개의 엉덩이",
+  "author": "샘 하퍼",
+  "illustrator": "크리스 제본스",
+  "isbn": "9791165951863",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5059",
+      "srcText": "졸래졸래 밀림의 엉덩이. 올망졸망 도시의 엉덩이. 대롱대롱 나무 위의 엉덩이.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "5060",
+      "srcText": "시끌시끌 농장의 엉덩이. 재잘재잘 공원의 엉덩이. 반짝반짝 밤하늘의 엉덩이.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    }
+  ]
+}

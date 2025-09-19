@@ -1,0 +1,41 @@
+﻿{
+  "title": "상자랑 놀자!",
+  "author": "플라이트",
+  "illustrator": "로살린 비어드쇼",
+  "isbn": "9791165951757",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5402",
+      "srcText": "톰은 둥당둥당 북을 치고, 알리스는 씽씽 자전거를 타고 샘에게 가요. 샘은 커다란 상자를 갖고 있어요. 무엇이 들어 있을까요?",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5401",
+      "srcText": "톰의 상자예요. 톰의 상자는 작아요. 무엇이 들어 있을까요? 톰이 둥당둥당 북을 치며 알리스에게 가요. 알리스도 상자를 갖고 있어요. 무엇이 들어 있을까요?",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5404",
+      "srcText": "여러 가지 상자가 있어요. 상자로 아주아주 재미나게 놀 수 있어요. 보세요, 재밌죠? 그리고. 더, 더, 더 재미나게 놀 수 있어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5403",
+      "srcText": "샘이 담요로 괴물 흉내를 내요. 으르르릉! 잠깐! 저기 낸시 옆에 아주아주 커다란 상자가 있어요. 무엇이 들어 있을까요?",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+﻿{
+  "title": "바나나는 맛있어",
+  "author": "고영이",
+  "illustrator": "임다와",
+  "isbn": "9791190861120",
+  "readAge": "초등_저학년",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1715",
+      "srcText": "애걔걔, 뭐가 커? 두고 보면 알아. 그뿐인 줄 알아? 바나나가 자라고 자라면 엄마, 아빠보다 훨씬 키가 커.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "1719",
+      "srcText": "커져라, 커져라. 바나나야, 커져라. 위로 위로 쭉쭉 자꾸자꾸 커져라. 익어라, 익어라. 바나나야, 익어라. 노랗게 달콤하게 바나나야, 익어라. 초록색 바나나는 덜 익어 떫고 딱딱해요.",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1711",
+      "srcText": "바나나는 씨가 없잖아. 그래서 얼마나 먹기 편한데? 원래 바나나는 씨가 많이 있었어요. 사람들이 먹기 쉽게 개량을 해서 씨가 없어진 거예요.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "1709",
+      "srcText": "동글동글 다 똑같잖아? 하지만 바나나는 길쭉길쭉. 기다란 바나나는 진짜진짜 멋있어. 바나나는 길쭉길쭉.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1713",
+      "srcText": "비가 후드득후드득 올 때, 우산으로 쓰면 얼마나 좋은데? 바나나잎은 길이 2~4미터, 폭은 1미터까지 자라요. 태국, 베트남 같은 나라에서는 비닐봉지나 플라스틱을 대신해 바나나잎으로 친환경적인 포장을 하고 있어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "1714",
+      "srcText": "히히, 우산이 필요 없네. 바나나잎으로 물건도 포장할 수 있네? 커다란 바나나잎은 쓸모도 많아.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "1716",
+      "srcText": "우아, 바나나나무 진짜로 크다! 바나나는 나무가 아니라 풀이야. 바나나는 3~10미터까지 자라지만 나무가 아니에요. 나무처럼 보이는 부분을 잘라 보면, 속이 텅 빈 가짜 줄기가 보여요. ",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "1720",
+      "srcText": "노란색으로 변하면 달콤해져요. 우아, 신기하다. 검은 점은 맛있어졌다는 표시야 . 맛있어, 맛있어. 바나나는 맛있어. 맛있게 잘 먹겠습니다!",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1717",
+      "srcText": " 바나나는 꽃도 아주 특별해. 줄기에서 자주색 꽃싸개가 대롱. 꽃싸개가 또르르 말려 올라가면 자잘한 노란 꽃들이 고개를 빼꼼 내밀어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "1718",
+      "srcText": "꽃이 시들면 열매가 생겨. 작은 꽃 한 송이에 바나나 하나씩 삐쭉. 좀 귀여운데? 자주색 꽃싸개는 꽃을 보호하기 위해 에워싸고 있는 잎이에요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    }
+  ]
+}

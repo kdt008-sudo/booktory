@@ -1,0 +1,55 @@
+﻿{
+  "title": "고개 들지 말아요",
+  "author": "꿈바라기",
+  "illustrator": "오정순",
+  "isbn": "9788927207092",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 6,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16177",
+      "srcText": "준태네 반 친구들이 교실에서 만화 영화를 보고 있어요. “까르르.” 그런데 준태는 꾸벅꾸벅 졸기만 해요. “준태야, 일어나.” 짝꿍 보람이가 깨웠지만 준태는 계속 꾸벅꾸벅.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "16179",
+      "srcText": "선생님이 깜짝 놀라 다가왔어요. “어머! 준태야, 코피가 나는구나. 고개를 숙이렴.” 선생님은 준태의 셔츠 단추를 느슨하게 풀어 주었어요. “목으로 피가 흘러 들어가면 안 되니까 머리를 절대 뒤로 젖히면 안 돼.”",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "16178",
+      "srcText": "“준태야, 왜 그렇게 자?” “어젯밤에 늦게까지 텔레비전을 봤거든.” 어, 그런데 갑자기 준태의 코에서 피가 흘렀어요. ‘주르르!’",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "16180",
+      "srcText": "그리고 준태의 양쪽 콧등을 여러 번 눌러 준 뒤, 솜으로 콧구멍을 꽉 막았어요. “와! 이제 코피가 안 나요!” “그래. 코피가 날 때는 고개를 숙여야 해. 모두 알겠지?” “네!”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "16181",
+      "srcText": "\"일찍 자고 건강하게 생활하기로 약속할까?\" “네, 선생님. 일찍 자고 일찍 일어날게요. 또 코피를 흘리면 모두 걱정하니까요.” “좋아!”",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "16182",
+      "srcText": "준태는 양호실에 누워서 좀 더 쉬기로 했어요. 너무 피곤했거든요. \"준태야, 늦게까지 텔레비전을 보면 몸도 피곤하고, 공부도 할 수 없을 거야.\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    }
+  ]
+}

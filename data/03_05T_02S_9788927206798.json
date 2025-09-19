@@ -1,0 +1,76 @@
+﻿{
+  "title": "어푸어푸! 수영 놀이",
+  "author": "꿈바라기",
+  "illustrator": "최진미",
+  "isbn": "9788927206798",
+  "readAge": "초등_저학년",
+  "publishedYear": 2011,
+  "publisher": "태동출판사",
+  "classification": "신체운동_건강",
+  "paragraphInfoCount": 9,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16202",
+      "srcText": "\"안 돼. 심장에서 먼 곳부터 물을 묻힌 후 물속에 들어가야 해. 그래야 심장에 무리가 가지 않아.\" 현수와 현호는 삼촌과 함께 다리와 팔부터 물을 묻혔어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "16206",
+      "srcText": "삼촌은 현수에게 수영을 가르쳐 주었어요. \"하하, 금방 늘었는걸. 잘했어!\" 다 놀자 현수와 현호는 삼촌과 깨끗이 몸을 씻었어요. 그래야 혹시 모를 피부병을 예방할 수 있거든요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "16205",
+      "srcText": "현호는 수영을 무척 잘했어요. 현수는 아직 물장구만 철썩철썩 치는 수준이지만요. \"현수도 연습하면 현호처럼 수영할 수 있을 거야.\"",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "16201",
+      "srcText": "준비 운동이 끝나자 현수가 말했어요. \"삼촌, 저 먼저 들어갈게요!\" 그러자 삼촌이 현수를 막았어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16199",
+      "srcText": "현수와 현호가 삼촌을 따라 수영장에 왔어요. \"야호! 빨리 물에 들어가서 놀아야지.\" \"수영을 하기 전에 준비 운동부터 하자.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "16200",
+      "srcText": "현수와 현호는 삼촌을 따라 준비 운동을 했어요. \"하나, 둘, 셋, 넷!\" 다리의 근육을 풀어요! 팔 운동을 해요! 어깨 근육을 풀어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "16207",
+      "srcText": "옷을 갈아입은 현수와 현호가 말했어요. \"삼촌은 우리의 안전 지킴이야.\" \"그럼, 내 조카들은 내가 지켜야지!\"",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "16203",
+      "srcText": "그리고 삼촌을 따라 조심히 물에 들어갔어요. \"어린이 전용 풀장에서 놀자.\" \"네!\" 물에 들어간 현수는 현호에게 장난을 치고 싶었어요. 그래서 살금살금 다가가, 현호의 얼굴을 물속에 쑤욱 넣었어요. \"어푸어푸!\"",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "16204",
+      "srcText": "현호는 화가 나서 현수에게 달려들었어요. 삼촌이 현호를 말리며 말했어요. \"수영장에서 장난치면 안 돼. 위험해.\"",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    }
+  ]
+}

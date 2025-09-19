@@ -1,0 +1,83 @@
+﻿{
+  "title": "꼭! 꼭! 약속해! ",
+  "author": "우와조아",
+  "illustrator": "심봉민",
+  "isbn": "9788993877892",
+  "readAge": "유아",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "classification": "예술경험",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15621",
+      "srcText": "멀뚱멀뚱 쳐다보기만 하고, 까닥까닥 고개만 까닥거리고 싶을 때? 얼른! 얼른! 인사해요. “안녕하세요?” “옳지, 옳지. 꼭! 꼭! 약속해.” 착해요! 정말 착해요!",
+      "srcPage": 13,
+      "srcSentenceEA": 10,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "15615",
+      "srcText": "불끈불끈 화가 나서 탁! 퍽! 친구를 때리고 싶으면? 꼭! 꼭! 참아요. 친구야, 미안해!",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "15616",
+      "srcText": "사이좋게 지내자. \"그럼, 그럼. 꼭! 꼭! 약속해!\" 미안해! 정말 미안해!",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "15617",
+      "srcText": "\"옳지, 옳지. 꼭 꼭 약속해!\" 의젓하구나! 참 의젓하구나!",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "15618",
+      "srcText": "안방에도 없고, 거실에도 없고, 집에 아무도 없어서 울고 싶으면? 꾹! 꾹! 참고 전화해요! \"엄마? 어디세요? 저 혼자 있어요.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "15612",
+      "srcText": "\"집안에서는 걸어 다닐 거예요!\" \"좋아, 좋아. 꼭! 꼭! 약속해!\" 좋아요! 아주 좋아요!",
+      "srcPage": 3,
+      "srcSentenceEA": 7,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15613",
+      "srcText": "우당탕탕! 뛰어다니다가 아야! 빨간 피나면? 꼭, 꼭, 기억해요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11
+    },
+    {
+      "srcTextID": "15619",
+      "srcText": "\"물건들은 가지런히 정리해 놓아요.\" \"맞아, 맞아. 꼭! 꼭! 약속해!\" 깨끗해! 진짜로 깨끗해!",
+      "srcPage": 11,
+      "srcSentenceEA": 7,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "15620",
+      "srcText": "여기 툭! 저기 툭! 던져놓아 엉망진창 물건들을 어질러 놓고 싶으면? 꾹! 꾹! 눌러요!",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "15614",
+      "srcText": "칭얼칭얼 밥 먹기 싫어서 투덜투덜거리고 싶어지면? 딱! 딱! 참아요. “밥을 잘 먹어야 건강해져요!” “그래, 그래. 꼭! 꼭! 약속해!” 맛있어요! 아주 맛있어요!",
+      "srcPage": 5,
+      "srcSentenceEA": 11,
+      "srcWordEA": 29
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+﻿{
+  "title": "별별 공주님",
+  "author": "윤아해",
+  "illustrator": "심미아",
+  "isbn": "9791165435455",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 10,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14163",
+      "srcText": "\"전화기의 숫자는. 초록 별!\" \"우아, 멋지다!\"",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 7
+    },
+    {
+      "srcTextID": "14168",
+      "srcText": "공주님은 눈물이 그렁그렁해졌지. 그때 일이삼 선생님이 나타났어. \"며칠 있으면 별 보러 가는 날인데 달력을 볼 수가 없군요!\" 공주님은 그만 울음을 터뜨렸지. 시계, 엘리베이터, 전화기, 달력에 숫자가 꼭 있어야 한다는 걸 알게 되었어.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "14164",
+      "srcText": "\"엘리베이터에도 숫자가 있네? 이건 모두 반짝이 별!\" \"좋아, 좋아. 마음에 들어!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "14162",
+      "srcText": "\"시계의 숫자는. 노랑 별!\" \"아주 좋아!\" \"달력의 숫자는. 빨강 별!\" \"정말 좋아!\"",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "14167",
+      "srcText": "\"일이삼 선생님은 아실 거야. 전화해서 오시라고 해 줘.\" 하지만 아무도 전화를 할 수 없었어. 전화기에도 숫자가 없었으니까.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "14160",
+      "srcText": "별별 공주님은 별만 좋아해. 노랑 별, 빨강 별, 초록 별, 하루 종일 별만 그리지. \"공주님, 숫자 공부할 시간입니다.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "14161",
+      "srcText": "일이삼 선생님 말에 공주님은 얼굴을 찌푸려. \"싫어, 싫어! 숫자는 정말 싫어. 숫자를 모두 별로 바꾸어 버릴 거야.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "14169",
+      "srcText": "그다음은 어떻게 됐을까? 별별 공주님은 여전히 별을 좋아했대. 그리고 숫자도 아주 좋아하게 되었대.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "14166",
+      "srcText": "\"시계가 없어도 밥은 먹을 수 있어. 식당이 몇 층이지?\" 하지만 아무도 버튼을 누를 수 없었어. 숫자판에 숫자가 없었거든.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "14165",
+      "srcText": "\"아유, 배고파. 밥 먹을 시간인가 봐. 지금 몇 시지?\" 하지만 아무도 대답할 수 없었어. 시계에 숫자가 없었거든.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    }
+  ]
+}

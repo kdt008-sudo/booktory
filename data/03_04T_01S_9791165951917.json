@@ -1,0 +1,62 @@
+﻿{
+  "title": "토미야, 준비됐니?",
+  "author": "피오나 로버튼",
+  "illustrator": "피오나 로버튼",
+  "isbn": "9791165951917",
+  "readAge": "유아",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "예술경험",
+  "paragraphInfoCount": 7,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5629",
+      "srcText": "당근도? 나 당근 정말 좋아해! 그러니까 멋진 옷 갈아입고 파티에 가자. 할머니가 사 주신 옷 있잖아. 그거 말고, 더 멋진 거 있어.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5626",
+      "srcText": "괴물이 나타날 수도 있잖아? 피곤해서 집에 가고 싶으면 어떡해? 마커스가 있으면 어떡해? 마커스는 장난이 심한데. 넘어져서 다치면 어떡해? 아야! 나 어떡해?",
+      "srcPage": 9,
+      "srcSentenceEA": 7,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5630",
+      "srcText": "휴고야, 왜 숨어 있어? 숨은 거 아니야. 생각 중이야. 휴고야, 모두 춤추고 있어. 나 춤추는 거 좋아해. 나와서 나랑 함께 춤추자! 그, 그럴까? 좋아. 준비됐어? 하나, 둘, 셋.",
+      "srcPage": 17,
+      "srcSentenceEA": 10,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "5625",
+      "srcText": "토미야, 파티에 가면 정말 재미있을 거야. 네 친구들도 많이 온대. 그럼그럼, 모두 파티에 온대. 정말? 휴고도 온대? 그럼! 찰리랑 애나랑 프랭크도? 하지만 친구들이 나랑 안 놀아 주면 어떡해? 그리고.",
+      "srcPage": 8,
+      "srcSentenceEA": 9,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "5628",
+      "srcText": "토미야, 걱정하지 마. 파티에는 재미있는 일이 많을 거야. 신나는 음악이랑 달콤한 케이크도 있어. 그래, 케이크! 그리고 게임이랑 장난감이랑 풍선이랑 선물이랑 당근도. 케이크?",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5623",
+      "srcText": "토미야, 너 거기 있니? 아니, 나 없는데. 토미야, 왜 숨어 있어? 숨은 거 아니야. 생각 중이야. 이건 내 생각 상자거든.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5624",
+      "srcText": "아, 그렇구나. 이제 파티에 갈 시간이야. 준비해야지. 나 못 가. 좀 아파. 이것 봐! 그거 물감이잖아? 아니야. 맞아. 사실. 나 파티에 안 가고 싶어.",
+      "srcPage": 7,
+      "srcSentenceEA": 11,
+      "srcWordEA": 34
+    }
+  ]
+}
