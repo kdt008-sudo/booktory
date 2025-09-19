@@ -1,0 +1,129 @@
+﻿{
+  "title": "여러가지 모양",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877649",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14027",
+      "srcText": "동글동글 동그란 해바라기는 향기가 좋아요. 컵. 무당벌레. 사탕. 공. 뾰족뾰족 세모난 고깔모자를 써요. 버섯. 샌드위치. 케이크. 돛단배. 네모네모 도화지에 그림을 그려요. 주사위. 과자. 버스. 책.",
+      "srcPage": 3,
+      "srcSentenceEA": 15,
+      "srcWordEA": 39,
+      "character": "컵,무당벌레,사탕,공,해바라기,고깔모자,버섯,샌드위치,케이크,돛단배,도화지,주사위,과자,버스,책",
+      "setting": null,
+      "action": "써요,그려요",
+      "feeling": "좋아요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "동글동글하고 향기가 좋은 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "해바라기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "네모네모 도화지에 무엇을 할 수 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그림을 그릴 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "동그란 해바라기의 향기는 어떤가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "향기가 좋아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14028",
+      "srcText": "알록달록 재미있는 줄무늬 옷을 입었어요. 건널목. 얼룩말. 꿀벌. 양말. 지그재그 발자국은 누구일까요? 공룡. 수박. 달걀. 왕관. 반짝반짝 별과 불가사리는 친구랍니다. 별. 꽃. 마술봉. 불가사리.",
+      "srcPage": 6,
+      "srcSentenceEA": 15,
+      "srcWordEA": 38,
+      "character": "옷,건널목,얼룩말,꿀벌,양말,공룡,수박,달걀,왕관,별,불가사리,꽃,마술봉",
+      "setting": null,
+      "action": "입었어요",
+      "feeling": "재미있는",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "반짝반짝한 별은 누구의 친구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "불가사리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "얼룩말과 꿀벌의 무늬는 어떠한가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알록달록 재미있는 줄무늬 옷을 입었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "줄무늬 옷을 어떻다고 표현했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재미있다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "김선희",
   "illustrator": "캐리",
   "isbn": "9791188491230",
-  "readAge": "초등_저학년",
   "publishedYear": 2019,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 8,
   "paragraphInfo": [
     {
@@ -14,56 +12,374 @@
       "srcText": "두리가 두 손을 쓱쓱 비벼요. 가방을 질질 끌어요. 창문을 드르륵 옆으로 밀어요. “비비고, 끌고, 밀고! 아휴, 힘드네.”",
       "srcPage": 4,
       "srcSentenceEA": 5,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "두리,손,가방,창문",
+      "setting": null,
+      "action": "비벼요,끌어요,밀어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 두 손을 쓱쓱 비비나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "두리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리는 창문을 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "드르륵 옆으로 밀었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41495",
       "srcText": "두리가 신 나게 스케이트를 타요. “와, 얼음판이 미끄러워서 스케이트가 잘 나가네.” 생쥐 박사가 또 말했어요. “미끌미끌하면 마찰력이 작아져. 그래서 쉽게 미끄러지는 거야.”",
       "srcPage": 7,
       "srcSentenceEA": 5,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "두리,스케이트,얼음판,생쥐 박사",
+      "setting": null,
+      "action": "스케이트를 타요,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리가 신나게 무엇을 타나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스케이트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "생쥐 박사는 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "미끌미끌하면 마찰력이 작아져서 쉽게 미끄러진다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41492",
       "srcText": "무거운 짐도 주르륵 끌고, 서랍도 쑥 닫히고, 빡빡한 창문도 스르르 밀리고. 무엇이든 하나도 힘들지 않을 거야. 그러자 생쥐 박사가 말했어요. “하지만 마찰력이 완전히 사라진다면, 엄청난 일이 생길 수가 있는걸!”",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "짐,서랍,창문,생쥐 박사",
+      "setting": null,
+      "action": "주르륵 끌고,쑥 닫히고,밀리고,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마찰력이 없으면 무엇도 주르륵 끌 수 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무거운 짐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마찰력이 사라진다면 무거운 짐도 주르륵 끌고 서랍도 쑥 닫혀서 어떨 것이라고 생각했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무엇이든 하나도 힘들지 않을 거라고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41489",
       "srcText": "두리가 덜컹덜컹 자동차를 타고 가요. “자갈길이 울퉁불퉁해서 바퀴가 잘 안 굴러가.” 그러자 생쥐 박사가 말했어요. “울퉁불퉁하면 마찰력이 커져. 그래서 잘 안 움직이는 거야.”",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "두리,자동차,자갈길,바퀴,생쥐 박사",
+      "setting": null,
+      "action": "타고 가요,말했어요",
+      "feeling": null,
+      "causalRelationship": "울퉁불퉁하면 마찰력이 커져. 그래서 잘 안 움직이는 거야.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇이 울퉁불퉁해서 바퀴가 잘 굴러가지 않나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자갈길",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리는 덜컹덜컹 무엇을 타고 가나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "자갈길이 울퉁불퉁하면 바퀴가 잘 굴러가지 않는 까닭은 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "울퉁불퉁하면 마찰력이 커져서 잘 움직이지 않아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41490",
       "srcText": "그러자 두리가 고개를 끄덕이며 말했어요. “아하! 마찰력 때문에 불편하기도 하지만, 마찰력 덕분에 우리가 안전하게 살 수 있구나.” 두리가 방에서 성냥을 가져왔어요. “성냥불을 켤 수 있는 것도 다 마찰력 덕분이지?”",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "두리,고개,방,성냥",
+      "setting": null,
+      "action": "끄덕이며 말했어요,가져왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리가 방에서 무엇을 가져왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "성냥",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리가 고개를 끄덕이며 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "마찰력 때문에 불편하기도 하지만 마찰력 덕분에 우리가 안전하게 살 수 있다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41491",
       "srcText": "그러자 두리가 소리쳤어요. “마찰력이 없으면 얼마나 좋을까? 세상이 온통 기름칠을 한 것처럼 미끌미끌, 주르륵, 쌩쌩. 그럼 온 세상이 신 나는 놀이터가 될 거야.”",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "두리,놀이터,기름칠",
+      "setting": null,
+      "action": "소리쳤어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마찰력이 없으면 세상이 온통 무엇을 한 것처럼 미끌미끌할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기름칠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그럼 온 세상이 신나는 놀이터가 될 거고 두리가 어떻게 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "크게 소리쳤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41493",
       "srcText": "사람들이 입은 옷은 줄줄 흘러내리고, 여기서 꽝, 저기서 꽝! 자동차들이 미끄러져 서로 부딪히고, 도로는 뒤죽박죽 엉망이 될 거야. 나사가 스르륵 풀리고, 못도 싸르륵 빠져서 집과 건물이 와르르 무너질지도 몰라.",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "사람들,옷,자동차들,도로,나사,못,집,건물",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "나사가 스르륵 풀리고, 못도 싸르륵 빠져서 집과 건물이 와르르 무너질지도 몰라.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇이 미끄러져서 서로 부딪히게 될까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "나사가 스르륵 풀리고 못도 싸르륵 빠져서 집과 건물이 어떻게 될까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "와르르 무너질지도 몰라요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41494",
       "srcText": "그때 생쥐 박사가 나타나 말했어요. “두 면이 서로 닿으면 빡빡해서 잘 움직이지 않아. 그것이 바로 눈에 보이지 않는 힘, 마찰력이지.” “아, 마찰력은 움직임을 방해하는 힘이구나.” 두리가 고개를 끄덕이며 말했어요.",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "생쥐 박사,눈,두리,고개",
+      "setting": null,
+      "action": "끄덕이며 말했어요,움직이지,보이지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두 면이 서로 닿으면 빡빡해서 잘 움직이지 않는다고 말한 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "생쥐 박사",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두리는 무엇을 하면서 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고개를 끄덕이면서 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

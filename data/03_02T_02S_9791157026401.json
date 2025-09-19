@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026401",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "유비는 아까부터 삐걱거리는 사다리를 유심히 보고 있었어요. 마리 아빠가 지붕을 고치려고 벽에 세워둔 사다리가 바람이 불 때마다 조금씩 흔들리고 있었어요. 마침 마리가 나비를 따라 사다리 쪽으로 다가갔을 때 갑자기 작은 회오리바람이 불더니 사다리를 한쪽으로 휙 떠밀었어요. 사다리가 중심을 잃고 스르륵 소리를 내며 쓰러졌어요. “앗! 마리야, 위험해!” 유비가 재빨리 일어나 다가가려 했지만 때는 이미 늦었어요. 사다리가 쓰러지면서 마리를 덮치려는 찰나 무언가 비호처럼 날아와 마리를 밀쳐냈어요.",
       "srcPage": 9,
       "srcSentenceEA": 7,
-      "srcWordEA": 70
+      "srcWordEA": 70,
+      "character": "유비,사다리,아빠,지붕,나비,마리",
+      "setting": null,
+      "action": "보고 있었어요,떠밀었어요,쓰러졌어요,밀쳐냈어요",
+      "feeling": "위험해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "삐걱거리는 사다리를 유심히 보고 있는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "유비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사다리가 중심을 잃고 스르륵 소리를 내며 쓰러 마리를 덮치려고 하자 유비는 어떤 감정을 느꼈을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "마리가 다칠까 봐 놀라서 위험하다 외치며 재빨리 다가가려 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "갑자기 작은 회오리바람이 불더니 사다리를 한쪽으로 휙 떠밀어, 사다리가 어떻게 되었을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "중심을 잃고 스르륵 소리를 내며 쓰러졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,101 @@
+﻿{
+  "title": "뿡뿡 방귀쟁이",
+  "author": "아세가와 가코",
+  "illustrator": "아세가와 가코",
+  "isbn": "9788997300754",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7263",
+      "srcText": "토끼가 뽕! 방귀를 뀌고 나면 배 속이 시원해져요. 여우가 뿡! 방귀를 뀌고 나면 배 속이 시원해져요. 돼지가 풍! 방귀를 뀌고 나면 배 속이 시원해져요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "character": "토끼,배,여우,돼지",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "방귀를 뀌고 나면 배 속이 시원해져요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "토끼가 뿡 무엇을 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "방귀를 뀌었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "무엇을 하면 배 속이 시원해지나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "방귀를 뀌고 나면 시원해져요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7264",
+      "srcText": "생쥐가 뿍! 방귀를 뀌고 나면 배 속이 시원해져요. 빠바방! 코끼리 배 속도 시원해졌대요. 뽕, 뿡, 풍, 뿍, 빠바방! 방귀를 뀌고 나면 배 속이 시원해져요!",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 29,
+      "character": "생쥐,코끼리,배",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "방귀를 뀌고 나면 배 속이 시원해져요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "생쥐가 뿍 무엇을 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "방귀를 뀌었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "방귀를 뀌고 나면 어디가 시원해지는 것을 느낄 수 있나요?",
+          "queType": 5,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "배 속",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

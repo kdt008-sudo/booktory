@@ -1,0 +1,70 @@
+﻿{
+  "title": "나는야 꼬마 비행사",
+  "author": "김세실",
+  "illustrator": "라우라오르솔리니",
+  "isbn": "9788961911900",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47996",
+      "srcText": "나는 아주 어릴 적부터 하늘을 좋아했어요. 고개를 이렇게 뒤로 젖히고 하루 종일 하늘을 올려다보았지요. 하지만 내가 본 것은 하늘이 아니었어요. 내가 본 것은 바로.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "나,고개,하늘",
+      "setting": null,
+      "action": "올려다보았지요,아니었어요,본 것은",
+      "feeling": "좋아했어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "나는 어떻게 하늘을 올려다 보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고개를 뒤로 젖히고 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "내가 본 것은 무엇이 아니었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하늘",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "나는 아주 어릴 적부터 하늘을 어떻게 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좋아했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "내 친구는 특별해 ",
+  "author": "강용숙",
+  "illustrator": "공휘",
+  "isbn": "9788960163232",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51990",
+      "srcText": "팔랑팔랑 호랑나비가 날아와요. 엉겅퀴꽃이 반가워 손짓해요. \"어머나! 어서 오세요.\" 호랑나비가 더듬이로 냄새를 맡아요. \"흐음, 냄새가 좋군.\" 엉겅퀴꽃이 말해요. \"달콤한 꿀도 많이 드세요.\" 붕붕이 꿀벌이 날아와 호랑나비에게 부탁해요. \"나도 같이 꿀 좀 먹자.\" 호랑나비가 소리쳐요. \"싫어! 넌 내 친구 아니야.\" 꿀벌이 쫓겨가며 중얼거려요. \"어? 어떻게 알았지?\" 박각시나방이 날아왔어요. \"친구야, 놀자.\" 호랑나비가 얼굴을 찡그려요. \"안돼! 너도 내 친구 아니야.\" 호랑나비가 나풀나풀 날아왔어요. \"어서 와, 친구야!\" 호랑나비가 웃으며 맞이해요. \"우리 사이좋게 꿀 먹자.\" 엉겅퀴꽃이 짝짝 박수를 쳐요. \"호호, 호랑나비님은 정말 똑똑하네요. 근데 어떻게 친구를 알아봤죠?\" 호랑나비가 뽐내며 말해요. \"날개 모양과 색깔, 무늬를 보면 알아. 우리 눈은 특별하거든. 또, 남자는 냄새로 여자를 알아보는 특별한 재주도 있어. 알겠니?\"",
+      "srcPage": 11,
+      "srcSentenceEA": 29,
+      "srcWordEA": 123,
+      "character": "호랑나비,엉겅퀴꽃,꿀벌,박각시나방",
+      "setting": null,
+      "action": "더듬이로 냄새를 맡아요,말해요,소리쳐요,중얼거려요,날아왔어요,박수를 쳐요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "호랑나비가 날아올 때 반가워서 누가 손짓을 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉겅퀴꽃",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "호랑나비는 무엇을 이용하여 냄새를 맡나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "더듬이를 이용해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

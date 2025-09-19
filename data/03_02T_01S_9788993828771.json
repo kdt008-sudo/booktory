@@ -1,0 +1,56 @@
+﻿{
+  "title": "멸종위기 동물들",
+  "author": "토머스 다운스",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828771",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51165",
+      "srcText": "나뭇잎을 좋아하는 마운틴고릴라는 숲에서 살아요. 느릿느릿 잠꾸러기 코알라도 숲에 살아요. 코알라는 어떤 나뭇잎을 먹을까요? 코알라는 아무것이나 먹지않고 유칼리나무 잎만 먹어요. 그런데 유칼리나무가 자라는 숲이 점점 줄어들고 있어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "character": "나뭇잎,마운틴고릴라,코알라,유칼리나무",
+      "setting": null,
+      "action": "먹어요,살아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "코알라는 어떤 나무의 잎만 먹나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "유칼리나무잎만 먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "숲에서 살며 나뭇잎을 좋아하는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마운틴고릴라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

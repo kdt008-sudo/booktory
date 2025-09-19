@@ -1,0 +1,101 @@
+﻿{
+  "title": "괴물도 꼼짝 못할 거야",
+  "author": "윤지연",
+  "illustrator": "서혜진",
+  "isbn": "9788993828214",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16644",
+      "srcText": "저게 뭐야? 아이, 무서워. 괴물이 아닐까?",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 8,
+      "character": "괴물",
+      "setting": null,
+      "action": null,
+      "feeling": "무서워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "저기에 보이는 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "괴물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "괴물을 보면 어떤 감정이 느껴질까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무서울 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16645",
+      "srcText": "아니, 아니야! 괴물이 고슴도치처럼 삐죽삐죽하면 어떡해? 괜찮아, 괜찮아! 간질간질 우리 엄마 간지럼 공격이면 괴물도 꼼짝 못할 테니까.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "괴물,고슴도치",
+      "setting": null,
+      "action": "공격",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "삐죽삐죽한 괴물의 모습은 누구와 비슷한가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고슴도치",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "삐죽삐죽한 괴물을 꼼짝 못하게 할 방법은 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마가 간지럼으로 공격해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

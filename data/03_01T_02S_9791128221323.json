@@ -1,0 +1,84 @@
+﻿{
+  "title": "누가 은화를 가져갔을까? / 아들이 눈물을 흘린 까닭은?",
+  "author": "윤지연",
+  "illustrator": "김현주",
+  "isbn": "9791128221323",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47342",
+      "srcText": "장사꾼이 도시로 물건을 사러 왔어. 장날까지는 아직도 며칠이 남아 있었지. 장사꾼은 물건을 사기 위해 가져온 돈 때문에 무척 불안했어. '이 많은 돈을 누가 훔쳐 가기라도 하면 어쩌지? 그래, 장날까지 아무도 모르는 곳에 묻어 두자.' 장사꾼은 은화가 든 주머니를 자신만이 아는 곳에 몰래 묻어 두었어. \"아무도 모르겠지?\"",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 50,
+      "character": "장사꾼,은화,주머니,돈",
+      "setting": "도시",
+      "action": "사러 왔어,묻어 두자,묻어 두었어",
+      "feeling": "불안했어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "장사꾼이 물건을 사기 위해 가져온 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "장사꾼은 은화가 든 주머니를 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자신만이 아는 곳에 몰래 묻어 두었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "장사꾼은 물건을 사러 어디로 왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "도시",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "장사꾼은 왜 불안했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "돈 때문에 누가 훔쳐 갈까봐 불안했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

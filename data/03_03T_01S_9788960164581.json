@@ -1,0 +1,56 @@
+﻿{
+  "title": "재주 많은 삼 형제",
+  "author": "권경미",
+  "illustrator": "최수연",
+  "isbn": "9788960164581",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49413",
+      "srcText": "“어휴, 가뭄이 어서 끝나야 할 텐데!” 첫째가 한숨을 내쉬며 말했어. 그때 멀리서 연기가 모락모락 올라오는 거야. “저게 뭐지?” 첫째가 눈을 동그랗게 떴어.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "character": "연기,첫째",
+      "setting": null,
+      "action": "한숨을 내쉬며,말했어,올라오는 거야,동그랗게 떴어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "멀리서 무엇이 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "연기가 모락모락 올라오는 것이 보였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "눈을 동그랗게 뜬 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "첫째",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

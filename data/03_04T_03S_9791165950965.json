@@ -1,0 +1,56 @@
+﻿{
+  "title": "나는야 아티스트",
+  "author": "하늘땅",
+  "illustrator": "그림작가정보없음",
+  "isbn": "9791165950965",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48038",
+      "srcText": "나는야 다빈치. 다빈치의 모나리자는 많은 화가가 따라서 그렸어요. 뒤샹은 다빈치의 모나리자에 멋진 수염을 그리기도 했어요. 보테로의 통통한 모나리자와 우주에 간 모나리자도 볼 수 있어요. 여러분의 모나리자는 어떤 모습일까요?",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "character": "다빈치,모나리자,화가,뒤샹,보테로",
+      "setting": null,
+      "action": "그렸어요,볼 수 있어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "다빈치의 모나리자에 수염을 멋지게 그린 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뒤샹",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "많은 화가는 다빈치의 모나리자를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "여러 화가들이 본떠서 그렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

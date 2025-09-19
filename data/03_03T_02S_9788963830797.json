@@ -1,0 +1,70 @@
+﻿{
+  "title": "모자 사세요",
+  "author": "그림말",
+  "illustrator": "권혜영",
+  "isbn": "9788963830797",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43466",
+      "srcText": "모자 장수는 바구니를 나무에 걸어 두고 털썩 주저앉았어요. “아! 졸려. 눈이 슬슬 감기네.” 하품을 하던 모자 장수는 곧 깊은 잠에 빠졌어요. 그런데 그때, 나무 위에서 이상한 소리가 들렸어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "character": "모자 장수,바구니,나무",
+      "setting": "나무 위",
+      "action": "주저앉았어요,눈이 슬슬 감기네,하품을 하던",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "모자 장수는 나무에 무엇을 걸어둔 채 주저 앉았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바구니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "이상한 소리가 들렸을 때, 모자 장수는 무엇을 하고 있었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "깊은 잠에 빠져있었습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "갑자기 이상한 소리가 들린 곳은 어디 인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

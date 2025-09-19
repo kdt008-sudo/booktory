@@ -1,0 +1,56 @@
+﻿{
+  "title": "깨끗하게 싹싹싹! ",
+  "author": "예종화",
+  "illustrator": "김승연",
+  "isbn": "9788960162525",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51580",
+      "srcText": "사람은 키가 크고 작고, 피부가 희고 검고, 얼굴 모양도 제각기 달라. 하지만 모두 귀한 몸이야. 귀한 우리 몸, 어떻게 지킬까? 밥, 채소, 생선, 과일, 우유. 모두 골고루 먹어야 해. 음식물 속의 영양분이 몸속에서 피를 만들고 기운나게 하거든.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 42,
+      "character": "사람,밥,채소,생선,과일",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "음식물 속의 영양분이 몸속에서 피를 만들고 기운나게 하거든.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "얼굴 모양도 제각기 다르지만 모두 귀한 몸인 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "음식물 속의 영양분이 하는 일은 무엇인가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸속에서 피를 만들고 기운나게 합니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

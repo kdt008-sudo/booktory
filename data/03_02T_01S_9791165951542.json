@@ -1,0 +1,84 @@
+﻿{
+  "title": "찾아라! 안전한 집",
+  "author": "최고은",
+  "illustrator": "조승연",
+  "isbn": "9791165951542",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48777",
+      "srcText": "우리 집은 정말 작아. 혼자 사는 게 외로워서 친구들과 같이 살기 시작했더니 집이 비좁아서 불편한 게 한두 가지가 아니야. 그래서 나는 결심했어. 새로운 집을 찾아 떠나기로 말이야!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30,
+      "character": "친구,나,집",
+      "setting": "우리 집",
+      "action": "찾아 떠나기로",
+      "feeling": "외로워서,결심했어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "누구와 같이 살기 시작했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "새로운 무엇을 찾아 떠났나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어디가 정말 작은가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "친구들과 왜 같이 살게 되었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "외로웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

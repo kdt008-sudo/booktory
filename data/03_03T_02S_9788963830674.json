@@ -1,0 +1,70 @@
+﻿{
+  "title": "따뜻한 이불",
+  "author": "함혜정",
+  "illustrator": "전미영",
+  "isbn": "9788963830674",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43566",
+      "srcText": "커다란 나무 옆에 볏짚이 떨어져 있었어요. 개구리가 폴짝폴짝 뛰어와 말했어요. \"어, 이게 뭐지?\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "나무,볏짚,개구리",
+      "setting": "커다란 나무 옆",
+      "action": "뛰어와,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "폴짝폴짝 뛰어온 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개구리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "개구리는 폴짝폴짝 뛰어와 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이게 뭐냐고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "볏짚이 떨어져 있던 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "커다란 나무 옆",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

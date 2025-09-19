@@ -1,0 +1,143 @@
+﻿{
+  "title": "비 오는 날에",
+  "author": "스즈키 유키에",
+  "illustrator": "스즈키 유키에",
+  "isbn": "9788997300501",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7142",
+      "srcText": "강아지가 부르르, 물방울도 푸르르, 우산이 뱅글뱅글, 물방울도 빙글빙글, 개구리는 폴짝폴짝, 나는 첨벙첨벙! 빗방울 똑똑똑! 달팽이야, 안녕? 비 오는 날은 즐거워. 모두 함께 랄랄라, 앞으로 가!",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "강아지,물방울,우산,개구리,빗방울,달팽이",
+      "setting": "비 오는 날",
+      "action": "앞으로 가",
+      "feeling": "즐거워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "비 오는 날 뱅글뱅글 무엇을 돌려보았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "어느 날이 즐겁다고 하나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비 오는 날이 즐겁대요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "모두 함께 어떻게 하자고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모두 함께 앞으로 가자고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "첨벙첨벙 빗길을 걸을 때 어떤 기분이 들었을까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "즐거웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7143",
+      "srcText": "놀러 가려고 문을 여니, 어, 비가 오네! 비옷을 입고, 우산을 들고, 장화를 신고, 짠! 랄랄라 노래하며 첨벙첨벙 앞으로 가!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "문,비,우산,장화",
+      "setting": null,
+      "action": "입고,들고,신고,노래하며,앞으로 가",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "랄랄라 노래하며 첨벙첨벙 앞으로 가!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "놀러 가려고 문을 여니 무엇이 오고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "비 오는 날은  나갈 때 어떻게 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비옷을 입고, 우산을 들고, 장화를 신고 나가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "비옷을 입고, 우산을 들고, 장화를 신고 나가면 어떤 놀이를 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "첨벙첨벙 물웅덩이로 뛰어들며 놀 거 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿{
+  "title": "마을을 지켜 주는 수호신, 장승",
+  "author": "아작",
+  "illustrator": "김혜란",
+  "isbn": "9791188491544",
+  "publishedYear": 2020,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49064",
+      "srcText": "천하대장군은 우리 마을 수호신. 눈은 부리부리 코는 뭉툭뭉툭 험상궂게 생겼지만, 누구나 천하대장군을 좋아하지요. 휘요오 휘요오 세찬 바람이 온 마을을 흔들어도 “끄응, 끄응, 끄으응.” 천하대장군은 끄떡없어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "character": "천하대장군,눈,코,수호신",
+      "setting": "우리 마을",
+      "action": "흔들어도,끄떡없어요",
+      "feeling": "좋아하지요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "눈은 부리부리 코는 뭉툭 뭉툭 험상궂게 생긴 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "천하대장군",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "세찬 바람이 온 마을을 흔들면 천하대장군은 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "끄떡없이 버텨요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "천하대장군은 어디의 수호신인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 마을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "누구나 천하대장군을 좋아하는 까닭은 무엇일까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리 마을을 수호해 주기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

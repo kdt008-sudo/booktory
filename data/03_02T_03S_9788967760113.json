@@ -1,0 +1,70 @@
+﻿{
+  "title": "행복을 파는 꽃집",
+  "author": "조은숙",
+  "illustrator": "최양숙",
+  "isbn": "9788967760113",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48685",
+      "srcText": "어느 날, 손님들이 우리 꽃 가게를 찾아왔어요. “저희가 이번에 결혼을 하는데, 결혼식장을 꾸며 주세요.” 그날부터 엄마 아빠는 아주 바빠졌어요. 아빠는 결혼식장에 미리 가서 사진을 찍어 왔어요. 그러고는 꽃 장식을 어디에 할지, 어떤 모양으로 꾸밀지 고민했어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 38,
+      "character": "손님,꽃 가게,결혼식장,엄마,아빠,결혼,사진,꽃 장식",
+      "setting": null,
+      "action": "찍어 왔어요,찾아왔어요,바빠졌어요,꾸며 주세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "그러고는 꽃 장식을 어디에 할지,어떤 모양으로 꾸밀지 고민했어요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "아빠가 꽃 장식을 어디에 할지 어떤 모양으로 꾸밀지 고민한 이유는 무엇인가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "결혼식장을 잘 꾸미고 싶었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "손님들이 꽃 가게를 찾아온 이후 엄마 아빠는 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주 바빠졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "결혼식장에 미리 가서 사진을 찍어 온 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "그림자를 갖고 싶어!",
+  "author": "우산",
+  "illustrator": "엄수지",
+  "isbn": "9791165951443",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48751",
+      "srcText": "후드득! \"움직일 때마다 달콤한 젤리가 떨어지는 나는야 유령 젤로! 아이들이 제일 좋아하는 유령이지. 심심한데 오늘은 어디로 놀러 가 볼까?\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "유령 젤로,아이",
+      "setting": null,
+      "action": "떨어지는,움직일 때마다,놀러 가",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "유령 젤로가 움직일 때마다 어떤 일이 생기나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": " 달콤한 젤리가 떨어져요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아이들이 제일 좋아하는 유령은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "젤로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

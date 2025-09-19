@@ -1,0 +1,84 @@
+﻿{
+  "title": "좋아하는 것이 참 많아요",
+  "author": "최혜영",
+  "illustrator": "정도영",
+  "isbn": "9788963830568",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49884",
+      "srcText": "엄마는 김밥 속에 당근, 오이, 시금치를 듬뿍 넣어요. \"우리 송이는 야채도 잘 먹지?\" 야채가 듬뿍 든 김밥은 참 맛있어요. 송이는 유치원 선생님을 좋아해요. 선생님은 동화도 들려주고, 노래랑 게임도 같이하니까요.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "character": "엄마,김밥,당근,오이,시금치,송이,유치원 선생님,야채",
+      "setting": null,
+      "action": "넣어요,들려주고",
+      "feeling": "좋아해요",
+      "causalRelationship": "송이는 유치원 선생님을 좋아해요. 선생님은 동화도 들려주고, 노래랑 게임도 같이하니까요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "엄마는 당근, 오이, 시금치를 듬뿍 넣어 무엇을 만드나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "김밥",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "야채가 듬뿍 든 김밥을 잘 먹는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "송이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "송이는 왜 유치원 선생님을 좋아하나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "선생님은 동화도 들려주고, 노래랑 게임도 같이 하며 잘 놀아주기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "송이가 좋아하는 사람은 누구인가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "유치원 선생님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

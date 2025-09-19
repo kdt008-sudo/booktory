@@ -3,10 +3,8 @@
   "author": "김인숙",
   "illustrator": "전지은",
   "isbn": "9791165435264",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,191 @@
       "srcText": "어느새 꽃이 시들고, 꽃이 시든 자리에 단단한 씨앗이 맺혔어. 꽃마다 가득가득 여러 모습의 씨앗을 만들었지. 이다음에 더 많은 꽃들을 피워 내려는 거야.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "꽃,씨앗",
+      "setting": "꽃이 시든 자리",
+      "action": "시들고,맺혔어,만들었지,피워 내려는 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어느새 무엇이 시들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽃",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "씨앗은 어디에 맺혔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽃이 시든 자리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "이다음에 더 많은 꽃들을 어떻게 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "피워 내요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "1211",
       "srcText": "어유, 추워! 이 추위만 잘 견디면 돼. 열심히 먹이를 모아 두었으니 이번 겨울도 문제없어. 어디 갔지? 분명히 이 근처에 숨겨 놨는데. ",
       "srcPage": 15,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "먹이",
+      "setting": "이 근처",
+      "action": "잘 견디면,모아 두었으니,숨겨 놨는데",
+      "feeling": "추워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "겨울에도 문제가 없는 이유는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "먹이를 모아 두어서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "먹이를 어디에 숨겨두었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이 근처",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇을 잘 견디면 된다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이 추위만 잘 견디면 돼.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "이번 겨울은 어떤가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "추워요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "1212",
       "srcText": "청설모에게 들키지 말아야 하는데. 나도 예쁜 꽃을 피우고 싶은데. 제발 나를 밟지 말아 줘. ",
       "srcPage": 15,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "청설모,나,꽃",
+      "setting": null,
+      "action": "들키지,피우고,밟지",
+      "feeling": null,
+      "causalRelationship": "나도 예쁜 꽃을 피우고 싶은데. 제발 나를 밟지 말아 줘.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구에게 들키지 말아야 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "청설모",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "청설모에게 들키지 말아야 하는 이유는 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나를 먹을 것 같아서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "제발 나를 밟지 말아 줘라고 하는 이유는 무엇일까요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나도 예쁜 꽃을 피우고 싶어서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

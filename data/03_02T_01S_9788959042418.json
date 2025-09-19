@@ -1,0 +1,56 @@
+﻿{
+  "title": "지구가 우리를 끌어당겨요",
+  "author": "남석기",
+  "illustrator": "정윤주",
+  "isbn": "9788959042418",
+  "publishedYear": 2004,
+  "publisher": "(주)한국퍼킨스교육연구원",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51600",
+      "srcText": "우리가 살고 있는 지구 반대편에 있는 것들도 떨어져요. 그런데 지구 밖으로 떨어지는 것이 아니라, 우리가 살고 있는 곳과 마찬가지로 지구 중심으로 떨어진답니다. 왜냐하면 지구가 모든 것을 끌어당기기 때문이에요. 이렇게 지구가 물체를 끌어당기는 힘을 중력이라고 해요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 38,
+      "character": "우리,지구",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "우리가 살고 있는 지구 반대편에 있는 것들도 떨어져요. 그런데 지구 밖으로 떨어지는 것이 아니라, 우리가 살고 있는 곳과 마찬가지로 지구 중심으로 떨어진답니다. 왜냐하면 지구가 모든 것을 끌어당기기 때문이에요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "무엇이 물체를 끌어당기는 힘을 중력이라고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우리가 살고 있는 지구 반대편에 있는 것들이 우리가 살고 있는 곳과 마찬가지로 지구 중심으로 떨어지는 이유는 무엇인가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "지구가 모든 것을 끌어당기기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

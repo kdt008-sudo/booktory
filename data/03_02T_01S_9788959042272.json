@@ -1,0 +1,56 @@
+﻿{
+  "title": "바다에는 어떤 동물이 살까요?",
+  "author": "이수나",
+  "illustrator": "김홍렬",
+  "isbn": "9788959042272",
+  "publishedYear": 2004,
+  "publisher": "(주)한국퍼킨스교육연구원",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52341",
+      "srcText": "흰물떼새의 이마는 흰색이며 이마와 정수리 사이에 검은 띠가 있어요. 서해비단고둥은 모래 갯벌에서 무리 지어 살아요. 껍데기가 매끄럽고 광택이 나서 북한에서는 ‘비단골뱅이’라고 불러요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "character": "흰물떼새,서해비단고둥,검은띠,비단골뱅이",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "껍데기가 매끄럽고 광택이 나서 북한에서는 ‘비단골뱅이’라고 불러요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "껍데기가 매끄럽고 광택이 나서 북한에서는 비단 골뱅이라고 불리는 것은 무엇인가요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "서해비단고둥",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "이마가 흰색이며 이마와 정수리 사이에 검은 띠가 있는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "흰물떼새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "심재민",
   "illustrator": "한재홍",
   "isbn": "8990591287",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“풍덩!” 연못 속으로 둥근 보름달이 빠졌어요. 연못 안은 대낮처럼 환해졌어요. “야, 달이다!” 물고기들이 우르르 달님 주위로 몰려들었어요. 재잘재잘 모두들 즐거워하였어요.",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "보름달,물고기들,달님,달",
+      "setting": null,
+      "action": "빠졌어요,몰려들었어요",
+      "feeling": "즐거워하였어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "연못 속에 빠진 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "보름달",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "우르르 달님 주위로 몰려든 물고기들의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재잘재잘 모두 즐거웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "둥근 보름달이 연못 속에 빠지자 연못이 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "대낮처럼 환해졌습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

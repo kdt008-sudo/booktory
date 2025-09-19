@@ -1,0 +1,115 @@
+﻿{
+  "title": "부끄럼쟁이 카멜레온",
+  "author": "하늘땅",
+  "illustrator": "이지원",
+  "isbn": "9791165953973",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "10144",
+      "srcText": "빨강 무당벌레가 사뿐사뿐. 나도 나도. 빨강으로 변신! 노랑 병아리가 삐악삐악. 나도 나도 노랑으로 변신!",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "character": "무당벌레,병아리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "노랑 병아리가 삐악삐악. 나도 나도 노랑으로 변신!",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "빨간색인 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무당벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "노랑 병아리를 보고 노랑으로 변신했다면, 파란 하늘을 보면 무엇으로 변신할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "파랑으로 변신할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "10145",
+      "srcText": "파랑새가 파닥파닥. 나도 나도. 파랑으로 변신! 왜 자꾸 따라 하니? 카멜레온은 부끄러워 울긋불긋. 와, 무지개색으로 변했네. 정말 예쁘다!",
+      "srcPage": 9,
+      "srcSentenceEA": 7,
+      "srcWordEA": 24,
+      "character": "파랑새,카멜레온",
+      "setting": null,
+      "action": null,
+      "feeling": "정말 예쁘다!",
+      "causalRelationship": null,
+      "outcomeResolution": "카멜레온은 부끄러워 울긋불긋. 와, 무지개색으로 변했네.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "파닥파닥 거리는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파랑새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무지개색을 보고 어떤 느낌이 들었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "정말 예쁘다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "카멜레온은 어쩌다 무지개색으로 변했나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "카멜레온이 부끄러워 울긋불긋해졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "연오랑과 세오녀",
+  "author": "권경미",
+  "illustrator": "오보라",
+  "isbn": "9788960164796",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46791",
+      "srcText": "세오녀가 연오랑의 신발을 주우려고 바위에 올라섰을 때였어요. 바위가 흔들흔들하더니 둥실둥실 바다로 떠내려갔어요. 세오녀를 실은 바위는 머나먼 섬나라 일본에 도착했어요. \"하늘이 보낸 왕비님이시다.\" 일본 사람들은 세오녀를 궁궐로 데려갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30,
+      "character": "세오녀,연오랑,신발,바위,일본,궁궐",
+      "setting": null,
+      "action": "떠내려갔어요,데려갔어요,도착했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "일본 사람들은 세오녀를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "궁궐로 데려갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "누가 연오랑의 신발을 주우려고 바위에 올라섰나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세오녀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

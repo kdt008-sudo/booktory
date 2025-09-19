@@ -1,0 +1,56 @@
+﻿{
+  "title": "고무풍선이 펑! ",
+  "author": "강용숙",
+  "illustrator": "고혜진",
+  "isbn": "9788960162389",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51959",
+      "srcText": "선생님이 말씀하셨어요. \"풍선을 제일 크게 부는 사람은 이 왕관을 쓰고 오늘의 왕이 되는 거야.\" 친구들이풍선을불었어요. '푸우 푸우' 입에 대고 바람을 불 때마다 풍선 속으로 공기가 들어갔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "character": "선생님,풍선,왕관",
+      "setting": null,
+      "action": "말씀하셨어요,입에 대고 바람을 불 때마다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "선생님은 어떤 사람이 오늘의 왕이 되어 왕관을 쓰게 된다고 말씀하셨나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풍선을 제일 크게 부는 사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "풍선을 입에 대고 바람을 불 때마다 풍선으로 들어간 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

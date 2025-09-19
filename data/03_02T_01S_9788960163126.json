@@ -1,0 +1,56 @@
+﻿{
+  "title": "공룡시대의 강자들 ",
+  "author": "예종화",
+  "illustrator": "정혜원",
+  "isbn": "9788960163126",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52006",
+      "srcText": "너 누구니? 난 마음씨 순한 이구아노돈. 밥 먹을 때는 손으로 쥐고 냠냠 먹었어. 너 누구니? 난 뾰죡뾰족 골판이 있는 스테고사우루스. 난연한 나뭇잎을 잘 먹어. 스테고사우루스-‘지붕이 있는 도마뱀’이란 뜻의 이름이에요. 너 누구니? 크앙~! 난 사냥꾼 티라노사우루스. 모두들 날 보면 무서워 도망가. *티라노사우루스-‘폭군 도마뱀’이란 뜻의 이름이에요.",
+      "srcPage": 6,
+      "srcSentenceEA": 14,
+      "srcWordEA": 57,
+      "character": "이구아노돈,스테고사우루스,나뭇잎,티라노사우루스",
+      "setting": null,
+      "action": "냠냠 먹었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "뾰족뾰족 골판이 있고, 연한 나뭇잎을 잘 먹는 공룡의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스테고사우루스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "마음씨가 순하고, 밥 먹을 때 손으로 쥐고 냠냠 먹는 공룡의 이름은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이구아노돈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

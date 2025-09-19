@@ -3,10 +3,8 @@
   "author": "장선혜",
   "illustrator": "최민오",
   "isbn": "9788966923663",
-  "readAge": "초등_저학년",
   "publishedYear": 2012,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,73 @@
       "srcText": "이불만 남았네. 없다, 있다, 없다, 있다, 없다, 있다. 이번에는 뭐게? 있다! 까꿍! 주머니가 비었네. 모두 어디 갔을까? 모두 쌔근쌔근 자러 간 거야. ",
       "srcPage": 17,
       "srcSentenceEA": 8,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "이불,주머니",
+      "setting": null,
+      "action": "남았네,비었네,갔을까,자러 간 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "모두 쌔근쌔근 자러 간 거야.",
+      "prediction": "모두 어디 갔을까",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "비어있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "주머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇이 남았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이불만 남았네.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "모두 어디 가고 없을까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모두 쌔근쌔근 자러 간 거야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "주머니가 비어있는 것을 보고 어떤 생각을 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모두 어디 갔을까?",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "박은정",
   "isbn": "9788927207009",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 5,
   "paragraphInfo": [
     {
@@ -14,35 +12,267 @@
       "srcText": "\"엄마가 머리를 쓰다듬어 줄 때는 어떤 느낌일까요?\" \"좋은 느낌이요.\" \"길거리에서 낯선 사람이 '귀엽다', '예쁘다' 등의 말을 하며 억지로 안으려 할 땐 어떤 느낌일까요?\" \"싫은 느낌이요!\"",
       "srcPage": 9,
       "srcSentenceEA": 5,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "엄마,머리,낯선 사람",
+      "setting": "길거리",
+      "action": "쓰다듬어,안으려,말을 하며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "귀엽고 예쁘다며 억지로 안으려 하는 사람은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낯선 사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "낯선 사람이 억지로 안으려 한 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "길거리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마가 머리를 쓰다듬어 줄 때는 어떤 느낌이 드나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마가 머리를 쓰다듬어 줄 때 좋은 느낌이 들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16349",
       "srcText": "\"모르는 아저씨가 손을 잡는다면 어떤 느낌일까요?\" \"싫은 느낌이요!\" \"누군가 내 손을 잡아서 싫은 느낌이 들 때는 어떻게 해야 할까요?\"",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "모르는 아저씨,손,누군가,내",
+      "setting": null,
+      "action": "잡는다면,잡아서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "손을 잡았을 때 싫은 느낌이 드는 사람은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모르는 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "모르는 아저씨가 어떤 행동을 할 때 싫은가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모르는 아저씨가 손을 잡아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16348",
       "srcText": "교실에 아이들이 옹기종기 모여 있어요. \"오늘은 누군가 내 몸을 만졌을 때 어떻게 해야 하는지 배울 거예요!\" \"네!\" \"누군가 내 몸을 만지면 좋을 때도 있고, 싫을 때도 있어요. 친구랑 손을 잡으면 어떤 느낌일까요?\" \"좋은 느낌이요!\"",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 35
+      "srcWordEA": 35,
+      "character": "몸,친구,손,누군가,내 몸,아이들",
+      "setting": "교실,오늘",
+      "action": "모여 있어요,만졌을,배울 거예요,만지면,잡으면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누구와 손을 잡았을 때 좋은 느낌이 들까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아이들이 수업을 받는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "교실",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "오늘 배우는 건 어떤 것인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "누군가 내 몸을 만졌을 때 어떻게 해야 하는지 배워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16353",
       "srcText": "\"여러분의 몸은 무척 소중해요. 그래서 다른 사람이 함부로 만지면 안 되는 거예요.\" \"어른이라고 해서 내 몸을 함부로 만져서도 안 되지요. 싫은 느낌이 들면 확실하게 싫다고 말해야 해요.\"",
       "srcPage": 12,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "몸,다른 사람,어른,여러분,내",
+      "setting": null,
+      "action": "만지면,말해야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "어른이라고 해서 내 몸을 함부로 만져서도 안 되지요. 싫은 느낌이 들면 확실하게 싫다고 말해야 해요",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "싫은 느낌이 들면 어떻게 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "확실하게 싫다고 말해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어른이라고 해서 내 몸을 함부로 만지려 하면 어떻게 해야 할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "싫은 느낌이 들면 확실하게 싫다고 말해야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "다른 사람이 함부로 만지면 안되는 소중한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "몸",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16354",
       "srcText": "\"그리고 빨리 그 장소를 피해서 가까운 약국이나 가게, 사람들이 많은 곳으로 가 도움을 청해요.\" \"마지막으로 일어난 일에 대해서 부모님께 꼭 이야기를 해요. 알았죠?\" \"네! 우리 몸은 우리가 지킬래요!\"",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "부모님,몸,우리",
+      "setting": null,
+      "action": "피해서,가,청해요,이야기를 해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "일어난 일에 대해서 누구에게 꼭 이야기해야 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "부모님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "가까운 약국이나 가게, 사람들이 많은 곳으로 가서 해야 할 행동은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "도와 달라고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

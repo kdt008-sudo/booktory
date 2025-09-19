@@ -1,0 +1,84 @@
+﻿{
+  "title": "마이어 씨는 왜 늦었을까?",
+  "author": "조정옥",
+  "illustrator": "김윤경",
+  "isbn": "9791128208874",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49056",
+      "srcText": "\"땡땡땡!\" 오후 3시를 알리는 종이 울리자, 마이어는 얼른 창밖을 내다보았어요. 그러자 저 멀리 산책을 하기 위해 집을 나서는 칸트가 보였어요. 십 년 전, 마이어 부부가 이 마을로 이사 왔을 때, 이웃집 사람이 재미있는 이야기를 들려주었어요. \"이 마을에 칸트라는 교수가 살고 있는데, 그는 정확히 오후 3시만 되면 산책을 나선답니다. 지금까지 단 한 번도 시간을 어긴 적이 없어요.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 60,
+      "character": "종,마이어,칸트,마이어 부부,이웃집 사람,교수",
+      "setting": "오후 3시,마을,집",
+      "action": "울리자,내다보았어요,나서는,보였어요,이사 왔을,들려주었어요,살고,산책을 나선답니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "지금까지 단 한 번도 시간을 어긴 적이 없어요.",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "마이어 부부가 이사 왔을 때 재미있는 이야기를 들려준 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이웃집 사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "마이어는 창밖으로 무엇을 내다보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "저 멀리 산책을 하기 위해 집을 나서는 칸트가 보였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "오후 3시를 알리는 종이 울리자, 마이어는 어떻게 했나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "얼른 창밖을 내다보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "앞으로도 칸트는 단 한 번도 시간을 어기지 않을 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 2,
+          "ansM1": "감기가 걸리거나 아프면 산책을 못할 것 같아요.",
+          "ansM2": "폭풍우가 치면 산책을 못하지 않을까요?",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

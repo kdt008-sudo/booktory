@@ -1,0 +1,70 @@
+﻿{
+  "title": "너는 이런 동생 있니?",
+  "author": "장명진",
+  "illustrator": "홍시야",
+  "isbn": "9791157590742",
+  "publishedYear": 2015,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48853",
+      "srcText": "“내가 무지무지 화가 나서 빼앗았더니 동생이 큰 소리로 울어 버리는 거야. 게다가 별일도 아닌데 싸운다고 엄마한테 꾸지람까지 들었어. 약속을 안 지킨 건 동생인데 정말 억울해.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27,
+      "character": "동생,엄마",
+      "setting": null,
+      "action": "싸운다고,빼앗았더니,울어 버리는",
+      "feeling": "화가 나서,억울해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "화가 나서 빼앗았더니 동생은 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "울어 버렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "별일도 아닌데 싸운다고 꾸지람을 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "약속을 안 지킨 건 동생인데 엄마에게 꾸지람을 들어 어떤 기분인가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "억울한 기분이 들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

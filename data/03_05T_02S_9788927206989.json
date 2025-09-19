@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "이수희",
   "isbn": "9788927206989",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,357 @@
       "srcText": "혜진이는 얼른 집으로 달려왔어요. 엄마 아빠를 보자 눈물이 나왔지요. “엄마! 아빠!” 혜진이는 방금 전의 일을 이야기했어요. “아빠가 준 호루라기가 아니었으면 큰일이 났을 거예요.”",
       "srcPage": 12,
       "srcSentenceEA": 5,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "혜진이,집,엄마,아빠,호루라기",
+      "setting": null,
+      "action": "달려왔어요,눈물이 나왔지요,이야기했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "혜진이에게 도움을 준 물건은 누가 준 것인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "집으로 달려와 엄마 아빠를 본 혜진이는 어땠나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마 아빠를 만나고 눈물이 나왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17867",
       "srcText": "아저씨는 혜진이의 몸을 만지려고 했어요. 그러자 혜진이가 큰 소리로 외쳤어요. “싫어요! 하지 마세요!”",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "아저씨,혜진이,몸",
+      "setting": null,
+      "action": "만지려고 했어요,외쳤어요",
+      "feeling": "싫어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "혜진이의 몸을 만지려고 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아저씨는 무슨 행동을 하려 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "혜진이의 몸을 만지려고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "혜진이의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "큰 소리로 외칠 만큼 싫었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17865",
       "srcText": "그러던 어느 날, 친구 집에 가는데 낯선 아저씨가 다가와 말했어요. \"참 예쁘게 생겼구나. 아저씨가 선물 줄까?\"",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "아저씨,선물,친구 집",
+      "setting": null,
+      "action": "말했어요,다가와",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "친구 집에 가는 길에 누구를 만났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낯선 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "낯선 아저씨가 뭐라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예쁘게 생겼다고 선물을 준다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17868",
       "srcText": "그리고 아빠에게 선물 받은 호루라기를 꺼내 힘차게 불었어요. 삑삑, 삐이이익! “어이쿠!” 요란한 호루라기 소리에 놀란 아저씨는 황급히 도망을 갔어요.",
       "srcPage": 10,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "아빠,선물,호루라기,아저씨",
+      "setting": null,
+      "action": "불었어요,도망을 갔어요",
+      "feeling": "놀란",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "호루라기를 선물한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "호루라기를 꺼내서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "힘차게 불었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "호루라기 소리를 들은 아저씨의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "생각지 못한 소리에 깜짝 놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17870",
       "srcText": "“그래, 우리 혜진이가 참 용기 있게 행동했구나. 만약 호루라기가 없을 땐 가까운 가게에 들어가 도움을 청하거라.” “네, 아빠.”",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "혜진이,호루라기,가게,아빠",
+      "setting": null,
+      "action": null,
+      "feeling": "용기 있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "혜진이에게 가게에 들어가 도움을 청하라고 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아빠는 혜진를 어떻게 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "정말 용기 있게 행동했다고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17864",
       "srcText": "혜진이는 아빠에게 예쁜 호루라기를 선물 받았어요. \"위험한 일이 생기면 힘껏 불어야 한다.\" \"네, 아빠!\"",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "혜진이,아빠,호루라기",
+      "setting": null,
+      "action": "선물 받았어요,불어야 한다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아빠는 위험한 상황을 위해서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "혜진이에게 예쁜 호루라기를 선물했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "혜진이에게 호루라기를 선물한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17866",
       "srcText": "아저씨는 예쁜 고무줄을 내밀었어요. 그리고 사람이 없는 곳으로 데리고 가 혜진이의 머리를 쓰다듬었어요. 혜진이는 기분이 몹시 나빴어요. 하지만 주위에 아무도 없어서 도움을 청할 수도 없었어요.",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "아저씨,고무줄,혜진이,머리",
+      "setting": null,
+      "action": "내밀었어요,데리고,쓰다듬었어요",
+      "feeling": "기분이 몹시 나빴어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "고무줄을 내민 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "사람이 없는 곳으로 데려 간 아저씨는 무슨 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "머리를 쓰다듬었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아저씨의 행동에 혜진이의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기분이 몹시 나빴어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

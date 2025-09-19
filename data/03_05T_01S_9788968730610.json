@@ -1,0 +1,129 @@
+﻿{
+  "title": "모아 모아서 차곡차곡",
+  "author": "애플트리",
+  "illustrator": "조희정",
+  "isbn": "9788968730610",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42428",
+      "srcText": "어머나, 호야 방이 뒤죽박죽 엉망이네요. 정말 재미있게 놀았나 봐요. 자, 이제부터 차근차근 정리해 볼까요?",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": null,
+      "setting": "호야 방",
+      "action": "놀았나 봐요,정리해",
+      "feeling": "재미있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뒤죽박죽 엉망인 곳은 어디일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호야 방",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "놀고 난 후에는 어떤 행동을 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "차근차근 정리해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "호야는 방에서 무엇을 했던 것으로 보이나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "정말 재미있게 놀았나 봐요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42427",
+      "srcText": "어머나, 호야 방이 뒤죽박죽 엉망이네요. 정말 재미있게 놀았나 봐요. 자, 이제부터 차근차근 정리해 볼까요?",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": null,
+      "setting": "호야 방",
+      "action": "놀았나 봐요,정리해",
+      "feeling": "재미있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뒤죽박죽 엉망인 곳은 어디일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호야 방",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "놀고 난 후에는 어떤 행동을 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "차근차근 정리해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "놀 때 어떤 감정을 느낄까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "정말 재미있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "꼬두람이",
   "illustrator": "꼬두람이",
   "isbn": "9791165437374",
-  "readAge": "유아",
   "publishedYear": 2023,
   "publisher": "아람키즈",
-  "classification": "예술경험",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,191 @@
       "srcText": "나처럼 활짝 웃어 보세요. 점점 즐거워질 거예요. 모두 활짝 웃어 보세요. 정말 행복해질 거예요.",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "나",
+      "setting": null,
+      "action": "웃어",
+      "feeling": "즐거워,행복해",
+      "causalRelationship": null,
+      "outcomeResolution": "점점 즐거워질 거예요,정말 행복해질 거예요",
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구처럼 활짝 웃어보라고 했을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "모두에게 정말 행복해질 거라며 무엇을 해보게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "활짝 웃으면 정말 행복해질 거라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "활짝 웃으면 어떤 감정이 생긴다고 했을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "즐겁고 행복해진다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "활짝 웃으면 결국 어떻게 된다고 하나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "즐겁고 행복해진다고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7426",
       "srcText": "나처럼 활짝 웃어 보세요. 더 멋져 보일 거예요. 나처럼 활짝 웃어 보세요. 화가 사르르 풀릴 거예요.",
       "srcPage": 1,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "나",
+      "setting": null,
+      "action": "웃어",
+      "feeling": null,
+      "causalRelationship": "나처럼 활짝 웃어 보세요. 더 멋져 보일 거예요.,나처럼 활짝 웃어 보세요. 화가 사르르 풀릴 거예요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구처럼 활짝 웃어 보라고 했을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "더 멋져 보이기 위해서 어떤 행동을 하라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "활짝 웃어 보라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나처럼 활짝 웃으면 어떤 일이 생긴다고 했나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "더 멋져 보이고 화가 사르르 풀릴 거라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7427",
       "srcText": "나처럼 활짝 웃어 보세요. 걱정이 훌훌 사라질 거예요. 나처럼 활짝 웃어 보세요. 기분이 참 좋아질 거예요.",
       "srcPage": 3,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "나",
+      "setting": null,
+      "action": "웃어",
+      "feeling": "기분이 참 좋아질",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "활짝 웃으면 걱정이 사라질 거라고 누가 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "기분이 좋아지기 위해 무엇을 해보라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나처럼 활짝 웃어 보라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나처럼 활짝 웃으면 어떤 기분이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "걱정이 사라지고 기분이 좋아질 거라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

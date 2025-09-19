@@ -1,0 +1,70 @@
+﻿{
+  "title": "진주를 삼킨 거위와 군자",
+  "author": "김영숙",
+  "illustrator": "홍승희",
+  "isbn": "9788961915953",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49200",
+      "srcText": "추운 겨울이 지나고 따뜻한 봄이 오자, 온 산이 알록달록 예쁜 꽃들로 뒤덮였어요. 일요일 아침, 신의는 아빠와 함께 뒷산에 올라갔어요. “아빠, 빨리 오세요.” 아빠와 모처럼 나들이를 나온 신의는 신이 나서 힘껏 달려갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "character": "신의,아빠,겨울,봄,꽃들",
+      "setting": "일요일 아침,뒷산",
+      "action": "뒤덮였어요,올라갔어요,힘껏 달려갔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "신의가 신이 나서 힘껏 달려간 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아빠와 모처럼 나들이를 나왔기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "신의는 아빠와 함께 어디에 올라갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뒷산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 아빠와 함께 모처럼 나들이를 나왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "신의",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "올챙이는 왜 아빠를 닮지 않았을까? ",
+  "author": "김영이",
+  "illustrator": "계창훈",
+  "isbn": "9788960162280",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51575",
+      "srcText": "뻐끔뻐끔. 올챙이 형제가 물풀 사이를 헤엄쳐 다니며 이야기해요. \"아빠 보고 싶다. 그렇지?\" \"응, 우리 아빠는 어떻게 생겼을까?\" 올챙이 형제는 아빠를 찾아보기로 했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "character": "올챙이,아빠",
+      "setting": "물풀",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "올챙이 형제는 누구를 보고 싶어 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "올챙이 형제가 헤엄쳐 다니는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물풀 사이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

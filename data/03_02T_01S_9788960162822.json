@@ -1,0 +1,56 @@
+﻿{
+  "title": "물고기는 수영 선수 ",
+  "author": "정명숙",
+  "illustrator": "조솔아, 이찬림",
+  "isbn": "9788960162822",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52008",
+      "srcText": "엄마 물고기가 말했어요. “아가야, 여기저기 우리를 노리는 적들이 많단다. 그러니까 헤엄을 잘 쳐야 해.”“헤엄을 잘 칠 때까지는 엄마 옆에서 멀리 가면 안 돼. 알았지?” 엄마가 헤엄을 가르치며 말했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32,
+      "character": "엄마 물고기,아가",
+      "setting": null,
+      "action": "헤엄을 가르치며 말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "여기저기 물고기를 노리는 적이 많기 때문에 헤엄을 가르치는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마 물고기가 아가에게 가르치고 있는 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "헤엄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

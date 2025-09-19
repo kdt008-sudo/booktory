@@ -1,0 +1,56 @@
+﻿{
+  "title": "고미의 아침",
+  "author": "조정수",
+  "illustrator": "이병호",
+  "isbn": "9788993877670",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "50935",
+      "srcText": "아침 해가 반짝거려요.  꼬마 곰 고미가 눈을 비비며 일어나지요. 푸하푸하 일어나면 제일 먼저 깨끗이 세수를 해요. 그리고 옷을 입지요. 고미는 혼자서도 옷을 잘 입어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "해,꼬마 곰 고미,눈,옷",
+      "setting": null,
+      "action": "세수를 해요,입어요,일어나지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아침이 되자 눈을 비비며 일어나는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼬마 곰 고미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "꼬마 곰은 아침에 일어나면 제일 먼저 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세수를 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

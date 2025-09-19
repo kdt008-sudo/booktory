@@ -1,0 +1,70 @@
+﻿{
+  "title": "당나귀 알을 품은 산사람",
+  "author": "박성아",
+  "illustrator": "장미애",
+  "isbn": "9788960164376",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49739",
+      "srcText": "옛날 아주 오랜 옛날, 깊은 산속에 살던 산사람이 하루는 장터 구경을 하러 나왔대. 요리조리 장터를 구경하다가 산사람은 수박을 보고 그만 입이 쩍 벌어졌지. “아이고, 세상에! 무슨 알이 이렇게 크담!”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31,
+      "character": "산사람,수박,알",
+      "setting": "옛날 아주 오랜 옛날,장터",
+      "action": "입이 쩍 벌어졌지,구경을 하러 나왔대",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "산사람은 무엇을 보고 깜짝 놀랐나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "산사람은 무엇을 하러 나왔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "장터 구경을 하러 나왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "산사람이 산속에 살던 것은 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주 오랜 옛날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

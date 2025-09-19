@@ -1,0 +1,70 @@
+﻿{
+  "title": "단 방귀 장수",
+  "author": "정지아",
+  "illustrator": "배종숙",
+  "isbn": "9791157987313",
+  "publishedYear": 2019,
+  "publisher": "세이펜북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47715",
+      "srcText": "옛날 어느 곳에 형제가 살았어. 심보 고약한 형은 맛있는 것 혼자 다 먹고 빈둥빈둥, 동생에게만 일을 시켰어. 아주아주 더운 여름날, 형이 소리쳤어. \"왜 놀고 있는 거야! 가서 나무나 해 와!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33,
+      "character": "형,동생",
+      "setting": "옛날,더운 여름",
+      "action": "일을 시켰어,소리쳤어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "맛있는 것 혼자 다 먹고 빈둥빈둥하는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "형",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "더운 여름날, 형은 뭐라고 소리쳤나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "놀지 말고 나무를 해 오라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "형이 동생에게 소리칠 때는 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "더운 여름날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "가장 위대한 학자는 누굴까?",
+  "author": "유명화",
+  "illustrator": "김연주",
+  "isbn": "9791165950521",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48208",
+      "srcText": "나는 공손한 라파엘로. 교황의 부름을 받아 성 베드로 성당으로 갔더니, 자기 서재에 그림을 그리라고 하네. 그것도 위대한 학자들까지. 나는 상냥하고 예의 바르게 “네!” 하고 대답했지. 그림을 그려야 할 교황의 서재에 가 보았지. 아주 넓고 긴 벽, 둥그렇게 굽은 천장을 보자마자 어떤 그림을 그려야 할지 떠올랐어. “이런 그림쯤이야 누워서 떡 먹기지! 나는 천재 화가 라파엘로니까!”",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 61,
+      "character": "라파엘로,교황,천재 화가",
+      "setting": "성 베드로 성당,교황의 서재",
+      "action": "부름을 받아,그림을 그리라고,대답했지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "교황의 부름을 받아 성 베드로 성당으로 가서 교황의 서재에 그림을 그리라는 소리를 들은 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "라파엘로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "교황은 라파엘로에게 서재에 무엇을 하라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "위대한 학자를 포함한 그림을 그리라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "라파엘로는 교황의 부름을 받아 어디로 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "성 베드로 성당",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

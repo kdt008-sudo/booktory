@@ -1,0 +1,191 @@
+﻿{
+  "title": "물가의 새",
+  "author": "마리아 베한",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828795",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "27515",
+      "srcText": "물 위에 동동 아기 쇠오리들, 참방참방 수영을 해요. 까만 머리 하얀 뺨 캐나다기러기, 긴 목을 물에 넣고 먹이를 잡아요. 빨간 부리가 멋진 황새, 단단한 부리로 물고기를 잡아요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29,
+      "character": "물 위,아기 쇠오리들,캐나다기러기,긴 목,물,먹이,빨간 부리,황새,물고기",
+      "setting": null,
+      "action": "수영을 해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨간색 멋진 부리를 가진 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "황새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 쇠오리들은 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "수영을 하고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27516",
+      "srcText": "늘어나는 부리 주머니가 신기한 펠리컨, 물고기를 넣으면 더욱 커져요. 깃털이 붉은 홍따오기와 홍학, 게와 새우를 먹으면 점점 더 붉어져요. 알록달록 큰 부리 주걱부리황새, 커다란 부리로 콕콕 사냥해요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29,
+      "character": "부리 주머니,펠리컨,물고기,깃털,홍따오기,홍학,게,새우,주걱부리황새,부리",
+      "setting": null,
+      "action": "사냥해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "늘어나는 부리 주머니가 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "펠리컨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "큰 부리 주걱부리황새는 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "커다란 부리를 이용해서 사냥을 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27514",
+      "srcText": "하얀 깃털이 멋진 백로가 물가에 내려앉았어요. 이리 기웃, 저리 기웃 친구들을 찾아요. 다른 백로 친구들은 하마 등에서 쉬고 있어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "하얀 깃털,백로,물가,친구들,하마 등",
+      "setting": null,
+      "action": "내려앉았어요,찾아요,쉬고 있어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "물가에 무엇이 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "백로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "백로는 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "친구들이 있나 찾고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27517",
+      "srcText": "퍼덕퍼덕 날개가 큰 앨버트로스와 갈매기가 친구들과 즐겁게 물놀이해요. 한 발로 우뚝 선 캐나다두루미, 날갯죽지에 부리를 묻고 새근새근 잠을 자요. 두리번두리번 망보는 물총새, 물고기가 보이면 퐁당퐁당 잠수해요. 긴 다리와 긴 목 날씬한 왜가리, 친구들을 만나러 힘차게 날아가요.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39,
+      "character": "앨버트로스,갈매기,친구들,캐나다두루미,물총새,물고기,왜가리",
+      "setting": null,
+      "action": "물놀이해요,잠을 자요,날아가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "친구를 만나러 날아가는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "왜가리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "캐나다 두루미는 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "잠을 곤히 자요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "정선, 조선을 그리다!",
+  "author": "장선혜",
+  "illustrator": "이준선",
+  "isbn": "9791165950774",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48133",
+      "srcText": "어린 시절부터 같이 공부하고 자란 절친한 두 친구인 겸재 정선과 사천 이병연은 금강산으로 길을 떠났어. 겸재는 금강산을 그림으로 옮기고, 사천은 겸재의 그림에 시를 붙이러 떠난 거야. 금강산 가는 길에 삼부연 폭포에 들렀어.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 34,
+      "character": "겸재 정선,사천 이병연",
+      "setting": "금강산,삼부연 폭포",
+      "action": "공부하고,떠났어,들렀어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "겸재 정선이 금강산을 그리면, 누가 겸재의 그림에 시를 붙이나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사천 이병연",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "두 친구는 금강산에 가려고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길을 떠났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "금강산 가는 길에 어디를 들렀나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "삼부연 폭포",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿{
+  "title": "누구 신발이지?",
+  "author": "야자키 세츠오",
+  "illustrator": "오카베 리카",
+  "isbn": "9788997300488",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15512",
+      "srcText": "누구 신발이지? 어, 멍멍이가 물고 어디로 가지? 멍멍아, 고마워! 예쁜 내 구두! 잘 어울려요? 오늘은 우리 가족 모두 나들이 가는 날!",
+      "srcPage": 10,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "character": "신발,멍멍이,가족,구두",
+      "setting": "오늘",
+      "action": "물고,가지",
+      "feeling": "고마워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "멍멍이가 물고 간 신발은 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구두",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "우리 가족은 모두 언제 나들이를 가게 되었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오늘",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 예쁜 구두를 신고 뭐라고 물어보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "잘 어울리는지 물어봤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 구두를 가져다 준 멍멍이에게 어떤 마음이었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고마운 마음이 들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

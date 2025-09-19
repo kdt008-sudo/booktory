@@ -1,0 +1,70 @@
+﻿{
+  "title": "우주 비행사가 되고 싶어",
+  "author": "한미호",
+  "illustrator": "이승석",
+  "isbn": "9791165433529",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48484",
+      "srcText": "와, 근사한 천체 망원경을 만들었네요! 아름다운 별들을 바라보던 삼총사는 문득 결심을 했어요. “별들이 있는 우주에 가고 싶어.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "천체 망원경,별,삼총사,우주",
+      "setting": null,
+      "action": "만들었네요,가고 싶어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "아름다운 별들을 바라보던 삼총사는 문득 결심을 했어요",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "별들이 있는 곳은 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우주",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "삼총사가 아름다운 별들을 바라보며 한 결심은 무엇일까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우주에 가고 싶었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "삼총사는 근사한 무엇을 만들었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "천체 망원경",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

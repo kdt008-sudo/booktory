@@ -3,10 +3,8 @@
   "author": "이경",
   "illustrator": "조명화",
   "isbn": "8990591317",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“이랑이는 사과 두 개 반하고, 주스 반 병을 사 와라. 은지는 사과 한 개 반하고, 주스 반 병만 사 오렴.” 엄마는 이랑이와 은지에게 돈을 주었어요.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "이랑이,사과,주스,은지,돈",
+      "setting": null,
+      "action": "사 와라,사 오렴,주었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": " 엄마는 이랑이와 은지에게 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사과와 주스를 사 오라고 돈을 줬어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 사과 두 개 반을 사 오라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이랑이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

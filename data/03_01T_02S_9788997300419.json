@@ -1,0 +1,70 @@
+﻿{
+  "title": "화장실 똑똑똑",
+  "author": "마도코로 히사코",
+  "illustrator": " 모우리 유코",
+  "isbn": "9788997300419",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8343",
+      "srcText": "더 이상 못 참아. 에잇, 들어가자!  어머, 누가 있었네! 안에 있잖아요. 화장실에 들어올 땐 노크를 해야죠! 끄응~끙. 싸겠다, 싸겠어. 똑 똑 똑! 후유~ 살았다. 아, 시원해!",
+      "srcPage": 11,
+      "srcSentenceEA": 11,
+      "srcWordEA": 38,
+      "character": null,
+      "setting": "화장실",
+      "action": "싸겠다,들어가자",
+      "feeling": "시원해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "화장실에 들어갈 때는 무엇을 해야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "노크를 해야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "화장실을 사용하고 나서는 어떤 기분이었을까요? ",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "시원한 기분이었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 안에 있는지 노크를 하고 나서 안에서 볼일을 보는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "화장실",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

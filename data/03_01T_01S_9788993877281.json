@@ -1,0 +1,115 @@
+﻿{
+  "title": "내 친구 퍼피를 소개해요",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877281",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14037",
+      "srcText": "퍼피의 눈은 반짝반짝 빛나지요. 퍼피의 코에는 쭈글쭈글 주름이 있어요. 퍼피의 귀는 보들보들해요. 우리는 좋은 친구랍니다.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "character": "퍼피,코,귀,눈",
+      "setting": null,
+      "action": null,
+      "feeling": "좋은",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리는 좋은 친구랍니다.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누구의 눈이 반짝반짝 빛나나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "퍼피",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리는 어떤 사이인가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좋은 친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리가 좋은 친구라고 할 때 퍼피의 기분은 어땠을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "기분이 좋을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14036",
+      "srcText": "내 친구 퍼피는 귀여운 강아지예요. 퍼피의 발바닥은 말랑말랑하지요. 퍼피의 꼬리는 복슬복슬해요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "퍼피,강아지,발바닥,꼬리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내 친구 퍼피는 귀여운 강아지예요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누구의 발바닥이 말랑말랑한가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "퍼피",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "강아지 퍼피를 보면 어떨 것 같나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "귀여울 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

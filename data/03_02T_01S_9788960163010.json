@@ -1,0 +1,56 @@
+﻿{
+  "title": "(배추벌레) 엄마는 누굴까? ",
+  "author": "강용숙",
+  "illustrator": "민정림",
+  "isbn": "9788960163010",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52047",
+      "srcText": "호랑나비한테 물었어. “혹시 우리 엄마를 아세요?” “모르겠는데…….” 애벌레는 눈물이 찔끔 났어. 애벌레는 슬펐지만 열심히 살았어. 마침내 다 자란 초록빛 애벌레는 입에서 실을 뽑아 몸을 칭칭 감았어. 번데기가 되려는 거야. 그때 배추흰나비가 와서 말했어. “오, 내 새끼! 잘 컸구나. 번데기 속에서 코~ 자고 나면 예쁜 나비가 될 거야.”",
+      "srcPage": 11,
+      "srcSentenceEA": 11,
+      "srcWordEA": 55,
+      "character": "호랑나비,엄마,애벌레,번데기",
+      "setting": null,
+      "action": null,
+      "feeling": "애벌레는 슬펐지만",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "초록빛 애벌레는 무엇이 되려고 입에서 실을 뽑아 몸을 칭칭 감았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "번데기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "애벌레는 왜 슬펐나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "호랑나비가 엄마를 모른다고 했기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "배꼽을 찾아보자!",
+  "author": "백은영",
+  "illustrator": "김기환",
+  "isbn": "9791186298138",
+  "publishedYear": 2015,
+  "publisher": "꼬마대통령",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47642",
+      "srcText": "바둑이 배꼽은 저기. 야옹이 배꼽도 저기. 어, 지구의 배꼽은 어디지?",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12,
+      "character": "바둑이,야옹이,배꼽,지구",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "지구의 배꼽은 어디지?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "지구의 배꼽을 찾기 위해 앞으로 어떤 일을 할까요?\t",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지구의 배꼽을 찾으러 여행을 떠나요.\t",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "바둑이 배꼽은 어디 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "저기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

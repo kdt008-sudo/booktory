@@ -1,0 +1,56 @@
+﻿{
+  "title": "단풍은 어떻게 생길까요?",
+  "author": "채영숙, 김미선",
+  "illustrator": "정보 없음",
+  "isbn": "8990591716",
+  "publishedYear": 2003,
+  "publisher": "생각의 샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48233",
+      "srcText": "여름이 끝나고 아침저녁으로 날씨가 쌀쌀해지기 시작하면 나뭇잎들이 물들기 시작합니다. 나무의 종류에 따라 나뭇잎들은 빨강, 노랑, 갈색으로 물들어 갑니다. 가을이 되어 나뭇잎이 물드는 것을 ‘단풍’ 이라고 합니다. 단풍이 드는 모습은 나무의 종류마다 제각각입니다.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "character": "나뭇잎,나무,빨강,노랑,갈색,단풍",
+      "setting": null,
+      "action": "물들기 시작합니다,물들어 갑니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "가을이 되어 나뭇잎이 물드는 것을 무엇이라고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "단풍",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "날씨가 쌀쌀해지기 시작하면 나뭇잎들은 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나무의 종류마다 제각각 물들어 가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "유이안",
   "isbn": "9788927206637",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,284 @@
       "srcText": "현주와 세빈이는 동네를 여기저기 돌아다니며 공기놀이를 할 만한 곳을 찾아다녔어요. 그때 주차장이 눈에 띄었어요. \"저기 자동차 뒤에서 하면 되겠다!\" \"좋아!\"",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "현주,세빈,동네,주차장,눈,자동차",
+      "setting": null,
+      "action": "여기저기 돌아다니며,찾아다녔어요",
+      "feeling": "좋아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "공기놀이를 할 장소를 찾은 현주와 세빈이의 기분은 어땠을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄청 기뻤을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "동네를 여기저기 돌아다닌 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "현주와 세빈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "현주와 세빈이는 동네를 여기저기 돌아다니며 무엇을 했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공기놀이를 할 만한 곳을 찾아다녔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16559",
       "srcText": "현주와 세빈이는 놀라서 가슴이 콩닥거렸어요. “얘들아, 정말 큰일 날 뻔했구나! 주차된 차 뒤에서 놀면 정말 위험하단다.” 아저씨는 현주와 세빈이를 안전한 곳으로 데려다 주기로 했어요.",
       "srcPage": 13,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "현주,세빈,차,아저씨",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "콩닥거렸어요, 데려다 주기로 했어요",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아저씨는 주차된 차 뒤에서 놀면 위험하다며 어떻게 했나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아저씨는 현주와 세빈이를 안전한 곳으로 데려다 주기로 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "놀라서 가슴이 콩닥거린 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "현주와 세빈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16555",
       "srcText": "동네 골목길에서 현주와 세빈이가 만났어요. \"우리 공기놀이하자!\" 현주의 손에는 알록달록 예쁜 공기가 들려 있었지요.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "현주,세빈,손,공기",
+      "setting": "동네 골목길",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "현주의 손에는 무엇이 들려 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "현주와 세빈이는 어디에서 만났을까요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "동네 골목길에서 만났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16557",
       "srcText": "현주와 세빈이는 자동차 뒤 작은 공터에서 공기놀이를 했어요. “이번에는 내 차례야. 이얍!” 앗! 그런데 갑자기 자동차가 ‘부릉!’ 하고 시동이 걸리더니 뿌연 연기가 얼굴에 쏟아졌어요.",
       "srcPage": 9,
       "srcSentenceEA": 6,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "현주,세빈,얼굴,연기,공기놀이",
+      "setting": null,
+      "action": "공기놀이를 했어요,쏟아졌어요.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "자동차가 시동이 걸리더니 무엇이 현주와 세빈이의 얼굴에 쏟아졌나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뿌연 연기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "현주와 세빈이는 자동차 뒤 작은 공터에서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공기놀이를 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16558",
       "srcText": "그러고는 곧 현주와 세빈이를 향해 후진을 하기 시작했지요. “으악! 빨리 피하자!” 현주와 세빈이를 본 아저씨는 깜짝 놀라 차 밖으로 뛰어나왔어요. “얘들아, 다친 데는 없니?”",
       "srcPage": 11,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "현주,세빈,아저씨,차",
+      "setting": null,
+      "action": "시작했지요,피하자,뛰어나왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "차는 누구를 향해 후진하기 시작했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "현주와 세빈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "후진을 하다가 현주와 세빈이를 본 아저씨는 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아이들을 보고 깜짝 놀라서 차 밖으로 뛰어나왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16560",
       "srcText": "\"여기서 노는 건 위험하니, 아저씨가 놀 만한 곳을 찾아봐 줄게.\" \"저기 공원이 좋겠다. 놀이터나 공원, 학교 운동장에는 차가 없으니 너희가 놀기 좋을 거야.\" \"감사합니다. 아저씨!\"",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "아저씨,공원,놀이터,학교 운동장,차",
+      "setting": null,
+      "action": null,
+      "feeling": "좋겠다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아저씨가 찾아준 놀 만한 곳은 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아저씨는 공원을 발견하고 어떤 생각이 들었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "차가 없어서 아이들이 안전하게 놀기 좋을 거라고 생각했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,56 @@
+﻿{
+  "title": "할아버지를 위한 꿈",
+  "author": "김성춘",
+  "illustrator": "김형준",
+  "isbn": "9788967760090",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48674",
+      "srcText": "어느 날, 노을이는 목이 말라 잠에서 깼어요. 그러다 엄마 아빠의 이야기를 들었지요. “아버님 병이 점점 심해지시는 것 같아요.” “그러게 말이에요. 파킨슨병을 낫게 할 약이 빨리 나와야 할 텐데.” 노을이는 너무 놀라 숨이 멎는 것 같았어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 38,
+      "character": "노을이,엄마,아빠",
+      "setting": null,
+      "action": "잠에서 깼어요,놀라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "목이 말라 잠에서 깬 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "노을이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "잠에서 깬 노을이는 엄마 아빠의 이야기를 듣고 어땠나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "너무 놀라 숨이 멎는 것 같았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+  "title": "칙칙폭폭, 앞으로 앞으로",
+  "author": "조민주",
+  "illustrator": "김경희",
+  "isbn": "9791165956325",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48981",
+      "srcText": "1960년 4월 19일, 경무대 앞으로 사람들이 모여들었어. 옳지 않은 방법으로 대통령 선거가 치러졌기 때문이야. 경찰이 탕탕 총을 쏘아 대며 겁을 주었지만 사람들은 죽음도 두려워하지 않았어. 결국 이승만은 책임을 지고 대통령 자리에서 물러났지. \"우리가 민주주의를 지켰다!\" 선거는 조작되었다! 한 놈도 봐주지 않겠다!",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 46,
+      "character": "이승만,대통령 선거,경찰,선거",
+      "setting": "경무대,1960년 4월 19일",
+      "action": "모여들었어,물러났지,조작되었다",
+      "feeling": "두려워하지 않았어,봐주지 않겠다",
+      "causalRelationship": "1960년 4월 19일,경무대 앞으로 사람들이 모여들었어. 옳지 않은 방법으로 대통령 선거가 치러졌기 때문이야.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 5,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사람들은 어디로 모여들었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "경무대 앞",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "책임을 지고 자리에서 물러난 대통령의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이승만",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "경찰은 총을 쏘며 겁을 주었지만, 사람들은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "죽음도 두려워하지 않았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "이승만은 책임을 지기 위해서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "대통령 자리에서 물러났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "1960년 4월 19일에 사람들은 왜 경무대 앞에 모였나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "옳지 않은 방법으로 대통령 선거가 치러졌기 때문이야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "방아깨비 몸은 왜 초록빛일까? ",
+  "author": "박진영",
+  "illustrator": "김영란",
+  "isbn": "9788960162273",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "50340",
+      "srcText": "그런데 고추잠자리는 왕방울 눈을 뒤룩거리며 혼자 투덜댔어요. ‘에구구, 옷이 저게 뭐야. 푸르뎅뎅한게. 아유, 미워.’",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "고추잠자리,옷,왕방울 눈",
+      "setting": null,
+      "action": "혼자 투덜댔어요,눈을 뒤룩거리며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "왕방울 눈을 뒤룩거리며 투덜댄 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고추잠자리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "고추잠자리는 옷이 저게 뭐냐고 하면서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "왕방울 눈을 뒤룩거리며 혼자 투덜댔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

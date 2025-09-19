@@ -1,0 +1,143 @@
+﻿{
+  "title": "뭘 해도 예쁜 우리 아기",
+  "author": "이선아",
+  "illustrator": "아람북스",
+  "isbn": "9791157592548",
+  "publishedYear": 2015,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6850",
+      "srcText": "꼼지락꼼지락 손장난을 해도 예쁘고, 바동바동 발 장난을 해도 예뻐. 냠냠 꿀꺽 잘 먹어서 예쁘고, 뽀득뽀득 목욕하면 더 예뻐. 아함 하품해도 예쁘고, 새근새근 잠들어도 예뻐. 우리 아기는 뭘 해도 예쁘지만 엄마, 아빠 보고 방글방글 웃을 때 가장 예뻐. ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 40,
+      "character": "우리 아기,엄마,아빠",
+      "setting": null,
+      "action": "손장난을 해도,발 장난을 해도,잘 먹어서,목욕하면,하품해도,잠들어도,웃을 때",
+      "feeling": "예쁘고,예뻐",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기는 손으로 무엇을 하고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "손장난을 한다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기가 발장난도 하고 잘 먹으면 어떤 기분이 든다고 하였나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예쁘다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기는 언제가 가장 예쁘다고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마, 아빠 보고 방글방글 웃을 때가 가장 예쁘대요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기가 가장 예쁠 때는 엄마와 누구를 보고 방글방글 웃을 때 일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "6849",
+      "srcText": "우리 아기는 예뻐. 이래도 예쁘고 저래도 예뻐. 두 눈을 동그랗게 떠도 예쁘고, 혀를 쏙 내밀어도 예뻐. ",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "우리 아기,두 눈,혀",
+      "setting": null,
+      "action": "두 눈을 동그랗게 떠도,혀를 쏙 내밀어도",
+      "feeling": "예뻐,예쁘고",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리 아기는 무엇을 쏙 내밀어도 예쁠까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "혀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리 아기는 눈을 어떻게 해도 예쁘다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "두 눈을 동그랗게 떠도 예쁘대요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기를 보고 있으면 어떤 기분이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "너무 예쁘다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

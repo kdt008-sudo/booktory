@@ -3,10 +3,8 @@
   "author": "유다정",
   "illustrator": "최은영",
   "isbn": "9788961914147",
-  "readAge": "초등_저학년",
   "publishedYear": 2010,
   "publisher": "한얼교육",
-  "classification": "자연탐구",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,312 @@
       "srcText": "하지만 가만히 있는 것에서는 소리가 나지 않아. 꿀벌도 날개를 움직여야 소리가 나고, 종도 흔들려야 소리가 나지. 사람도 마찬가지야. 우리 목 안에 있는 성대가 떨려서 목소리를 내는 거야. ",
       "srcPage": 12,
       "srcSentenceEA": 4,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "꿀벌,종,사람,날개,목 성대",
+      "setting": null,
+      "action": "가만히 있는,움직여야,흔들려야,내는거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "우리 목 안에 있는 성대가 떨려서 목소리를 내는 거야.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사람이 목소리를 낼 수 있는 것은 우리 목 안에 무엇이 있기 때문일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "성대",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "종 소리를 내려면 어떻게 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "흔들려야 소리가 나지.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사람도 소리가 나게 하려면 어떻게 해야 할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리 목 안에 있는 성대가 떨려서 목소리를 내는 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40552",
       "srcText": "소리로 할 수 있는 것도 많아. 위험을 알리고, 반가운 소식을 전하고, 친구들과 이야기도 나누지. 악기 소리에 맞추어 노래도 부르고, 덩실덩실 춤도 추고.",
       "srcPage": 14,
       "srcSentenceEA": 3,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "친구들,악기",
+      "setting": null,
+      "action": "이야기도 나누지,노래도 부르고,덩실덩실 춤도 추고",
+      "feeling": "반가운",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무슨 소리에 맞추어 노래도 부르고 덩실덩실 춤도 추나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "악기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "소리로 무엇을 할 수 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "위험을 알리기도 하고 친구들과 이야기도 나누어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "반가운 소식을 들으면 기분이 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "너무 좋을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40550",
       "srcText": "자장자장 엄마의 자장가 소리, 도란도란 속삭이는 소리, 깔깔깔 웃는 소리, 사람들의 정겨운 소리도 들려. 빵빵빵 자동차 소리 삐뽀삐뽀 사이렌 소리 타타타 굴착기 소리 시끄럽지만 꼭 필요한 소리도 들려. 이렇게 세상은 소리로 가득 차 있어. 하늘에도, 땅에도, 바닷속에도.",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 40
+      "srcWordEA": 40,
+      "character": "엄마,사람들,자동차,굴착기,하늘,땅,바닷속,자장가",
+      "setting": null,
+      "action": "속삭이는,웃는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "빵빵빵은 어디서 나는 소리일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "자장자장 엄마의 자장가 소리와 도란도란 속삭이는 소리는 어떤 소리인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사람들의 정겨운 소리예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40548",
       "srcText": "소리가 있어서 신 나고 즐거워. 이 세상에는 수많은 소리가 있어. 그중에서 가장 좋은 소리는 바로 엄마, 아빠의 속삭임. 사랑해!",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "엄마,아빠",
+      "setting": null,
+      "action": null,
+      "feeling": "신나고,사랑해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "가장 듣기 좋은 소리는 누구의 소리인가요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마와 아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마와 아빠의 사랑해라는 속삭임을 들으면 어떤 마음이 드나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "행복해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40549",
       "srcText": "눈을 감고 가만히 들어 봐. 어디선가 소리가 들려. 기분 좋은 소리도 들리고, 시끄러운 소리도 들려.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "눈",
+      "setting": null,
+      "action": "들려,눈을 감고 가만히 들어 봐,들리고",
+      "feeling": "기분 좋은",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇을 감고 가만히 소리를 들어보라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "소리를 듣기 위해 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈을 감고",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어디선가 무슨 소리가 들리나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "기분 좋은 소리도 들리고 시끄러운 소리도 들려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40547",
       "srcText": "졸졸졸 물 흐르는 소리, 톡톡톡 빗방울 떨어지는 소리, 사락사락 낙엽 날리는 소리. 자연에서 소리가 나. 동물들의 소리도 들려. 참새는 짹짹짹, 고양이는 야아옹, 자그마한 풀벌레는 찌르르찌르르.",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "낙엽,동물들,참새,고양이,풀벌레,물,빗방울",
+      "setting": "자연",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "찌르르찌르르는 누가 내는 소리일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풀벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "동물들의 소리는 어디서 나는 것일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자연",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

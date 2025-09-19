@@ -1,0 +1,56 @@
+﻿{
+  "title": "몽실몽실 끝없이 달리는 자동차의 꿈",
+  "author": "애드라인",
+  "illustrator": "애드라인",
+  "isbn": "9791128204579",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "17422",
+      "srcText": "처음 통나무를 이용한 것은 메소포타미아 지역일 것으로 생각되고 있어요. 최초의 바퀴 유적이 발견된 곳이 메소포타미아 지역이거든요. 또한 이집트에서도 통나무를 이용해 커다란 돌을 옮겼어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "character": "통나무,바퀴,이집트,돌",
+      "setting": null,
+      "action": "돌을 옮겼어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "처음 통나무를 이용한 것은 어느 지역일 것이라고 추측되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "메소포타미아 지역",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "이집트에서는 무엇을 이용하여 커다란 돌을 옮겼나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "통나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

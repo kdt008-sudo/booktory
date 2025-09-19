@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "정은영",
   "isbn": "8990591155",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "먼옛날, 매미와 귀뚜라미는 봄여름 가을 겨울을 불러다 주는 숲의 요정들이었어요. 두요정은 서로를 아주 좋아했습니다. 그런데 이걸 어쩌죠? 그옛날 숲에서는 숲의 요정들끼리 서로 사랑하는 것을 허락하지 않았어요.",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "매미,귀뚜라미,요정들,봄,여름,가을,겨울",
+      "setting": "먼옛날,숲",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "두요정은 서로를 아주 좋아했습니다.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "그 옛날 숲에서 허락되지 않는 것은 무엇이었나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숲의 요정들끼리 서로 사랑하는 것입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "계절을 불러다 주는 숲의 요정들은 누구와 누구였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "매미와 귀뚜라미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "두 요정의 사이는 어땠나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "서로를 아주 좋아했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

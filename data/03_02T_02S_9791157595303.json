@@ -3,10 +3,8 @@
   "author": "양혜원",
   "illustrator": "정은숙",
   "isbn": "9791157595303",
-  "readAge": "초등_저학년",
   "publishedYear": 2016,
   "publisher": "아람",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "꼬마 원숭이 촐랑이는 숨바꼭질을 좋아해요. 심심해진 촐랑이가 친구들을 불러요. “숨바꼭질할 친구 여기 붙어라!”",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "친구들,촐랑이",
+      "setting": null,
+      "action": "불러요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "심심해진 촐랑이는 왜 친구들을 불렀나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숨바꼭질하려고 불렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "촐랑이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼬마 원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -3,10 +3,8 @@
   "author": "권영상",
   "illustrator": "박지영",
   "isbn": "899059135X",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“쫑아야, 안녕.” 외삼촌이 손을 흔들었어요. 엄마, 아빠에게도 인사를 하며 외삼촌은 군대에 갔습니다.",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "외삼촌,쫑아,엄마,아빠,손",
+      "setting": null,
+      "action": "손을 흔들었어요,인사를 하며,갔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "외삼촌은 인사를 왜 했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "외삼촌은 군대에 가며 엄마 아빠에게 인사를 했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "외삼촌은 어디에 갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "군대",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,70 @@
+﻿{
+  "title": "게임왕이 될래요",
+  "author": "김민정",
+  "illustrator": "박수현",
+  "isbn": "9788998212780",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48346",
+      "srcText": "어느 날, 엄마는 날 데리고 방송국에 갔어. 그곳에서는 컴퓨터 게임 대회가 열리고 있었지. “엄마! 사람들이 게임을 해요.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "엄마,사람들,게임",
+      "setting": "방송국,컴퓨터 게임 대회",
+      "action": "방송국에 갔어,게임을 해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "엄마와 함께 간 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "방송국",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "방송국에서는 무슨 대회가 열리고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "컴퓨터 게임 대회",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "컴퓨터 게임 대회에서 사람들은 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "게임을 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

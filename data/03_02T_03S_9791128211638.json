@@ -1,0 +1,84 @@
+﻿{
+  "title": "우주 탐사를 떠난 허블",
+  "author": "곽민수",
+  "illustrator": "정세연",
+  "isbn": "9791128211638",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48453",
+      "srcText": "사람들은 오랜 옛날부터 우주가 어떻게 생겼는지 궁금해했어. 지금으로부터 약 400년 전, 이탈리아의 과학자 갈릴레이가 망원경으로 우주를 본 뒤로 여러 종류의 망원경이 엄청나게 많이 생겨났지. 하지만 나는 그런 망원경들과는 조금 달라. 나는 지구에서 우주를 바라보는 게 아니라, 지구 밖에서 우주를 바라보거든. 빛이 거의 없는 곳에 떠 있기 때문에 우주의 모습을 훨씬 더 또렷하게 볼 수 있지.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 59,
+      "character": "사람들,과학자,갈릴레이,망원경,빛,이탈리아",
+      "setting": "약 400년 전",
+      "action": null,
+      "feeling": "본,바라보는,바라보거든",
+      "causalRelationship": "빛이 거의 없는 곳에 떠 있기 때문에 우주의 모습을 훨씬 더 또렷하게 볼 수 있지.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "이탈리아의 과학자 갈릴레이가 망원경으로 우주를 본 것은 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "약 400년 전",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "오랜 옛날부터 우주가 어떻게 생겼는지 궁금해한 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사람들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "우주의 모습을 훨씬 더 또렷하게 볼 수 있는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빛이 거의 없는 곳에 떠 있기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "나는 그런 망원경들과 무엇이 다른가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "지구 밖에서 우주를 바라봐요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

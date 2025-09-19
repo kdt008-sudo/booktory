@@ -1,0 +1,56 @@
+﻿{
+  "title": "고기는 싫어, 싫어! ",
+  "author": "김영이",
+  "illustrator": "민미",
+  "isbn": "9788960163058",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51708",
+      "srcText": "숲속, 멋진 찻집에서 조랑말과 여우가 커피를 마시고 있었어요. 여우가 말했어요. “내일 우리 집에서 저녁 먹자. 내가 한턱낼게.” “좋아.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "조랑말,여우",
+      "setting": "찻집",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "여우는 누구에게 내일 함께 저녁을 먹자고 제안했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "조랑말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "조랑말과 여우가 만나 대화를 나누고 있는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "찻집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

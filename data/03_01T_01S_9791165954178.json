@@ -1,0 +1,101 @@
+﻿{
+  "title": "나와라, 짠!",
+  "author": "유옥진",
+  "illustrator": "유혜경",
+  "isbn": "9791165954178",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "10680",
+      "srcText": "“인형 집에 사는 친구들을 소개할게. 친구들 나와라, 짠!” “오늘은 곰순이의 생일이야. 고깔모자 나와라, 짠!”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "character": "친구들,곰순이,고깔모자",
+      "setting": null,
+      "action": "사는,소개할게,나와라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "오늘은 누구의 생일일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰순이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "주인공은 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "인형 집에 사는 친구들을 소개하고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "10681",
+      "srcText": "“케이크에 촛불을 켜야지. 촛불 나와라, 짠!” “모두모두 많이 먹어. 주스 나와라, 짠!”",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14,
+      "character": "케이크,촛불,주스",
+      "setting": null,
+      "action": "켜야지,나와라,먹어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "케이크에 무엇을 켜야할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "촛불",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "춧불 켜고 무엇을 먹나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "케이크와 주스를 먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

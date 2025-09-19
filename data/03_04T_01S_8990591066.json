@@ -3,10 +3,8 @@
   "author": "권영상",
   "illustrator": "박선용",
   "isbn": "8990591066",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“와! 바다다, 바다!” 콩아는 바다를 향해 뛰어갔어요. 바다는 콩아를 위해 파아란 치마를 펼칩니다. 콩아는 파아란 치마폭 속으로 풍덩 뛰어듭니다.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "콩아,파아란 치마",
+      "setting": "바다",
+      "action": "뛰어갔어요,뛰어듭니다,펼칩니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "바다는 누구를 위해 파아란 치마를 펼쳤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콩아",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "콩아는 파아란 치마폭 속으로 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "풍덩 뛰어들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "콩아는 어디를 향해 뛰어갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

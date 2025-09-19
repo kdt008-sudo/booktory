@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "홍주미",
   "isbn": "8990591562",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "아주 옛날에 캥거루의 털 색깔은 눈처럼 하얀 색이었대요. 높이뛰기를 잘하는 캥거루 형제는 아주 사이가 좋았어요. 하루는, 형 캥거루가 동생 캥거루와 높이뛰기 내기를 하자고 했어요.",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "형 캥거루,동생 캥거루",
+      "setting": null,
+      "action": "높이뛰기 내기를 하자고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "아주 옛날에 캥거루의 털 색깔은 눈처럼 하얀 색이었대요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "아주 옛날 캥거루의 털은 무슨 색이었나요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하얀색",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "형 캥거루가 동생 캥거루에게 제안한 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "높이뛰기 내기를 하자고 했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "캥거루 형제가 잘하는 것은 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "높이뛰기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

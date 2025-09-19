@@ -3,10 +3,8 @@
   "author": "상립",
   "illustrator": "마부대왕",
   "isbn": "9791165951788",
-  "readAge": "유아",
   "publishedYear": 2021,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 4,
   "paragraphInfo": [
     {
@@ -14,28 +12,236 @@
       "srcText": "바람을 세게 불어 볼까? 외계인에게 우주로 데려가라고 할까? 인어 아가씨에게 바다로 데려가라고 할까? ",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "외계인,인어 아가씨,바람",
+      "setting": "우주,바다",
+      "action": "데려가라고,불어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "우주로 데려가라고 누구에게 말한다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "외계인",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "외계인에게 어디로 데려가라고 한다고 했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우주",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "인어 아가씨에게 어떻게 해달라고 했을 것 같나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바다로 데려가라고 했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4574",
       "srcText": "코끼리는 왜 종일 그네만 탈까? 바나나를 주면 내려올까? 깜짝 놀라게 하면 내려올까? ",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "코끼리,바나나",
+      "setting": null,
+      "action": "탈까,내려올까",
+      "feeling": "놀라게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 종일 그네만 탈까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "코끼리는 종일 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그네를 탄다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "코끼리를 그네에서 내려오게 하려면 어떤 방법을 쓴다고 했나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "깜짝 놀라게",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4588",
       "srcText": "기구에 태우자! 아하! 가위로 오리면 어떨까? 가위를 쓸 때는 조심해! 마법의 보자기로 수리 수리 마하 수리! 얍! 아이코! 그네까지 사라졌네! 수리 수리 마하 수리! 얍! 다시! ",
       "srcPage": 22,
       "srcSentenceEA": 11,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "가위,마법의 보자기,그네",
+      "setting": "기구",
+      "action": "태우자,오리면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "가위는 무엇을 하는데 사용했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무언가를 오릴 때  사용했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇을 쓸 때 조심하라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇에 태우자고 이야기했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기구 ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4589",
       "srcText": "원반을 던지면 어떨까? 강아지가 아니잖아. 빨간 천을 펄럭이면 어떨까? 소가 아니잖아. 우르르 쾅쾅! 우산을 쓰고 그네를 타네. 어? 아기 코끼리다. 형아! 나 그네 타고 싶어! 그래그래! 내가 밀어 줄게. ",
       "srcPage": 22,
       "srcSentenceEA": 12,
-      "srcWordEA": 39
+      "srcWordEA": 39,
+      "character": "원반,강아지,빨간 천,소,우산,아기 코끼리,형아,나",
+      "setting": null,
+      "action": "던지면,펄럭이면,타네,밀어 줄게",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내가 밀어 줄게.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇을 쓰고 그네를 탄다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "그네를 타서 움직이게 하려면 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뒤에서 힘껏 밀어 준다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "내가 밀어 줄게에서 내가는 누구였을까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "형",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,160 @@
+﻿{
+  "title": "멋쟁이 수박",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877359",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14972",
+      "srcText": "멋쟁이 수박이 있었어요. 수박은 예쁜 옷 입는 것을 좋아했지요. 여러 가지 모양의 모자를 쓰는 것도 좋아했어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "멋쟁이 수박,옷,모자",
+      "setting": null,
+      "action": null,
+      "feeling": "예쁜,좋아했어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "예쁜 옷을 입는 것을 좋아한 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "멋쟁이 수박은 어떤 옷을 좋아할까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예쁜 옷을 입는 것을 좋아해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14974",
+      "srcText": "쟤, 누구야? 멜론인가? 줄무늬가 없어지자 친구들은 수박을 알아보지 못했어요. 얘들아, 나 수박이야.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "멜론,친구들,수박,줄무늬",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": " 줄무늬가 없어지자 친구들은 수박을 알아보지 못했어요. ",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "친구들은 누구를 알아보지 못했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "친구들이 수박을 알아보지 못한 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "수박의 줄무늬가 없어졌기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14973",
+      "srcText": "알록달록 목걸이를 하는 것도 좋아했어요. 또, 선글라스를 쓰는 것도 좋아했지요. 어느 날, 수박은 화장을 해서 줄무늬를 없애보았어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "알록달록 목걸이,선글라스,수박",
+      "setting": null,
+      "action": "하는 것도,쓰느 것도,화장을 해서",
+      "feeling": "좋아했어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 화장을 해서 줄무늬를 없애보았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "수박은 무엇을 하기를 좋아했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "알록달록 목걸이를 하는 것과 선글라스를 쓰는 것을 좋아했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "수박은 목걸이와 선글라스를 하면 어떤 기분이 드나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "멋지게 보여서 좋아했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

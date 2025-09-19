@@ -1,0 +1,56 @@
+﻿{
+  "title": "쌀은 어디서 나올까? ",
+  "author": "윤성은",
+  "illustrator": "최지숙",
+  "isbn": "9788960162563",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51728",
+      "srcText": "논에서 벼가 자라요. 농부 아저씨가 정성껏 가꾸는 벼예요. 게들이 농부 아저씨를 도와요. 논바닥을 돌아다니며 집게발로 풀도 뜯고 벼도 돌봐요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "논,벼,농부 아저씨,게",
+      "setting": null,
+      "action": "풀도 뜯고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "게들은 어떻게 농부 아저씨를 도와주나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "논바닥을 돌아다니며 집게발로 풀도 뜯고 벼도 돌봅니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "논에서 자라고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "벼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+﻿{
+  "title": "우리 집을 찾아 주세요",
+  "author": "애플트리",
+  "illustrator": "엄영순",
+  "isbn": "9788968730887",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42825",
+      "srcText": "“이런, 말썽꾸러기 같으니! 엄마는 도넛 구름보다 토토 네가 더 소중하단다.” “엄마, 죄송해요. 다음부터는 그러지 않을게요.” 그러고는 토토는 따뜻한 엄마의 품에서 스르르 잠이 들었어요!",
+      "srcPage": 27,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "character": "엄마,도넛 구름,토토",
+      "setting": null,
+      "action": "잠이 들었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "엄마는 도넛 구름보다 무엇이 더 소중하다고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토토",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "토토는 따뜻한 엄마 품에서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "눈꺼풀이 가볍게 내려가면서 잠이 들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42822",
+      "srcText": "한참을 가니 저 멀리 도넛 구름이 나뭇가지에 걸려 있는 게 보였어요. “와, 맛있는 도넛 구름! 내가 잡을 거야!”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "도넛 구름,나뭇가지",
+      "setting": null,
+      "action": "보였어요,걸려 있는,잡을 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "나뭇가지에 걸려 있는 건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "도넛 구름",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇이 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "도넛 구름이 나뭇가지에 걸려 있는 게 보였어요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42824",
+      "srcText": "그때였어요! 하늘에 나비연 아주머니가 살랑살랑 떠 있는 게 보였어요. “아! 나비연 아주머니한테 물어봐야겠다. 높은 곳에서는 우리 집이 보일 거야!”",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": "하늘,아주머니,집",
+      "setting": null,
+      "action": "떠 있는,보였어요,물어봐야겠다.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "우리 집이 어디인지 누구에게 물어보려 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나비연 아주머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "하늘에 있는 나비연 아주머니는 무엇을 하고 있었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하늘에 살랑살랑 떠 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42823",
+      "srcText": "아무리 둘러보아도 온통 낯선 것들 뿐이에요. 토토는 눈물이 날 것 같았어요. 이대로 집을 찾지 못하면 어떡하지요?",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "토토,집",
+      "setting": null,
+      "action": "둘러보아도,날 것 같았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "토토가 찾고 있는 곳은 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "토토가 눈물이 날 것 같은 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아무리 둘러보아도 온통 낯선 것들뿐이었기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

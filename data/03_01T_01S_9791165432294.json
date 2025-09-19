@@ -1,0 +1,129 @@
+﻿{
+  "title": "어떻게 하지?",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432294",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7442",
+      "srcText": "후후 불어 볼까? 쿵쿵 발을 굴러 볼까? 우리가 도와줄게. 모두 함께 손수건으로 놀이하자! 아이, 재미있어!",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "character": "손수건",
+      "setting": null,
+      "action": "후후 불어,쿵쿵 발을 굴러",
+      "feeling": "재미있어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "손수건 놀이는 왜 재미있는 것일까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "친구들과 함께 놀 수 있어요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "모두 함께 무엇으로 놀이하자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손수건",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "손수건을 갖기 위해 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "후후 불어 보고, 쿵쿵 발을 굴러 봤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7259",
+      "srcText": "예쁜 손수건들이 나뭇가지에 걸려 있어. 아, 갖고 싶다! 어떻게 하지? 폴짝폴짝 뛰어 볼까?",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16,
+      "character": "예쁜 손수건들",
+      "setting": "나뭇가지",
+      "action": null,
+      "feeling": "갖고 싶다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "나뭇가지에 걸려 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "예쁜 손수건들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "나뭇가지에 예쁜 손수건들이 왜 걸려 있었을까요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바람에 날려왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "예쁜 손수건들을 보고 무슨 생각을 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "갖고 싶다!",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

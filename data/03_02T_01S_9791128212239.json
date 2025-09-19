@@ -1,0 +1,143 @@
+﻿{
+  "title": "내 바퀴는 어디로 갔을까?",
+  "author": "조은수",
+  "illustrator": "김유대",
+  "isbn": "9791128212239",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2014",
+      "srcText": "여기 있을까? 찾았다, 데굴데굴 떽떼굴 내 바퀴! 그런데 곡예사 아저씨의 외발자전거가 되었네? 괜찮아, 괜찮아! 이제 씩씩한 두발자전거가 될 거야!",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "바퀴,곡예사 아저씨,외발자전거,두발자전거",
+      "setting": null,
+      "action": "찾았다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "이제 씩씩한 두발자전거가 될 거야",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "데굴데굴 떽떼굴 구르는 것은 무엇이었나요? ",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자전거 바퀴 ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "없어졌던 자전거의 바퀴는 무엇이 되어 있었나요? ",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곡예사 아저씨의 외발자전거",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "결국 자전거는 앞으로 어떻게 할 것이라고 했나요? ",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이제 씩씩한 두발자전거가 될 거야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "2012",
+      "srcText": "으앙! 내 바퀴 하나가 사라졌어! 자전거야, 울지 말고 같이 찾아보자. 여기 있을까? 아니, 아니! 뛰뛰빵빵 떽떼굴 자동차 바퀴잖아!",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "바퀴,자전거,자동차 바퀴",
+      "setting": null,
+      "action": "찾아보자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "울지 말고 같이 찾아보자",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "자전거가 울고 있었던 이유는 무엇이었나요? ",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바퀴 하나가 사라졌기 때문이다. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "바퀴가 사라진 자전거에게 무엇을 해보자고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "울지 말고 같이 찾아보자.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "자전거가 발견한 것은 무엇이었나요? ",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차 바퀴",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "울지 말고 같이 찾아보자는 새의 말을 듣고 자전거는 어떻게 했을까요? ",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새와 함께 사라진 바퀴를 찾으러 돌아다닐 것 같아요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

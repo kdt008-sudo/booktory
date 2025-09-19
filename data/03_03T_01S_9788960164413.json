@@ -1,0 +1,56 @@
+﻿{
+  "title": "왕비가 된 효녀 심청",
+  "author": "윤성은",
+  "illustrator": "김지민",
+  "isbn": "9788960164413",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49812",
+      "srcText": "아버지는 더 크게 한숨을 쉬며 말했어요. “낮에 개울에 빠졌는데 스님 한 분이 지나가다 구해 주었단다. 그런데 스님 말이 부처님께 쌀 삼백 가마니를 드리면 눈을 뜰 수 있다지 않겠니? 그래서 덜컥 쌀을 바치겠다고 약속했지 뭐냐. 후유, 이를 어쩌면 좋으냐?”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 41,
+      "character": "아버지,개울,스님,부처님",
+      "setting": null,
+      "action": "한숨을 쉬며 말했어요,빠졌는데,지나가다,구해 주었단다,드리면,바치겠다고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "한숨을 쉬며 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아버지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아버지는 낮에 개울에 빠졌는데 누가 구해주었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

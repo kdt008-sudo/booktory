@@ -3,10 +3,8 @@
   "author": "우와조아",
   "illustrator": " 이안",
   "isbn": "9788993877861",
-  "readAge": "유아",
   "publishedYear": 2009,
   "publisher": "어깨동무",
-  "classification": "예술경험",
   "paragraphInfoCount": 9,
   "paragraphInfo": [
     {
@@ -14,63 +12,447 @@
       "srcText": "엉땅이는 벌떡 일어나 바위 위로 올라갔어. “구름아, 이리 와 봐!” 구름은 그냥 가만히 있었어. “꿀꿀, 내 말 안 들려?” 구름은 대답도 하지 않았지.",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "엉땅이,구름,바위",
+      "setting": null,
+      "action": "올라갔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이가 불러도 아무런 대답도 하지 않은 것은?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구름",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 구름아 이리 와 봐 라고 어디에서 불렀나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바위 위로 올라가서 불렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16174",
       "srcText": "엉땅이는 터덜터덜 걸어가다가 그네를 보았어. “맞아! 그네를 타고 날아가 볼까?” “하나, 둘, 셋!” 엉땅이는 그네를 타고 높이 높이 올라갔어. 그리곤 슝슝 뛰어올랐지.",
       "srcPage": 10,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "엉땅이,그네",
+      "setting": null,
+      "action": "걸어가다가,보았어,타고,올라갔어,뛰어올랐지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 터덜터덜 걸어가다가 무엇를 보았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 그네를 타고 높이 올라간 다음 무슨 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "슝슝 뛰어올랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16168",
       "srcText": "이번엔 창고에서 잠자리채를 가져왔어. 엉땅이는 잠자리채를 이리저리 막 휘둘렀지. “꿀꿀, 이번엔 꼼짝 마라.” “휘익, 휘익” “왜 자꾸 빠져나가는 거야?”",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "엉땅이,잠자리채,창고",
+      "setting": null,
+      "action": "휘둘렀지,가져왔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 창고에서 무엇을 가져왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잠자리채",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 잠자리채를 들고 어떻게 했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이리저리 막 휘둘렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16167",
       "srcText": "이번엔 돌멩이를 주워 모았어. “으라차차! 떨어져라, 떨어져!” 구름을 향해 돌을 막 던졌지. 하지만 돌은 엉땅이 머리 위로만 떨어졌어. 쿵! 쿵! “아야, 꿀꿀”",
       "srcPage": 5,
       "srcSentenceEA": 7,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "엉땅이,돌멩이,구름",
+      "setting": null,
+      "action": "던졌지,주워 모았어,떨어졌어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이 머리 위로만 떨어진 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돌",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 돌멩이를 주워 모은 다음 구름을 향해 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "돌을 막 던졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16171",
       "srcText": "힘이 빠진 엉땅이는 강을 바라보았어. “아하! 바로 저거야!” 엉땅이는 얼른 낚싯대를 들고 왔어.",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "엉땅이,강,낚싯대",
+      "setting": null,
+      "action": "바라보았어,들고 왔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "힘이 빠진채로 강을 바라보고 있는 이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉땅이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 강을 바라보다 갑자기 무엇을 들고 왔나요? ",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "낚싯대를 들고 왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16173",
       "srcText": "그때, 애벌레가 꼬물꼬물 기어왔어. “엉땅아, 내가 도와줄게.” “꿀꿀, 네가?”",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 9
+      "srcWordEA": 9,
+      "character": "애벌레,엉땅아",
+      "setting": null,
+      "action": "기어 왔어,도와줄게",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이를 도와주겠다고 한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "애벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "애벌레는 어떻게 움직이고 이동할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼬물꼬물 기어다녀요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16176",
       "srcText": "“아이쿠, 진흙 바닥에 떨어졌잖아.” 그런데 이게 웬일이지? “어라, 보들보들 시원하네!” 엉땅이는 진흙탕에서 뒹굴며 놀았어.",
       "srcPage": 13,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "엉땅이",
+      "setting": "진흙 바닥",
+      "action": "뒹굴며 놀았어,떨어졌잖아",
+      "feeling": "시원하네",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "진흙탕에서 뒹굴며 놀고 있는 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉땅이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 어디에 떨어졌나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "진흙 바닥",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 진흙탕에서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뒹굴며 놀았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "진흙 바닥에 떨어진 엉땅이는 어떤 기분이 들었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "보들보들 시원해하며 즐거워해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16166",
       "srcText": "엉땅이는 후다닥 거미집으로 달려갔어. “꿀꿀, 거미줄 좀 빌려 갈게.” 엉땅이는 거미줄을 하늘로 홱 던졌어. 하지만 거미줄은 엉땅이 몸에 엉켜버렸지. “에잇, 놓쳐버렸네.”",
       "srcPage": 4,
       "srcSentenceEA": 5,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "엉땅이,거미줄",
+      "setting": "거미집",
+      "action": "달려갔어,던졌어,빌려 갈게",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이 몸에 엉켜버린 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거미줄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 후다닥 어디로 달려갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거미집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉땅이는 거미줄을 하늘로 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "홱 던졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16164",
       "srcText": "“꿀꿀, 잠이나 자야지.” 엉땅이는 벌러덩 들판에 드러누웠어. 하늘에는 뭉게뭉게 구름이 떠 있었어. 순간 엉땅이의 눈빛이 반짝반짝거렸지. “맞아, 보들보들 히히, 포근포근”",
       "srcPage": 2,
       "srcSentenceEA": 5,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "엉땅이,하늘,구름",
+      "setting": null,
+      "action": "드러누웠어,반짝반짝거렸지,자야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "뭉게뭉게 하늘에 떠 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구름",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "잠이나 자야 한다며 엉땅이는 들판에서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "벌러덩 드러누웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

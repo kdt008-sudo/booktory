@@ -1,0 +1,84 @@
+﻿{
+  "title": "이제 그만 자야지?",
+  "author": "하늘땅",
+  "illustrator": "심미아",
+  "isbn": "9791128212246",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1980",
+      "srcText": "지유가 입을 크게 벌리고 하품을 해요. “지유야, 졸리는구나. 이제 그만 자야지?” 하지만 지유는 요리조리 쪼르르. 좀 더 놀고 싶은가 봐요. “이제 그만 자야지?”",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "character": "지유,입,하품",
+      "setting": null,
+      "action": "벌리고,하품을 해요,자야지",
+      "feeling": "졸리는구나,좀 더 놀고싶어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이제 그만 자야지",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "졸린 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지유",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "지유가 입을 크게 벌리고 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하품",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "지유는 왜 요리조리 쪼르르 도망갈까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좀 더 놀고 싶은가 봐요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "지유는 더 놀고 싶지만 어떻게 해야 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이제 그만 자야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

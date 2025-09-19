@@ -3,10 +3,8 @@
   "author": "백은하",
   "illustrator": "노진희",
   "isbn": "9791185721583",
-  "readAge": "초등_저학년",
   "publishedYear": 2014,
   "publisher": "황우출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "치치와 친구들은 선생님이 읽어 주는 백설 공주와 일곱 난쟁이를 듣고 있었어요. 책 읽기 시간이 끝나자 타타가 소리쳤어요. “우리 백설 공주 놀이 할래?” 그러자 친구들이 다들 좋다고 찬성했어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "치치,선생님,백설 공주와 일곱 난쟁이,타타",
+      "setting": null,
+      "action": "소리쳤어요,찬성했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 치치와 친구들에게 어떤 동화를 읽어주고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "백설 공주와 일곱 난쟁이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "타타가 백설 공주 놀이를 하자고 하자 친구들은 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좋다고 찬성했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

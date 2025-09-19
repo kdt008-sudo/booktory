@@ -1,0 +1,56 @@
+﻿{
+  "title": "주룩주룩, 비는 왜 울까? ",
+  "author": "김영이",
+  "illustrator": "안효선",
+  "isbn": "9788960162433",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51754",
+      "srcText": "파란 하늘로 작은 물방울들이 올라가요. 뽀르르 뽀르르. \"어이쿠! 여긴 너무 춥다.\" 찬 공기와 마주친 물방울들이 서로서로 얼싸안자 둥실둥실 뽀얀 구름이 되었어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "물방울,구름",
+      "setting": null,
+      "action": "올라가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "파란 하늘로 뽀르르 뽀르르 올라가고 있는 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물방울",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "물방울들이 찬 공기와 만나 서로 얼싸안자, 무엇이 되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구름",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "제흐라 힉스",
   "illustrator": "제흐라 힉스",
   "isbn": "9791165951771",
-  "readAge": "유아",
   "publishedYear": 2021,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 2,
   "paragraphInfo": [
     {
@@ -14,14 +12,118 @@
       "srcText": "미어캣들아, 나랑 놀자. 어? 차례를 지켜야지. 우리처럼 줄을 서. 차례차례! 원숭이야, 네 차례를 기다려야지.",
       "srcPage": 7,
       "srcSentenceEA": 6,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "미어캣,원숭이",
+      "setting": null,
+      "action": "나랑 놀자,줄을 서,기다려야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리처럼 줄을 서",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "차례를 기다리기 위해 원숭이는 어떻게 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "줄을 서서 차례를 기다려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "순서를 지키지 않고 먼저 놀려고 한 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "같이 놀자고 말한 원숭이에게 미어캣들은 무엇을 하라고 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "차례를 지켜야지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "5057",
       "srcText": "너무너무 심심해! 누구랑 놀까? 어? 저기 누가 있네. 얼룩말아, 나랑 놀자! 아, 깜짝이야! 원숭이야, 내 꼬리에 색칠하지 마.",
       "srcPage": 5,
       "srcSentenceEA": 7,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "얼룩말,원숭이",
+      "setting": null,
+      "action": null,
+      "feeling": "너무너무 심심해,깜짝이야",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "나랑 놀자!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "심심할 때 원숭이가 만난 동물은 누가 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "얼룩말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "원숭이가 얼룩말 꼬리에 색칠 할 때 어떤 기분이었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "깜짝 놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "원숭이는 너무 심심해  무엇을 하고 싶은가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "얼룩말과 같이 놀고 싶어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

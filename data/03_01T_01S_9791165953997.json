@@ -1,0 +1,129 @@
+﻿{
+  "title": "이게 뭘까?",
+  "author": "김경미",
+  "illustrator": "박해남",
+  "isbn": "9791165953997",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "13045",
+      "srcText": "삐죽삐죽 별 모양. 작으면 돌돌 나팔꽃, 커지면 밤하늘에 빛나는 별이에요. 둥글 뾰족 하트 모양. 작으면 둥실둥실 풍선, 커지면 사랑하는 마음이에요.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "별,나팔꽃,풍선",
+      "setting": null,
+      "action": "커지면,빛나는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "작으면 둥실둥실 풍선,커지면 사랑하는 마음이에요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "둥글 뾰족 하트 모양이 작으면 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풍선",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "삐죽삐죽 별 모양이 커지면 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "삐죽삐죽 별 모양이 커지면 밤하늘에 빛나는 별이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "둥글 뾰족 하트모양은 작으면 어떻게 보여지나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "작을때는 둥실둥실 풍선이 돼요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "13044",
+      "srcText": "동글동글 동그라미. 작으면 달콤한 사탕, 커지면 눈부신 해님이에요. 뾰족뾰족 세모. 작으면 멋진 고깔모자, 커지면 동동 돛단배예요. 반듯반듯 네모. 작으면 차곡차곡 블록, 커지면 까꿍 놀이 상자예요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "character": "사탕,해님,고깔모자,돛단배,블록,놀이 상자",
+      "setting": null,
+      "action": "작으면,커지면",
+      "feeling": "달콤한,멋진",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "동그라미가 작으면 달콤한 사탕, 커지면 무엇이 되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈부신 해님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "네모가 까꿍 놀이 상자가 되려면 어떻게 해야 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "커져야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "뾰족뾰족 세모가 작으면 무엇이 되나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "멋진 고깔모자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "강윤정",
   "illustrator": "권호정",
   "isbn": "8990591058",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“일어나, 일어나.” 곰돌이가 속닥속닥 귓볼을 간질입니다. “조금만 조금만 더.” 이슬이는 꼼지락꼼지락 이불속으로 자꾸만 들어갑니다.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "곰돌이,귓볼,이슬이,이불",
+      "setting": null,
+      "action": "일어나,들어갑니다,귓볼을 간질입니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "일어나라고 누가 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰돌이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "이슬이는 꼼지락꼼지락 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이불속으로 자꾸만 들어갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

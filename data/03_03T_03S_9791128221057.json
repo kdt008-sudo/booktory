@@ -1,0 +1,70 @@
+﻿{
+  "title": "칙칙폭폭 스티븐슨, 부릉부릉 벤츠",
+  "author": "고영이",
+  "illustrator": "김완진",
+  "isbn": "9791128221057",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48305",
+      "srcText": "지구 구석구석을 쌩쌩 달리는 기차! 이런 멋진 기차가 어디든 누빌 수 있게 된 건 바로 철도와 기차의 아버지 스티븐슨 덕분이야. 18세기 초, 영국에서 증기 기관차가 만들어졌어",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 28,
+      "character": "기차,철도,스티븐슨,증기 기관차",
+      "setting": "18세기 초,영국",
+      "action": "달리는,누빌",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "철도와 기차의 아버지라 불리우는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스티븐슨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "지구 구석구석을 다닐 수 있게 된 것은 무엇 때문인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "영국에서 증기 기관차가 만들어졌기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "증기 기관차를 만든 나라는 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "영국",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "잎 모양이 왜 변했을까? ",
+  "author": "김영이",
+  "illustrator": "계창훈",
+  "isbn": "9788960163119",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52015",
+      "srcText": "키다리 해바라기 잎은 멋진 초록양산. 크고 넓적해 햇빛을 가려줘요. 숲으로 숲으로 가면 붉은단풍나무숲.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "해바라기,초록양산",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "크고 넓적해 햇빛을 가려줘요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "해바라기 잎을 무엇으로 비유했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "초록 양산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "해바라기잎을 왜 초록 양산이라고 표현했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "크고 넓적해 햇빛을 가려주기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

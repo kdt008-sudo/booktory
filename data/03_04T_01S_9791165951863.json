@@ -3,10 +3,8 @@
   "author": "샘 하퍼",
   "illustrator": "크리스 제본스",
   "isbn": "9791165951863",
-  "readAge": "유아",
   "publishedYear": 2021,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 2,
   "paragraphInfo": [
     {
@@ -14,14 +12,90 @@
       "srcText": "졸래졸래 밀림의 엉덩이. 올망졸망 도시의 엉덩이. 대롱대롱 나무 위의 엉덩이.",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "엉덩이",
+      "setting": "밀림,도시,나무 위",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "이 글은 여러 가지의 무엇에 대한 것인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉덩이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엉덩이가 어디에 있다고 했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 3,
+          "ansM1": "밀림",
+          "ansM2": "도시",
+          "ansM3": "나무 위",
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "5060",
       "srcText": "시끌시끌 농장의 엉덩이. 재잘재잘 공원의 엉덩이. 반짝반짝 밤하늘의 엉덩이.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 11
+      "srcWordEA": 11,
+      "character": "엉덩이",
+      "setting": "농장,공원,밤하늘",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "밤하늘의 무엇이 있다고 했을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉덩이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "농장에서는 어떤 소리가 들리나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "시끌시끌 소리가 들려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

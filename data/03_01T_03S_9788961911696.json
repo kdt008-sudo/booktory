@@ -1,0 +1,70 @@
+﻿{
+  "title": "어린왕의 마법",
+  "author": "김세실",
+  "illustrator": "안나라데츠카",
+  "isbn": "9788961911696",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47918",
+      "srcText": "그러던 어느 날, 어둠의 숲에 사는 나쁜 마법사가 나타났어요. \"이 집은 앞으로 내 거야! 그런데 색깔이 맘에 안 드는군. 수리수리마수리, 까맣게 바뀌어라. 얍!\" \"저 노랫소리, 시끄러워 못 참겠어! 수리수리마수리, 모두 벙어리가 되어라. 얍!\" 얍!",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 40,
+      "character": "나쁜 마법사",
+      "setting": "어둠의 숲",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이 집은 앞으로 내 거야! 그런데 색깔이 맘에 안 드는군. 수리수리마수리,까맣게 바뀌어라. 얍!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "어느 날 누가 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나쁜 마법사",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "나쁜 마법사는 자기 집의 색깔이 맘에 안 든다며 어떻게 하였나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "까맣게 바뀌라고 주문을 외웠다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "나쁜 마법사가 살고 있는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어둠의 숲",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

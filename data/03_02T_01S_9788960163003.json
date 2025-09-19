@@ -1,0 +1,56 @@
+﻿{
+  "title": "바람은 왜 불까? ",
+  "author": "박진영",
+  "illustrator": "정현진",
+  "isbn": "9788960163003",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52037",
+      "srcText": "나무는 화가 났어요. “나도 널 때릴 거야. 네가 아프게 한 만큼…….” 나무가 바람을 때리려 했어요. 그런데 이게 웬일이죠? 낑낑 아무리 움직이려 해도 가지가 꼼짝을 안 했어요. 바람도 보이지 않았어요. ‘에계, 어디로 갔지?’ 혼자 투덜대는데 둥근 해님이 말했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 9,
+      "srcWordEA": 44,
+      "character": "나무,바람,가지,해님",
+      "setting": null,
+      "action": "때리려 했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나무가 바람을 때리려 할 때 가지는 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "가지가 꼼짝을 안해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나무는 누구에게 화가 났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

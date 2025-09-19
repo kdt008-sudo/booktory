@@ -1,0 +1,56 @@
+﻿{
+  "title": "비행기 타러 가요 ",
+  "author": "예송화",
+  "illustrator": "서강옥",
+  "isbn": "9788960162976",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52035",
+      "srcText": "비행기를 타라는 안내방송이 들렸어요. 우리는 정해진 자리에 앉아 안전벨트를 맸어요. 비행기가 활주로를 천천히 움직이기 시작하고, 관제탑에서 기장에게 알려요. “이륙 준비 완료!” 관제탑-비행기의 이착륙에 관한 지시나 비행장 내의 정리 따위를 행하는 탑 비행기가 활주로를 내닫더니 슈우~! 하늘로 날아올랐어요. 높이높이 구름보다 더 높이. 활주로-비행장에서 비행기가 뜨거나 내릴 때 달리는 길",
+      "srcPage": 11,
+      "srcSentenceEA": 8,
+      "srcWordEA": 54,
+      "character": "비행기,관제탑",
+      "setting": null,
+      "action": "안전벨트를 맸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "활주로를 천천히 움직이기 시작한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비행기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "정해진 자리에 앉은 우리들은 무엇을 맸나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안전벨트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

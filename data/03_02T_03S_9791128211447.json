@@ -1,0 +1,84 @@
+﻿{
+  "title": "무무의 무지개 소금물 ",
+  "author": "고희동",
+  "illustrator": "송향란",
+  "isbn": "9791128211447",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48403",
+      "srcText": "옛날, 소금이 아주 귀하던 때의 일이야. 귀한 소금을 독차지하고 비싸게 파는 소금 장수가 있었지. 사람들은 다른 곳에서는 소금을 살 수 없었어. 그래서 소금 장수가 아무리 비싸게 소금을 팔아도 어쩔 수 없이 소금 장수에게 사야 했지. “소금 한 되에 쌀 한 가마니를 줘야 한다니, 정말 너무해.”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 48,
+      "character": "소금 장수,사람들,소금,한 가마니",
+      "setting": "옛날,소금이 아주 귀하던 때",
+      "action": "팔아도,사야 했지,줘야 한다니",
+      "feeling": "정말 너무해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "소금 한 되에 쌀 한 가마니를 줘야 하는 것을 보고 사람들은 어떤 생각을 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "소금 장수가 정말 너무한다고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "누가 귀한 소금을 독차지하고 비싸게 팔았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소금 장수",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "소금 장수가 아무리 비싸게 소금을 팔아도 사람들은 어떻게 해야 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "어쩔 수 없이 소금 장수에게 소금을 사야 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "소금 장수가 소금을 독차지하고 비싸게 팔았던 것은 언제의 일인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "소금이 아주 귀하던 옛날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

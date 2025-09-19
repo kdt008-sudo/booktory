@@ -1,0 +1,56 @@
+﻿{
+  "title": "라우의 생일 초대장",
+  "author": "강정연",
+  "illustrator": "박제희",
+  "isbn": "9791128209284",
+  "publishedYear": 2018,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47474",
+      "srcText": "“내일이 내 생일이야. 생일 파티에 친구들을 초대하려고 해.” 라우는 티티를 바라보며 활짝 웃었어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "친구들,라우,티티,생일 파티",
+      "setting": null,
+      "action": "바라보며,웃었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "라우가 생일 파티에 초대하려는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "라우는 티티를 바라보며 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "활짝 웃었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

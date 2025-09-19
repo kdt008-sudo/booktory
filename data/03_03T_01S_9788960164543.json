@@ -1,0 +1,70 @@
+﻿{
+  "title": "황새의 엉터리 판결",
+  "author": "박성아",
+  "illustrator": "채수현",
+  "isbn": "9788960164543",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49646",
+      "srcText": "그날 밤, 따오기는 황새를 찾아갔어. \"자네가 이 밤에 웬일인가?\" 따오기는 준비한 먹이를 내밀며 말했어. \"헤헤, 판결할 때 제 편 좀 들어 주세요.\" \"흐흠, 뭘 이런걸.\" 황새가 눈을 끔뻑끔뻑하더니 먹이를 슬쩍 뒤로 감추지 않겠어? 따오기는 황새가 먹이를 받자 마음이 놓였지.",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 42,
+      "character": "황새,따오기,먹이",
+      "setting": "그날 밤",
+      "action": "찾아갔어,내밀며 말했어,감추지 않겠어,먹이를 받자,눈을 끔뻑끔뻑하더니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "언제 따오기는 황새를 찾아갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그날 밤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "황새가 눈을 끔뻑끔뻑하더니 먹이를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "슬쩍 뒤로 감추었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "황새를 찾아온 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "따오기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

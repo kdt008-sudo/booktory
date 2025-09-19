@@ -1,0 +1,70 @@
+﻿{
+  "title": "흑치상지",
+  "author": "구들",
+  "illustrator": "이영아",
+  "isbn": "9788954339384",
+  "publishedYear": 2004,
+  "publisher": "한국삐아제",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48936",
+      "srcText": "“이러! 이러!” 백제군 진영의 양지바른 한 모퉁이에서 병졸들이 잘생긴 말 한 마리를 둘러싸고 있었어요. 그 중 한 명이 말 위에 올라가 그럴듯한 자세를 잡아 보이자 다른 병졸들은 나뭇가지로 말을 때리기도 하고 발길질도 했어요. 멀리서 이 광경을 본 흑치상지의 부관이 달려와 화를 냈어요. “이런 괘씸한 것들이 있나! 감히 흑치상지 장군님의 말을 괴롭히다니!” 이 말을 들은 병졸들의 얼굴이 하얗게 질렸어요. 흑치상지는 이곳 풍달군을 지키는 총책임자이자 달솔이라는 높은 벼슬을 하고 있는 장군이었지요. 병졸들은 흑치상지 앞으로 끌려갔어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 81,
+      "character": "백제,병졸,나뭇가지,흑치상지,부관,말,장군,달솔",
+      "setting": "풍달군",
+      "action": "둘러싸고 있었어요,때리기도 하고,발길질도 했어요,달려와 화를 냈어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "병졸 중 한 명이 말 위에 올라가 자세를 잡자, 다른 병졸들은 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나뭇가지로 말을 때리고 발길질했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "흑치상지는 어디를 지키는 총책임자인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풍달군",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "달솔이라는 높은 벼슬을 하는 장군은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "흑치상지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "비단실을 뽑는 재주꾼 ",
+  "author": "윤성은",
+  "illustrator": "김태란",
+  "isbn": "9788960163096",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52013",
+      "srcText": "“와아, 실을 어떻게 만들었어?” “너도 넉 잠자고 나면 할 수 있어.” 5령 누에가 실로 제 몸을 감싸버리자 2령 누에는 뽕잎만 먹어댔어. 5령 누에가 2령 누에에게 뽐냈어. “어때? 실을 토해서 고치를 짓는 내 모습, 멋있지?” 5령 누에가 흰 실을 꾸역꾸역 토해서 제 몸을 감쌌어. ‘난 곧 어른이 될 거야.’",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 53,
+      "character": "실,누에",
+      "setting": null,
+      "action": "뽕잎만 먹어댔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "5령 누에는 흰 실로 제 몸을 감싸며 곧 무엇이 될 것이라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어른",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "2령 누에는 왜 뽕잎만 먹어댔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "5령 누에가 실로 제 몸을 감싸버렸기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

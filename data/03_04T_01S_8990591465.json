@@ -3,10 +3,8 @@
   "author": "이준연",
   "illustrator": "이희탁",
   "isbn": "8990591465",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "어느덧 집이 완성되었습니다. “내 집이 최고야, 최고! 이렇게 멋진 집은 없고말고.” 부자는 큰소리로 자기 집을 자랑했습니다.",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "집,부자",
+      "setting": null,
+      "action": "완성되었습니다,자랑했습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇이 완성되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "부자는 큰소리로 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자기 집을 자랑했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

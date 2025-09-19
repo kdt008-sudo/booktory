@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "김태란",
   "isbn": "8990591457",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“뚱달아, 땅달아, 무슨 소리가 들려.” 장다리가 비명 소리를 듣고 말했어요. 도깨비 삼 형제는 소리나는 곳을 향해 뛰었습니다.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "뚱달아,땅달아,장다리,도깨비 삼 형제",
+      "setting": null,
+      "action": "듣고 말했어요,뛰었습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "도깨비 삼 형제는 비명 소리를 듣고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소리나는 곳을 향해 뛰었습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무슨 소리가 들린다고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "장다리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

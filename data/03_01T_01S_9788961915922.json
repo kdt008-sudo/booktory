@@ -1,0 +1,56 @@
+﻿{
+  "title": "늑대의 양을 빼앗은 사자",
+  "author": "백금서",
+  "illustrator": "이현민",
+  "isbn": "9788961915922",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49181",
+      "srcText": "뭉게구름이 둥실둥실 떠 있고, 바람이 살랑살랑 부드럽게 부는 따뜻한 봄날이에요. “음메, 맛있다. 냠냠냠!” 양들은 싱싱한 풀을 맛있게 뜯어 먹어요. 오늘도 양치기 소년은 푸른 풀밭에 양 떼를 풀어 놓아요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "character": "양,풀,양치기 소년",
+      "setting": null,
+      "action": "뜯어 먹어요,풀어 놓아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "양치기 소년은 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "푸른 풀밭에 양 떼를 풀어 놓아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "싱싱한 풀을 먹고 있는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "양들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

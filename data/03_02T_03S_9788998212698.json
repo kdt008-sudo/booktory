@@ -1,0 +1,56 @@
+﻿{
+  "title": "우리 할머니는 건축가예요",
+  "author": "최은규",
+  "illustrator": "오진욱",
+  "isbn": "9788998212698",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48336",
+      "srcText": "우리가 아기였을 때 사진이야. 정말 조그맣지? 우리가 아주 작았을 때는 우리 집이 아주아주 큰 줄 알았어. 하지만. 우리가 커지니까 집이 작아졌지 뭐야.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "character": "아기,사진,집",
+      "setting": null,
+      "action": "알았어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "우리가 보고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기였을 때 사진",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "우리가 아주 작았을 때는 집이 어떻게 보였을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주아주 큰 줄 알았어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

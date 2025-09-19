@@ -3,10 +3,8 @@
   "author": "김혜란",
   "illustrator": "송진희",
   "isbn": "8990591643",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“바퀴다!” 누나가 깜짝 놀라 비명을 지릅니다. “요놈! 어딜 가니?” 짱아가 바퀴벌레를 향해 휙 연필을 던집니다.",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "누나,짱아,바퀴벌레,연필",
+      "setting": null,
+      "action": "비명을 지릅니다,연필을 던집니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "비명을 지른 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "누나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "짱아가 바퀴벌레를 향해 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "연필을 던졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

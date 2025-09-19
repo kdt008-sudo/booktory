@@ -1,0 +1,70 @@
+﻿{
+  "title": "여우는 왜 쫄쫄 굶었을까? / 새털을 왜 줍지 못했을까?",
+  "author": "신연미",
+  "illustrator": "박수정",
+  "isbn": "9791128221361",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47360",
+      "srcText": "여우는 포도밭을 둘러싼 담을 넘으려고 폴짝폴짝 뛰어 보았어. “아이코! 담이 너무 높잖아.” 여우는 포도밭 주위를 빙빙 돌다가 담 아래 나 있는 구멍을 보았어. “옳거니! 이 구멍으로 들어가면 되겠다!”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31,
+      "character": "여우,포도밭,담,구멍",
+      "setting": null,
+      "action": "보았어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "옳거니! 이 구멍으로 들어가면 되겠다!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "여우는 담을 넘으려고 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "폴짝폴짝 뛰어 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "포도밭을 둘러싼 담을 넘으려고 하는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "여우는 구멍을 보고 기분이 어땠을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "포도밭에 들어갈 수 있어서 좋았을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

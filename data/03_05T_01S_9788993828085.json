@@ -1,0 +1,101 @@
+﻿{
+  "title": "우리 같이 하자",
+  "author": "윤여름",
+  "illustrator": "반정원",
+  "isbn": "9788993828085",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15533",
+      "srcText": "그래, 같이 나팔 불자. 뚜띠리뚜 뚜띠뚜. 우리 같이 기타 치자. 딩가딩가 딩가딩. 그래, 같이 기타 치자. 추카추카 추카카.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23,
+      "character": "나팔,기타",
+      "setting": null,
+      "action": "불자,치자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뚜띠리뚜 뚜띠뚜는 무엇을 부는 소리일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나팔",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "딩가딩가 딩가딩 무엇을 하자고 해요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "신나게 같이 기타 쳐요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15532",
+      "srcText": "우리 같이 북 치자. 뚱땅 뚱땅 뚱땅땅. 그래, 같이 북 치자. 둥둥당당 둥당당. 우리 같이 나팔 불자. 뿌우 뿌우 뿌우뿌. ",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "character": "우리,북,나팔",
+      "setting": null,
+      "action": "치자,불자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇을 같이 치자고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "북",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뿌우 뿌우 뿌우뿌 나팔을 어떻게 하자고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "같이 신나게 나팔 불어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

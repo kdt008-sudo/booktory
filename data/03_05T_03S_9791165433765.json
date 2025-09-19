@@ -1,0 +1,56 @@
+﻿{
+  "title": "밥이 맛있어요",
+  "author": "장혜경",
+  "illustrator": "김현정",
+  "isbn": "9791165433765",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48629",
+      "srcText": "“유람아, 저녁 먹자. 당근볶음이랑 죽순볶음, 생선구이 했어.” 엄마가 유람이를 불렀어요. ‘불고기만 먹고 싶은데.’ 유람이는 살금살금 기어서 소파 밑에 쏙 숨었어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "character": "유람,당근 볶음,죽순 볶음,생선구이,엄마,불고기,소파",
+      "setting": null,
+      "action": "먹자,기어서,숨었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_고학년",
+          "question": "저녁 먹자고 유람 부른 사람은 누군가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_고학년",
+          "question": "엄마가 부르자 유람이는 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "살금살금 기어서 소파 밑에 숨었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

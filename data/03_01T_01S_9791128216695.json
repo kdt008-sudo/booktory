@@ -1,0 +1,70 @@
+﻿{
+  "title": "말벌이 콕!",
+  "author": "김인숙",
+  "illustrator": "장은주",
+  "isbn": "9791128216695",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2318",
+      "srcText": "해가 둥실 떠오르자, 해달이 눈부셔. 개가 살랑살랑 꼬리 흔들자, 개미가 놀라서 후다닥. 말이 꾸벅꾸벅 졸자, 말벌이 와서 콕!",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "character": "해,해달,개,꼬리,개미,말,말벌",
+      "setting": null,
+      "action": "떠오르자,흔들자,졸자,와서",
+      "feeling": "놀라서",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 꼬리를 살랑살랑 흔들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "해달은 왜 눈이 부셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "해가 둥실 떠올랐기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "개가 살랑살랑 꼬리를 흔들었을 때 개미는 어떤 마음이었을까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

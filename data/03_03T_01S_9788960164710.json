@@ -1,0 +1,56 @@
+﻿{
+  "title": "착한 흥부와 욕심쟁이 놀부",
+  "author": "배은율",
+  "illustrator": "천필연",
+  "isbn": "9788960164710",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52493",
+      "srcText": "옛날에 흥부와 놀부 형제가 살았어. 형 놀부는 빈둥빈둥 놀기 좋아하고 동생 흥부는 부지런했지. 욕심쟁이 놀부는 부모님이 돌아가시자 재산을 몽땅 차지한 뒤 흥부를 내쫓았어.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "character": "흥부,놀부",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "욕심쟁이 놀부는 부모님이 돌아가시자 재산을 몽땅 차지한 뒤 흥부를 내쫓았어.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "빈둥빈둥 놀기를 좋아했던 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "놀부",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "놀부는 재산을 몽땅 차지한 뒤 흥부를 내쫓았고, 그 후 흥부는 어떻게 되었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "흥부는 가난하게 살았을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

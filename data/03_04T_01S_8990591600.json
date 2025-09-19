@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "조민정",
   "isbn": "8990591600",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“안녕하세요. 제가 볼 일을 보고 올 동안, 이 자루를 맡겨도 될까요? 절대 열어 보지 말고요.” 여우는 문을 열어 준 착한 아가씨에게 부탁을 하고 사라졌어요.",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "자루,여우,착한 아가씨",
+      "setting": null,
+      "action": "맡겨도,열어 보지 말고요,문을 열어,부탁을 하고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "여우가 아가씨에게 무엇을 절대 하지 말라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "절대 열어 보지 말라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "여우는 착한 아가씨에게 무엇을 맡아달라고 부탁했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자루",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

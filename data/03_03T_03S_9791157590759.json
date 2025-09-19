@@ -1,0 +1,70 @@
+﻿{
+  "title": "너라면?",
+  "author": "하늘땅",
+  "illustrator": "정문주",
+  "isbn": "9791157590759",
+  "publishedYear": 2015,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48875",
+      "srcText": "하나도 안 추워! 엄마가 바람 부니까 외투를 입으라고 했는데, “하나도 안 추워!” 하고 말했어. 사실은 아빠가 사 준 원피스를 입으려고 그랬지. 그런데 밖에 나갔더니 너무 추운 거야. 너무 추워서 콧물까지 줄줄 흘렸어. 그네 타는 곳에 선우도 있었는데 아는 체도 못했어. 엄마 말대로 외투를 입고 나왔으면, 선우랑 마음껏 놀았을 텐데.",
+      "srcPage": 12,
+      "srcSentenceEA": 9,
+      "srcWordEA": 56,
+      "character": "엄마,외투,아빠,원피스",
+      "setting": "그네 타는 곳",
+      "action": "입으라고 했는데,말했어,사 준,나갔더니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "선우는 어디에 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그네 타는 곳",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "외투를 입으라고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "외투를 입으라는 엄마에게 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안 춥다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

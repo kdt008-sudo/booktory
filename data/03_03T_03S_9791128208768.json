@@ -1,0 +1,70 @@
+﻿{
+  "title": "라라 할머니의 하숙집이 특별한 이유는?",
+  "author": "김영숙",
+  "illustrator": "심혜진",
+  "isbn": "9791128208768",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49051",
+      "srcText": "알프스산 아래 커다란 집에 친절한 라라 할머니가 혼자 살고 있었어. 라라 할머니는 혼자 커다란 집에 사는 것이 외로워서 하숙생을 구하기로 했어. “함께 살 하숙생을 구해요. 매일 아침 맛있는 빵을 구워 줄게요.” 오래지 않아 세 사람이 라라 할머니를 찾아왔어.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 41,
+      "character": "라라 할머니,하숙생,빵",
+      "setting": "알프스산 아래 커다란 집",
+      "action": "라라 할머니를 찾아왔어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "혼자 커다란 집에 사는 것이 외로웠던 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "라라 할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "라라 할머니가 하숙생을 구하기 시작하자, 무슨 일이 일어났나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "세 사람이 라라 할머니를 찾아왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "라라 할머니는 어디에 혼자 살고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알프스산 아래 커다란 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

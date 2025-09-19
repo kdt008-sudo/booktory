@@ -1,0 +1,56 @@
+﻿{
+  "title": "역사 문화 탐구장3 역사 보물지도",
+  "author": "김인숙",
+  "illustrator": "이현주",
+  "isbn": "9791165956363",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48997",
+      "srcText": "세계에 이름을 알린 나라, 고려. 고려는 왕건이 후삼국을 통일하고 세운 나라예요. 고구려를 이어받는다는 뜻으로 나라 이름을 고려로 했어요. 그 뜻처럼 고려는 거란.몽골.왜구와 홍건적 등의 계속된 침략을 모두 물리치면서 영토를 넓혔어요. 불교의 나라였던 고려는 불교문화를 바탕으로 474년 동안 역사를 이어 가며 고려청자와 팔만대장경, 직지심체요절 같은 많은 문화재를 남겼어요. 또 활발한 무역 활동으로 '코리아'라는 이름을 세계에 알리기도 했지요.",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 64,
+      "character": "고려,왕건,고구려,거란,몽골",
+      "setting": null,
+      "action": "통일하고 세운,물리치면서,남겼어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "고려는 어떻게 영토를 넓혔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "계속된 침략을 전부 물리치면서 영토를 넓혔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "왕건이 후삼국을 통일하고 세운 나라는 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고려",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

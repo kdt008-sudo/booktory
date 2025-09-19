@@ -1,0 +1,146 @@
+﻿{
+  "title": "처음 낚시를 갔어요",
+  "author": "백민",
+  "illustrator": "백민",
+  "isbn": "9788963831015",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7826",
+      "srcText": "끙끙! \"이걸 가져가면 걱정 없겠지.\" \"꿀떡이는 아직 안 왔네? 상어가 잡히지는 않을까? 아참, 상어는 바다에 살지! 헤헤.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "character": "꿀떡이,상어",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "상어는 바다에 살지!",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "아직 오지 않은 친구는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꿀떡이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "상어를 잡을 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "상어는 바다에 살아서 잡히지 않아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7827",
+      "srcText": "\"심심하다.\" \"흥! 아직 한마리도 못잡았군.\" 꿀떡이가 몽둥이를 가지고 나타났어요. \"물고기는 말이야, 이렇게 잡는거라고.\" 꽝! \"와, 신기하다!\" \"오늘 즐거웠어! 내일 봐.\" \"잘 가! 내일 봐.\" 휴, 살았다! 어? 왜 그냥 가지?",
+      "srcPage": 12,
+      "srcSentenceEA": 12,
+      "srcWordEA": 38,
+      "character": "꿀떡이,물고기",
+      "setting": null,
+      "action": null,
+      "feeling": "신기하다!,즐거웠어!,심심하다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "몽둥이를 가지고 나타난 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꿀떡이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "물고기를 한마리도 못잡아서 기분이 어땠을까?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "심심했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7825",
+      "srcText": "집돼지 꿀꿀이와 멧돼지 꿀떡이가 물고기를 잡기로 했어요. 낚시대는 잠자리채로, 낚싯줄은 연줄을 끊어서, 낚싯바늘은 옷핀을 구부려서 만들었어요. 꿀꿀이는 갑자기 걱정이 되었어요. \"물고기가 너무 많이 잡히면 어떡하지?\"",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "집돼지 꿀꿀이,멧돼지 꿀떡이이,물고기",
+      "setting": null,
+      "action": null,
+      "feeling": "걱정이 되었어요.",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "물고기가 너무 많이 잡힐까봐 걱정하는 친구는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꿀꿀이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "집돼지 꿀꿀이는 무슨 걱정을 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "너무 많이 잡힐까봐 걱정했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

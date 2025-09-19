@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "이진아",
   "isbn": "9788927206866",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 8,
   "paragraphInfo": [
     {
@@ -14,56 +12,388 @@
       "srcText": "\"그리고 가스가 샜을 때는 꼭 창문과 출입문을 열어 환기시키세요. 가스에 중독이 되거나 화재가 날 수 있으니까요.\" 가스 검침원 아주머니 덕분에 우리 집이 더 안전해졌어요. \"아주머니, 감사합니다!\"",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "가스,창문,출입문,가스 검침원 아주머니",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "가스 검침원 아주머니 덕분에 우리 집이 더 안전해졌어요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "가스 검침원 아주머니 덕분에 우리 집은 어떻게 됐나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 집이 더 안전해졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "가스가 샜을 때는 무엇을 열어 환기시켜야 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "창문과 출입문",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17378",
       "srcText": "\"가스레인지의 스위치를 꺼도 가스가 샐 수 있으니까요.\" \"요리를 할 때 국물이 넘치거나, 바람이 불어서 불이 꺼지는 경우도 있어요. 하지만 이때도 가스는 계속 샌답니다. 늘 확인하셔야 해요.\" 불이 꺼져도 가스가 샐 수 있어요.",
       "srcPage": 12,
       "srcSentenceEA": 5,
-      "srcWordEA": 35
+      "srcWordEA": 35,
+      "character": "가스레인지,스위치,가스,국물",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "불이 꺼져도 가스가 샐 수 있어요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "스위치를 끄거나 불이 꺼져도 계속 샐 수 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "불이 꺼져서 가스가 새면 어떻게 될까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나중에 집에 불이 날 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17374",
       "srcText": "주현이가 어린이집이 끝나고 집에 돌아왔어요. \"오늘은 간식으로 감자 쪄 먹을까?\" \"그래요, 엄마.\"",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "주현이,감자,엄마,간식,어린이집",
+      "setting": "오늘,집",
+      "action": "끝나고,돌아왔어요,먹을까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이집이 끝나고 누가 집에 돌아왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "주현이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "오늘은 간식으로 무엇을 먹기로 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "주현이는 어린이집이 끝나고 어디로 돌아왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17376",
       "srcText": "\"엄마, 가스 검침원이래요.\" \"그래, 엄마는 바쁘니까 주현이가 문을 열어 줄래?\" 주현이는 얼른 문을 열어 주었어요.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "엄마,가스 검침원,주현이,문",
+      "setting": null,
+      "action": "열어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누가 얼른 문을 열어 주었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "주현이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마는 왜 주현이에게 문을 열어주라고 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마는 바빠서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17375",
       "srcText": "엄마가 주방에서 감자를 씻는데 초인종이 울렸어요. \"엄마, 누가 왔나 봐요.\" 주현이는 인터폰을 들고 말했어요. \"누구세요?\" \"네, 가스 검침 나왔습니다.\"",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "엄마,감자,초인종,주현이,인터폰",
+      "setting": "주방",
+      "action": "씻는데,들고,말했어요,나왔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "주방에서 감자를 씻은 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마가 주방에서 감자를 씻는데 무엇이 울렸나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "초인종",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누가 초인종을 울렸나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "가스 검침 나온 사람이 초인종을 눌렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16583",
       "srcText": "\"기계가 없을 땐 호스 연결 부위에 비눗물을 발라 보렴. 거품이 보글보글 생기면 가스가 새는 거란다.\" 비눗물로 점검해요.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "기계,거품,비눗물",
+      "setting": null,
+      "action": "점검해요,발라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "연결부위에 무엇이 생기면 가스가 새는 건가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비누 거품",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "기계가 없을 땐 어떻게 점검을 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "호스 연결 부위에 비눗물을 발라 점검해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17377",
       "srcText": "검침원은 기계로 중간 밸브 주변을 이리저리 대 보았어요. \"아주머니, 뭐 하세요?\" \"응, 가스가 새는지 확인해 보는 거야.\"",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "검침원,기계,아주머니",
+      "setting": null,
+      "action": "대 보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "가스가 새는지 확인하는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "검침원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "검침원은 기계로 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "중간 밸브 주변을 이리저리 대 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16584",
       "srcText": "그리고 엄마에게 말했어요. \"어머님, 중간 밸브가 열려 있네요. 가스를 쓰지 않을 땐 꼭 잠가 놓아야 해요.\" 중간 밸브를 잠가 놓아요.",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "엄마,중간 밸브",
+      "setting": null,
+      "action": "말했어요,잠가 놓아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "중간 밸브가 어떻게 되어 있었나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "열려 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "가스를 쓰지 않을 때 꼭 잠가야 하는 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "중간 밸브",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

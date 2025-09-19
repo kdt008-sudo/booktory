@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "고혜진",
   "isbn": "899059152X",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "현이가 엄마랑 그림책을 봅니다. ‘파팟!’ 갑자기 전깃불이 나가더니 아무것도 안 보였어요. 어디선가 괴물이 나올 것만 같았어요. “엄마, 무서워.” “괜찮아. 잠깐만 기다려.” 엄마가 얼른 책상 위에 촛불을 켰습니다.",
       "srcPage": 5,
       "srcSentenceEA": 7,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "현이,엄마",
+      "setting": null,
+      "action": "그림책을 봅니다,촛불을 켰습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "갑자기 전깃불이 나가 아무것도 보이지 않자, 엄마는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "얼른 책상 위에 촛불을 켰습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "현이와 엄마는 무엇을 보고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그림책",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,56 @@
+﻿{
+  "title": "바람 타고 둥실둥실 멀리 ",
+  "author": "예종화",
+  "illustrator": "이동국",
+  "isbn": "9788960162549",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51936",
+      "srcText": "\"얘들아, 준비됐니?\" 민들레가 소리쳤어요. \"네, 엄마.\" 바람이 휘익 불어왔어요. \"엄마, 안녕!\" \"얘들아, 잘가! 좋은 땅에 뿌리를 잘 내려.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 21,
+      "character": "민들레,엄마,뿌리",
+      "setting": null,
+      "action": "소리쳤어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마는 아이들에게 좋은 땅에 무엇을 잘 내리라고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뿌리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "민들레 엄마가 준비됐는지 소리쳐 확인한 뒤 불어온 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

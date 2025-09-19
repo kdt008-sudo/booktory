@@ -3,10 +3,8 @@
   "author": "류현영",
   "illustrator": "정영희",
   "isbn": "8990591104",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "꼬투리 속에서 완두콩 다섯 형제를 꺼낸 사람은 개구쟁이 소년이었어요. “이 완두콩을 장난감 총알로 쓰면 좋겠다, 히히.” 소년은 완두콩을 장난감 총 속에 넣고 멀리멀리 날려 보냈답니다.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "꼬투리,완두콩 다섯 형제,개구쟁이 소년,장난감 총알,장난감 총",
+      "setting": null,
+      "action": "날려 보냈답니다,꺼낸",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "소년은 완두콩을 장난감 총 속에 넣고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "멀리멀리 날려 보냈답니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 완두콩 다섯 형제를 꺼내었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개구쟁이 소년",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

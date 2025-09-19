@@ -1,0 +1,115 @@
+﻿{
+  "title": "아기 기린이 점무늬를 찾아요",
+  "author": "제다 로바드",
+  "illustrator": "제다 로바드",
+  "isbn": "9791165435004",
+  "publishedYear": 2022,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42922",
+      "srcText": "색종이로도 점무늬를 만들어 톡톡 붙여 보았어요. 하지만 바람이 불자 사라락 날아가 버렸어요. \"영영 점무늬 없이 지내야 하나 봐. 어떡해, 엉엉!\" 아기 기린은 잠옷 주머니에서 점무늬 손수건을 꺼내서, 눈물도 닦고 코도 풀었어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 34,
+      "character": "색종이,아기 기린,잠옷 주머니,손수건,눈물,코",
+      "setting": null,
+      "action": "눈물도 닦고 코도 풀었어요.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "바람에 만들어 논 점무늬가 사라지자 기린은 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엉엉 울다 손수건을 꺼내 눈물도 닦고 코도 풀었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 기린은 무엇을 붙여 점무늬를 만들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "색종이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42921",
+      "srcText": "아기 기린은 점무늬 스카프가 달린 모자를 쓰고, 점무늬 가방이랑 점무늬 우산도 들었어요. 하지만 기린처럼 보이기는커녕 덥기만 했지요. 아기 기린은 곰곰이 생각했어요. '내가 점무늬를 만들어야겠어.'",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "아기 기린,점무늬,스카프,모자,가방,우산",
+      "setting": null,
+      "action": "쓰고,우산도 들었어요,만들어야겠어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내가 점무늬를 만들어야겠어.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 기린은 어떤 무늬가 있는 모자와 가방 그리고 우산을 들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "점무늬",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 기린은 기린처럼 보이기는커녕 덥기만 하자 어떻게 하기로 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "점무늬를 만들어야겠다고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 기린은 어떻게 점무늬를 만들었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나뭇잎을 붙여서 점무늬처럼 만들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

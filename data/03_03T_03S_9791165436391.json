@@ -1,0 +1,70 @@
+﻿{
+  "title": "광고를 잘 살펴봐!",
+  "author": "권재원",
+  "illustrator": "장선환",
+  "isbn": "9791165436391",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48655",
+      "srcText": "“아, 심심해. 뭐 재미있는 거 없나?” 코코가 텔레비전을 켜자 요즘 가장 인기 있는 토미가 광고에 나왔어요. “그래, 바로 저거야!” 코코가 종종종, 마이크를 사러 가다가 봉봉이를 만났어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "코코,텔레비전,토미,마이크,봉봉이,광고",
+      "setting": null,
+      "action": "켜자,나왔어요,사러 가다가,만났어요",
+      "feeling": "심심해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "텔레비젼을 켜자 요즘 가장 인기 있는 누가 광고에 나왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "코코는 왜 텔레비젼을 켰나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "심심해서 켰어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "코코는 무엇을 사러 가다가 봉봉이를 만났나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마이크",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿{
+  "title": "장화 신은 고양이",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "장은정",
+  "isbn": "9791159424748",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47524",
+      "srcText": "옛날, 어느 마을에 방앗간 노인이 세 아들과 함께 살고 있었어요. 첫째와 둘째는 욕심도 많고 동물들을 괴롭히는 심술쟁이였어요. 하지만 막내는 동물들을 무척 사랑했지요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "character": "방앗간 노인,세 아들,동물",
+      "setting": "어느 마을",
+      "action": "괴롭히는",
+      "feeling": "사랑했지요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "방앗간 노인과 세 아들은 어디에 살고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어느 마을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "옛날, 어느 마을에누구와 세 아들이 함께 살았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "방앗간 노인",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "막내는 동물을 어떻게 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예뻐하고 무척 사랑했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "첫째와 둘째는 어떤 사람이었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "욕심도 많고 동물을 괴롭히는 심술쟁이였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

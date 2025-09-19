@@ -3,10 +3,8 @@
   "author": "플라이트",
   "illustrator": "로살린 비어드쇼",
   "isbn": "9791165951757",
-  "readAge": "유아",
   "publishedYear": 2021,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 4,
   "paragraphInfo": [
     {
@@ -14,28 +12,194 @@
       "srcText": "톰은 둥당둥당 북을 치고, 알리스는 씽씽 자전거를 타고 샘에게 가요. 샘은 커다란 상자를 갖고 있어요. 무엇이 들어 있을까요?",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "톰,북,알리스,자전거,샘,상자",
+      "setting": null,
+      "action": "북을 치고,자전거를 타고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "알리스가 타고 가는 건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자전거",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "톰과 알리스가 샘에게 가면서 한 행동은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "톰은 둥당둥당 북을 치고, 알리스는 씽씽 자전거를 타면서 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "5401",
       "srcText": "톰의 상자예요. 톰의 상자는 작아요. 무엇이 들어 있을까요? 톰이 둥당둥당 북을 치며 알리스에게 가요. 알리스도 상자를 갖고 있어요. 무엇이 들어 있을까요?",
       "srcPage": 4,
       "srcSentenceEA": 6,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "톰,북,알리스,상자",
+      "setting": null,
+      "action": "북을 치며,가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "톰의 상자에는 무엇이 들어 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "북",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "알리스에게 가면서 톰이 한 행동은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "둥당둥당 북을 치면서 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "5404",
       "srcText": "여러 가지 상자가 있어요. 상자로 아주아주 재미나게 놀 수 있어요. 보세요, 재밌죠? 그리고. 더, 더, 더 재미나게 놀 수 있어요.",
       "srcPage": 9,
       "srcSentenceEA": 5,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "상자",
+      "setting": null,
+      "action": "놀 수 있어요,보세요",
+      "feeling": "재미나게 ",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "아주아주 재미나게 놀 수 있는 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "상자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "상자를 가지고 놀면 어떨까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주아주 재미나게 놀 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "상자를 활용하여 다른 방법으로 놀면 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "더 재미나게 놀 수 있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "5403",
       "srcText": "샘이 담요로 괴물 흉내를 내요. 으르르릉! 잠깐! 저기 낸시 옆에 아주아주 커다란 상자가 있어요. 무엇이 들어 있을까요?",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "샘,담요,괴물,낸시,상자",
+      "setting": null,
+      "action": "흉내를 내요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "낸시 옆에 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주아주 커다란 상자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "샘이 담요로 흉내 낸 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "괴물 흉내를 내었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

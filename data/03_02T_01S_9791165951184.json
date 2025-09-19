@@ -1,0 +1,70 @@
+﻿{
+  "title": "둘이 꼭 닮았네!",
+  "author": "김미애",
+  "illustrator": "혜마",
+  "isbn": "9791165951184",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48741",
+      "srcText": "퍽퍽, 푹푹! 땅파기 선수, 굴착기의 버킷은 무엇과 닮았을까? 버킷은 흙이나 모래를 퍼 올리는 바가지야. 코뿔소의 뿔? 두더지의 발톱? 바다거북의 발?  캥거루의 뒷다리? 나야 나! 두더지! 굴착기의 버킷은 내 발톱과 꼭 닮았어.",
+      "srcPage": 5,
+      "srcSentenceEA": 10,
+      "srcWordEA": 41,
+      "character": "두더지,버킷,흙,모래,발톱",
+      "setting": null,
+      "action": "퍼 올리는,닮았어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "굴착기의 버킷은 내 발톱과 꼭 닮았어.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "두더지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "굴착기의 버킷은 무엇과 닮았나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "두더지의 발톱과 똑 닮았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "버킷은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "흙이나 모래를 퍼 올리는 바가지에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

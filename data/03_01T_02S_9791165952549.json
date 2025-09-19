@@ -1,0 +1,129 @@
+﻿{
+  "title": "돼지들의 체조",
+  "author": "쿠와자와 유코",
+  "illustrator": "쿠와자와 유코",
+  "isbn": "9791165952549",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4292",
+      "srcText": "우리는 아기 돼지 삼 형제. 매일 아침 사이좋게 체조를 하지요. 킁킁, 큰 코로 숨을 들이쉬고. 크으응.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "character": "우리,아기 돼지,코",
+      "setting": "매일 아침",
+      "action": "숨을 들이쉬고,체조를 하지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 사이좋게 체조를 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 돼지 삼 형제",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아기 돼지 삼 형제는 언제 체조를 하나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "매일 아침",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아기 돼지 삼 형제가 매일 아침 하는 건 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사이좋게 체조를 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "4293",
+      "srcText": "천천히 숨을 내뱉어요. 허리도 쭉쭉! 펴고, 쭈욱! 쭈욱! 한쪽 다리로 서서. 콩콩 콩. 하늘을 향해 팔도 뻗어 보고. 쑥쑥 쑤우욱.",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 27,
+      "character": "허리,다리,하늘,팔",
+      "setting": null,
+      "action": "내뱉어요,펴고,서서,뻗어 보고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "천천히 숨을 내뱉어요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "하늘을 향해 무엇을 뻗어 보나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "팔",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "천천히 숨을 내뱉고 나서 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "허리도 펴고 한쪽 다리로 서서 하늘을 향해 팔을 뻗어 봐요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아기 돼지가 천천히 숨을 내뱉는 이유는 무엇일까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "체조를 하느라 숨이 차서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

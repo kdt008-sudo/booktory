@@ -1,0 +1,56 @@
+﻿{
+  "title": "나무도 여자, 남자가 있을까? ",
+  "author": "윤성은",
+  "illustrator": "정영희",
+  "isbn": "9788960163218",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51987",
+      "srcText": "염소 선생님이 말씀하셨어요. \"여러분, 오늘은 특별한 나무와 풀에 대해서 공부할 거예요.\" 선생님이 개암나무를 가리켰어요. \"이건 기름나무라고도 해요. 열매를 짜면 기름이 나오기 때문이에요.\" 구멍 뚫린 나무가 보였어요. \"이건 고로쇠라는 물 나무란다. 여기 이 구멍은 봄에 사람들이 물을 뽑아 먹은 자국이야.\" 너구리가 철퍼덕 넘어지는 바람에  풀잎을 건드렸어요. \"으응? 풀잎이 오므라드네.\" \"그건 미모사야. 잎을 건드리면 재빨리 오므리지.\" 토끼가 덤벙대다 은행을 밟았어요. 모두들 코를 막고 소리쳤어요. \"아유, 구린내! 너, 똥쌌지?\" \"아니야, 이 은행 냄새야.\" 다람쥐가 고개를 갸웃거리며 물었어요. \"선생님, 이 나무엔 은행이 열렸는데 저 은행나무에는 왜 없지요?\" \"저건 남자 나무이거든.\" 동물들의 눈이 동그래졌어요. \"나무도 여자, 남자가 있어요?\" \"그럼. 여자, 남자가 따로 있는 나무를 암수딴그루라고 하지.\" 동물들이 한꺼번에 물었어요. \"선생님, 이 나무는 여자예요?\" \"얘는 남자예요? 여자예요?\" 선생님이 수염을 흔들며 소리쳤어요. \"그만!\"",
+      "srcPage": 11,
+      "srcSentenceEA": 28,
+      "srcWordEA": 133,
+      "character": "염소,나무,풀,개암나무,토끼,은행",
+      "setting": null,
+      "action": "동물들이 한꺼번에 물었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "동물들이 한꺼번에 나무가 여자인지 남자인지 묻자 선생님이 뭐라고 소리쳤나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "수염을 흔들며 그만이라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "열매를 짜면 기름이 나오기 때문에 기름나무라고 부르는 나무의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개암나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

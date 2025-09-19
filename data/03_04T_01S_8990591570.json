@@ -3,10 +3,8 @@
   "author": "류현영",
   "illustrator": "이연정",
   "isbn": "8990591570",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "툰가는 세 번째 흙사람을 가마에 넣었어요. 이번에는 실수하지 않으려고 바짝 신경을 썼답니다. ‘이야호! 이번에는 노릇노릇 알맞게 구워졌군. 이 사람은 황인이라고 불러야지.’",
       "srcPage": 15,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "흙사람,황인,사람",
+      "setting": "가마",
+      "action": "넣었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "노릇노릇 알맞게 구워진 것을 무엇이라 부른다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "황인",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "툰가는 세 번째 흙 사람을 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가마에 넣었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "흙 사람을 무엇으로 구웠나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

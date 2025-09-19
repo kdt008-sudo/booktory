@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "전해숙",
   "isbn": "9788927206576",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,343 @@
       "srcText": "\"오늘은 교통안전 표지판 보는 법을 배울 거예요.\" 선생님이 여러 가지 교통안전 표지판을 보여 주시며 말씀하셨어요. \"이건 모두 도로 교통의 안전을 위해 그림이나 문자로 표시한 표지판이에요. 모두 무슨 뜻인지 맞혀 볼까요?\" \"네, 선생님!\"",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 34
+      "srcWordEA": 34,
+      "character": "선생님,교통안전 표지판",
+      "setting": null,
+      "action": "말씀하셨어요,보여 주시며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "교통안전 표지판을 보여 주시며 말한 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선생님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "오늘은 무엇을 배우나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "교통안전 표지판 보는 법을 배워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15292",
       "srcText": "\"그럼 이건 뭘까? 엄마와 아이가 손을 잡고 가네.\" \"어린이 보호 구역 안에 설치하는 어린이 보호 표지판이에요.\"",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "엄마,아이,어린이 보호 표지판",
+      "setting": "어린이 보호 구역",
+      "action": "손을 잡고 가네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이 보호 구역 안에는 무엇을 설치할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이 보호 표지판",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이 보호 표지판은 어디에 설치할까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어린이 보호 구역",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이 보호 표지판에는 어떤 그림이 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마와 아이가 손을 잡고 가는 그림",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15289",
       "srcText": "\"사람이 하얀 선 위를 건너고 있네요. 무슨 뜻일까요?\" \"횡단보도가 있다는 거예요!\"",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "사람,횡단보도,하얀 선",
+      "setting": null,
+      "action": "건너고 있네요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누가 하얀 선 위를 건너고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "횡단보도는 어떤 색의 선으로 되어 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하얀 색 선",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15293",
       "srcText": "\"네, 맞았어요. 이 표지판이 있는 곳에서는 어린이의 통행이 많은 장소이므로 자동차는 천천히 다녀야 해요.\" 그때 초롱이가 물었어요. \"선생님, 세모 모양 표지판도 어린이 보호 표지판인데 왜 모양과 색이 달라요?\" \"이 표지판은 어린이가 다니는 길이나 횡단보도가 있으니 주의하라고 미리 알려 주는 거예요.\"",
       "srcPage": 11,
       "srcSentenceEA": 5,
-      "srcWordEA": 42
+      "srcWordEA": 42,
+      "character": "선생님,어린이,초롱이,표지판,자동차,세모 모양 표지판,횡단보도",
+      "setting": null,
+      "action": "물었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "이 표지판은 어린이가 다니는 길이나 횡단보도가 있으니 주의하라고 미리 알려 주는 거예요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이의 통행이 많으면 천천히 다녀야 하는 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이의 통행이 많은 장소에서 자동차는 어떻게 다니나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "천천히 다녀야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "세모 모양 표지판은 무엇을 주의하라고 미리 알려주나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이 표지판은 어린이가 다니는 길이나 횡단보도가 있으니 주의하라고 미리 알려 주는 거에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15290",
       "srcText": "\"이건 뭘까요? 자전거가 그려져 있네요.\" \"그건 자전거 전용 도로 표지판이에요! 아빠랑 자전거를 탈 때 봤어요!\"",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "자전거,자전거 전용 도로 표지판,아빠",
+      "setting": null,
+      "action": "탈 때 봤어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "무엇이 그려져 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자전거",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "자전거 전용 도로 표지판을 언제 봤나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠랑 자전거를 탈 때 봤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15291",
       "srcText": "\"사람이 삽을 들고 열심히 일하고 있는 표지판도 있어요. 뭘까요?\" \"그건 공사를 하고 있다는 표지판이에요! 그 표지판이 있으면 다른 길로 돌아가는 게 좋아요!\"",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "사람,삽,표지판",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "그 표지판이 있으면 다른 길로 돌아가는 게 좋아요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "공사를 하고 있는 표지판에는 사람이 무엇을 들고 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "삽",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "공사를 하고 있다는 표지판을 보면 어떻게 해야 할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "다른 길로 돌아가는 게 좋을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15294",
       "srcText": "\"그리고 이 파란색 표지판은 어린이집이나 학교가 있으니 이 구역에서는 조심하라는 뜻이에요.\" \"그러면 사람 모양에 빗금이 있는 이 표지판은 뭘까요?\" \"그건 '이쪽으로 지나가면 안 돼!' 라고 하는 표지판이에요. 그 표지판이 있으면 돌아가야 해요.\"",
       "srcPage": 13,
       "srcSentenceEA": 5,
-      "srcWordEA": 34
+      "srcWordEA": 34,
+      "character": "파란색 표지판,어린이집,학교,표지판,사람",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "그 표지판이 있으면 돌아가야 해요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "어린이집이나 학교가 있다는 표시가 있는 표지판은 무슨 색일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파란색 표지판",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "사람 모양에 빗금이 있는 표지판은 무엇을 의미할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이쪽으로 지나가면 안 된다는 뜻이고 그 표지판이 있으면 돌아가야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

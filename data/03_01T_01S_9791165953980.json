@@ -1,0 +1,56 @@
+﻿{
+  "title": "1, 2, 3 세어 보아요!",
+  "author": "하늘땅",
+  "illustrator": "김정은",
+  "isbn": "9791165953980",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "10176",
+      "srcText": "우리 모두 다섯. 음료수도 다섯. 사이좋게 하나씩 나누어 먹자. 우리 모두 다섯.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "음료수,우리",
+      "setting": null,
+      "action": "나누어,먹자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "음료수는 모두 몇개 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다섯",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "음료수를 어떻게 나누어 먹자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사이좋게 나누어 먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

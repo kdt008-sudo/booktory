@@ -1,0 +1,146 @@
+﻿{
+  "title": "어부바!",
+  "author": "이선아",
+  "illustrator": "아람북스",
+  "isbn": "9791128212703",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7918",
+      "srcText": "아기 오리들이 어부바. 엄마한테 업혀 둥둥. 아기 악어가 어부바. 엄마한테 업혀 스르르.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "아기 오리,아기 악어,엄마",
+      "setting": null,
+      "action": "업혀,어부바",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "엄마한테 업혀 둥둥.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 악어는 누구에게 업혀 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 오리들은 엄마한테 업혀 무엇을 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "물 위에 둥둥 떠다닐 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7917",
+      "srcText": "아기 고래가 어부바. 엄마한테 업혀 살랑살랑. 아기 코알라가 어부바. 엄마한테 업혀 하아암.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "아기 고래,아기 코알라,엄마",
+      "setting": null,
+      "action": "업혀,어부바",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 고래는 누구에게 업혀 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 코알라는 엄마한테 업혀 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하아암 하품을 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7916",
+      "srcText": "아기 원숭이가 어부바. 엄마한테 업혀 풀쩍풀쩍. 아기 북극곰이 어부바. 엄마한테 업혀 기웃기웃.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "아기 원숭이,아기 북극곰,엄마",
+      "setting": null,
+      "action": "업혀",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "엄마한테 업혀 기웃기웃.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 원숭이는 누구에게 업혀 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 북금곰은 엄마한테 업혀서 무얼 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "기웃기웃 여기저기를 구경할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

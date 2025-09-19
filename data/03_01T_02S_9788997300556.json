@@ -1,0 +1,115 @@
+﻿{
+  "title": "무슨 소리지",
+  "author": "노기 세이코",
+  "illustrator": "스즈키 유키에",
+  "isbn": "9788997300556",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7249",
+      "srcText": "탁 탁 탁 탁 무슨 소리지? 엄마가 양배추 써는 소리! 좌 르르 좌 르 르 무슨 소리지? 욕조에 목욕물 받는 소리!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "엄마,양배추",
+      "setting": "욕조",
+      "action": "써는,목욕물 받는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 양배추를 썰었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "어디에 물을 받았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "욕조",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "화장실에서 무슨 소리가 들렸나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "목욕물 받는 소리가 좌르르 좌르르하게 들렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "10994",
+      "srcText": "후드득 후드득 으응, 이건 무슨 소리지? 아, 비가 오네! 어, 누가 왔나 봐! 딩~동 딩~동",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "character": "비",
+      "setting": null,
+      "action": "왔나,오네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "후드득 후드득 무엇이 오는 소리가 들렸나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "딩동 딩동 소리는 왜 났을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "누가 와서 초인종을 누른 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

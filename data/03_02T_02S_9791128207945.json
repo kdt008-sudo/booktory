@@ -3,10 +3,8 @@
   "author": "하늘땅",
   "illustrator": "홍성지",
   "isbn": "9791128207945",
-  "readAge": "초등_저학년",
   "publishedYear": 2016,
   "publisher": "아람",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "할머니 다람쥐는 예쁜 꽃목걸이를 만들어요. 노랑 꽃, 분홍 꽃, 줄줄이 줄줄이. 아기 다람쥐도 할머니 따라 노랑 분홍, 노랑 분홍, 줄줄이 줄줄이.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "할머니,다람쥐,꽃목걸이,아기,노랑 꽃,분홍 꽃",
+      "setting": null,
+      "action": "만들어요,따라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "할머니 다람쥐는 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "예쁜 꽃목걸이를 만들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 할머니를 따라하고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 다람쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

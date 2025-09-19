@@ -1,0 +1,146 @@
+﻿{
+  "title": "채소가 가득",
+  "author": "하야시 시로",
+  "illustrator": "후유노 이치코",
+  "isbn": "9788997300600",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8295",
+      "srcText": "울퉁불퉁 감자 누런 몸통이 울퉁불퉁. 날씬날씬 파 하얀 다리가 길쭉길쭉. 땡글땡글 토마토 빨간 얼굴이 반질반질.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "감자,파,토마토",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "울퉁불퉁 감자 누런 몸통이 울퉁불퉁. 날씬날씬 파 하얀 다리가 길쭉길쭉. 땡글땡글 토마토 빨간 얼굴이 반질반질.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누런 몸이 울퉁불퉁한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "채소들은 어디에 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "시장에 있는 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8296",
+      "srcText": "길쭉길쭉 오이 초록 몸통이 오돌토돌. 돌돌 말린 양배추 잎사귀가 파릇파릇. 똥글똥글 완두콩 콩알이 데굴데굴.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "오이,양배추,완두콩",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "길쭉길쭉 오이 초록 몸통이 오돌토돌. 돌돌 말린 양배추 잎사귀가 파릇파릇. 똥글똥글 완두콩 콩알이 데굴데굴.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "길쭉길쭉한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "생긴 모양이 가장 다른 것은 어떤 것인가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길쭉길쭉한 오이는 동그란 양배추나 완두콩과 다르게 생겼어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8297",
+      "srcText": "오동포동 가지 머리털이 보송보송. 아삭아삭 당근 나란히 나란히 키 재기. 자, 싱싱한 채소 사세요!",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "싱싱한 채소,당근,가지 ",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "아삭아삭 당근 나란히 나란히 키 재기,싱싱한 채소 사세요",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "채소들은 어디에 있나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "채소 가게에 있는 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "머리털이 보송보송한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

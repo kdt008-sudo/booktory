@@ -1,0 +1,101 @@
+﻿{
+  "title": "꼭꼭 숨어라!",
+  "author": "초록큰나무",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828900",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "30251",
+      "srcText": "친구들아, 숨바꼭질하자. 꼭꼭 숨어라, 어디 어디 숨었니? 꼭꼭 숨어라, 어디 어디 숨었니? 나무 틈에 숨었지.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "character": "친구들,나무",
+      "setting": null,
+      "action": "숨어라,숨바꼭질하자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "누구와 숨바꼭질을 하고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "숨박꼭질을 하면서 나는 친구들에게 어떻게 하라고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼭꼭 숨으라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "30252",
+      "srcText": "꼭꼭 숨어라, 어디 어디 숨었니? 풀숲에 숨었지. 꼭꼭 숨어라, 어디 어디 숨었니? 나무 위에 숨었지.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "character": "나무,풀숲",
+      "setting": null,
+      "action": "숨어라,숨었니,숨었지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어디에 숨었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "숨어있는 곳은 어디일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼭꼭 숨어서 못 찾고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "재주 많은 다섯 친구",
+  "author": "김온유",
+  "illustrator": "고원주",
+  "isbn": "9788960164604",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49617",
+      "srcText": "옛날 옛날에 늙은 부부가 잠을 자는데, 꿈에 신령님이 두 사람에게 나타나 말했어. \"오줌 넣은 단지를 땅에 묻고 열 달을 기다려라.\" 다음 날 잠이 깨자마자 늙은 부부는 신령님이 시킨 대로 오줌 단지를 땅에 묻었어. 열 달이 지나자, 늙은 부부는 땅을 파서 단지를 다시 꺼냈어. 그런데 단지 뚜껑을 열자마자 아이가 방실방실 웃으며 걸어 나오지 뭐야! \"아버지, 어머니, 나는 단지손이예요!\" 큰 소리로 인사까지 하면서 말이야.",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 66,
+      "character": "부부,신령님,오줌,단지,뚜껑,아이,아버지,어머니,단지손",
+      "setting": "다음 날,열달",
+      "action": "자는데,나타나 말했어,깨자마자,묻었어,파서,꺼냈어,열자마자,웃으며 걸어 나오지 뭐야,인사까지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "늙은 부부의 꿈에 누가 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "신령님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "열 달 뒤 늙은 부부가 단지를 꺼내 뚜껑을 열자마자 무엇이 나왔나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "다음 날 잠이 깨자마자 늙은 부부는 무슨 일을 했나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "오줌 단지를 땅에 묻었습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

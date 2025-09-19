@@ -1,0 +1,56 @@
+﻿{
+  "title": "호랑이보다 무서운 곶감",
+  "author": "김영이",
+  "illustrator": "안준석",
+  "isbn": "9788960164345",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52609",
+      "srcText": "옛날 깊은 산속에 호랑이 한 마리가 살고 있었어요. 눈이 펄펄 내리는 어느 겨울밤, 호랑이는 배가 몹시 고팠어요. 벌써 며칠째 쫄쫄 굶었거든요. 배가 고픈 호랑이는 어슬렁어슬렁 마을로 내려갔어요. \"아앙! 아앙!\" 어느 집에서 아이 우는 소리가 들렸어요. \"토실토실 살찐 아이 소리잖아!\" 고것 참 맛있겟군! 쩝쩝!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 9,
+      "srcWordEA": 50,
+      "character": "호랑이,눈,아이",
+      "setting": "마을,어느 겨울밤",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "배고픈 호랑이는 어슬렁어슬렁 어디로 내려갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "며칠째 쫄쫄 굶어서 배가 고팠던 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호랑이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "오복선",
   "isbn": "9788927207085",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,326 @@
       "srcText": "햇볕이 따뜻한 봄날이에요. 선생님과 함께 꽃밭에 왔어요. 희선이가 친구들과 얘기를 할 때였어요. 휘익. 갑자기 바람이 불더니 먼지가 날아왔어요.",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "선생님,희선이,친구들",
+      "setting": "봄날,꽃밭",
+      "action": "왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "희선이는 누구와 얘기를 하고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님과 함께 어디에 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽃밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "바람이 불더니 무엇이 왔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바람이 불어와서 먼지가 날아왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16068",
       "srcText": "선생님이 친구들에게 말씀하셨어요. “여러분, 눈에 먼지가 들어가면 절대 눈을 비벼서는 안 돼요.” “흐르는 물에 눈을 깜박여 보고, 그래도 먼지가 나오지 않으면 병원으로 가서 치료해야 해요.” “네.”",
       "srcPage": 14,
       "srcSentenceEA": 3,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "선생님,친구들,눈,먼지",
+      "setting": null,
+      "action": "비벼서는,깜박여 보고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 누구에게 말씀하셨나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈에 먼지가 들어갔을 때 에는 어떻게 해야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "눈을 절대 비비지 말고, 흐르는 물에 눈을 깜박여 본 후에 먼지가 나오지 않으면 병원에 가서 치료해야 합니다. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16064",
       "srcText": "“아얏!” 희선이가 눈을 감싸 쥐었어요. 희선이는 눈이 따가웠어요. 주르르 눈물도 났지요. 선생님은 재빨리 희선이의 눈을 살폈어요.",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "희선이,눈,선생님",
+      "setting": null,
+      "action": "감싸 쥐었어요,살폈어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누가 희선이의 눈을 살폈나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선생님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "희선이는 눈이 따가워서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "희선이는 눈을 감싸 쥐었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16067",
       "srcText": "선생님은 약하게 수도꼭지를 틀고 희선이에게 말했어요. “희선아, 수돗물에 눈을 대고 깜박거려 봐.” 흐르는 물에 눈을 대고 깜박거리자 곧 아픈 게 사라졌어요. “이제 괜찮아졌어요. 선생님.” “그래, 먼지가 씻겨 나갔나 보구나.”",
       "srcPage": 12,
       "srcSentenceEA": 6,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "선생님,수도꼭지,희선이,눈",
+      "setting": null,
+      "action": "깜박거리자",
+      "feeling": "괜찮아졌어요",
+      "causalRelationship": "흐르는 물에 눈을 대고 깜박거리자 곧 아픈 게 사라졌어요",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 희선이의 눈에 들어간 먼지를 씻겨주기 위해 무엇을 틀었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수도꼭지 ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈에 들어간 먼지를 씻기 위해 선생님은 희선이에게 흐르는 물에 눈을 대고 어떻게 하라고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수돗물에 눈을 대고 깜박거려 봐.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "흐르는 물에 눈을 대고 깜박거리자 희선이는 어떻게 되었나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "괜찮아졌어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "흐르는 물에 눈을 대고 깜박거리자 어떻게 되었나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "흐르는 물에 눈을 대고 깜박거리니 곧 아픈 것이 사라졌습니다. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16066",
       "srcText": "선생님은 희선이를 수돗가로 데리고 갔어요. “물로 씻으면 괜찮아질 거야.” 선생님은 손을 깨끗이 씻은 뒤 희선이의 눈을 살펴보았어요. “너무 작아서 보이지가 않네.”",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "선생님,희선이,손,눈",
+      "setting": "수돗가",
+      "action": "데리고 갔어요,씻은,살펴보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 손을 씻은 뒤 무엇을 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "희선이의 눈을 살펴보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 희선이를 어느 곳으로 데리고 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수돗가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 희선이의 눈을 살펴보기 전에 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "선생님은 손을 깨끗하게 씻었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16065",
       "srcText": "“눈에 먼지가 들어갔나 보구나. 먼지가 들어갔을 땐 눈을 비비면 안 돼. 그러면 먼지가 더 깊이 들어가게 된단다.”",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "눈,먼지",
+      "setting": null,
+      "action": "비비면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈에 무엇이 들어간 것 같나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "먼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈에 먼지가 들어갔을 땐 무엇을 하면 안 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "눈을 비비면 안돼요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

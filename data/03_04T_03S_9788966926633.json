@@ -1,0 +1,56 @@
+﻿{
+  "title": "큐레이터와 함께하는 세계의 미술관",
+  "author": "강정하",
+  "illustrator": "이미정",
+  "isbn": "9788966926633",
+  "publishedYear": 2013,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47802",
+      "srcText": "에스파냐의 수도 마드리드에 위치한 프라도 미술관은 1819년에 문을 열었어요. 원래 에스파냐 왕가의 미술품을 보관하고, 에스파냐 미술의 우수성을 알리기 위해 세웠지만 지금은 세계적으로 손꼽히는 유럽 미술 작품들까지 가득해요. 그럼, 많은 사람의 사랑을 받고 있는 프라도 미술관으로 들어가 볼까요?",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 39,
+      "character": "에스파냐,수도,마드리드,프라도 미술관,왕가,미술품,유럽 미술 작품들,사람",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "원래 에스파냐 왕가의 미술품을 보관하고, 에스파냐 미술의 우수성을 알리기 위해 세웠지만 지금은 세계적으로 손꼽히는 유럽 미술 작품들까지 가득해요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "프라도 미술관은 어디에 있나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "에스파냐의 수도 마드리드에 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "프라도 미술관은 처음에 왜 세워졌나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "에스파냐 왕가의 미술품을 보관하고 에스파냐 미술의 우수성을 알리기 위해 세웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

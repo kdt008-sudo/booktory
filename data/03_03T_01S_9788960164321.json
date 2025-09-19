@@ -1,0 +1,56 @@
+﻿{
+  "title": "냄새 값, 소리 값",
+  "author": "이미영",
+  "illustrator": "홍혜정",
+  "isbn": "9788960164321",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "44776",
+      "srcText": "닭 주인은 할 말을 잃었어. “남의 닭이라니요? 최 영감은 곰방대를 휘두르며 고래고래 소리 질렀어. “우리 집 마당에 있는 닭이 내가 키운 내 닭인데요?” 어떻게 당신 닭이라는 거요?”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "닭 주인,최 영감,곰방대,닭",
+      "setting": null,
+      "action": "휘두르며,소리 질렀어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "할 말을 잃은 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "닭 주인",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "최 영감은 곰방대를 휘두르며 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고래고래 소리 질렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

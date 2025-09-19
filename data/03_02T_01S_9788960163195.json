@@ -1,0 +1,56 @@
+﻿{
+  "title": "치카치카, 뽀드득뽀드득 ",
+  "author": "김영이",
+  "illustrator": "오세진",
+  "isbn": "9788960163195",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51995",
+      "srcText": "“이얍!” 나는 입안에 사는 세균이야. 호야가 이를 안 닦으면 나랑 친구들은 룰루랄 춤을 춰. 왜냐고? 이사이에 낀 단것들을 팍팍 파먹을 수 있거든. “냠냠냠. “아, 맛있다!” 남 남~",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 32,
+      "character": "세균,호야,이",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "호야가 이를 안 닦으면 나랑 친구들은 룰루랄 춤을 춰.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "세균은 호야가 이를 안 닦으면 왜 춤을 추나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이 사이에 낀 단것들을 팍팍 파먹을 수 있기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "입안에 사는 세균",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

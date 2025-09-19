@@ -3,10 +3,8 @@
   "author": "권영상",
   "illustrator": "이규경",
   "isbn": "8990591112",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“히히, 여기를 지나가려면 우리의 허락을 받아야 해!” 하수도에 살고 있는 큰 쥐들이 나타났어요. 외다리 양철 병정은 총대를 꽉 움켜쥐고 빠르게 배를 저었어요.",
       "srcPage": 12,
       "srcSentenceEA": 3,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "쥐,하수도,외다리 양철 병정,총대,배",
+      "setting": null,
+      "action": "나타났어요,저었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "양철 병정은 총대를 꽉 움켜쥐고 빠르게 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "배를 저었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "하수도에 살고 있는 무엇이 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰 쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

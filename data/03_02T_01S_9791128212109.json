@@ -1,0 +1,70 @@
+﻿{
+  "title": "요번에는 뭐게?",
+  "author": "장선혜",
+  "illustrator": "최민오",
+  "isbn": "9791128212109",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2120",
+      "srcText": "빨강 보자기, 파랑 보자기, 빨강 보자기, 파랑 보자기, 빨강 보자기, 파랑 보자기, 요번에는 뭐게? 빨강 보자기다! 어? 보자기만 남았네.  일어섰다, 앉았다, 일어섰다, 앉았다, 일어섰다, 앉았다, 요번에는 뭐게? 일어섰다! 벌떡! 어? 이불만 남았네. 있다, 없다, 있다, 없다, 있다, 없다, 요번에는 뭐게?",
+      "srcPage": 12,
+      "srcSentenceEA": 10,
+      "srcWordEA": 50,
+      "character": "빨강 보자기,파랑 보자기,보자기,이불",
+      "setting": null,
+      "action": "일어섰다,앉았다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "보자기만 남았네,이불만 남았네",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨강 보자기와 함께 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파랑 보자기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "보자기들은 어떻게 움직였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "일어섰다가 앉아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨강 보자기와 파랑 보자기는 결국 어떻게 되었나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "보자기만 남았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

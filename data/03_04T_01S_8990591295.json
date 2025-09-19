@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "이혜경",
   "isbn": "8990591295",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "'딱딱딱! 딱딱딱!' \"딱따구리 양반, 좀 조용히 해요!\" \"미안해, 집을 짓는 거야. 금방 끝날 거야.\" \"할 수 없군. 집을 짓는다니.\" 다람쥐는 시끄러웠지만 참기로 했습니다.",
       "srcPage": 4,
       "srcSentenceEA": 7,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "딱따구리,집,다람쥐",
+      "setting": null,
+      "action": "짓는 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "딱따구리가 딱딱거리는 소리를 내는 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "집을 짓고 있기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "딱따구리에게 시끄러우니 조용히 해달라고 말한 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다람쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -3,10 +3,8 @@
   "author": "고영이",
   "illustrator": "문구선",
   "isbn": "9791157594597",
-  "readAge": "초등_저학년",
   "publishedYear": 2016,
   "publisher": "아람",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "으르렁 그르렁 늑대를 피해 꿀꿀 돼지 삼 형제가 숲 속으로 꼭꼭 숨었어. 종일 도망 다니느라 다리도 아프고 배도 고프고. 그때 어디선가 맛있는 냄새가 솔솔 나지 뭐야. \"킁킁, 과자 냄새다!\" 돼지 삼 형제는 벌떡 일어나 냄새를 따라 달리기 시작했어.",
       "srcPage": 4,
       "srcSentenceEA": 5,
-      "srcWordEA": 41
+      "srcWordEA": 41,
+      "character": "늑대,돼지 삼 형제,과자",
+      "setting": "숲 속",
+      "action": "숨었어,일어나,달리기 시작했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "돼지 삼 형제는 늑대를 피해 어디에 숨었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "돼지 삼 형제는 누구 때문에 숲 속으로 숨었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "늑대",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "돼지 삼 형제는 무엇을 따라 달리기 시작했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "맛있는 과자 냄새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

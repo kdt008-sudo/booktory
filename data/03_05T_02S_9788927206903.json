@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "오복선",
   "isbn": "9788927206903",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 8,
   "paragraphInfo": [
     {
@@ -14,56 +12,374 @@
       "srcText": "“오늘은 눈이 너무 많이 왔구나. 밖에 나가서 노는 건 위험하겠는걸.” 엄마가 말했어요.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "눈,엄마",
+      "setting": null,
+      "action": "나가서 노는 건,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "무엇이 많이 왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마는 눈이 많이 와서 무엇이 위험하다고 말했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밖에 나가서 노는 것",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14982",
       "srcText": "하지만 태규는 밖에서 눈사람을 만들고 싶어요.  “그럼 마당에서만 놀게요.” “좋아! 그럼 털신을 신고, 목도리랑 장갑을 하렴! 엄마랑 같이 나가자.”",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "태규,눈사람,마당,털신,목도리,장갑,엄마",
+      "setting": null,
+      "action": "놀게요,신고,나가자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "태규는 무엇을 만들고 싶어 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마는 태규에게 나갈 때 어떻게 하고 나가자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "털신을 신고, 목도리랑 장갑을 하고 엄마와 같이 나가자고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17716",
       "srcText": "“그리고 눈사태가 나는 경우도 있어. 이런 경우에는 일기 예보를 잘 듣고 미리 대비해야 해.” “그러니까 태규는 앞으로 눈이 많이 오면 어떻게 해야 할까?” “음, 집 밖에 안 나가는 게 좋겠어요. 사고가 날 수 있으니까요!”",
       "srcPage": 14,
       "srcSentenceEA": 5,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "태규,눈,집",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "그리고 눈사태가 나는 경우도 있어. 이런 경우에는 일기 예보를 잘 듣고 미리 대비해야 해.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈이 많이 오면 집 밖에 안 나가는 게 좋겠다고 말한 사람이 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "태규",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈이 많이 와서 눈사태가 나는 경우가 있을 땐 어떻게 해야 하나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "일기 예보를 잘 듣고 미리 대비해야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14983",
       "srcText": "“눈이 너무 많이 오는 걸 ‘대설’ 이라고 해. 도로는 눈 때문에 꽉 막히고, 농가에서는 작물이 얼어 버리거나 비닐하우스가 무너지기도 한단다.”",
       "srcPage": 12,
       "srcSentenceEA": 3,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "눈,도로,비닐하우스",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "도로는 눈 때문에 꽉 막히고,농가에서는 작물이 얼어 버리거나 비닐하우스가 무너지기도 한단다.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈이 많이 오는 걸 무엇이라고 할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "대설",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈이 많이 오면 어떤 피해가 있을까요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "도로는 꽉 막히고, 농가에서는 작물이 얼고, 비닐하우스가 무너지기도 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17712",
       "srcText": "아침에 일어나니 밖에 흰 눈이 펑펑 내려요. 지붕에도 길가에도 모두 눈이 수북이 쌓였어요. “와! 엄마, 밖에서 놀아도 돼요?” 태규가 신이 나 엄마에게 물어보았어요.",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "눈,지붕,길가,엄마,태규",
+      "setting": null,
+      "action": "일어나니,물어보았어요",
+      "feeling": "신이 나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈을 본 태규의 기분이 어땠을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "신이 나고 즐거웠을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아침에 일어나니 무엇이 왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마에게 태규는 무엇을 물었을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밖에 나가 놀아도 되는지 물어보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17713",
       "srcText": "태규는 엄마와 함께 눈을 굴렸어요. 그리고 눈덩이를 합쳐 커다란 눈사람을 만들었어요. 어, 그런데 눈이 너무 많이 와요. 벌써 태규의 무릎 위까지 눈이 쌓였는걸요. “안 되겠다. 이제 들어가자.”",
       "srcPage": 9,
       "srcSentenceEA": 6,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "태규,엄마,눈,눈덩이,눈사람,무릎",
+      "setting": null,
+      "action": "굴렸어요,만들었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "태규와 엄마는 무엇을 만들었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "커다란 눈사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "눈사람을 어떻게 만들었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "눈을 굴려 눈덩이를 합쳐 만들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17714",
       "srcText": "“글쎄요. 눈이 오면 신나게 놀면 되는 거 아니에요?” 태규는 갸우뚱했어요. 그러자 엄마가 설명을 해 주셨어요.",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "눈,태규,엄마",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "태규는 갸우뚱했어요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "갸우뚱 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "태규",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "갸우뚱 한 태규는 무슨 생각을 했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마의 말이 이해가 안 돼 다시 생각해 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17715",
       "srcText": "태규는 엄마와 집 안으로 들어왔어요. “태규야, 오늘처럼 눈이 너무 많이 오면 피해가 많단다. 어떤 피해인지 알고 있니?”",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "태규,엄마,집,눈",
+      "setting": null,
+      "action": "들어왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "집으로 들어온 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "태규와 엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "엄마와 태규는 어디로 들어왔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집 안으로 들어왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

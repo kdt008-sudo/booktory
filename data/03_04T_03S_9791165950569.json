@@ -1,0 +1,70 @@
+﻿{
+  "title": "날아다니는 여우",
+  "author": "유영소",
+  "illustrator": "이남지",
+  "isbn": "9791165950569",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48230",
+      "srcText": "안녕, 내 이름은 거스. 날아다니는 여우 요정이야. 나는 저 멀리 네덜란드에서 태어나 벌써 오백 년도 넘게 세상을 여행 중이지. 나처럼 오래 살다 보면 종종 운이 좋은 꼬마를 만나곤 해.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "character": "거스,여우 요정,꼬마",
+      "setting": "네덜란드,오백 년",
+      "action": "날아다니는,세상을 여행 중",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "거스는 누구인가요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "날아다니는 여우 요정이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "거스는 오백 년도 넘게 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "세상을 여행 중이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "거스는 어디서 태어났나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "네덜란드",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

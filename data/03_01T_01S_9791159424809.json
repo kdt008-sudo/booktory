@@ -1,0 +1,70 @@
+﻿{
+  "title": "황금 물고기와 욕심쟁이 아내",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "조대희",
+  "isbn": "9791159424809",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47583",
+      "srcText": "어느 바닷가에 마음씨 착한 할아버지와 욕심쟁이 할머니가 살았어요. 집이 몹시 가난해서 할아버지는 매일 물고기를 잡아야만 했어요. “빨리 가서 물고기를 잡아 와요!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": "할아버지,할머니,물고기",
+      "setting": "바닷가",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "집이 몹시 가난해서 할아버지는 매일 물고기를 잡아야만 했어요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "욕심쟁이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "할아버지가 매일 물고기를 잡아야만 했던 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "집이 몹시 가난했기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "마음씨 착한 할아버지와 욕심쟁이 할머니는 어디에 살았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어느 바닷가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

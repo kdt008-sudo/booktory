@@ -1,0 +1,191 @@
+﻿{
+  "title": "흉내쟁이 흉내쟁이",
+  "author": "마도코로 히사코",
+  "illustrator": "후유노 이치코",
+  "isbn": "9788997300655",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "9949",
+      "srcText": "두 팔을 내밀어 콩콩콩 쿵쿵쿵! 흉내쟁이 흉내쟁이 해달 흉내! 흉내쟁이 흉내쟁이 무엇일까요? 동그랗게 웅크리고 야옹! 꿈틀꿈틀 스르르! 긁적긁적 촐랑촐랑! 고양이! 뱀! 원숭이! 흉내쟁이 흉내쟁이 소풍 가는 오리들! 푸덕푸덕 퍼덕퍼덕 꽥꽥 꽥꽥꽥 꽤액 꽥!",
+      "srcPage": 11,
+      "srcSentenceEA": 11,
+      "srcWordEA": 43,
+      "character": "고양이,오리들,해달,뱀,원숭이",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "동그랗게 웅크리고 야옹,푸덕푸덕 퍼덕퍼덕 꽥꽥 꽥꽥꽥 꽤액 꽥",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "푸덕푸덕 퍼덕퍼덕 거리는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "고양이의 어떤 모습을 흉내 냈나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "동그랗게 웅크리고 있는 모습을 흉내 냈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "9947",
+      "srcText": "흉내쟁이 흉내쟁이 플라밍고 흉내! 두 팔을 활짝 올려 푸드덕푸드덕, 비틀비틀! 흉내쟁이 흉내쟁이 개구리 흉내! 두 발을 높이 뛰어 개굴개굴 폴짝!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "플라밍고,개구리,흉내쟁이",
+      "setting": null,
+      "action": "두 팔을 활짝 올려,두 발을 높이 뛰어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "흉내쟁이가 흉내 낸 새는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "플라밍고",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "흉내쟁이는 개구리를 어떻게 흉내 냈나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "두 발을 높이 뛰어서 흉내를 냈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "9948",
+      "srcText": "흉내쟁이 흉내쟁이 가위 손 짝짝짝, 게 흉내! 흉내쟁이 흉내쟁이 느릿느릿 엉금엉금, 거북이 흉내! 흉내쟁이 흉내쟁이 캥거루 흉내! 주머니에 새끼를 넣고 껑충껑충 풀쩍!",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "character": "게,거북이,캥거루,주머니,새끼",
+      "setting": null,
+      "action": "주머니에 새끼를 넣고 껑충껑충 풀쩍",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "흉내쟁이는 느릿느릿한 어떤 동물을 흉내 냈나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거북이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "캥거루의 어떤 행동을 흉내 냈나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "주머니에 새끼를 넣고 껑충껑충 뛰는 행동을 흉내 냈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "9946",
+      "srcText": "흉내쟁이 흉내쟁이 코끼리 흉내! 긴 팔을 내려서 흔들흔들! 흉내쟁이 흉내쟁이 토끼 흉내! 두 팔을 쫙 펴고 깡충깡충!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "코끼리,토끼,흉내쟁이",
+      "setting": null,
+      "action": "긴 팔을 내려서 흔들흔들,두 팔을 쫙 펴고 깡충깡충",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "흉내쟁이는 어떤 동물들을 흉내 냈나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리와 토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "흉내쟁이는 어떻게 토끼 흉내를 냈나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "두 팔을 쫙 펴고 깡충깡충 흉내를 내었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

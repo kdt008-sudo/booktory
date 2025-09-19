@@ -1,0 +1,56 @@
+﻿{
+  "title": "눈은 어떻게 사물을 볼까? ",
+  "author": "강용숙",
+  "illustrator": "민정림",
+  "isbn": "9788960162914",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52041",
+      "srcText": "“엄마야!” 시원이 가자다가 침대에서 ‘꽈당’굴러떨어졌어. 깜깜해서 아무것도 보이지 않았어. 시원이가 울기 시작했어. 울음소리에 빛의 요정들이 깜짝 놀라 깨었어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "엄마,침대,시원이",
+      "setting": null,
+      "action": "울기 시작했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "시원이가 울기 시작하자 누가 깜짝 놀라 깼나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빛의 요정들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "시원이는 어디에서 굴러떨어졌나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "침대",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

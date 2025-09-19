@@ -1,0 +1,129 @@
+﻿{
+  "title": "풍선 가지고 놀자",
+  "author": "애플트리",
+  "illustrator": "양지은",
+  "isbn": "9788968730764",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42426",
+      "srcText": "“하하, 우리가 이겼어!” 도도와 몰리, 베리는 신이 났어요. 이제 엄마가 기다리실 시간이에요. 다시 집으로 출발해 볼까요?",
+      "srcPage": 26,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "character": "도도,몰리,베리,엄마",
+      "setting": null,
+      "action": "출발해 볼까요",
+      "feeling": "신이 났어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "이제 누가 기다리는 시간인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "도도와 몰리와 베리는 엄마가 기다리실 시간이 되자 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "집으로 출발했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "도도와 몰리와 베리가 이겼다고 생각하자 어떤 기분이었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "신이 났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42425",
+      "srcText": "그런데 이것 좀 보세요! 도도와 몰리, 베리의 몸이 길쭉길쭉 괴물 같아요! 그러자 딱따구리는 너무 놀라서 파닥파닥 도망을 갔어요.",
+      "srcPage": 24,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "character": "도도,몰리,베리,딱따구리",
+      "setting": null,
+      "action": "도망을 갔어요",
+      "feeling": "놀라서",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "도도, 몰리 그리고 누구의 몸이 길쭉길쭉한가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "베리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "딱따구리는 어떻게 갔을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파닥파닥 도망을 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "도도, 몰리, 베리의 몸을 본 딱따구리의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길쭉한 몸을 본 딱따구리는 너무 놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

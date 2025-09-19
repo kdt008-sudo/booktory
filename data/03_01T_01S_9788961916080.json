@@ -1,0 +1,84 @@
+﻿{
+  "title": "옛날에 정말 공룡이 살았을까?",
+  "author": "백금서",
+  "illustrator": "여동헌",
+  "isbn": "9788961916080",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49174",
+      "srcText": "아주 오랜 옛날, 지구에는 많은 공룡들이 살고 있었대요. 버스 한 대를 꽉 채우는 양만큼의 풀을 먹고 사는 커다란 초식 공룡이 있었는가 하면, 덩치는 닭보다 작지만 동물만 잡아먹는 육식 공룡도 있었어요. 또 기린처럼 목이 길어서 나무 꼭대기에 달린 잎을 먹는 초식 공룡도 있었고, 같은 공룡을 잡아먹는 무시무시한 육식 공룡도 있었지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 51,
+      "character": "공룡들,버스,풀,초식 공룡,닭,육식 공룡,기린,동물,잎",
+      "setting": "지구",
+      "action": "먹고 사는,잡아먹는,먹는",
+      "feeling": "무시무시한",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아주 오랜 옛날에 공룡들은 어디에 살고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "풀을 먹고 사는 공룡은 뭐라고 부르나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "초식 공룡",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "같은 공룡을 잡아먹는 육식 공룡은 어때 보여요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무시무시해 보여요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "육식 공룡은 무엇을 먹나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "동물을 잡아먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

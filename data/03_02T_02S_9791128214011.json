@@ -3,10 +3,8 @@
   "author": "양지안",
   "illustrator": " 김지현",
   "isbn": "9791128214011",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,284 @@
       "srcText": "선은 삐딱하고, 동그라미는 찌그러졌지? 아니야, 반듯반듯한 선에 동그란 원이야. 빗금 모양 때문에 달라 보이는 거야.",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "동그라미,원,빗금,선",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "빗금 모양 때문에 달라 보이는 거야.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "동그란 모양을 가지고 있는 도형은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동그라미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "주위의 빗금 모양 때문에 선과 동그라미는 어떻게 보이게 될까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "선은 삐딱하고 동그라미는 찌그러져 보일 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41273",
       "srcText": "무엇을 그린 걸까? 요렇게 보면 오리, 조렇게 보면 토끼야. 무늬와 색도 눈을 착각쟁이로 만들어. 실제보다 더 뚱뚱하게 보이게 하고, 더 날씬하게 보이게도 해.",
       "srcPage": 18,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "오리,토끼,눈,무늬,색",
+      "setting": null,
+      "action": "보면,만들어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "제보다 더 뚱뚱하게 보이게 하고,더 날씬하게 보이게도 해.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "눈이 그림을 보고 정확히 판단할 수 없었던 것은 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "요렇게 보면 오리이고 조렇게 보면 토끼였기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "우리의 눈은 종종 어떤 착각을 하곤 하나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "실제보다 뚱뚱하다고 판단할 때도 있고 날씬하다고 판단할 때도 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "주위의 무늬와 색에 따라 잘못 판단할 수도 있는 우리 몸의 신체 기관은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41269",
       "srcText": "피에로가 몸집이 작은 순서대로 서 있을까? 아니야, 피에로의 몸집은 모두 똑같아. 터널 모양 때문에 달라 보이는 거야.",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "피에로,터널,몸집",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "터널 모양 때문에 달라 보이는 거야.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "차례대로 서 있는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "피에로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "피에로의 몸집의 크기는 실제로 어떠할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "터널 모양 때문에 다르게 보이지만 실제로는 모두 같은 크기의 몸집을 가지고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41268",
       "srcText": "우리 눈은 착각쟁이야. 아래에 있는 물고기가 더 길어 보이지? 아니야, 두 물고기의 길이는 똑같아. 화살표 모양 때문에 달라 보이는 거야.",
       "srcPage": 9,
       "srcSentenceEA": 4,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "눈,물고기,화살표",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "화살표 모양 때문에 달라 보이는 거야.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "실제로 보았어도 착각을 할 수 있는 우리 몸의 신체 기관은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "두 물고기의 길이는 실제로 어떠할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "화살표 모양 때문에 달라 보이지만 실제로는 똑같을 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41266",
       "srcText": "빙글빙글 뱅글뱅글. 그림이 춤을 추는 것 같아. 우리 눈을 착각쟁이로 만드는 걸 찾아봐. 주위에 얼마든지 있으니까.",
       "srcPage": 29,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "그림,춤,착각쟁이,눈",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "주위에 얼마든지 있으니까.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그림을 볼 때 가끔 춤을 추는 것 같다고 판단을 내리는 우리 몸의 신체 기관은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "주위에 있는 여러 가지 것들은 우리의 눈에 어떤 영향을 미치나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리 눈을 착각쟁이로 만들 때가 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41267",
       "srcText": "어두운색은 작아 보이게 하고 밝은색은 커 보이게 해. 착시를 이용하면 재미있는 사진도 찍을 수 있어. 글자들은 어떨까? 글자들도 나란히 나란히 모아 놓으면. 출렁출렁 파도처럼 글자들이 춤을 추는 것 같아.",
       "srcPage": 29,
       "srcSentenceEA": 5,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "착시,글자,사진,파도,춤",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "출렁출렁 파도처럼 글자들이 춤을 추는 것 같아.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "재미있는 사진도 찍기 위해서 이용하면 좋은 현상은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "착시",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "글자들을 나란히 모아 놓으면 우리 눈에 어떻게 보일까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "출렁출렁 파도처럼 글자들이 춤을 추는 것 같을 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

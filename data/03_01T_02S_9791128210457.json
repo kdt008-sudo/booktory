@@ -1,0 +1,84 @@
+﻿{
+  "title": "늑대와 일곱 마리 아기 염소",
+  "author": "김벼리",
+  "illustrator": "김민정",
+  "isbn": "9791128210457",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47323",
+      "srcText": "숲속 풀밭에 엄마 염소의 노랫소리가 울려 퍼졌어. 엄마 염소는 일곱 마리 아기 염소를 무척 사랑했어. 하루는 엄마 염소가 집을 나서며 단단히 일렀어.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "character": "엄마 염소,아기 염소",
+      "setting": "숲속 풀밭",
+      "action": "울려 퍼졌어,단단히 일렀어",
+      "feeling": "사랑했어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엄마 염소는 누구를 무척 사랑했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "일곱 마리 아기 염소",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엄마 염소가 집을 나서며 아기 염소에게 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "단단히 일렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엄마 염소의 노랫소리가 어디에 울려 퍼졌나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속 풀밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엄마 염소는 일곱 마리 아기 염소에게 어떤 감정을 가지고 있었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무척 사랑했어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026036",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "알고 보니 비차 대회는 참가자가 스스로 무동력 비행체를 만들어 타고, 물 위에 설치해 놓은 도약대에서 뛰어내리는 경연 대회였어요. 그래서 누가 멀리 날았나를 측정하여 승부를 겨루는 대회지요. 외국에서는 이미 전부터 하고 있었다고 해요. “좋아. 우리가 도와줄게.” 유비와 마리는 기꺼이 돕겠다고 했어요. 하지만 황박사님은 조금도 도와주지 않았어요. “너희들 스스로 하는 게 더 의미 있는 거야.” 그렇게 말하고는 아예 쳐다보지도 않았어요. 삼총사는 날마다 회의를 하며 비차를 어떻게 만들지 설계도를 그려 나갔어요. “비차라는 물체를 만들려면 어떤 물질이 필요할까?” 유비는 제법 아는 체를 하며 마리 앞에서 폼을 잡았어요. 비차를 만들려면 어떤 물질이 필요하지? 철, 나무, 천, 바퀴!",
       "srcPage": 10,
       "srcSentenceEA": 13,
-      "srcWordEA": 102
+      "srcWordEA": 102,
+      "character": "무동력 비행체,유비,마리,황박사님,삼총사,비차,철,나무,천,바퀴",
+      "setting": null,
+      "action": "만들어 타고,뛰어내리는,돕겠다고 했어요,말하고는,회의를 하며,만들지,그려 나갔어요,폼을 잡았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "기꺼이 돕겠다고 말한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "유비와 마리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "삼총사는 회의를 통해 매일 어떤 일을 해 나갔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비차를 어떻게 만들지 설계도를 그려나갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

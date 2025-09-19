@@ -1,0 +1,70 @@
+﻿{
+  "title": "몽이는 뭐든지 잘해",
+  "author": "곰세마리",
+  "illustrator": "김민경",
+  "isbn": "9788968731129",
+  "publishedYear": 2014,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47621",
+      "srcText": "“우아, 숲 속 장기자랑 대회가 열린대!” 숲 속 동물들이 우르르 몰려와서 시끌벅적 이야기하고 있었어요. 몽이도 귀가 솔깃했어요. ‘그래? 내가 일등을 해야지.’",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "character": "동물,몽이,귀",
+      "setting": "숲속",
+      "action": "몰려와서,이야기하고 있었어요,일등을 해야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "장기 자랑 대회가 열리는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 일등을 해야겠다고 생각했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "몽이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "숲속 동물들이 몰려와서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "시끌벅적 장기 자랑 대회에 관해 이야기하고 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

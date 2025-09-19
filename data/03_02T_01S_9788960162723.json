@@ -1,0 +1,56 @@
+﻿{
+  "title": "불아, 물 먹으면 죽어 ",
+  "author": "정명숙",
+  "illustrator": "전혜령",
+  "isbn": "9788960162723",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51996",
+      "srcText": "나는 활활 타는 불! 누구든 나를 필요로 하면 언제든지 핑~ 달려가. 호호 손이 시릴 땐 모닥불로, 보 보 찌개 끓일 땐 가스불로, 꽃님이 생일 축하할 땐 촛불로 모습을 바꿔 달려가지.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "character": "불,모닥불,가스불,촛불",
+      "setting": null,
+      "action": "모습을 바꿔 달려가지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "불은 꽃님이 생일 때 무엇으로 모습을 바꿔 달려가나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "촛불로 달려와요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "불은 손이 시릴 때 어떤 모습으로 나타나나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모닥불",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

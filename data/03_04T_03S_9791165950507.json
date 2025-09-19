@@ -1,0 +1,70 @@
+﻿{
+  "title": "진짜 모나리자를 찾아라!",
+  "author": "김미애",
+  "illustrator": "문구선",
+  "isbn": "9791165950507",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48834",
+      "srcText": "모나리자 루브르 박물관 경비원인 폴은 박물관을 순찰하다가 문득 걸음을 멈추었어. “빌리, 모나리자 얼굴에 수염이 있었나?” “모나리자는 여자라고. 수염이 있을 리가 있나?” 그림을 뚫어지게 쳐다보던 빌리가 소리쳤어. “맙소사, 이건 진짜 모나리자가 아니야!”",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 33,
+      "character": "모나리자,여자,폴,빌리,수염",
+      "setting": "루브르 박물관",
+      "action": "순찰하다가,걸음을 멈추었어,쳐다보던,소리쳤어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "폴은 무엇을 하는 사람인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "루브르 박물관 경비원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "그림을 뚫어지게 보던 빌리는 뭐라고 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이건 진짜 모나리자가 아니야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "폴은 순찰하다가 왜 걸음을 멈추었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모나리자 얼굴에 수염이 있었기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

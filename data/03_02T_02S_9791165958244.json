@@ -3,10 +3,8 @@
   "author": "장선혜",
   "illustrator": "박수지",
   "isbn": "9791165958244",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,343 @@
       "srcText": "\"어? 넌 또 누구야?\" \"에헴! 나는 상자 모양이야. 네모난 면이 쌓이면 속이 꽉 찬 상자 모양이 생겨.\" \"동그란 면이 쌓이면 둥근기둥 모양이 생기지.\"",
       "srcPage": 13,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "상자,면",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "네모난 면이 쌓이면 속이 꽉 찬 상자 모양이 생겨",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "네모난 면이 쌓이면 어떤 모양으로 되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "상자 모양",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "속이 꽉 찬 상자 모양이 생기려면 어떻게 해야 하나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "네모난 면을 쌓아야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33222",
       "srcText": "“다른 모양도 있어?” “응! 이렇게 반달 모양을 빙그르 돌리면 커다란 공 모양이 생겨. 어때? 상자 모양도, 둥근기둥 모양도, 공 모양도 모두 작은 점에서 시작된다니, 정말 신기하지?”",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "공,점,반달 모양,둥근기둥",
+      "setting": null,
+      "action": "돌리면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "둥근 기둥이나 공 모양 상자 모양 모두 어디에서 시작되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "점",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "반달 모양으로 어떻게 공 모양을 만드나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빙그르 돌리면 공 모양이 돼요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33219",
       "srcText": "\"나는 점이야! 내가 재미있는 거 보여 줄까?\" \"재미있는 거? 좋아! 좋아!\" \"다들 모여 봐! 점이 모이면, 짜잔!\"",
       "srcPage": 2,
       "srcSentenceEA": 7,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "나는,점",
+      "setting": null,
+      "action": "보여 줄까",
+      "feeling": "좋아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "나는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "점",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "점은 무엇을 보여주겠다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재미있는 걸 보여준다고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "점이 재미있는 거를 보여준다고 하니 모두 어땠을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모두 너무 좋았을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33218",
       "srcText": "\"얘들아, 같이 놀자!\" \"우리, 선을 따라 달리기 시합 할까?\" \"응, 좋아! 앞으로 쭉쭉 우아, 신난다!\"",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "우리,선",
+      "setting": null,
+      "action": null,
+      "feeling": "신난다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리 선을 따라 달리기 시합 할까",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "달리기 시합을 하기로 한 아이들의 기분은 어떤가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "신나고 즐거워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아이들은 왜 신이 나 있나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "선을 따라 달리기 시합을 할 생각에 신이 나요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇을 따라 달리기 시합을 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33220",
       "srcText": "\"면이라고?\" \"응, 선이 움직이면 면이 생겨. 내가 바로 면이야.\" 곧은 선이 움직이면 곧은 면! 굽은 선이 움직이면 굽은 면!",
       "srcPage": 12,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "면,선",
+      "setting": null,
+      "action": "움직이면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "선은 모이면 무엇이 되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "면",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "면이 생기게 하려면 어떻게 해야하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "선을 움직여야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33216",
       "srcText": "\"안녕? 나는 선이야! 점이 모이면 내가 생기지. 난 모양이 다른 친구가 아주 많아. 내 친구들을 소개해 줄게.\"",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "선,점",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "점이 모이면 내가 생기지.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "선은 무엇으로 만들어졌나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "점",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "선은 어떻게 생겼나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "점이 많이 모이면 생겨요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "33217",
       "srcText": "쭉쭉 뻗은 곧은 선! 구불구불 굽은 선! 뾰족뾰족 꺾은 선!",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "선",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "쭉쭉 뻗은 곧은 선! 구불구불 굽은 선! 뾰족뾰족 꺾은 선!",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "쭉쭉 뻗고 구불구불하고 뾰족뾰족 꺾은 것은 모두 무엇의 모양인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "선으로는 무엇을 할 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "다양한 선이 있어서 무엇이든 그릴 수 있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

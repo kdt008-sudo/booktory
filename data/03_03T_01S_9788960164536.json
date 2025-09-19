@@ -1,0 +1,56 @@
+﻿{
+  "title": "금도끼 은도끼",
+  "author": "정지영",
+  "illustrator": "김향이",
+  "isbn": "9788960164536",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52634",
+      "srcText": "옛날 어느 마을에 부지런한 나무꾼이 살고 있었어요. 나무꾼은 매일 지게를 지고 깊은 산속으로 나무를 하러 갔지요. 잔가지를 칠 때는 툭툭탁탁, 큰 나무를 벨 때는 쿵쿵쿵. 나무꾼의 도끼는 잠시도 쉬지 않았어요. 그런데 하루는 나무를 하다 그만 도끼를 연못에 빠뜨렸지 뭐예요. \"아이고, 이를 어쩌나.\" 나무꾼은 털썩 주저앉았어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 50,
+      "character": "나무꾼,지게,도끼",
+      "setting": null,
+      "action": "지고,빠뜨렸지 뭐예요,주저앉았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "매일 지게를 지고 깊은 산속으로 나무를 하러 간 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무꾼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "나무꾼은 나무를 하다 도끼를 연못에 빠트리고 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "털썩 주저앉았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

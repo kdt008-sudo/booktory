@@ -1,0 +1,56 @@
+﻿{
+  "title": "무궁화 꽃이 피었습니다",
+  "author": "오가와 유",
+  "illustrator": "스즈키 유키",
+  "isbn": "9788963830599",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49396",
+      "srcText": "무 궁 화 꽃이. 건이가 살금살금 바로 옆으로 다가오더니, 땡! 도망가자! 모두 달아났어요. 준이는 큰 소리로 숫자를 세었어요. \"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덞, 아홉, 열! 이제 잡으러 간다!\"",
+      "srcPage": 12,
+      "srcSentenceEA": 7,
+      "srcWordEA": 36,
+      "character": "건이,준이",
+      "setting": null,
+      "action": "다가오더니,도망가자,달아났어요,세었어요,잡으러 간다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "건이가 살금살금 옆으로 다가온 이유는 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "술래한테 들키면 안 되기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "큰 소리로 숫자를 센 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "준이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

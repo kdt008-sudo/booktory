@@ -1,0 +1,84 @@
+﻿{
+  "title": "고소한 달",
+  "author": "우은경",
+  "illustrator": "박정은",
+  "isbn": "9791128216985",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2017",
+      "srcText": "다람쥐는 도토리 달을 먹어요.'냠냠, 맛있다.' '음, 달은 정말 고소해.' 다람쥐가 웃어요. 달도 따라 방긋 웃어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "character": "다람쥐,도토리 달,달",
+      "setting": null,
+      "action": "먹어요,웃어요",
+      "feeling": "맛있다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "달도 따라 방긋 웃어요.",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "도토리 달을 먹는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다람쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "도토리 달을 먹은 다람쥐는 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다람쥐가 웃어요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "다람쥐가 도토리 달을 먹으며 무엇이라고 했나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "맛있다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "다람쥐는 달을 맛있게 먹는 모습을 보고 달은 어떻게 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달도 따라 방긋 웃어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

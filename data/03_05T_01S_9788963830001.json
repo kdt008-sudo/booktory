@@ -1,0 +1,70 @@
+﻿{
+  "title": "부릉부릉 빵빵!",
+  "author": "김혜령",
+  "illustrator": "연정훈",
+  "isbn": "9788963830001",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15771",
+      "srcText": "야옹이가 길을 가는데, 노란색 자동차가 붕붕붕! 파란색 자동차가 부르릉부르릉! 까만색 자동차가 부릉부릉빵빵!",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "야옹이,노란색 자동차,파란색 자동차,까만색 자동차",
+      "setting": "길",
+      "action": "가는데",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "붕붕붕 소리를 내는 자동차는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "노란색 자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "야옹이가 있는 장소는 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "길",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "야옹이가 길을 가면서 본 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "여러 가지 색의 자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

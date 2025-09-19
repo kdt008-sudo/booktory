@@ -1,0 +1,84 @@
+﻿{
+  "title": "예의 바른 어린이 사전",
+  "author": "하늘땅",
+  "illustrator": "천소",
+  "isbn": "9791157590735",
+  "publishedYear": 2015,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48888",
+      "srcText": "내가 처음 세상에 나올 때 들려온 건 엄마의 목소리였어요. “정말 예쁘다, 우리 아가!” 아빠가 하는 말도 들렸어요. “그저 건강하게만 자라라.” 엄마와 아빠의 기분 좋은 말은 날마다 나를 자라게 했어요. 손도 발도, 그리고 키도요.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 36,
+      "character": "엄마,아가,아빠,손,발,키,나",
+      "setting": null,
+      "action": "자라게",
+      "feeling": "기분 좋은 말,예쁘다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "엄마와 아빠의 기분 좋은 말은 날마다 나를 자라게 했어요.",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "내가 처음 세상에 나와서 들은 것은 누구의 목소리인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "처음 세상에 나와서 들은 엄마 아빠의 밀은 어떤 말이었나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기분 좋은 말",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "엄마와 아빠의 기분 좋은 말은 나를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자라게 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "엄마와 아빠가 좋은 말을 해줘서 나는 어땠을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸도 마음도 잘 자랄 수 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

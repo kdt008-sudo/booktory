@@ -1,0 +1,84 @@
+﻿{
+  "title": "엄마 닭이 꼬꼬",
+  "author": "김민성",
+  "illustrator": "가림",
+  "isbn": "9788963830582",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46966",
+      "srcText": "아빠 닭은 야옹이가 오는지, 멍멍이가 오는지, 찍찍이가 오는지, 닭장 밖에서 너무 바빠요. 엄마 닭은 안아 주고, 업어 주고, 재워 주고, 닭장 안에서 너무 바빠요. 따뜻한 봄날, 병아리들이 종종종 나와요. 삐악삐악 노래하며 엄마 따라 나들이 가요. 예쁜 꽃을 보고 삐악. 맛있는 풀을 먹고 삐악. 엄마 닭과 아빠 닭은 무척 기뻤지요.",
+      "srcPage": 11,
+      "srcSentenceEA": 7,
+      "srcWordEA": 55,
+      "character": "아빠 닭,엄마 닭,병아리들,야옹이.멍멍이,찍찍이,꽃,풀",
+      "setting": "봄날,닭장",
+      "action": "오는지,안아 주고,나와요,따라,가요,먹고,업어 주고,재워 주고",
+      "feeling": "기뻤지요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "병아리들은 언제 종종거리며 나왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "따뜻한 봄날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "닭장 밖에서 바쁜 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠 닭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "예쁜 꽃을 보고 삐악, 맛있는 풀을 먹고 삐악 하는 병아리를 보고 엄마 닭과 아빠 닭의 기분은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무척 기뻤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "엄마 닭은 닭장 안에서 안아 주고, 업어 주고 또 무엇을 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재워 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

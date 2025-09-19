@@ -3,10 +3,8 @@
   "author": "꼬두람이",
   "illustrator": "꼬두람이",
   "isbn": "9791165437343",
-  "readAge": "유아",
   "publishedYear": 2023,
   "publisher": "아람키즈",
-  "classification": "예술경험",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,177 @@
       "srcText": "나 찾아 봐! 야옹야옹! 담요 뒤에 있어. 나 찾아 봐! 야옹야옹! 액자 앞에 있어.",
       "srcPage": 4,
       "srcSentenceEA": 6,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": null,
+      "setting": "담요 뒤,액자 앞",
+      "action": "찾아 봐",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나는 어디 앞에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "액자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나를 찾으려면 무엇을 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "담요 뒤나 액자 앞을 살펴봐야 할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7058",
       "srcText": "나 찾아 봐! 야옹야옹! 피아노 건반 위에 있어. 나 찾아 봐! 야옹야옹! 의자 아래에 있어.",
       "srcPage": 2,
       "srcSentenceEA": 6,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "나",
+      "setting": "피아노 건반 위,의자 아래",
+      "action": "찾아 봐",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나는 어디에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "의자 아래",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "야옹야옹 하며 무엇을 하라고하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나를 찾아보라고 하였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "피아노 건반 위에 있는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7060",
       "srcText": "나 찾아 봐! 야옹야옹! 바구니 안에 있어. 나 찾아 봐! 야옹야옹! 엄마 옆에 누워 있어. 참 행복해.",
       "srcPage": 6,
       "srcSentenceEA": 7,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "엄마",
+      "setting": "바구니 안,엄마 옆",
+      "action": "찾아 봐,누워 있어",
+      "feeling": "행복해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나는 누구 옆에 누워 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나는 어디 안에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바구니 안",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나는 엄마 옆에서 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "누워 있어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마 옆에 누워있는 나는 어떤 감정일까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마 옆이라서 편안하고 행복할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

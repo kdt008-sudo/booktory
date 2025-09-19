@@ -1,0 +1,70 @@
+﻿{
+  "title": "아기 동물들",
+  "author": "마리아 베어,소냐 발라프",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828672",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6765",
+      "srcText": "뒹굴뒹굴 살금살금 심심한 아기 사자. 아작아작 어흥어흥 용감한 아기 호랑이. 모두 모두 건강하고 씩씩하게 자라렴.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "아기 사자,아기 호랑이",
+      "setting": null,
+      "action": "건강하고,자라렴",
+      "feeling": "심심한,용감한,씩씩하게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "심심한 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 사자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 사자와 호랑이에게 어떤 이야기를 해주고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모두 모두 건강하고 씩씩하게 자라렴.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 호랑이의 성격은 어떨 것 같나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "용감할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

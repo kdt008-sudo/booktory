@@ -1,0 +1,56 @@
+﻿{
+  "title": "곰팡이가 메주를 ",
+  "author": "김영이",
+  "illustrator": "정경문",
+  "isbn": "9788960162792",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52000",
+      "srcText": "콩을 삶아서 절구로 찧어만든 못난이 메주. 볏짚으로 묶어 두면 어찌 될까? 볏짚 속의 균들이 메주에 꽃을 피워. 메주의 꽃, 곰팡이를 피워.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "콩,절구,메주,볏짚",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "볏짚 속의 균들이 메주에 꽃을 피워",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "콩을 삶아 절구로 찧어 만드는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "메주",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "볓짚 속의 균들이 피워 내는 메주의 꽃을 무엇이라고 부르나요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰팡이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

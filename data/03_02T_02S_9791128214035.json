@@ -3,10 +3,8 @@
   "author": "김선희",
   "illustrator": "임지영",
   "isbn": "9791128214035",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 10,
   "paragraphInfo": [
     {
@@ -14,70 +12,492 @@
       "srcText": "“콩은 콩끼리, 팥은 팥끼리, 조는 조끼리, 클립은 클립 통에. 이제 다 됐다. 모두 모두 제자리! 얘들아, 고마워.” ",
       "srcPage": 13,
       "srcSentenceEA": 4,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "콩,팥,조,클립,통",
+      "setting": null,
+      "action": null,
+      "feeling": "고마워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "모두 제자리로 가려면 클립은 어디로 가야 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "클립 통",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "모두 제자리로 가서 나는 어떤 마음이 들었나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고마워했어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41641",
       "srcText": "그때 현관문이 열리더니 엄마가 들어왔어요. 식탁 위에는 곡식들이 예쁘게 정리되어 있었어요. “어머나! 이게 다 뭐야? 우리 민우가 이렇게 한 거야? 정말 대단한데?” 엄마가 민우를 칭찬하자 민우는 어깨를 으쓱거렸어요. ",
       "srcPage": 14,
       "srcSentenceEA": 6,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "엄마,민우,현관문,곡식,어깨",
+      "setting": "식탁",
+      "action": "들어왔어요,으쓱거렸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 민우를 칭찬했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "곡식은 어디에 정리되어 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "식탁 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "곡식을 모두 정리했을 때 엄마는 어디에 계셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마가 집으로 들어왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41638",
       "srcText": "“내 강력한 힘으로 클립을 골라낼게. 클립들아 붙어라!” 자석이 가까이 다가가자 자석에 클립이 찰싹찰싹 붙었어요. “굵은 콩이라면 내 그물망으로 쏙쏙 골라낼게. 콩만 남아라!” 배드민턴 라켓이 머리를 쓱쓱 흔들자 라켓 위에 굵은 콩만 남았어요. ",
       "srcPage": 10,
       "srcSentenceEA": 6,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "클립,자석,콩,배드민턴 라켓",
+      "setting": null,
+      "action": "붙었어요,흔들자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "배드민턴 라켓은 무엇을 골라냈나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "굵은 콩",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "자석은 클립은 어떻게 골라냈나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "클립에 가까이 다가가서 자석에 붙였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41639",
       "srcText": "“이번에는 내 차례! 쪼그만 조는 빠져나가고 팥만 남아라.” 굵은체가 몸을 쓱쓱 흔들자, 굵은체에는 팥만 남았어요. ",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "조,팥,굵은체",
+      "setting": null,
+      "action": "남았어요,흔들자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "굵은 체를 빠져나간 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "조",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "굵은 체는 어떻게 해서 팥만 남겼나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸을 흔들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41636",
       "srcText": "좌르르 좌르르. 봉지에 담겨 있던 곡식들이 식탁 아래로 왈칵 쏟아지고 말았어요. “안 돼! 쏟아지면 안 돼!” “어떡하지? 가지고 놀던 클립이랑 곡식들이 몽땅 다 섞여 버렸어. 엄마한테 혼날지도 몰라.” 민우는 어떻게 해야 할지 몰라 엉엉 울기만 했어요. 민우 울음소리에 배드민턴 라켓, 자석, 바가지와 굵은체가 잠에서 깼어요. ",
       "srcPage": 7,
       "srcSentenceEA": 8,
-      "srcWordEA": 51
+      "srcWordEA": 51,
+      "character": "엄마,민우,봉지,곡식,식탁,클립,배드민턴 라켓,자석,바가지,굵은체",
+      "setting": null,
+      "action": "쏟아지고 말았어요,울기만 했어요,잠에서 깼어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "민우가 쏟은 곡식은 무엇과 섞였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "클립",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "봉지에 있던 곡식을 쏟은 민우는 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엉엉 울었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41642",
       "srcText": "엄마는 바로 요리를 했어요. 말랑말랑한 두부를 넣어 보글보글 된장찌개를 끓이고, 민우가 골라낸 콩을 넣어 밥을 지어 주었어요. “맛있겠다! 잘 먹겠습니다.” 민우는 어느 때보다도 밥을 꿀꺽꿀꺽 잘 먹었어요. ",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "엄마,민우,두부,된장찌개,콩,밥",
+      "setting": null,
+      "action": "요리를 했어요,먹었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "요리를 한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "민우는 엄마가 지어주신 밥을 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꿀꺽꿀꺽 잘 먹었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41634",
       "srcText": "“엄마가 뭘 사 오셨지?” 민우는 봉지들을 하나하나 풀어 보았어요. “이게 다 뭐지?” 봉지에는 여러 가지 곡식이 가득 들어 있었지요. ",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "엄마,민우,봉지,곡식",
+      "setting": null,
+      "action": "풀어 보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마가 사 오신 봉지에는 무엇이 가득 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곡식",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "민우는 봉지를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풀어 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41635",
       "srcText": "부스럭부스럭. “어머나, 내 정신 좀 봐. 된장찌개에 넣을 두부를 안 사 왔네.” 엄마는 서둘러 슈퍼마켓으로 다시 달려갔어요. ",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "엄마,두부,된장찌개",
+      "setting": "슈퍼마켓",
+      "action": "달려갔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "엄마는 서둘러 슈퍼마켓으로 다시 달려갔어요",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 무슨 음식을 만들려고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "된장찌개",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 두부를 사러 어디로 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "슈퍼마켓",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 두부를 사기 위해 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "서둘러 슈퍼마켓으로 다시 달려갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 슈퍼마켓에서 무엇을 사셨을까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "두부",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41640",
       "srcText": "“이제 거의 다 됐어. 조에 섞인 더러운 먼지도 걸러 내야지. 흐르는 물에 씻은 다음, 물을 따라 먼지를 흘려보내면 조가 깨끗해지지.” ",
       "srcPage": 12,
       "srcSentenceEA": 3,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "조,먼지,물",
+      "setting": null,
+      "action": "씻은 다음,흘려보내면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "조에는 무엇이 섞여 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "먼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어떻게 하면 조가 깨끗해지나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "흐르는 물에 씻어서 먼지를 흘려보내요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41637",
       "srcText": "“이런, 정말 다 섞여 버렸네. 하지만 걱정하지 마. 우리가 도와줄게.” 배드민턴 라켓과 자석이 살며시 다가왔어요. “이런 일에 우리가 빠질 수는 없지.” 바가지와 굵은체도 통통 뛰어왔어요. ",
       "srcPage": 8,
       "srcSentenceEA": 6,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "배드민턴 라켓,자석,바가지,굵은체",
+      "setting": null,
+      "action": "다가왔어요,뛰어왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "통통 뛰어온 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바가지와 굵은체",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "배드민턴 라켓과 자석은 도와준다고 말하며 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "살며시 다가왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

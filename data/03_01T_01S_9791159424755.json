@@ -1,0 +1,70 @@
+﻿{
+  "title": "잭과 콩나무",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "오희정",
+  "isbn": "9791159424755",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47553",
+      "srcText": "숲 속 작은 집에 사는 잭과 엄마는 무척 가난했어요. 그러던 어느 날, 집에 먹을 것이 다 떨어졌어요. 남은 건 키우던 소 한 마리뿐이었지요. 엄마는 한숨을 쉬었어요. “시장에 가서 소를 음식으로 바꿔 오렴.” 잭은 소를 끌고 시장으로 갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 41,
+      "character": "소,잭,엄마,시장",
+      "setting": "숲 속 작은 집",
+      "action": "한숨을 쉬었어요,시장으로 갔어요,무척 가난했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "잭과 엄마에게 남은 것은 무엇뿐이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소 한 마리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "엄마가 소를 음식으로 바꿔오라고 말하자, 잭은 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소를 끌고 시장으로 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "잭과 엄마는 어디에서 사나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속 작은 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

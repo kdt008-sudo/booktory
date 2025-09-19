@@ -1,0 +1,70 @@
+﻿{
+  "title": "벌나라의 일꾼벌",
+  "author": "김미선, 채영숙, 김은정, 박찬",
+  "illustrator": "정보 없음",
+  "isbn": "8957420274",
+  "publishedYear": 2003,
+  "publisher": "생각의 샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48263",
+      "srcText": "꽃밭에는 항상 벌들이 날아다닙니다. 꿀과 꽃가루를 찾아온 것입니다. 꿀과 꽃가루 모으기는 일벌 중에서도 가장 큰 언니 벌들이 도맡아서 합니다.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "벌들,꿀,꽃가루",
+      "setting": "꽃밭",
+      "action": "날아다닙니다,도맡아서 합니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "꽃가루 모으기는 누가 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "언니 벌들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "꽃밭에는 누가 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "벌들이 날아다녀요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "벌들은 꽃밭에 무얼 찾아오나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꿀과 꽃가루를 찾으러 와요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

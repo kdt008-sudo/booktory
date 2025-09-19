@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "오이슬",
   "isbn": "9788927206668",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 9,
   "paragraphInfo": [
     {
@@ -14,63 +12,433 @@
       "srcText": "아이들은 각자 발에 맞는 스케이트를 빌렸어요. 그리고 안전 보호 장구를 착용했지요. 헬멧을 착! 팔꿈치 보호대를 착! 장갑도 착! 무릎 보호대를 착!",
       "srcPage": 8,
       "srcSentenceEA": 6,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "아이들,발,스케이트,안전 보호 장구,헬멧,팔꿈치 보호대,장갑,무릎 보호대",
+      "setting": null,
+      "action": "빌렸어요,착용했지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아이들은 무엇을 빌렸나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스케이트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "스케이트를 타기 전 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안전 보호 장구를 착용했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18180",
       "srcText": "어떤 친구들은 서로 장난을 치기 바빠요. 저러다가 넘어지면 큰일 날 텐데 말이에요. 어, 그런데 한 친구가 시계 방향으로 돌고 있어요. “반대로 타야지. 부딪힐 것 같아!”",
       "srcPage": 15,
       "srcSentenceEA": 5,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "친구들",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "어떤 친구들은 서로 장난을 치기 바빠요. 저러다가 넘어지면 큰일 날 텐데 말이에요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누가 시계 방향으로 돌고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "한 친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "친구들이 서로 장난을 치면 어떤 문제가 생기나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "넘어져서 큰일 날 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18179",
       "srcText": "친구를 밀거나 당기면 안 돼요! 위험한 동작은 안 돼요! 장난치면 안 돼요!",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "친구",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "장난치면 안 돼요!",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누굴 밀면 안되나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "장난치면 왜 안될까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "넘어져서 다칠 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18178",
       "srcText": "“네!” 아이들은 선생님을 따라 조심조심 트랙을 돌았어요. 그리고 곧 씽씽 달려 보았지요. “얘들아, 나 멋지지?”",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "아이들,선생님,트랙",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "아이들은 선생님을 따라 조심조심 트랙을 돌았어요. 그리고 곧 씽씽 달려 보았지요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "아이들은 누구를 따라 트랙을 돌았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선생님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "친구들은 트랙에 익숙해진 뒤에 어떻게 했나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "씽씽 달렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16686",
       "srcText": "그리고 헬멧과 팔꿈치 보호대, 장갑, 무릎 보호대를 샀어요. “우리 하진이는 다 준비했네.” 다음 날 아침, 안전 보호 장구를 넣은 가방을 메고 유치원 버스에 탔어요. 하진이는 무척 설레었어요.",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "헬멧,팔꿈치 보호대,장갑,무릎 보호대,하진이,가방,유치원 버스",
+      "setting": null,
+      "action": null,
+      "feeling": "설레었어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "하진이는 무엇을 넣은 가방을 메고 유치원에 갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안전 보호 장구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "유치원에 가는 하진이의 마음은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "마음이 설레었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18182",
       "srcText": "“아니요! 친구가 다치는 건 싫어요! 앞사람을 따라서 조심조심 탈게요!” 그제야 선생님은 빙그레 웃으셨어요.",
       "srcPage": 17,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "친구,앞사람,선생님",
+      "setting": null,
+      "action": "웃으셨어요,탈게요",
+      "feeling": null,
+      "causalRelationship": "친구가 다치는 건 싫어요! 앞사람을 따라서 조심조심 탈게요!",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "누굴 따라서 탄다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "앞사람",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "조심히 탄다는 말에 선생님은 어떤 행동을 하셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빙그레 웃으셨어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "왜 앞사람을 따라서 조심조심 타야 하나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "친구가 다치는 건 싫기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18177",
       "srcText": "선생님은 안전 수칙을 설명했어요. “스케이트 날은 날카로우니 친구들과 장난치지 말아요! 그리고 트랙을 돌 때는 시계 반대 방향으로 돌아요.”",
       "srcPage": 10,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "선생님,스케이트 날,친구들,트랙",
+      "setting": null,
+      "action": "설명했어요,돌아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "무엇이 날카롭다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스케이트 날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 친구들에게 무엇을 알려주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안전 수칙을 설명해서 알려주셨어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18181",
       "srcText": "결국 선생님은 우리를 모두 불러 모았어요. “여러분! 이렇게 장난을 치며 타다가는 친구들이 다칠 수도 있어요. 친구가 다치는 게 좋아요?”",
       "srcPage": 16,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "선생님,우리,친구들",
+      "setting": null,
+      "action": "불러 모았어요,장난을 치며,다치는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "여러분! 이렇게 장난을 치며 타다가는 친구들이 다칠 수도 있어요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 이야기를 하기 위해 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리를 모두 불러 모았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "장난을 치면 다칠 수도 있다는 말을 들은 친구들은 어떤 기분이었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "놀랐을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 누구에게 다칠 수 있다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "18175",
       "srcText": "내일은 스케이트장에 가는 날이에요. “내일 헬멧이랑 보호대 등 안전 보호 장구를 가지고 오세요.” “네!” 하진이는 엄마 아빠와 스포츠 용품점에 갔어요.",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "스케이트장,헬멧,보호대,하진이,엄마 아빠,스포츠용품점",
+      "setting": null,
+      "action": "갔어요,가지고 오세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "하진이는 내일 어디에 가나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스케이트장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "하진이는 엄마 아빠와 오늘 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안전 보호 장구를 사기 위해서 스포츠 용품점에 갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -3,10 +3,8 @@
   "author": "꼬두람이",
   "illustrator": "꼬두람이",
   "isbn": "9791165437350",
-  "readAge": "유아",
   "publishedYear": 2023,
   "publisher": "아람키즈",
-  "classification": "예술경험",
   "paragraphInfoCount": 2,
   "paragraphInfo": [
     {
@@ -14,14 +12,104 @@
       "srcText": "동글동글 알록달록 동그라미! 무엇이 될까? 짠! 동글동글 알록달록 무늬가 되었네. 뾰족뾰족 알록달록 세모! 무엇이 될까?",
       "srcPage": 3,
       "srcSentenceEA": 6,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "동그라미,세모,무늬",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "무엇이 될까?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "동그라미는 무엇이 되었을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무늬",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "세모는 무엇이 될 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뾰족뾰족한 크리스마스 트리가 될 수 있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7077",
       "srcText": "짠! 뾰족뾰족 알록달록 산이 되었네. 반듯반듯 알록달록 네모! 무엇이 될까? 짠! 반듯반듯 알록달록 성이 되었네.",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "산,네모,성",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "반듯반듯 알록달록 성이 되었네.",
+      "prediction": "무엇이 될까?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "네모는 무엇이 되었을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "성",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "반듯반듯 알록달록 네모는 무엇이 되었을까요?",
+          "queType": 6,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "반듯반듯 알록달록 성이 되었네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "네모가 성이 된 이유는 무엇일 것 같나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "네모가 성의 벽돌 모양과 비슷해서일 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

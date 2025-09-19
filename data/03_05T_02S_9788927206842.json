@@ -3,10 +3,8 @@
   "author": "꿈바라기",
   "illustrator": "조대희",
   "isbn": "9788927206842",
-  "readAge": "초등_저학년",
   "publishedYear": 2011,
   "publisher": "태동출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,298 @@
       "srcText": "오늘은 소방서에서 안전 교육을 받는 날이에요. \"오늘은 안전하게 불을 사용하는 법을 배울 거예요. 스크린을 잘 보세요!\" 늠름한 소방관 아저씨가 말했어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "불,스크린,소방관 아저씨",
+      "setting": "소방서",
+      "action": "말했어요,보세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "안전하게 불을 사용하는 법을 배울 거라고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소방관 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "안전 교육은 어디에서 받나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소방서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "무엇을 잘 보라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "스크린을 잘 보라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16653",
       "srcText": "화재 안전 교육이 끝났어요. 불은 잘 쓰면 우리에게 편리하지만, 안전하게 다뤄야 한다는 것을 알았어요! 물론, 불장난도 하지 않을 거예요!",
       "srcPage": 14,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "불,우리",
+      "setting": null,
+      "action": "잘 쓰면,불장난도",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "잘 쓰면 우리에게 편리한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "불",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "화재 안전 교육을 통해 무엇을 알게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "불을 잘 쓰면 우리에게 편리하지만 안전하게 다뤄야 한다는 것을 알았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16649",
       "srcText": "\"불은 우리에게 꼭 필요해요. 맛있는 요리를 할 때도 필요하고, 추운 날 따뜻하게 할 때도 필요하지요.\" 하지만 가스레인지로 불장난을 하는 친구도 있어요. 이렇게 불장난을 하면 어떻게 될까요?",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "불,요리,가스레인지,친구",
+      "setting": null,
+      "action": "요리를 할 때,불장난을 하는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이렇게 불장난을 하면 어떻게 될까요?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "우리에게 꼭 필요한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "불",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "우리는 언제 불이 필요할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "맛있는 요리를 하거나 추운 날 따뜻하게 할 때 필요해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "이렇게 불장난을 하면 어떻게 될까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "불이 번져서 집이 다 타버리거나 화상을 입고 심하게 다칠 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16650",
       "srcText": "\"불이 날 거예요!\" \"맞아요. 불이 나면 많은 사람들이 집을 잃기도 하고, 목숨을 잃기도 해요.\" \"촛불을 가지고 장난하는 것도 안 돼요. 장난을 하다가 넘어져서, 이불이나 옷 같은 것에 옮겨붙을 수 있기 때문이에요.\"",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "불,사람들,집,촛불,이불,옷",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "촛불을 가지고 장난하는 것도 안 돼요. 장난을 하다가 넘어져서, 이불이나 옷 같은 것에 옮겨붙을 수 있기 때문이에요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "촛불을 가지고 장난하는 것도 안 되는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "장난을 하다가 넘어져서 이불이나 옷 같은 것에 옮겨붙을 수 있어 위험하기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "불이 나면 누가 집을 잃기도 하고 목숨을 잃기도 할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사람들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16651",
       "srcText": "\"보세요. 촛불의 불이 옮겨붙어서, 순식간에 화재가 나기 시작했어요.\" \"산에서 불꽃놀이를 하는 것도 위험해요. 폭죽의 작은 불씨가 튀어서 나무에 붙으면 어떻게 될까요?\" \"산불이 날 거예요!\" \"그래요. 산불이 나면 동물들이 살 곳을 잃게 돼요.\"",
       "srcPage": 11,
       "srcSentenceEA": 5,
-      "srcWordEA": 35
+      "srcWordEA": 35,
+      "character": "촛불,산,폭죽,나무,산불,동물들",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "산불이 나면 동물들이 살 곳을 잃게 돼요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "산불이 나면 살 곳을 잃게 되는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동물들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "산에서 불꽃놀이를 하다가 산불이 난다면 어떻게 될까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산불이 나면 동물들이 살 곳을 잃게 돼요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16652",
       "srcText": "\"이렇게 재미로 한 불장난은 큰 화재를 일으켜요. 불장난을 절대로 해서는 안 되겠죠?\" \"네!\" \"한 가지 더! 촛불이나 라이터를 사용할 때는 부모님이나 어른에게 부탁해야 해요. 약속할 거죠?\" \"네! 약속해요!\"",
       "srcPage": 13,
       "srcSentenceEA": 6,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "촛불,라이터,부모님,어른",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "촛불이나 라이터를 사용할 때는 부모님이나 어른에게 부탁해야 해요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "재미로 한 불장난은 무엇을 일으키나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰 화재",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "촛불이나 라이터를 사용할 때는 어떻게 해야 하나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "부모님이나 어른에게 도와달라고 부탁해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

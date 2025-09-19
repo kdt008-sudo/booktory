@@ -1,0 +1,56 @@
+﻿{
+  "title": "(찌리릿!) 전기는 어떻게 만들까? ",
+  "author": "윤성은",
+  "illustrator": "최지숙",
+  "isbn": "9788960162662",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51999",
+      "srcText": "나는 물이야. 넓은 댐 안에서 친구들과 놀고 있을 때였어. 동그란 친구가 말했어. “우린 전기가 될 것 같아. 여기는 전기를 만드는 댐이거든.”그 말에 세모 친구가 펄쩍 뛰었어. “모르는 소리! 전기는 석유나 석탄을 활활 태워서 만들어. 내가 하늘에서 봤다고.”",
+      "srcPage": 6,
+      "srcSentenceEA": 9,
+      "srcWordEA": 43,
+      "character": "댐,동그란 친구,세모 친구,전기",
+      "setting": null,
+      "action": "친구가 말했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "동그란 친구는 우리가 무엇이 될 것 같다고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "전기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "세모 친구는 전기를 어떻게 만든다고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "석유나 석탄을 활활 태워서 만듭니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

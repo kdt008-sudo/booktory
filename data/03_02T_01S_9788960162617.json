@@ -1,0 +1,56 @@
+﻿{
+  "title": "너, 뭐하니? ",
+  "author": "예종화",
+  "illustrator": "이영준",
+  "isbn": "9788960162617",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51842",
+      "srcText": "엄마코끼리, 뭐해요? 코로 샤워해. 진흙탕 물로 쏴아! 씻으면 벌레가달라붙지않거든.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "character": "엄마코끼리,코",
+      "setting": null,
+      "action": "샤워해",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마코끼리는 왜 진흙탕 물로 샤워를 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "벌레가 달라붙지 않게 하려고요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "코로 샤워를 하고 있는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마코끼리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

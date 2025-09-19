@@ -1,0 +1,56 @@
+﻿{
+  "title": "그림자는 왜 생길까? ",
+  "author": "박진영",
+  "illustrator": "계창훈",
+  "isbn": "9788960163041",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52043",
+      "srcText": "“내 입으로 모자를 만들어 쓰렴.” 호야가 잎사귀 모자를 썼어요. “아이, 시원해!” 호야의 그림자도 모자를 썼어요. 호야 가제 그림자를 보며 웃어요. “흉내쟁이! 깜둥이!” 해바라기도 빙그레 웃어요. 구름이 해님 얼굴을 가렸어요. 호야의 그림자가 없어졌어요. “해님, 어디 있어요? 내 그림자 좀 찾아주세요.” 호야가 부탁했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 12,
+      "srcWordEA": 50,
+      "character": "모자,호야,해바라기",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "구름이 해님 얼굴을 가렸어요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "호야는 무엇으로 모자를 만들어 썼나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잎",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "구름이 해님 얼굴을 가리자 호야의 무엇이 없어졌나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그림자가 없어졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

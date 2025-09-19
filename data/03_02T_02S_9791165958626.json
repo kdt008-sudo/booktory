@@ -3,10 +3,8 @@
   "author": "하루 ",
   "illustrator": "강윤주",
   "isbn": "9791165958626",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "알라딘은 동굴에서 낡은 램프를 발견했어. 램프의 먼지를 털어 내려고 쓱쓱 문지르니 펑! 소리와 함께 요정이 나타났어! “주인님, 무슨 소원이든 말씀만 하세요.” 램프의 요정은 알라딘의 소원을 모두 들어주었어. 알라딘은 램프의 요정 덕분에 큰 부자가 되었지.",
       "srcPage": 4,
       "srcSentenceEA": 6,
-      "srcWordEA": 38
+      "srcWordEA": 38,
+      "character": "알라딘,램프,요정,주인님,부자,먼지",
+      "setting": "동굴",
+      "action": "발견했어,털어 내려고,문지르니,나타났어,말씀만 하세요,들어주었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "낡은 램프를 발견한 곳은 어디일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동굴",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "램프의 요정은 누구의 소원을 모두 들어주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알라딘",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "램프의 먼지를 털어 내려고 쓱쓱 문지르니 무슨 일이 벌어졌나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "펑 하는 소리와 함께 요정이 나타났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

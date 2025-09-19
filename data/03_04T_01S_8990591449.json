@@ -3,10 +3,8 @@
   "author": "김영이",
   "illustrator": "이미라",
   "isbn": "8990591449",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "한참을 걸어가던 당나귀가 물었어요. “아직도 멀었니?” “아니, 다 왔어. 저기 보이는 곳이야.” “우와! 저게 전부 당근이란 말이지?” 당나귀는 힘을 내어 겅중겅중 걸어갔습니다.",
       "srcPage": 6,
       "srcSentenceEA": 6,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "당나귀,당근",
+      "setting": null,
+      "action": "물었어요,걸어갔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "당나귀는 힘을 내어 겅중겅중 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "걸어갔습니다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 한참을 걸어갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "당나귀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

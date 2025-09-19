@@ -1,0 +1,70 @@
+﻿{
+  "title": "서둘러요, 소방차!",
+  "author": "풋풋",
+  "illustrator": "장현아",
+  "isbn": "9791165953447",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48804",
+      "srcText": "왱왱 비상벨 소리가 울려. \"무지개 주택에 불이 났어요. 어서 출동해 주세요!\" 어서 불을 끄러 출동하자!  불이 나면 정해진 순서에 따라 7대의 소방차가 사고 현장으로 출동해. ",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "무지개 주택,집,비상벨 소리,불,소방차",
+      "setting": null,
+      "action": "불이 났어요,출동해",
+      "feeling": null,
+      "causalRelationship": "무지개 주택에 불이 났어요. 어서 출동해 주세요!",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어디에 불이 났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무지개 주택",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "출동해서 무엇을 하나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "불을 꺼요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "불이 나면 정해진 순서에 따라 사고 현장으로 누가 출동하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "7대의 소방차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

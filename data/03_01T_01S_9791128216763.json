@@ -1,0 +1,70 @@
+﻿{
+  "title": "문어의 편지",
+  "author": "장선혜",
+  "illustrator": "이주연",
+  "isbn": "9791128216763",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6589",
+      "srcText": "거미와 문어와 악어가 만났어요. 거미는 문어에게 머리띠를 선물했지요. 거미에게는 새 친구가 생겼어요. 이다음엔 어디로 소풍을 갈까요? ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "character": "거미,문어,악어,머리띠,새 친구",
+      "setting": null,
+      "action": "만났어요,선물했지요,생겼어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이다음엔 어디로 소풍을 갈까요?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "문어와 악어는 누구를 만났을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "거미가 문어에게 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "머리띠를 선물했지요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "거미와 문어와 악어는 어떤 사이가 되었나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "친구가 되어 함께 소풍을 가는 사이가 되었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿{
+  "title": "생글생글 싱글벙글",
+  "author": "사이토 시노부",
+  "illustrator": "사이토 시노부",
+  "isbn": "9788997300396",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6915",
+      "srcText": "내가 생글생글 웃으면, 아빠도 싱글벙글! 엄마도 싱글벙글! 내가 생글생글 웃으면, 할아버지도 싱글벙글! 할머니도 싱글벙글! 내가 생글생글 웃으면, 모두 싱글벙글!",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23,
+      "character": "아빠,엄마,할아버지,할머니",
+      "setting": null,
+      "action": "웃으면,싱글벙글,생글생글,생글생글",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아빠, 엄마, 할아버지, 할머니는 어떻게 웃나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "싱글벙글",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 생글생글 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "웃어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "6916",
+      "srcText": "아기가 응애응애 울면... 내가 쪼르르 달려가서 오르르 까꿍! 아기가 방긋방긋! 나는 생글생글, 아기는 방긋방긋! 우리 가족 모두 싱글벙글!",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "character": "아기,가족,나,내가",
+      "setting": null,
+      "action": "달려가서,울면,방긋방긋,싱글벙글,응애응애",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 응애응애 울까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 아기가 울고 있으면 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "쪼르르 달려가서 방긋방긋 웃으며 아기를 달래주어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

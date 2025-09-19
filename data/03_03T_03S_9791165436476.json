@@ -1,0 +1,70 @@
+﻿{
+  "title": "내 손 안에 은행이 쏙!",
+  "author": "최은정",
+  "illustrator": "조우영",
+  "isbn": "9791165436476",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48661",
+      "srcText": "내 보물은 통통이예요! 나의 소중한 돈을 보관해 주지요. 나는 동전이 생기면 통통이에게 땡그랑 넣고 지폐가 생겨도 통통이에게 쏙쏙 넣어요. 이건 비밀인데요, 통통이는 나랑 있을 땐 꼭 살아 있는 것 같아요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "character": "통통이",
+      "setting": null,
+      "action": "보관해 주지요,넣고,넣어요",
+      "feeling": "살아 있는 것 같아요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "통통이는 나의 소중한 돈을 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "보관해 주어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "나는 지폐가 생기면 누구에게 쏙쏙 넣나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "통통이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "통통이는 나랑 있을 때 꼭 어떤 것 같나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "살아 있는 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

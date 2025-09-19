@@ -1,0 +1,56 @@
+﻿{
+  "title": "누가 뽀르르 빵을 부풀렸을까? ",
+  "author": "강용숙",
+  "illustrator": "장현진",
+  "isbn": "9788960162860",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52007",
+      "srcText": "빵을 좋아하는 임금님이 있었어. 임금님은 아침에도 빵, 점심에도 빵, 저녁에도 빵만 먹었어. 어느 날, 임금님이 말했지. “세상에서 최고로 맛있는 빵을 만들어오는 사람한테 큰상을 주겠다.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "빵,임금님",
+      "setting": null,
+      "action": "빵만 먹었어,임금님이 말했지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "임금님은 좋아하는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빵",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어느 날 임금님은 세상에서 최고로 맛있는 빵을 만들어오는 사람한테 무엇을 주겠다고 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰상",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

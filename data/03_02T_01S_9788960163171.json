@@ -1,0 +1,56 @@
+﻿{
+  "title": "채소니, 과일이니? ",
+  "author": "박진영",
+  "illustrator": "서복현",
+  "isbn": "9788960163171",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52033",
+      "srcText": "고추밭에 빨간 고추. 앙! 깨물면 어유, 호호 매워라. 가지 밭에 길쭉길쭉 보랏빛 가지. 오물오물, 퉤퉤퉤! 날로 먹으면 너무 떫어.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24,
+      "character": "고추,가지",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "깨물면 어유,호호 매워라",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "고추밭에 빨간 고추를 깨물면 어떤 맛이 나나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "매운 맛이 납니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "보랏빛 길쭉한 모양에 날로 먹으면 떫은 채소는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

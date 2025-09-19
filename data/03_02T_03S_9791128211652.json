@@ -1,0 +1,70 @@
+﻿{
+  "title": "세계 최고의 스파이, 나노맨",
+  "author": "강성은",
+  "illustrator": "김이조",
+  "isbn": "9791128211652",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48457",
+      "srcText": "여기가 내가 일하는 곳이야. 얼핏 보면 보통 회사처럼 보이지만 나 같은 스파이들이 일하고 있어. 아침에 오면 나는 가장 먼저 연구실에 들러. 아이디어가 기발한 박사님이 최첨단 장비를 개발하는 곳이지. 오늘은 어떤 새로운 장비를 볼 수 있을까?",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 39,
+      "character": "나,스파이들,기발한 박사님,최첨단 장비",
+      "setting": "연구실,오늘,아침",
+      "action": "일하는,보이지만,일하고 있어,오면,들러,개발하는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "내가 아침에 가장 먼저 들르는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연구실",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "얼핏 보면 보통 회사처럼 보이지만 누가 일하고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스파이들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "아이디어가 기발한 박사님은 연구실에서 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "최첨단 장비를 개발해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

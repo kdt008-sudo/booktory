@@ -1,0 +1,70 @@
+﻿{
+  "title": "모험을 떠난 주먹이",
+  "author": "이현정",
+  "illustrator": "김태란",
+  "isbn": "9788960164574",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49634",
+      "srcText": "주먹이는 냠냠냠, 우적우적 무엇이든 잘 먹었지. 하지만 몸은 조금도 자라지 않았어. 하루는 주먹이가 아버지와 함께 낚시를 하러 갔어. “절대 주머니 밖으로 나오면 안 된다!” 아버지가 단단히 일렀지. 그런데 아버지가 꾸벅꾸벅 조는 사이, 주먹이가 주머니 밖으로 폴짝 뛰어나왔지 뭐야.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 42,
+      "character": "주먹이,몸,아버지,주머니,낚시",
+      "setting": "주머니 밖",
+      "action": "먹었지,낚시를 하러 갔어,일렀지,조는,뛰어나왔지 뭐야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아버지가 절대 어디로 나오지 말라고 했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "주머니 밖",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "무엇이든 잘 먹는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "주먹이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "하루는 주먹이가 아버지와 함께 무엇을 하러 갔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낚시를 하러 갔어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "거품이 보글보글",
+  "author": "무라마츠 가츠",
+  "illustrator": "무라마츠 가츠",
+  "isbn": "9788992111508",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5371",
+      "srcText": "부르르 탈탈탈! 아, 기분 좋아. 나야 나, 쿵쿵쿵 코끼리. 목욕은 언제나 즐거워!",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "나,코끼리",
+      "setting": null,
+      "action": null,
+      "feeling": "기분 좋아,즐거워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "목욕은 언제나 즐거워",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "목욕을 즐거워하는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "쿵쿵쿵 코끼리는 목욕을 하면 어떤 느낌이 든다고 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기분 좋아,",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "쿵쿵쿵 코끼리는 목욕하는 것은 어떠하다고 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "목욕은 언제나 즐거워!",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "막내 개구리가 끝까지 버리지 않은 것은? / 랍비는 무엇을 깨달았을까?",
+  "author": "윤지연",
+  "illustrator": "최주리",
+  "isbn": "9791128221378",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47367",
+      "srcText": "잔잔한 연못에 개구리 삼 형제가 살았어. 어느 날, 첫째 개구리가 연못 밖을 내다보며 말했어. “얘들아, 저기 있는 근사한 노란 집 좀 봐.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "개구리 삼 형제,첫째 개구리",
+      "setting": "잔잔한 연못",
+      "action": "내다보며 말했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "잔잔한 연못에 누가 살았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개구리 삼 형제",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "개구리 삼 형제는 어디에 살았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잔잔한 연못",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "첫째 개구리는 어딜 보며 말했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연못 밖",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

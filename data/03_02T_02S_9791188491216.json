@@ -3,10 +3,8 @@
   "author": "홍윤희",
   "illustrator": "혜경",
   "isbn": "9791188491216",
-  "readAge": "초등_저학년",
   "publishedYear": 2019,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 6,
   "paragraphInfo": [
     {
@@ -14,42 +12,298 @@
       "srcText": "우아! 오븐에 구우니 노르스름하고 바삭바삭한 쿠키가 되었어요. 송이가 시금치, 당근, 호박을 갈아서 밀가루와 섞어 조몰락조몰락 색깔 반죽을 만들어요. \"시금치 닮아 초록색 반죽, 당근 닮아 주황색 반죽, 호박 닮아 노란색 반죽이 되었네.\"",
       "srcPage": 12,
       "srcSentenceEA": 3,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "오븐,쿠키,송이,시금치,당근,호박,밀가루,반죽",
+      "setting": null,
+      "action": "구우니,갈아서,섞어,만들어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "오븐에 구우니 노르스름하고 바삭바삭한 무엇이 되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쿠키",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 어떻게 색깔 반죽을 만들었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "각양각색의 야채를 갈아서 여러 색의 반죽을 만들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15285",
       "srcText": "우~아! 찜통에 찌니, 몽실몽실 부푼 찐빵이 되었어요. 송이는 반죽을 크게 떼어 내서 탁탁 쳐 납작하게 만들고, 밀대로 얇게 밀어요. \"모양 틀로 꾹꾹 찍으니까, 밀가루 달과 별이 되었네.\"",
       "srcPage": 10,
       "srcSentenceEA": 3,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "찜통,찐빵,송이,반죽,모양 틀,밀대",
+      "setting": null,
+      "action": "떼어 내서,탁탁 쳐,납작하게 만들고,얇게 밀어요,찍으니까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "찜통에 찌니 몽실몽실 부푼 무엇이 되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "찐빵",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 반죽을 크게 떼어 내서 탁탁 쳐 납작하게 만든 후 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밀대로 얇게 밀고 모양틀로 찍어서 달과 별 모양을 만들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15282",
       "srcText": "송이가 엄마하고 요리를 하려고 해요. 밀가루를 툴툴 그릇에 부으니, 뽀얀 밀가루가 사붓사붓 흩날려요. \"꼭 하얀 눈이 내리는 것 같아.\" 송이는 흩날리는 밀가루가 신기해요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "송이,엄마,밀가루,그릇",
+      "setting": null,
+      "action": "요리를 하려고,부으니",
+      "feeling": "신기해요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 누구와 요리를 하려고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "뽀얀 밀가루가 왜 사붓사붓 흩날렸나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밀가루를 그릇에 부어서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 흩날리는 밀가루를 보고 어떻게 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하얀 눈이 내리는 것 같아서 신기하다고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15287",
       "srcText": "밀가루가 변신한 음식들, 맛은 어떨까요? \"바삭바삭 고소해!\" 부드럽고 달콤해!\" \"쫄깃쫄깃 맛있어!\"",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "밀가루,음식들",
+      "setting": null,
+      "action": "변신한",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "밀가루가 변신한 음식들, 맛은 어떨까요?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "밀가루가 무엇으로 변신했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "음식",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "밀가루가 변신한 음식들의 맛을 어떻게 표현했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바삭바삭 고소하고, 부드럽고 달콤하고, 쫄깃쫄깃 맛있다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "바삭바삭 고소한 것은 어떤 음식의 맛을 표현한 걸까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "달콤하고 맛있는 쿠키",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15283",
       "srcText": "송이의 작은 손이 밀가루 속으로 푹 들어가요. 만지면 보들보들, 비비면 야들야들. 송이가 물을 넣고 손을 조몰락조몰락해요. \"어라? 끈적끈적 손에 붙네.\" 송이가 밀가루를 꾹꾹 치대고, 동글동글 덩어리로 뭉쳐요.",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "송이,손,밀가루,물",
+      "setting": null,
+      "action": "만지면,비비면,넣고,치대고,뭉쳐요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구의 작은 손이 밀가루 속으로 푹 들어갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "송이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 끈적끈적 손에 붙는 밀가루를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밀가루를 꾹꾹 치대고, 동글동글 덩어리로 뭉쳤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15284",
       "srcText": "송이가 손가락으로 꾹 누르자, 반죽이 움푹 들어가요. 당기고 당기면 쭉쭉 늘어나고, 빙빙 돌리면 비비 꼬여요. 송이가 반죽을 손바닥만큼 떼어 내서 두 손으로 동글동글 굴려 밀가루 공을 만들어요. \"팥을 넣고 살살 오므리니까, 진득진득 잘도 붙네.\"",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "송이,손가락,반죽,손바닥,손,밀가루 공,팥",
+      "setting": null,
+      "action": "누르자,돌리면,당기면,떼어,굴려,넣고,오므리니까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이가 손가락으로 꾹 누르자, 무엇이 움푹 들어갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "반죽",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "송이는 밀가루 공을 만들기 위해 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "반죽을 손바닥만큼 떼어 내서 두 손으로 동글동글 굴려 밀가루 공을 만들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

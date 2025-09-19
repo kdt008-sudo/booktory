@@ -1,0 +1,56 @@
+﻿{
+  "title": "아기 자동차 수비의 소원",
+  "author": "김정하",
+  "illustrator": "이해정",
+  "isbn": "9788961916134",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49155",
+      "srcText": "“뿌웅, 뿡뿡!” 아기 자동차 수비가 달릴 때 나는 소리예요. 요즘 수비는 시커먼 방귀를 자주 뀌어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "자동차",
+      "setting": null,
+      "action": "방귀를 자주 뀌어요,달릴 때",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "뿌웅, 뿡 하고 소리를 내며 달리는 수비는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "수비가 요즘 어떤 행동을 자주 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "시커먼 방귀를 자주 뀌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

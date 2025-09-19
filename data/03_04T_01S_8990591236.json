@@ -3,10 +3,8 @@
   "author": "강윤정",
   "illustrator": "김지원",
   "isbn": "8990591236",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "쏴아 쏴아아. 풀밭에 소낙비가 내렸어요. 비를 피해 새들은 둥지로 날아갔습니다. 부지런한 개미들은 비오기 전에 일 찌감치 집으로 들어갔어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "새,개미,소낙비,비",
+      "setting": "풀밭",
+      "action": "내렸어요,날아갔습니다,들어갔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "어디에 소낙비가 내렸나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "풀밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새들은 무엇을 피해 둥지로 날아갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "부지런한 개미들은 비가 오기 전에 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "집으로 들어갔지요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,84 @@
+﻿{
+  "title": "아기 양이 매애!",
+  "author": "라파엘라 볼라피오",
+  "illustrator": "라파엘라 볼라피오",
+  "isbn": "9791165435806",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2416",
+      "srcText": "아함, 졸려. 어디에서 잘까? 매애! 여긴 새소리가 너무 크네. 매애애! 여긴 너무 까슬까슬하네. 매애애! 우아, 여긴 포근해서 딱 좋아. 매애 매애애! 아기 양이 매애!",
+      "srcPage": 1,
+      "srcSentenceEA": 10,
+      "srcWordEA": 33,
+      "character": "아기 양,새",
+      "setting": null,
+      "action": "잘까",
+      "feeling": "포근해서,좋아",
+      "causalRelationship": null,
+      "outcomeResolution": "우아, 여긴 포근해서 딱 좋아.",
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "어디에서 잘지 고민하는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 양",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "새소리가 너무 크고 까슬까슬해서 고민을 하는 건 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "어디에서 잘까 고민해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여긴 포근해서 아기 양이 잘 곳으로 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "딱 좋아.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 양은 여기가 왜 좋을까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여긴 포근해서 딱 좋아.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "연을 날릴 거야",
+  "author": "서구름",
+  "illustrator": "이주미",
+  "isbn": "9791128211324",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48537",
+      "srcText": "오늘은 연날리기 대회가 열리는 날이야. 내 연은 얼마나 높이 날 수 있을까? 내 연이 가장 높이, 가장 오래도록 날면 좋겠어. 새처럼 자유롭게, 비행기처럼 힘차게 말이야.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28,
+      "character": "연,새,비행기",
+      "setting": null,
+      "action": "날면",
+      "feeling": "좋겠어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "내 연이 무엇처럼 자유롭게 날면 좋다고 생각했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "오늘은 무엇이 열리는 날인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": " 연날리기 대회",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "내 연이 어떻게 날았으면 좋겠다고 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": " 가장 높이 가장 오래도록 날면 좋겠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

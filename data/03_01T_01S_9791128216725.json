@@ -1,0 +1,70 @@
+﻿{
+  "title": "변덕쟁이 애벌레",
+  "author": "이선아",
+  "illustrator": "오승민",
+  "isbn": "9791128216725",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2330",
+      "srcText": "여우가 우주선을 타고 있어요. “와, 우리도 태워 줘! 그런데 어디 가는 거야?” ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "여우,우주선,우리",
+      "setting": null,
+      "action": "타고,태워 줘,가는 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "여우가 우주선을 타고 있어요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여우는 무엇을 타고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우주선",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여우가 우주선을 타고 있는 걸 본 친구들은 뭐라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리도 태워 줘.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여우는 왜 우주선을 타고 있어요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우주로 여행을 갈 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

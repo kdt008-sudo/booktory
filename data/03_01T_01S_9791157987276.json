@@ -1,0 +1,56 @@
+﻿{
+  "title": "머리헌뎅이 코흘리개 눈곱쟁이",
+  "author": "김은경",
+  "illustrator": "구소리",
+  "isbn": "9791157987276",
+  "publishedYear": 2019,
+  "publisher": "세이펜북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47709",
+      "srcText": "옛날 옛적 어느 마을에 세 친구가 살았어. 머리헌뎅이는 머리가 가려우니까 시도 때도 없이 박박, 머리 긁는 게 일이야. 코흘리개는 코 밑 마를 새 없이 만날 콧물이 줄줄, 콧물 닦느라 바빠. 나머지 하나, 눈곱쟁이는 눈곱이 많이 껴서 밤낮 파리가 꼬이니까 파리 쫓느라 딴 일을 못해.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 47,
+      "character": "머리헌뎅이,코흘리개,눈곱쟁이",
+      "setting": null,
+      "action": "긁는,닦느라,파리 쫓느라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "눈곱이 많이 낀 눈곱쟁이는 무엇을 하느라 딴 일을 못 하나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파리 쫓느라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누구의 머리가 가려운가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "머리헌뎅이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

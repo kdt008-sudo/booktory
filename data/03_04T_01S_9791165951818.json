@@ -3,10 +3,8 @@
   "author": "츠쿠노스케",
   "illustrator": "츠쿠노스케",
   "isbn": "9791165951818",
-  "readAge": "유아",
   "publishedYear": 2021,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,357 @@
       "srcText": "“어떡해, 꼬리가 없어졌어. 내 꼬리, 어디에 있을까?” “들쥐야, 내 꼬리 봤니?” “내 꼬리처럼 분홍색이니?” “아니, 내 꼬리는 갈색이야.”",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "꼬리,들쥐",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤냐고 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "들쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "꼬리가 없어진 것을 알고 꼬리가 어디에 있는지 궁금해하며 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "들쥐에게 꼬리를 봤냐고 물어봤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6769",
       "srcText": "“강아지야, 내 꼬리 봤니?” “내 꼬리처럼 북슬북슬하니?” “아니, 내 꼬리는 매끈매끈해.”",
       "srcPage": 12,
       "srcSentenceEA": 3,
-      "srcWordEA": 11
+      "srcWordEA": 11,
+      "character": "강아지,꼬리",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "아니,내 꼬리는 매끈매끈해",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤는지 물어봤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "강아지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "내 꼬리를 봤냐는 말을 듣고 강아지는 어떤 반응을 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "내 꼬리처럼 북슬북슬한지 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "강아지는 매끈매끈한 꼬리를 보았을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "못 봤을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6770",
       "srcText": "“돼지야, 내 꼬리 봤니?” “내 꼬리처럼 돌돌 말렸니?” “아니, 내 꼬리는 곧게 생겼어.”",
       "srcPage": 14,
       "srcSentenceEA": 3,
-      "srcWordEA": 13
+      "srcWordEA": 13,
+      "character": "돼지,꼬리",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤는지 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "내 꼬리를 봤냐는 물음에 돼지는 어떤 반응을 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자신의 꼬리처럼 돌돌 말렸는지 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6771",
       "srcText": "“고양이야, 내 꼬리 봤니? 고양이야, 고양이야, 내 꼬리 봤냐니까.” “야옹! 네 꼬리 못 봤어!”",
       "srcPage": 16,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "고양이,꼬리",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤는지 물어봤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "내 꼬리를 봤냐는 물음에 고양이는 어떤 반응을 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "못 봤다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6768",
       "srcText": "“뱀아, 내 꼬리 봤니?” “내 꼬리처럼 아주아주 길어?” “아니, 이렇게 길지는 않아.”",
       "srcPage": 10,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "뱀,꼬리",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤는지 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뱀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "꼬리를 봤냐는 질문에 뱀은 뭐라고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼬리가 길었는지 물어봤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6772",
       "srcText": "“깜짝이야! 내 꼬리는 어디 있는 거야?” 어? 도마뱀아, 뒤 좀 돌아봐. “야호! 찾았다, 내 꼬리! 예전 꼬리랑 조금 다르지만, 맘에 들어. 이제 잃어버리지 않을 거야.”",
       "srcPage": 18,
       "srcSentenceEA": 6,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "꼬리,도마뱀",
+      "setting": null,
+      "action": "돌아봐",
+      "feeling": "깜짝이야",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "도마뱀이 찾고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼬리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "도마뱀은 어떻게 꼬리를 찾을 수 있었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뒤 좀 돌아보라고 해서 봤더니 꼬리가 생겼어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "꼬리를 찾은 도마뱀은 어떤 기분이 들었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예전 꼬리랑 조금 다르지만 마음에 들어 기분이 좋았을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6767",
       "srcText": "“토끼야, 내 꼬리 봤니?” “내 꼬리처럼 동그랗게 생겼니?” “아니, 내 꼬리는 길쭉해.”",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 12
+      "srcWordEA": 12,
+      "character": "토끼,꼬리",
+      "setting": null,
+      "action": "봤니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내 꼬리는 길쭉해",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 내 꼬리를 봤는지 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "꼬리를 봤냐는 물음에 토끼는 어떤 반응을 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "토끼의 꼬리처럼 동그랗게 생겼는지 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "토끼는 길쭉한 꼬리를 봤을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "보지 못했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

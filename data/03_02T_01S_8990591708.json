@@ -1,0 +1,70 @@
+﻿{
+  "title": "눈 속에서도 푸른 소나무",
+  "author": "채영숙, 김미선",
+  "illustrator": "정보 없음",
+  "isbn": "8990591708",
+  "publishedYear": 2003,
+  "publisher": "생각의 샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48247",
+      "srcText": "산과 들이 온통 단풍으로 물들어도 소나무는 한결같이 푸른빛을 간직합니다. 가을이 깊어 갈잎나무들이 잎을 다 떨어뜨릴 때에도 소나무는 여전히 푸른 잎을 자랑합니다. 하얀 눈이 온 세상을 뒤덮는 겨울이 와도 소나무는 푸른 잎을 달고 서 있습니다.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 36,
+      "character": "단풍,소나무,갈잎나무,잎,눈",
+      "setting": "산,들,겨울,가을",
+      "action": "떨어뜨릴,달고,서 있습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "하얀 눈이 온 세상을 뒤덮는 계절은 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "겨울",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "한결같이 푸른빛을 간직한 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "가을이 깊어지면 갈잎나무들은 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": " 잎을 다 떨어뜨려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

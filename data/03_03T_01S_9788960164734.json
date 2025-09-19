@@ -1,0 +1,70 @@
+﻿{
+  "title": "도깨비가 준 요술 보자기",
+  "author": "정설아",
+  "illustrator": "고정현",
+  "isbn": "9788960164734",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "44862",
+      "srcText": "옛날 옛날, 깊은 산골에 마음씨 착한 총각이 살았대. 하루는 총각이 길을 가는데 도깨비가 불쑥 나타나 말했어. \"나랑 살자! 일 년만 살자!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23,
+      "character": "총각,도깨비",
+      "setting": null,
+      "action": "말했어,길을 가는데",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "나랑 살자! 일 년만 살자!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "옛날 깊은 산골에 마음씨 착한 누가 살고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "총각",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "도깨비가 나타나 총각에게 일 년만 살자고 말하자 총각은 뭐라고 말했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "싫다고 말했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "총각이 길을 가는데 도깨비가 불쑥 나타나 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나랑 살자. 일 년만 살자.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

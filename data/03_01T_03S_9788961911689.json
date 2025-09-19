@@ -1,0 +1,70 @@
+﻿{
+  "title": "바나나 응원단이 최고야",
+  "author": "김영아",
+  "illustrator": "김영희",
+  "isbn": "9788961911689",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47914",
+      "srcText": "해마다 가을이면 숲 속 나라에 아주 큰 축구 대회가 열려요. 올해 축구 대회에서는 원숭이 팀과 여우 팀이 맞붙게 되었지요. 원숭이 팀은 이번 대회에 꼭 이겨서 멋진 트로피를 받고 싶어 해요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 32,
+      "character": "원숭이,여우,트로피",
+      "setting": "숲속 나라",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "원숭이 팀은 이번 대회에 꼭 이겨서 멋진 트로피를 받고 싶어 해요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "올해 축구 대회에서는 원숭이 팀과 무슨 팀이 맞붙게 되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여우 팀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "이번 대회에 꼭 이겨서 멋진 트로피를 받고 싶은 원숭이 팀은 앞으로 어떻게 할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄청 열심히 이번 대회를 준비할 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "해마다 가을이면 어디에서 축구 대회가 열리나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속 나라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

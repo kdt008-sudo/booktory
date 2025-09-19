@@ -1,0 +1,56 @@
+﻿{
+  "title": "도깨비 감투",
+  "author": "예종화",
+  "illustrator": "김은경",
+  "isbn": "9788960164499",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46594",
+      "srcText": "도깨비들은 감투를 쓰며 놀았어요. 도깨비 한 명이 쓱 감투를 쓰자 몸이 감쪽같이 싹 사라졌답니다. 농부는 눈이 휘둥그레졌어요. ‘저게 바로 말로만 듣던 도깨비 감투로구나!’",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "도깨비,농부,감투",
+      "setting": null,
+      "action": "놀았어요,사라졌답니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "도깨비 한 명이 쓱 감투를 쓰자 몸이 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감쪽같이 싹 사라졌답니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "도깨비들은 무엇을 쓰며 놀았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감투",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

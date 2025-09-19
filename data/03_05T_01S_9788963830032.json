@@ -1,0 +1,101 @@
+﻿{
+  "title": "동그라미, 세모, 네모 경주차",
+  "author": "최영은",
+  "illustrator": "김태윤",
+  "isbn": "9788963830032",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16684",
+      "srcText": "삐죽삐죽 세모가 더 빨리, 더 빨리! 쌔애애애앵! 끼이이이익, 쿵! 동그라미가 끽! 네모가 끽! “세모야, 우리가 도와줄게!”",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20,
+      "character": "세모,동그라미,네모,우리",
+      "setting": null,
+      "action": "도와줄게",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "빠르게 가다가 쿵 소리가 난 건 어떤 도형이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세모",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "동그라미와 네모는 세모에게 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리가 도와주겠다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16685",
+      "srcText": "동그라미가 세모를 끌고, 네모가 세모를 밀고. 모두 함께 부르릉! 동그라미, 세모,네모! 우리 모두 1등!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "동그라미,세모,네모,우리",
+      "setting": null,
+      "action": "밀고,끌고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 1등을 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 모두",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "동그라미와 네모는 세모를 어떻게 도와주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "동그라미가 세모를 끌고, 네모가 세모를 밀어주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+﻿{
+  "title": "나에게 오줌을 누다니",
+  "author": "콩다콩",
+  "illustrator": "장은주",
+  "isbn": "9791165950170",
+  "publishedYear": 2020,
+  "publisher": "아람",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15855",
+      "srcText": "추울 떈 바람도 막아 줬지. 아주 근사한 공주님 드레스도 되어 줬는데. 돌돌돌, 김밥 놀이도 해 줬어.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "공주님 드레스,김밥",
+      "setting": null,
+      "action": "막아 줬지,놀이도 해 줬어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "공주 놀이를 할 때 무엇이 되어 주었어요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공주님 드레스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "추울 땐 어떻게 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "추울 땐 바람도 막아 줬어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15857",
+      "srcText": "너만의 작고 아늑한 집도 되어 주고, 씽씽 쌩쌩 재미있는 썰매도 되어 줬어. 그뿐이야? 술래잡기할 때도 숨겨줬잖아. 이런 나에게 오줌을 누다니. 어쩜 이럴 수 있니?",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "character": "너,집,썰매,나",
+      "setting": null,
+      "action": "숨겨줬잖아,누다니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "술래잡기할 때는 어떻게 도와주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숨겨 줬어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "씽씽 쌩쌩 재미있게 무엇이 되어 주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "썰매",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15854",
+      "srcText": "은지 너 진짜! 나에게 또 오줌을 누다니! 내가 매일매일 포근하게 안아 줬잖아.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "은지,나,너",
+      "setting": null,
+      "action": "누다니,안아 줬잖아",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "오줌을 눈 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 매일 은지에게 어떻게 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "포근하게 안아 줬어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15858",
+      "srcText": "섭섭해! 섭섭해! 정말정말 섭섭해! 그래도 네가 병아리처럼 귀여우니까 봐주는 거야. 네가 너무 사랑스러우니까 봐주는 거야!",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19,
+      "character": null,
+      "setting": null,
+      "action": null,
+      "feeling": "섭섭해,사랑스러우니까,귀여우니까",
+      "causalRelationship": null,
+      "outcomeResolution": "네가 너무 사랑스러우니까 봐주는 거야.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "섭섭한데 봐주는 이유는 무엇인가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "병아리처럼 귀엽고 너무 사랑스러우니까",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "섭섭한데 너무 사랑스러워서 어떻게 해주나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "봐주는 거야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

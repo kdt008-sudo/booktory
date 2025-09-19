@@ -1,0 +1,70 @@
+﻿{
+  "title": "미노타우로스를 물리친 테세우스",
+  "author": "서보현",
+  "illustrator": "미소노",
+  "isbn": "9791128217418",
+  "publishedYear": 2019,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48609",
+      "srcText": " 테세우스는 아버지와 떨어져 어머니의 보살핌을 받으며 자라났어요. 열여섯 살이 된 테세우스가 아버지를 궁금해하자 어머니는 테세우스를 커다란 바위 앞으로 데려갔어요. “이 바위를 들어 올려 그 아래에 있는 물건을 꺼내렴.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30,
+      "character": "테세우스,아버지,어머니,바위,물건",
+      "setting": null,
+      "action": "데려갔어요",
+      "feeling": null,
+      "causalRelationship": "열여섯 살이 된 테세우스가 아버지를 궁금해하자 어머니는 테세우스를 커다란 바위 앞으로 데려갔어요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "아버지와 떨어져 어머니의 보살핌을 받으며 자란 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "테세우스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "어머니가 테세우스를 커다란 바위 앞으로 데려간 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "열여섯 살이 된 테세우스가 아버지를 궁금해했기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "어머니는 테세우스에게 바위를 들어 올린 다음 무엇을 하라고 했나요? ",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "물건을 꺼내라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

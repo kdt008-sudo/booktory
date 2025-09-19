@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "김혜선",
   "isbn": "8990591406",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“아니, 어떤 멍청한 닭이 그랬대요?” 비둘기는 깜짝 놀라며 다시 물었습니다. “바로 저 기감 나무 아래 닭장에 사는 암탉이 그랬대요. 그 닭장 위에 사는 올빼미한테 들었으니 틀림없어요.”",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "닭,비둘기,암탉,올빼미,닭장,기감 나무",
+      "setting": null,
+      "action": "물었습니다,들었으니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "저 기감 나무 아래 닭장에 사는 암탉이 그랬다고 누구한테 들었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그 닭장 위에 사는 올빼미한테 들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "깜짝 놀라며 다시 물은 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비둘기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

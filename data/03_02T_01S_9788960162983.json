@@ -1,0 +1,56 @@
+﻿{
+  "title": "소리는 공기를 타고 ",
+  "author": "윤성은",
+  "illustrator": "김은경, 구현아",
+  "isbn": "9788960162983",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52019",
+      "srcText": "\"훈아, 나 좀 도와줘!\" 형아가 장난감을 한 아름 안고 소리쳤어요. 형아의 목소리는 물결이 동글동글 무늬를 그리며 퍼져 나가듯, 공기를 타고 훈이의 귓바퀴로 갔어요. 훈이의 귓바퀴에 닿은 소리는 귓속으로 쏙 들어가 고막을 두드렸어요. ‘훈아, 나 좀 도와줘!’ 소리가 고막을 두드리면 작은 뼈 3개가 고막의 진동을 더욱 크게 해서 달팽이처럼 생긴 관으로 전달해요.",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 56,
+      "character": "장난감,고막",
+      "setting": null,
+      "action": "소리쳤어요,두드렸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "형아의 소리치는 목소리는 훈이의 귓바퀴에 닿은 뒤 귓속의 무엇을 두드렸나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고막을 두드렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "형아가 무엇을 한 아름 안고 도와달라고 소리쳤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "장난감",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

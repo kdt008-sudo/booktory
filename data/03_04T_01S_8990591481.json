@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "박지영",
   "isbn": "8990591481",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,73 @@
       "srcText": "데이지 꽃은 슬펐어요. 장미와 튤립 같은 꽃들은 꽃밭에서 살고 있었지만 자신은 꽃밭 가장자리에 살고 있었기 때문이에요. “어머, 장미꽃이 활짝 피었네.” “이 튤립은 정말 예쁜걸.” 사람들은 꽃밭에 물을 주면서 꽃들을 칭찬했지만 데이지 꽃은 거들떠보지도 않았어요.",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "데이지 꽃,장미와 튤립 같은 꽃들",
+      "setting": "꽃밭,꽃밭 가장자리",
+      "action": "물을 주면서,살고 있었지만,거들떠보지도 않았어요",
+      "feeling": "슬펐어요,예쁜걸,칭찬했지만",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "데이지 꽃과 달리 장미와 튤립은 어디에 살고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꽃밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사람들은 데이지 꽃을 어떻게 대했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "거들떠보지도 않았습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "데이지 꽃은 왜 슬펐나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자신은 꽃밭 가장자리에 살고 있었기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사람들은 장미꽃과 튤립에게 칭찬을 하면서 무엇을 주었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

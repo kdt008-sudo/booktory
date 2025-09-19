@@ -1,0 +1,56 @@
+﻿{
+  "title": "모두 모두 또르르 쿵! ",
+  "author": "김영이",
+  "illustrator": "이미라",
+  "isbn": "9788960162990",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52045",
+      "srcText": "말썽꾸러기 멍멍이의 응 가 도 땅으로 떨어져. 식탁 위에 주스를 엎질러도 아래로 떨어져. 왜 모두 땅으로만 떨어질까? 그건 중력 때문이야. 중력이 없다면 모두 모두 공중에 둥둥 떠있을걸.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31,
+      "character": "멍멍이,주스,식탁",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "식탁 위에 주스를 엎질러도 아래로 떨어져.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "멍멍이의 응가는 무엇 때문에 땅으로 떨어지나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "중력",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "중력이 없다면 식탁 위에 엎지른 주스가 어떻게 될까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공중에 둥둥 떠있을 것입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "숲이 사라지면 ",
+  "author": "박진영",
+  "illustrator": "계창훈",
+  "isbn": "9788960162594",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51989",
+      "srcText": "숲에 가면, 초록빛 나무도 많고 예쁜 꽃도 풀도 많아요. 숲에 가면 쯔삣쯔삣! 새들도 날고, 졸졸졸 맑은 물에는 물고기들이 놀아요. 나무와 꽃이 있는 숲에는 나풀나풀 나비가 날고, 윙윙 벌들이 노래하고, 토끼랑 노루도 뛰어놀아요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 35,
+      "character": "나무,꽃,새,물고기",
+      "setting": "숲",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "졸졸졸 맑은 물에서 놀고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어디에 가면 나무, 풀, 나비, 벌, 토끼, 노루를 만날 수 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

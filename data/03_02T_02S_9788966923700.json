@@ -3,10 +3,8 @@
   "author": "하늘땅",
   "illustrator": "김도영",
   "isbn": "9788966923700",
-  "readAge": "초등_저학년",
   "publishedYear": 2012,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 5,
   "paragraphInfo": [
     {
@@ -14,35 +12,267 @@
       "srcText": "누구에게 전화를 걸까? 하나씩 천천히 누르면. 222 5558 까불까불 원숭이! 그동안 잘 지냈어?",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "전화,원숭이",
+      "setting": null,
+      "action": "걸까,누르면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "까불까불 원숭이! 그동안 잘 지냈어?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구에게 전화를 걸었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "원숭이와 통화하려면 어떻게 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "원숭이 번호를 하나씩 천천히 눌러요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구한테 전화를 했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "원숭이한테 전화했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4919",
       "srcText": "이제 친구들에게 전화를 걸어 볼까? 전화번호는 내가 마음대로 정할 거야. 그림 딱지 책에서 원하는 전화번호를 찾아 휴대 전화에 붙여 주세요. 그다음, 나머지 숫자도 모두 붙여 주세요. 그림 딱지 책에 있는 여러 친구들의 그림을 떼었다 붙이면서 휴대 전화 놀이를 할 수 있습니다",
       "srcPage": 11,
       "srcSentenceEA": 5,
-      "srcWordEA": 45
+      "srcWordEA": 45,
+      "character": "친구들,그림 딱지 책,휴대 전화",
+      "setting": null,
+      "action": "걸어 볼까,정할 거야,찾아,붙여 주세요,떼었다 붙이면서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구에게 전화를 걸려고 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "친구들의 그림을 떼었다 붙이면서 무엇을 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "휴대 전화 놀이를 하고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "6425",
       "srcText": "이번엔 누구에게 전화를 걸까? 하나씩 차례차례 누르면. 3336699 파리야, 정말 반가워!",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 13
+      "srcWordEA": 13,
+      "character": "전화,파리",
+      "setting": null,
+      "action": "걸까,누르면",
+      "feeling": "반가워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이번엔 누구에게 전화를 걸까?",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구에게 전화를 걸었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "파리한테 전화를 하려면 어떻게 해야 할까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "번호를 하나씩 차례차례 눌러요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "파리와 전화하면 어떤 마음이 들까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "반가운 마음",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "이번엔 누구에게 전화를 걸었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "파리에게 전화를 걸었을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4916",
       "srcText": "새로 생긴 내 휴대 전화! 그때그때 모양이 변하는 내 맘대로 전화야. 누구에게 전화를 걸까? 하나씩 꾹꾹 누르면. 123-1234 별별 공주님 안녕?",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "휴대 전화,별별 공주님",
+      "setting": null,
+      "action": "변하는,전화를 걸까,꾹꾹 누르면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "나에게 새로 생긴 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "휴대 전화",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구에게 전화를 걸까요? ",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "별별 공주님에게 전화를 걸었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4918",
       "srcText": "우리 집에 전화를 걸어 볼까? 그림 딱지 책에서 집 전화번호의 숫자를 찾아 휴대 전화에 붙여 주세요. 그다음, 나머지 숫자도 모두 붙여 주세요. 이곳에 글자 딱지를 찾아서 붙여 주세요.",
       "srcPage": 9,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "우리 집,전화,그림 딱지 책,휴대 전화",
+      "setting": null,
+      "action": "걸어 볼까,붙여 주세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어디에 전화를 걸고 싶은가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "집 전화번호의 숫자를 찾아서 휴대 전화에 붙이면 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리 집에 전화를 걸 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

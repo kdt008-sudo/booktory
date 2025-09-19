@@ -1,0 +1,70 @@
+﻿{
+  "title": "아기는 어떻게 태어날까? ",
+  "author": "강용숙",
+  "illustrator": "황현철",
+  "isbn": "9788960162570",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49271",
+      "srcText": "\"그래서 아기가 되는 거야?\" \"아니. 엄마 아기집 속에는 아기씨가 하나 있는데, 아빠의 아기씨 하나만 만나 주거든.”\" 야호, 성공이다! \"아하! 둘이 만나야만 완전한 아기씨가 되는 거로구나.\" \"맞아. 아기씨 두 개가 서로 합쳐져서 아기로 자라는 거야.\"",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 38,
+      "character": "아기,엄마 아기집,아기씨,아빠",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "엄마 아기집 속에는 아기씨가 하나 있는데, 아빠의 아기씨 하나만 만나 주거든.",
+      "outcomeResolution": "맞아. 아기씨 두 개가 서로 합쳐져서 아기로 자라는 거야.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아빠의 아기씨 하나만 만나 주는 이유는 무엇일까요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마 아기집 속에는 아기씨가 하나 있기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마 아기집 속에는 무엇이 하나 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기씨 두 개가 서로 합쳐지면 어떻게 될까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아기로 자란다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

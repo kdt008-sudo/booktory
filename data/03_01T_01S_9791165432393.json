@@ -1,0 +1,160 @@
+﻿{
+  "title": "공 좀 잡아 줘!",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432393",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "10547",
+      "srcText": "“어, 어! 내 공!” 공이 나무 위로 휘익! “원숭이야, 내 공 좀 잡아 줘.” 공이 통나무 다리 아래로 데굴데굴. “다람쥐야, 내 공 좀 잡아 줘.”",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "character": "원숭이,다람쥐,공,통나무 다리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "내 공 좀 잡아 줘,공이 통나무 다리 아래로 데굴데굴",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "다람쥐는 나무 위로 올라간 공을 누구에게 잡아달라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "다람쥐에게 잡아달라고 한 공은 어떻게 움직였나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "통나무 다리 아래로 데굴데굴 굴러갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "10549",
+      "srcText": "공이 연못 안으로 퐁당! “내가 도와줄게.” 개구리가 연못 밖으로 공을 톡! “우리 공놀이하자!” 모두 함께 공을 가지고 사이좋게 놀아요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "character": "개구리,공",
+      "setting": null,
+      "action": "공놀이하자,사이좋게 놀아요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "공이 연못 안으로 퐁당,내가 도와줄게,개구리가 연못 밖으로 공을 톡",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "공이 연못 안으로 퐁당 들어가자 누가 도와준다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개구리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "연못 밖으로 나온 공으로 모두 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "함께 공을 가지고 사이좋게 놀아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "개구리가 연못 안에 있는 공을 꺼낼 수 있었던 이유는 무엇일까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "개구리는 물에서 헤엄을 잘 칠 수 있기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "10548",
+      "srcText": "공이 수풀 앞으로 데굴데굴. “거북아, 내 공 좀 잡아 줘.” 공이 바위 뒤로 데굴데굴. “여우야, 내 공 좀 잡아 줘.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "character": "거북아,여우야,공",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "공이 수풀 앞으로 데굴데굴,공이 바위 뒤로 데굴데굴,내 공 좀 잡아 줘",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여우는 수풀 앞으로 데굴데굴 굴러간 공을 누구에게 잡아달라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거북",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여우에게 잡아달라고 한 공은 어떻게 움직였나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바위 뒤로 데굴데굴 굴러갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

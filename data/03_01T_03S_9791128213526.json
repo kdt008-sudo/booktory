@@ -1,0 +1,84 @@
+﻿{
+  "title": "황새의 꽁지",
+  "author": "최향숙",
+  "illustrator": "김연주",
+  "isbn": "9791128213526",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48544",
+      "srcText": "까악까악! 귀맛 좋은 까치 소리가 울려 퍼지는 아침, 여우 한 마리가 어슬렁어슬렁 까치 둥지를 기웃거렸어요. 여우는 까치를 향해 으르렁거리며 소리쳤어요. “새끼 한 마리만 주면 나머진 살려 주지!” ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29,
+      "character": "까치,여우,새끼 한 마리",
+      "setting": "아침,까치 둥지",
+      "action": "울려 퍼지는,기웃거렸어요,소리쳤어요,살려 주지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "새끼 한 마리만 주면 나머진 살려 주지!",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "까치 둥지를 어슬렁거리던 여우는 까치에게 뭐라고 소리쳤나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새끼 한 마리만 주면 나머진 살려 주지!",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "누가 까지 둥지를 기웃거렸나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "새끼를 빼앗으려는 여우를 본 까치는 어떤 기분이었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무섭고 속상했을 거 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "여우는 까치를 향해 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "으르렁거리며 소리쳤어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

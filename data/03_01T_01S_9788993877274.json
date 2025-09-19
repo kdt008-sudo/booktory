@@ -1,0 +1,101 @@
+﻿{
+  "title": "좋아해 좋아해",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877274",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14399",
+      "srcText": "사과는 햇빛을 좋아해! 원숭이는 바나나를 좋아해! 애벌레는 나뭇잎을 좋아해! 나비는 꽃을 좋아해!",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "사과,원숭이,애벌레,나비,나뭇잎,꽃",
+      "setting": null,
+      "action": null,
+      "feeling": "좋아해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "햇빛을 좋아하는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사과",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "애벌레는 나뭇잎을 어떻게 생각하나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좋아해",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14400",
+      "srcText": "염소는 풀을 좋아해! 말은 당근을 좋아해! 동생은 구름을 좋아해! 나는 무지개를 좋아해!",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "염소,말,동생,나",
+      "setting": null,
+      "action": null,
+      "feeling": "좋아해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "말이 좋아하는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "당근",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "동생은 구름에게 어떤 느낌을 가지고 있나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "좋아해",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+﻿{
+  "title": "산책하자 랄랄라",
+  "author": "기타모리 노리코",
+  "illustrator": "기타모리 노리코",
+  "isbn": "9788997300686",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7415",
+      "srcText": "개미야 개미야, 우리 함께 산책하자. 꼬물꼬물 랄랄라 비둘기야 비둘기야, 우리 함께 산책하자. 구구구구 랄랄라 고양이야 고양이야, 우리 함께 산책하자. 야옹야옹 랄랄라.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "개미,비둘기,고양이,우리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리 함께 산책하자",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "개미와 고양이 외에 누구에게 함께 산책하자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비둘기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "날아다니는 비둘기와는 함께 어떻게 산책했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "구구구구 소리와 함께 날갯짓하는 흉내를 내며 산책했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7414",
+      "srcText": "노래를 부르며 산책하자. 사뿐사뿐 랄랄라 나비야 나비야, 우리 함께 산책하자. 팔랑팔랑 랄랄라 메뚜기야 메뚜기야, 우리 함께 산책하자. 폴짝폴짝 랄랄라.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "나비,메뚜기,우리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리 함께 산책하자.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나비와 누구에게 함께 산책하자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "메뚜기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "메뚜기와 어떻게 산책을 했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "폴짝폴짝 메뚜기처럼 뛰면서 산책했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

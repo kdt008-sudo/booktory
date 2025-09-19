@@ -3,10 +3,8 @@
   "author": "최옥임",
   "illustrator": "오승민",
   "isbn": "9791188491117",
-  "readAge": "초등_저학년",
   "publishedYear": 2019,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 5,
   "paragraphInfo": [
     {
@@ -14,35 +12,239 @@
       "srcText": "만약에 종이로 만들었다면, 구깃구깃 쉽게 망가지고 예쁘지도 않을 거야. 씽씽 붕붕 자동차와 비행기! 빠르게 달리고, 안전하게 날지.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "종이,자동차,비행기",
+      "setting": null,
+      "action": "달리고,날지",
+      "feeling": "예쁘지도",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "단단한 자동차는 어떻게 이동하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빠르게 달려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "비행기와 자동차를 종이로 만들었다면 어떻게 됐을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "쉽게 망가지고 예쁘지도 않을 거에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "철로 만들어서 안전하게 날아가는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비행기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40586",
       "srcText": "만약에 고무로 만들었다면, 흐물흐물 소시지 하나도 못 자를 거야. 우그렁쭈그렁 포일과 깡통! 짜부라졌다 펴졌다 변신도 잘하지.",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "고무,소시지,포일,깡통",
+      "setting": null,
+      "action": "짜부라졌다 펴졌다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇으로 만들면 소시지 하나도 못 자를까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "포일과 깡통은 어떻게 하며 변신을 잘하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "짜부라졌다 펴졌다 하며 변신해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40587",
       "srcText": "만약에 나무로 만들었다면, 화르르 금방 불에 타 버리고 말 거야. 매끈매끈 반짝반짝 금 목걸이와 금반지! 잘 변하지 않고 깨지지도 않지.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "나무,금 목걸이,금반지,불",
+      "setting": null,
+      "action": "타 버리고,변하지 않고 깨지지도 않지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "금 목걸이와 무엇이 잘 변하지 않고 깨지지도 않나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "금반지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "나무로 만들었다면 불에 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "불에 타 버리고 말 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40588",
       "srcText": "만약에 플라스틱으로 만들었다면, 밟기만 해도 오지끈 금이 가 버리고 말 거야. 반짝반짝, 우그렁쭈그렁, 탄탄한 변신쟁이 금속. 우리가 금속이라서 정말 다행이지?",
       "srcPage": 15,
       "srcSentenceEA": 3,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "플라스틱,금속,우리",
+      "setting": null,
+      "action": null,
+      "feeling": "다행이지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇으로 만들었다면 밟기만 해도 금이 갈까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "플라스틱",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "변신쟁이 금속으로 만들어진 제품들은 우리 생활에 어떤 도움이 되나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "편리하고 다행스러워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40583",
       "srcText": "만약에 스티로폼으로 만들었다면, 바람에 휘휘 날아가 버리고 말 거야. 숭덩숭덩 싹둑싹둑 칼과 가위! 단단하고 질긴 것도 쉽게 자르지.",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "스티로폼,칼,가위",
+      "setting": null,
+      "action": "날아가 버리고,자르지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇으로 만들었다면 바람에 날아가 버릴까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스티로폼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "칼과 가위는 금속으로 만들어져 어떤 점이 좋나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "단단하고 질긴 것도 쉽게 자를수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

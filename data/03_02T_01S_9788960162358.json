@@ -1,0 +1,56 @@
+﻿{
+  "title": "땅 속에 누가 살까? ",
+  "author": "김영이",
+  "illustrator": "신승희, 공휘, 유인경",
+  "isbn": "9788960162358",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51964",
+      "srcText": "낙엽 밑에는 누가 누가 살까요? 뿡뿡 방귀쟁이 노래기, 발이 많은 기다란 지네, 몸을 공처럼 또르르 마는 공벌레도 살아요. 나무가 뿌리를 박고 있는 땅속에는 누가 누가 살까요? 맴맴! 매미의 애벌레가 나무뿌리에서 즙을 빨아먹고, 지렁이는 흙을 먹고 살아요.",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 40,
+      "character": "낙엽,노래기,지네,공벌레,매미,지렁이",
+      "setting": null,
+      "action": "즙을 빨아먹고,흙을 먹고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "노래기, 지네, 공벌레는 어디에서 사나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낙엽 밑",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "매미의 애벌레는 어디에서 즙을 빨아 먹나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": " 나무 뿌리에서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

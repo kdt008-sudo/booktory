@@ -1,0 +1,70 @@
+﻿{
+  "title": "잠자는 숲 속의 공주",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "전상우",
+  "isbn": "9791159424724",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47565",
+      "srcText": "옛날 어느 나라에 공주가 태어났어요. 왕과 왕비는 너무너무 기뻤어요. “여봐라, 어서 잔치를 열어라!”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "공주,왕,왕비",
+      "setting": "옛날,어느 나라",
+      "action": null,
+      "feeling": "기뻤어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "옛날 공주가 태어난 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어느 나라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "왕과 왕비는 너무 기뻐서 뭐라고 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": " 어서 잔치를 열어라!",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "왕과 왕비는 왜 기뻤나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공주가 태어났기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

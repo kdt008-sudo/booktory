@@ -3,10 +3,8 @@
   "author": "강윤정",
   "illustrator": "이혜경",
   "isbn": "8990591376",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "달그락달그락. 호야의 방에서 소리가 새어 나왔어요. “호야, 뭐하니?” 엄마가 살그머니 방문을 열며 물었습니다.",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "호야,엄마,방문",
+      "setting": "방에서",
+      "action": "소리가 새어 나왔어요,방문을 열며,물었습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마는 누구에게  무엇을 하는지 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호야",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마가 살그머니 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "방문을 열었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "어디에서 소리가 새어 나왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호야의 방",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

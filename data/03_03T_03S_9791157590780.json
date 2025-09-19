@@ -1,0 +1,70 @@
+﻿{
+  "title": "괜찮아 엄마, 안 돼 엄마",
+  "author": "장선혜",
+  "illustrator": "노성빈",
+  "isbn": "9791157590780",
+  "publishedYear": 2015,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48897",
+      "srcText": "엄마는 깜짝 놀라 뒤로 물러났어. “엄마한테 왜 그래?” 나도 깜짝 놀랐어. 하지만 내 입에서는 계속 말이 나왔어. “엄마는 만날 나한테 ‘안 돼, 하지 마!’ 하잖아. 다른 친구들 엄마는 괜찮다고 할 때도 엄마는 안 된다고, 하지 말라고 하잖아. 나도 엄마처럼 만날 ‘안 돼, 하지 마!’ 할 거야!”",
+      "srcPage": 4,
+      "srcSentenceEA": 9,
+      "srcWordEA": 52,
+      "character": "엄마,나,친구들",
+      "setting": null,
+      "action": "물러났어,말이 나왔어",
+      "feeling": "깜짝 놀라",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "엄마는 깜짝 놀라 어떻게 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마한테 왜 그러냐며 뒤로 물러났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "나도 깜짝 놀랐지만 어떻게 됐나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "입에서 게속 말이 나왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "엄마는 나한테 만날 뭐라고 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안된다고 하지 말라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

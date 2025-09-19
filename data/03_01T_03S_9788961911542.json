@@ -1,0 +1,70 @@
+﻿{
+  "title": "뿌뿌의 인사",
+  "author": "김세실",
+  "illustrator": "이종균",
+  "isbn": "9788961911542",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48583",
+      "srcText": "아침 햇살이 반짝거리는 어느 날, 아기 코끼리 뿌뿌가 산책을 하고 있었어요. 뿌뿌는 모래 목욕을 하고 있는 할아버지 코끼리를 보고 반갑게 인사했지요. “할아버지, 안녕하세요?” “그래.” 할아버지 코끼리가 무뚝뚝하게 대답했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30,
+      "character": "뿌뿌,할아버지,코끼리,모래 목욕",
+      "setting": "어느 날",
+      "action": "보고,인사했지요,대답했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "할아버지 코끼리는 무엇을 하고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모래 목욕",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "산책하던 뿌뿌는 할아버지 코끼리를 보고 무얼 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "반갑게 인사했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "아침 햇살이 반짝거리는 어느 날 뿌뿌는 무얼 하고 있나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산책을 하고 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

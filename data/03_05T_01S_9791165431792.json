@@ -1,0 +1,115 @@
+﻿{
+  "title": "치카치카 뽀드득",
+  "author": "최은미",
+  "illustrator": "하루",
+  "isbn": "9791165431792",
+  "publishedYear": 2020,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6281",
+      "srcText": "혀를 닦자, 골골골! 쓰윽쓰윽 깨끗이, 싸악싸악 깨끗이! 이 사이를 실실실! 사이사이 실실실, 쓱싹쓱싹 실실실!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "혀",
+      "setting": "이 사이",
+      "action": "혀를 닦자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "싸악싸악 깨끗이 닦으려는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "혀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "실실실 닦으려는 부위는 어느 곳인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이 사이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "열심히 하려고 하는 행동은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "혀를 닦으려고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "6280",
+      "srcText": "이를 닦자, 히히힝! 치카치카 위에서 아래로, 치카치카 아래에서 위로! 이를 닦자, 흥흥흥! 치카치카 왔다, 갔다! 위아래를 왔다, 갔다!",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "character": "이",
+      "setting": null,
+      "action": "이를 닦자,위에서 아래로,아래에서 위로,왔다,갔다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "위에서 아래로 왔다 갔다 닦으려는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "히히힝 흥흥흥 하며 무엇을 하려고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이를 닦으려고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

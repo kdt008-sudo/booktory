@@ -1,0 +1,56 @@
+﻿{
+  "title": "곤충도 귀가 있을까? ",
+  "author": "예종화",
+  "illustrator": "김영은",
+  "isbn": "9788960163225",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51985",
+      "srcText": "우리는 귀로 소리를 들어. '야호!' 소리치면 소리의 진동이 공기 속을 물결처럼 퍼져서 귓속으로 들어오기 때문이야. 동물들은 귀가 머리에 있어. 아래에 있는 길고 짧고 둥근 귀들은 누구의 귀일까? 알아맞혀 봐. 곤충도 귀가 있을까? 암컷 귀뚜라미는 귀가 앞다리에 있어. 꼭 하얀 쌀알처럼 생겼지. 깜깜한 밤, 귀뚤귀뚤 소리가 들리면 '아, 남자 친구다.' 하고 암컷 귀뚜라미는 금방 알아채지. 귀가 배에 있는 곤충도 있어. 메뚜기의 귀. 첫째 배마디 양쪽에 하나씩 있어. 암매미의 귀는 어디 있을까? 넓적한 배딱지 밑에 있어. 수컷이 맴맴 노래부르면 조용히 듣기만 해. 소리를 못 내기 때문이야. 귀가 있는 곤충은 많지 않아. 대개는 더듬이나 털로 소리의 진동을 느껴서 알지. 누에나방은 냄새 맡는 천재야. 소리를 내지도 듣지도 못하지만 더듬이로 냄새를 맡고 암컷을 잘도 찾아가.",
+      "srcPage": 11,
+      "srcSentenceEA": 22,
+      "srcWordEA": 130,
+      "character": "귀,동물,머리,곤충,귀뚜라미,메뚜기,누에나방",
+      "setting": null,
+      "action": "맴맴 노래부르면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "냄새 맡는 천재이자, 더듬이로 냄새를 맡고 암컷을 찾아가는 곤충은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "누에나방",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "수컷이 맴맴 노래를 불러도 소리를 못 내고 듣기만 하는 암매미의 귀는 어디에 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "넓적한 배딱지 밑",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

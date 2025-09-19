@@ -3,10 +3,8 @@
   "author": "양승완",
   "illustrator": "전복순",
   "isbn": "8990591430",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "친구들로부터 도망친 개구리는 외떨어진 바위를 찾아갔어요. “이제 난 날 수 있을 거야!” 개구리는 힘차게 팔을 휘두르며 바위 꼭대기에서 뛰어내렸어요.",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "친구들,개구리,바위,팔",
+      "setting": null,
+      "action": "찾아갔어요,뛰어내렸어요,휘두르며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "개구리는 힘차게 팔을 휘두르며 바위 꼭대기에서 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뛰어내렸어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "개구리는 누구로부터 도망쳤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,70 @@
+﻿{
+  "title": "선비를 살려 준 꾀 많은 토끼",
+  "author": "강용숙",
+  "illustrator": "정영희",
+  "isbn": "9788960164628",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46669",
+      "srcText": "아주 먼 옛날, 한 나그네가 깊은 숲 속을 지날 때였어요. 어디선가 어흥어흥 호랑이 우는 소리가 들렸어요. 소리 나는 쪽으로 조심조심 가 보니 깊은 구덩이에 큰 호랑이가 빠져 있지 뭐예요. “제발, 날 좀 살려 주세요.” 호랑이가 나그네를 보고 사정했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 41,
+      "character": "호랑이,나그네",
+      "setting": "숲 속",
+      "action": "사정했어요,지날,가 보니,빠져,들렸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아주 먼 옛날, 한 나그네가 어디를 지나가고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 2,
+          "ansM1": "숲 속",
+          "ansM2": "깊은 숲 속",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "깊은 구덩이에 빠진 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호랑이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "나그네는 어흥어흥 호랑이 오는 소리를 듣고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "소리 나는 쪽으로 조심조심 가보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

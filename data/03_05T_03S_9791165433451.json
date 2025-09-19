@@ -1,0 +1,70 @@
+﻿{
+  "title": "메주로 보물을 만들어요",
+  "author": "윤지연",
+  "illustrator": "홍우리",
+  "isbn": "9791165433451",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48624",
+      "srcText": " 마을 사또가 입맛이 똑 떨어졌대. 아무리 맛있는 걸 바쳐도 통 먹으려 하지 않자 관아가 들썩들썩 난리가 났어. ‘음식 솜씨가 좋은 사람들은 음식을 하러 관아로 오라!’ 마을 곳곳에 방을 붙였어.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33,
+      "character": "사또,사람들,관아",
+      "setting": "마을",
+      "action": "오라,입맛이 똑 떨어졌대,하러,붙였어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_고학년",
+          "question": "아무리 맛있는 걸 바쳐도 통 먹으려 하지 않자, 어디에서 난리가 났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "관아",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_고학년",
+          "question": "음식 솜씨가 좋은 사람들은 무엇을 하러 오라고 방을 붙였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "음식을 하러 관아로 오라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_고학년",
+          "question": "마을의 누가 입맛이 똑 떨어졌나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사또",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

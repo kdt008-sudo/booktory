@@ -1,0 +1,160 @@
+﻿{
+  "title": "엄마, 사랑해요!",
+  "author": "마리아 베어,소냐 발라프",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828894",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "27327",
+      "srcText": "“엄마랑 있으면 무섭지 않아요.” 아기 타조는 엄마의 커다란 그늘을 제일 좋아해요. “엄마 뿔이 제일 멋져요.” 아기 코뿔소는 빨리빨리 자라서 엄마처럼 커다란 뿔을 갖고 싶어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "엄마,아기 타조,엄마 뿔,아기 코뿔소",
+      "setting": null,
+      "action": null,
+      "feeling": "좋아해요,무섭지 않아요,멋져요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨리빨리 자라서 엄마처럼 커다란 뿔을 갖고 싶다고 한 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 코뿔소",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 타조는 엄마랑 있으면 기분이 어떤가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무섭지 않아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27328",
+      "srcText": "“엄마가 제일 좋아요.” 아기 왈라비는 엄마의 주머니 속을 세상에서 제일 좋아해요. 아기 동물들은 엄마랑 같이 있을 때 가장 행복하답니다.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21,
+      "character": "엄마,아기 왈라비,주머니,아기 동물들",
+      "setting": null,
+      "action": null,
+      "feeling": "좋아해요,행복하답니다,좋아요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마의 주머니 속을 세상에서 제일 좋아하는 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 왈라비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마랑 같이 있을 때 아기 동물들의 기분은 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "제일 좋아하는 엄마랑 같이 있어서 행복해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 동물들이 가장 행복할 때는 누구랑 같이 있을 때인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27326",
+      "srcText": "“엄마, 자장가 불러 주세요.” 아기 판다가 엄마 품에 안겨요. “엄마, 졸려요.” 아기 원숭이가 새근새근 엄마 등에서 잠을 자요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "엄마,아기 판다,아기 원숭이,등",
+      "setting": null,
+      "action": "불러,안겨요,잠을 자요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "자장가를 불러 달라며 엄마 품에 안긴 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 판다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 원숭이는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마 등에서 새근새근 잠을 자요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

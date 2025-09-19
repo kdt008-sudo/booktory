@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "이미라",
   "isbn": "8990591023",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“우리 똘이가 왜 화가 났을까?” 외출했던 할머니가 들어오시며 물었어요. “엄만 동생만 좋아해.” 똘이의 눈에서 눈물방울이 뚝 떨어졌습니다. “옳아, 그래서 화가 난 게로구나.”",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "똘이,할머니,눈,동생",
+      "setting": null,
+      "action": "물었어요,눈물방울이 뚝 떨어졌습니다",
+      "feeling": "좋아해,화가 났을까",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "할머니가 물어보자 똘이는 대답하면서 어떤 행동을 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "똘이의 눈에서 눈물방울이 뚝 떨어졌습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 똘이에게 화가 난 이유를 물어보았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "똘이가 화난 이유는 무엇이었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마가 동생만 좋아하기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

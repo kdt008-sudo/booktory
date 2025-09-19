@@ -1,0 +1,70 @@
+﻿{
+  "title": "아빠랑 있으면",
+  "author": "신연미",
+  "illustrator": "김동훈",
+  "isbn": "9788993828054",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16073",
+      "srcText": "아빠랑 있으면 뭐든 될 수 있어요. 키가 큰 기린도 되고, 휘리릭 휙! 하늘을 나는 독수리도 되고, 대롱대롱 나무에 매달린 원숭이도 되고, 느릿느릿 엄마 등에 업힌 아기 코알라도 되고, 거꾸로 만세! 거꾸로 매달린 박쥐도 될 수 있어요. 아빠랑 있으면 참 재미나지요. 사랑해요, 아빠!",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 47,
+      "character": "아빠,기린,하늘,독수리,나무,원숭이,엄마,코알라,박쥐",
+      "setting": null,
+      "action": "될 수 있어요,되고,매달린,업힌",
+      "feeling": "재미나지요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뭐든 될  수 있는 건 누구랑 같이 있을 때인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "아빠 팔에 매달리면 나는 무엇이 될 수 있을까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "대롱대롱 나무에 매달린 원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "아빠와 있을 때 기분은 어떤가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아빠랑 있으면 정말 재미있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

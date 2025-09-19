@@ -1,0 +1,56 @@
+﻿{
+  "title": "엄마 오리를 찾아서 ",
+  "author": "예종화",
+  "illustrator": "이지은",
+  "isbn": "9788960163249",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51830",
+      "srcText": "“아줌마, 혹시 우리 엄마 봤어요?” 아기 오리가 엄마 소의 뭉툭한 발을 보다가 물었어요. 엄마 소는 들은 척도 안 했어요. “이잉! 내 말은 듣지도 않아.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "오리,발,소",
+      "setting": null,
+      "action": "물었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 오리는 엄마 소에게 무엇을 물었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아기 오리의 엄마를 봤는지 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 오리는 엄마 소의 무엇을 보고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뭉툭한 발",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

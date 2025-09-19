@@ -1,0 +1,101 @@
+﻿{
+  "title": "모두 함께 끙끙!",
+  "author": "신연미",
+  "illustrator": "삼식이",
+  "isbn": "9791165432195",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "22430",
+      "srcText": "토끼야, 별 모양 들고 어디 가니? 원숭이야, 하트 모양 들고 어디 가니? 여러 가지 모양을 변기에 꼭꼭 끼워서, 모두 함께 끙끙!",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "토끼,원숭이,별,하트,변기",
+      "setting": null,
+      "action": "들고,가니,꼭꼭 끼워서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "하트 모양을 들고 가는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "토끼, 원숭이가 여러가지 모양을 들고 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "별과 하트 모양을 들고 변기에 꼭꼭 끼웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "22429",
+      "srcText": "곰아, 동그라미 들고 어디 가니? 악어야, 세모 들고 어디 가니? 코끼리야, 네모 들고 어디 가니?",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "곰,악어,코끼리,동그라미,세모,네모",
+      "setting": null,
+      "action": "들고,가니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "악어는 무엇을 들고 가고 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세모",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "네모를 들고 가는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

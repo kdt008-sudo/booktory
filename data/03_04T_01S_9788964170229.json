@@ -3,10 +3,8 @@
   "author": "우와조아",
   "illustrator": "김미나",
   "isbn": "9788964170229",
-  "readAge": "유아",
   "publishedYear": 2009,
   "publisher": "어깨동무",
-  "classification": "예술경험",
   "paragraphInfoCount": 11,
   "paragraphInfo": [
     {
@@ -14,77 +12,509 @@
       "srcText": "작은 새는 더 높이 보고 싶었어요. 출렁출렁 바닷물을 따라 움직였어요. \"이제 날아볼까?\"",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 13
+      "srcWordEA": 13,
+      "character": "작은 새,바닷물",
+      "setting": null,
+      "action": "움직였어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 더 높이 보고 싶어 날아보려고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "작은 새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "작은 새는 출렁출렁 바닷물을 따라 어떻게 행동하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "출렁거리는 바닷물을 따라서 움직였습니다. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16408",
       "srcText": "물고기는 슬펐어요. 큰 눈만 끔뻑 끔뻑거렸지요. \"나도 날 수 있을까?\"",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 11
+      "srcWordEA": 11,
+      "character": "물고기,눈",
+      "setting": null,
+      "action": null,
+      "feeling": "슬펐어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "물고기는 무엇을 끔뻑 끔뻑거렸나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "날 수 없는 물고기는 기분이 어땠을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "큰 눈만 끔뻑거리며 슬펐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16412",
       "srcText": "\"와! 정말 멋있다.\" 작은 새는 바다 위를 둥둥 떠다녔어요. 두리번두리번 열심히 구경했지요.",
       "srcPage": 10,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "작은 새,바다 위",
+      "setting": null,
+      "action": "떠다녔어요,구경했지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 바다 위를 둥둥 떠다녔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "작은 새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "바다 위로 올라간 작은 새는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바다 위를 두리번두리번 열심히 구경했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16407",
       "srcText": "하지만 물고기는 날개가 없었어요. 또 물 밖에 나오면 숨도 못 쉴 거예요. \"어떡하면 좋지?\"",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "물고기,날개,물",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "하지만 물고기는 날개가 없었어요. 또 물 밖에 나오면 숨도 못 쉴 거예요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "물고기가 물 밖으로 나오면 어떻게 될까요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숨을 쉴 수 없어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "날개가 없는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16410",
       "srcText": "작고, 예쁜 새가 되었어요. \"내가 새가 되었어!\" 물고기는 꿈만 같았어요. 새가 된 물고기는 바닷속을 나왔지요.",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "새,물고기,바닷속",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "새가 된 물고기는 바닷속을 나왔지요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "물고기는 무엇이 되었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새가 된 물고기는 바닷속을 나와서 어떻게 됐나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "날 수 있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16416",
       "srcText": "새는 날 준비를 했어요. 한 쪽 날개를 푸득푸득, 다른 쪽 날개를 푸득푸득. 드디어 새는 큰 날개를 활짝 펴고, 날아올랐어요. 노을이 진 하늘은 온통 금빛이었지요. 물고기는 꿈을 이룬 거예요.",
       "srcPage": 13,
       "srcSentenceEA": 5,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "새,날개,물고기",
+      "setting": null,
+      "action": "날아올랐어요",
+      "feeling": null,
+      "causalRelationship": "새는 날 준비를 했어요.드디어 새는 큰 날개를 활짝 펴고, 날아올랐어요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "하늘을 날아올라 꿈을 이룬 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "드디어 새는 큰 날개를 활짝 펴고 무엇을 하였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "날아올랐어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새는 날 준비를 한 다음 어떻게 되었나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새는 큰 날개를 활짝 펴고 날아오르게 됐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16409",
       "srcText": "물고기는 하늘을 나는 상상을 했어요. 물고기의 몸이 점점 변했지요. 변하고, 변해서.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 13
+      "srcWordEA": 13,
+      "character": "물고기,하늘,몸",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "물고기의 몸이 점점 변했지요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 하늘을 나는 상상을 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "물고기의 몸이 점점 변해서 어떻게 됐을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새처럼 날개가 생겼을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16405",
       "srcText": "파닥파닥 물고기가 소문을 들었어요. 물고기도 무척 날고 싶었지요. \"바다 위엔 무엇이 있을까?\" 언제나 궁금했어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "물고기,바다",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "바다 위엔 무엇이 있을까?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 무척 날고 싶었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "바다 위에는 무엇이 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바다 위에는 나무도 있고 사람도 있을 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16411",
       "srcText": "바다 위에 올라간 물고기는 신이 났어요. 살랑살랑 바람이 불었지요. 물고기는 바람도, 빛도 신기했어요.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "바다 위,물고기",
+      "setting": null,
+      "action": null,
+      "feeling": "신이 났어요,신기했어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 바다 위에 올라갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물고기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "바다 위에 올라간 물고기는 바람과 빛을 보며 어떻게 느꼈나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바람과 빛이 신기하다고 느꼈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16404",
       "srcText": "해님이 나무에게 말했어요. 나무가 하늘을 나는 상상을 했어요. \"바스락, 바스락\" 나무는 위로 위로 올라갔지요. \"상상하면 날 수 있단다.\"",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "해님,나무",
+      "setting": null,
+      "action": "말했어요,올라갔지요,나는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 하늘을 나는 상상을 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나무가 하늘을 나는 상상을 하며 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "위쪽으로 올라갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16403",
       "srcText": "\"짹짹짹\" 새들이 즐거운 노래를 불렀어요. 언덕 위에 나무는 소원이 있었지요. \"훨훨, 새처럼 날고 싶어.\"",
       "srcPage": 2,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "새,언덕,나무",
+      "setting": null,
+      "action": null,
+      "feeling": "즐거운",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새처럼 날고 싶다는 소원을 가진 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새들이 어떤 기분으로 노래를 불렀나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새들이 즐겁게 노래를 불렀습니다. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

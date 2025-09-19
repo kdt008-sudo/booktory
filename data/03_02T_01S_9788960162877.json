@@ -1,0 +1,56 @@
+﻿{
+  "title": "우리 몸은 어떻게 움직일까? ",
+  "author": "정명숙",
+  "illustrator": "장혜련",
+  "isbn": "9788960162877",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52004",
+      "srcText": "“으악, 해골이다!” 놀라지 마세요. 난 소중한 뇌를 감싸서 보호하는 머리뼈예요. 새장처럼 생긴 갈비뼈, 가장 굵고 긴 넓적다리뼈, 몸속의 뼈를 모두 합치면 206개나 되지요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26,
+      "character": "해골,갈비뼈,뇌,머리뼈,다리뼈",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "몸속의 뼈를 모두 합치면 206개나 되지요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "몸속의 뼈를 모두 합치면 몇 개 인가요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "206개 입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "소중한 뇌를 감싸서 보호하는 뼈의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "머리뼈",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

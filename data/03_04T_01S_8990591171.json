@@ -3,10 +3,8 @@
   "author": "강윤정",
   "illustrator": "홍주미",
   "isbn": "8990591171",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“왜울고 있니?” 바위 그늘 아래서 쉬고 있던 거북이가 물었어요. “내파란 꼬리가 없어졌어.” “저런, 쯧쯧! 나랑 같이 꼬리를 찾아보자.” 거북이는 장수도마뱀과 오솔길로 기어갔습니다.",
       "srcPage": 6,
       "srcSentenceEA": 6,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "거북이,파란 꼬리,나,장수도마뱀",
+      "setting": null,
+      "action": "울고,쉬고 있던,물었어요,찾아보자,기어갔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "거북이가 왜 울고 있냐고 묻자 장수도마뱀은 뭐라고 대답했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자신의 파란 꼬리가 없어졌다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "울고 있는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "장수도마뱀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

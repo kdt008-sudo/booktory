@@ -1,0 +1,56 @@
+﻿{
+  "title": "티라노도 무섭지 않아 ",
+  "author": "박진영",
+  "illustrator": "천필연, 서복현, 하미희",
+  "isbn": "9788960162624",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52034",
+      "srcText": "꼬마 공룡 트리케는 숲 근처 강가에서 엄마랑 살았어요. 점잖고 착한 공룡들과 사이좋게 놀며 지냈어요. 어느 날, 트리 케이가 투덜거렸어요. “엄마, 친구들이 나를 놀려요. 고뿔이 없었으면 좋겠어요.” 엄마가 말했어요. “트리테! 그 뿔이 널 지켜주고, 더 용감하게 해줄 거야. 두고 봐. ”",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 45,
+      "character": "공룡,트리케,엄마",
+      "setting": null,
+      "action": "투덜거렸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "트리케는 무엇 때문에 친구들이 놀린다고 투덜거렸나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고뿔 때문에",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "꼬마 공룡 트리케는 누구와 함께 살았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

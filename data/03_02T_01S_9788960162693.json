@@ -1,0 +1,56 @@
+﻿{
+  "title": "나뭇잎은 왜 초록색일까? ",
+  "author": "김영이",
+  "illustrator": "김향희",
+  "isbn": "9788960162693",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51751",
+      "srcText": "초록빛 엽록체들은 햇빛, 물, 공기를 고루 섞어서 콩닥콩닥 양분을 만들어. “다 됐어. 뿌리로 보내!” 양분이 다 만들어지면 식물은 양분을 몸 구석구석 보내. 뿌리에서 가지 끝까지.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28,
+      "character": "엽록체,뿌리,식물",
+      "setting": null,
+      "action": "양분을 만들어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "양분이 다 만들어지면 식물은 그 양분들을 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뿌리에서 가지 끝까지 몸 구석구석에 보내줍니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "햇빛, 물, 공기를 섞어 양분을 만들어내는 초록빛의 기관은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엽록체",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

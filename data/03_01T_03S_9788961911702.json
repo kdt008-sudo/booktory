@@ -1,0 +1,70 @@
+﻿{
+  "title": "루루의 선택",
+  "author": "윤미나",
+  "illustrator": "정은숙",
+  "isbn": "9788961911702",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47939",
+      "srcText": "루루는 친구들 앞에서 이야기하고 노래하는 걸 좋아했어요. 그런 루루가 오늘 멋진 소식을 들었어요. “재롱 잔치 때 우리 별님반이 연극을 한대! 와, 너무 좋아!” 게다가 루루네 별님반이 할 연극은 루루가 가장 재미있게 읽은 ‘잠자는 숲 속의 공주’였어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 40,
+      "character": "루루,친구들,별님반,연극",
+      "setting": null,
+      "action": "이야기하고,노래하는 걸,들었어요,읽은",
+      "feeling": "멋진 소식,재미있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "루루는 친구들 앞에서 무얼 하는 것을 좋아했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이야기하고 노래하는 걸 좋아했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "루루가 가장 재미있게 읽은 책 제목은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잠자는 숲 속의 공주",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "루루는 어떤 소식을 들었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "연극을 한다는 소식이였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "뱀은 어디로 갔을까? ",
+  "author": "김영이",
+  "illustrator": "정혜영",
+  "isbn": "9788960162419",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "50445",
+      "srcText": "날씨가 쌀쌀해졌지만 뱀은 여전히 풀숲을 돌아다녔어요. 단풍이 꽃처럼 예뻤거든요. 그런데 웬일일까요? 점점 힘이 없어졌어요. 나무들이 불쌍하다는 듯 말했어요. \"얘야, 어서 집에 들어가 자렴.\" 뱀은 할 수 없이 땅굴로 들어가 몸을 동그랗게 말더니 중얼거렸어요. '아, 체온 조절을 못해서 겨울잠을 자야 하다니.'",
+      "srcPage": 11,
+      "srcSentenceEA": 8,
+      "srcWordEA": 45,
+      "character": "뱀,단풍,꽃,나무,집,땅굴,몸",
+      "setting": "풀숲",
+      "action": "돌아다녔어요,말했어요,중얼거렸어요,몸을 동그랗게 말더니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "뱀은 겨울잠을 자기 위해 땅굴로 들어가 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸을 동그랗게 말았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "풀숲을 돌아다니던 뱀이 점점 힘이 없어지자 나무들이 어떻게 했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뱀이 불쌍해서 어서 집에 들어가라고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "날씨가 쌀쌀해졌지만 풒숲을 돌아다닌 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뱀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

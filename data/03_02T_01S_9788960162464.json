@@ -1,0 +1,56 @@
+﻿{
+  "title": "열매나 씨가 없다면 ",
+  "author": "김영이",
+  "illustrator": "김경하",
+  "isbn": "9788960162464",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51576",
+      "srcText": "공원의 등나무는 열매가 콩꼬투리처럼 생겼어. 산수유나무 열매는 빨갛게 익고, 단풍나무 열매는 날개가 있어. 과수원에 가면 새콤달콤 맛있는 빨간 사과. 동글동글 빨간 열매 속에 씨를 품고 있지.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "character": "등나무,콩꼬투리,산수유나무,단풍나무,과수원",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "동글동글 빨간 열매 속에 씨를 품고 있지.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "동글동글 빨간 열매 속에 씨를 품고 있는 것은 무엇인가요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사과",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "열매가 콩꼬투리처럼 생긴 나무는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "등나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

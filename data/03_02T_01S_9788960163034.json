@@ -1,0 +1,56 @@
+﻿{
+  "title": "개미야, 도와줘! ",
+  "author": "김영이",
+  "illustrator": "신승희, 손진주",
+  "isbn": "9788960163034",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52042",
+      "srcText": "“걱정하지 마. 내가 널 지켜줄게.” 개미가 주먹을 불끈 쥐고 무당벌레를 가로막았어요. “비켜! 진딧물을 괴롭히지 마!” “진딧물은 내 밥이야!” 무당벌레도 물러서지 않았어요. 개미 친구들이 몰려왔어요. “이크! 안되겠다.” 무당벌레는 개미들을 보자 포르릉 날아서 도망갔어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 9,
+      "srcWordEA": 39,
+      "character": "개미,진딧물,무당벌레",
+      "setting": null,
+      "action": "무당벌레를 가로막았어요,도망갔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "개미가 무당벌레를 가로막은 것은 누구를 지켜주기 위해서인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "진딧물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "개미들을 보자 포르릉 날아서 도망간 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무당벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

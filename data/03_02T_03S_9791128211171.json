@@ -1,0 +1,70 @@
+﻿{
+  "title": "따그닥 딱딱 씨네 집을 털어라 ",
+  "author": "서진희",
+  "illustrator": "정인성",
+  "isbn": "9791128211171",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48498",
+      "srcText": "내 이름은 다터러. 세계 최고의 도둑이야. 작은 가게부터 아주 큰 미술관까지 깡그리 싹싹 털었지. 물론 단 한 번도 잡히지 않았어. 나는 똑똑한 데다가, 쥐도 새도 모를 정도로 잽싸거든.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 32,
+      "character": "다터러,도둑",
+      "setting": "작은 가게,아주 큰 미술관",
+      "action": "깡그리 싹싹 털었지,잡히지 않았어,잽싸거든",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "나는 어디를 깡그리 싹싹 털었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "작은 가게부터 아주 큰 미술관까지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "세계 최고의 도둑인 나의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다터러",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "내가 단 한 번도 잡히지 않은 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "똑똑하고 아주 잽싸기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

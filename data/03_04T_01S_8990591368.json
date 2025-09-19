@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "권호정",
   "isbn": "8990591368",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "이튿날, 눈을 뜨니 비가 주룩주룩 내렸어요. 사람들은 비를 맞으며 논에 모를 심었습니다. “비도 오는데, 오늘은 쉬어야지.” 농부는 물끄러미 비 구경만 하였습니다.",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "눈,사람들,모,비,농부",
+      "setting": "논,이튿날,오늘",
+      "action": "심었습니다,구경만 하였습니다,내렸어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사람들은 비를 맞으며 논에 무엇을 심고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "이튿 날 날씨는 어땠나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비가 주룩주룩 내렸습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사람들이 모를 심는 동안 농부는 무엇을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물끄러미 비 구경만 하였습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

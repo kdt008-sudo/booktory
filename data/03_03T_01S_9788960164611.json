@@ -1,0 +1,70 @@
+﻿{
+  "title": "천하장사 반쪽이",
+  "author": "송은진",
+  "illustrator": "손진주",
+  "isbn": "9788960164611",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46568",
+      "srcText": "먼 옛날 어느 마을에 늙은 부부가 살았어. 늙도록 자식이 없던 부부에게 하루는 꿈에 선녀가 나타나 말했단다. \"잉어를 먹으면 아들을 낳을 거예요.\" 다음 날 할머니는 연못에서 잉어 세 마리를 잡았어. 그런데 갑자기 고양이가 나타나 잉어 한 마리를 덥석 물더니 반쪽을 꿀꺽 삼켜 버렸지 뭐야. 어쩔 수 없이 할머니는 잉어 두마리와 남은 반쪽짜리 잉어를 요리해 먹었지. 잉어를 먹은 할머니는 얼마 뒤 세 쌍둥이를 낳았어. 그런데 두 아들은 멀쩡한데 막내는 모든 게 반쪽이지 뭐야. \"눈도 하나, 귀도 하나, 팔다리도 하나씩이군.\"",
+      "srcPage": 2,
+      "srcSentenceEA": 9,
+      "srcWordEA": 83,
+      "character": "늙은 부부,선녀,잉어,아들,할머니,고양이,세 쌍둥이",
+      "setting": "먼 옛날 어느 마을,연못",
+      "action": "살았어,나타나 말했단다,먹으면,잡았어,나타나,덥석 물더니,꿀꺽 삼켜 버렸지,요리해 먹었지,낳았어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "늙도록 자식이 없던 부부에게 하루는 꿈에 누가 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선녀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "할머니는 잉어 두마리와 남은 반쪽짜리 잉어를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "요리해 먹었지.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "할머니는 어디에서 잉어 세 마리를 잡았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연못",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

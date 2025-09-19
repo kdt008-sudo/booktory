@@ -3,10 +3,8 @@
   "author": "꼬두람이",
   "illustrator": "꼬두람이",
   "isbn": "9791165437305",
-  "readAge": "유아",
   "publishedYear": 2023,
   "publisher": "아람키즈",
-  "classification": "예술경험",
   "paragraphInfoCount": 4,
   "paragraphInfo": [
     {
@@ -14,28 +12,222 @@
       "srcText": "내 친구 고양이야. 기다란 꼬리가 살랑살랑! 참 예쁘지? 에미 필립스, '고양이와 강아지와 함께 있는 빨간 드레스를 입은 소녀, 1830년대.'",
       "srcPage": 1,
       "srcSentenceEA": 5,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "고양이,강아지,소녀,친구,꼬리,에미 필립스",
+      "setting": null,
+      "action": "드레스를 입은",
+      "feeling": "예쁘지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "기다란 꼬리를 살랑살랑 흔드는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "소녀는 어떤 옷을 입고 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빨간 드레스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "기다란 꼬리를 살랑살랑 흔드는 고양이를 보면 어떤 느낌이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼬리를 살랑살랑 흔드는 고양이가 참 예쁘다는 느낌이 들 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7334",
       "srcText": "내 친구 강아지야. 까만 눈동자가 반짝반짝! 참 멋지지? 카를 라이헤르트, '카발리에 킹 찰스 스패니얼을 안고 있는 소녀, 1886년'",
       "srcPage": 2,
       "srcSentenceEA": 5,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "강아지,스패니얼,소녀,친구,까만 눈동자,카를 라이헤르트",
+      "setting": null,
+      "action": null,
+      "feeling": "멋지지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "소녀는 무엇을 안고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "카발리에 킹 찰스 스패니얼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "까만 눈동자가 반짝거리는 강아지를 보면 어떤 느낌이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "까만 눈동자가 반짝이는 강아지를 보니 멋진 느낌이 들 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7335",
       "srcText": "내 친구 토끼야. 길쭉한 귀가 쫑긋쫑긋! 참 귀엽지? 펠릭스 슐레진저, '반려동물 토끼, 연도 미상.'",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "토끼,친구,길쭉한 귀,펠릭스 슐레진저",
+      "setting": null,
+      "action": "귀가 쫑긋쫑긋",
+      "feeling": "귀엽지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "길쭉한 귀가 있는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "토끼의 귀가 어떻게 움직이나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쫑긋쫑긋",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "토끼를 보면 어떤 느낌이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길쭉한 귀를 쫑긋쫑긋 해서 귀여운 느낌이 들 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "7338",
       "srcText": "우리 친구 양이야. 고불고불한 털이 복슬복슬! 참 사랑스럽지? 블라디미르 보로비콥스키, '어린 양과 함께 있는 두 아이의 초상화, 1790년대.'",
       "srcPage": 6,
       "srcSentenceEA": 5,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "양,친구,털,블라디미르 보로비콥스키",
+      "setting": null,
+      "action": "털이 복슬복슬",
+      "feeling": "사랑스럽지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "고불고불한 털이 복슬복슬한 동물은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "양",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "양의 털은 어떻게 나있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "복슬복슬",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "양을 보면 어떤 느낌이 들까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고불고불한 털이 복슬복슬해서 사랑스러운 느낌이 들 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

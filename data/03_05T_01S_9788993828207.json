@@ -1,0 +1,56 @@
+﻿{
+  "title": "방귀 뽕뽕 오징어군",
+  "author": "서보현",
+  "illustrator": "박수정",
+  "isbn": "9788993828207",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51180",
+      "srcText": "하늘하늘, 살랑살랑 바닷속 물고기들이 예쁘게 헤엄쳐요. “내 지느러미 예쁘지? 반짝반짝 내 비늘도 멋지지?” 우아 ! 멋지다 !",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "character": "비늘,물고기",
+      "setting": null,
+      "action": "헤엄쳐요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "바닷속 물고기들은 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "살랑살랑 헤엄치고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "지느러미와 비늘을 자랑하고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 2,
+          "ansM1": "바닷속 물고기",
+          "ansM2": "물고기들",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

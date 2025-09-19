@@ -3,10 +3,8 @@
   "author": "우와조아",
   "illustrator": "엄지현",
   "isbn": "9788993877816",
-  "readAge": "유아",
   "publishedYear": 2009,
   "publisher": "어깨동무",
-  "classification": "예술경험",
   "paragraphInfoCount": 5,
   "paragraphInfo": [
     {
@@ -14,35 +12,267 @@
       "srcText": "\"이런, 엄마한테 혼났구나. 흥! 흥! 콧방귀는 이제 그만. 이리 와. 꼬옥! 안아 줄게!\"",
       "srcPage": 2,
       "srcSentenceEA": 7,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "엄마",
+      "setting": null,
+      "action": "안아,와",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 혼났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "이리 오면 무엇을 해준다고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꼬옥 안아 준다고 했어요. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17761",
       "srcText": "\"이런, 화났구나. 자꾸 삐죽거리면 미운 생쥐 된다. 이리 와. 꼬옥! 안아 줄게!\"",
       "srcPage": 8,
       "srcSentenceEA": 5,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "생쥐",
+      "setting": null,
+      "action": "와,안아 줄게",
+      "feeling": "화났구나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "자꾸 삐죽거리면 무엇이 된다고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "미운 생쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇을 해주기 위해 이리 오라고 하나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "안아 줄려고",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "자꾸 삐죽거리는 이유는 무엇일까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "화가 나서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17762",
       "srcText": "\"호호호, 우리 아가 신났구나.\" 콧구멍이 벌름벌름! 넓적한 귀를 펄럭펄럭! \"그래그래, 이리 와. 꼬옥! 안아 줄게.\"",
       "srcPage": 10,
       "srcSentenceEA": 6,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "아가,콧구멍,귀",
+      "setting": null,
+      "action": "안아 줄게,와",
+      "feeling": "신났구나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇이 벌름벌름 거리나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콧구멍",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "신난 아가에게 무엇을 해주려고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안아 줄게.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "우리 아가는 기분이 어떤가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "신났어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16147",
       "srcText": "\"저런! 돌부리에 콩! 부딪혔구나. 풀잎 약 바르면 금방 나을 거야. 괜찮아. 꼬옥! 안아 줄게!\"",
       "srcPage": 6,
       "srcSentenceEA": 6,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "돌부리,풀잎 약",
+      "setting": null,
+      "action": "부딪혔구나,안아 줄게",
+      "feeling": null,
+      "causalRelationship": "풀잎 약 바르면 금방 나을 거야.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇에 콩 부딪혔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돌부리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "풀잎 약을 바르는 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "돌부리에 부딪혀서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "풀잎 약을 바르면 어떻게 되나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "금방 나을 거야.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16146",
       "srcText": "폭신폭신 포근해요! \"에구! 무서운 꿈을 꾸었구나. 오들오들! 떨고 있잖아. 괜찮아. 꼬옥! 안아 줄게!\"",
       "srcPage": 4,
       "srcSentenceEA": 7,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": null,
+      "setting": null,
+      "action": "떨고,안아",
+      "feeling": null,
+      "causalRelationship": "무서운 꿈을 꾸었구나. 오들오들! 떨고 있잖아.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무서운 꿈을 꿔서 오들오들 떨고 있으니 무엇을 해주려고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안아 줄게.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "오들오들 떨고 있는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무서운 꿈을 꾸었기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

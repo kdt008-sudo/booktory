@@ -1,0 +1,84 @@
+﻿{
+  "title": "안녕, 코알라!",
+  "author": "장선혜",
+  "illustrator": "그림작가정보없음",
+  "isbn": "9791128214899",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47784",
+      "srcText": "먹고 나면 잠이 솔솔 올 거야. 그럼 잠시 눈을 감아 봐. 그러다 스르르 잠이 들면 그냥 푹 자도 돼. 코알라는 하루에 20시간 정도 잠을 자기 때문에 깨어 있는 것을 보기 어려워요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 34,
+      "character": "코알라,눈,잠",
+      "setting": "20시간 정도",
+      "action": "먹고 나면 잠이 솔솔 올 거야,잠시 눈을 감아 봐,스르르 잠이 들면 그냥 푹 자도 돼",
+      "feeling": null,
+      "causalRelationship": "코알라는 하루에 20시간 정도 잠을 자기 때문에 깨어 있는 것을 보기 어려워요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "코알라는 하루에 얼마나 잠을 자나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "20시간 정도",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "하루에 20시간 정도 잠을 자는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코알라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "코알라가 깨어 있는 것을 보기 어려운 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하루에 20시간 정도 잠을 자기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "먹고 나면 잠이 솔솔 올때는 어떻게 할까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈을 감아 봐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

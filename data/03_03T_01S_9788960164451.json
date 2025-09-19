@@ -1,0 +1,84 @@
+﻿{
+  "title": "은혜 갚은 까치",
+  "author": "동화랑",
+  "illustrator": "박아림",
+  "isbn": "9788960164451",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46586",
+      "srcText": "옛날에 한 선비가 산길을 걸어가고 있었어. 그때 깊은 산속에서 갑자기 까치 울음소리가 들려오지 뭐야. 어미 까치가 먹이를 구하러 간 사이. 커다란 구렁이가 나무를 타고 올라와 새끼 까치들을 잡아먹으려고 했거든. 구렁이가 혀를 날름거리자 새끼 까치들은 죽을힘을 다해 울어 댔지. \"까악, 까악, 깍깍깍!\" 마침 길을 가던 선비가 이 광경을 보았어. \"저, 저런!\" 선비는 재빨리 활을 꺼내 구렁이르 쏘았어. 화살에 맞은 구렁이는 '쿵' 소리를 내며 나무에서 떨어졌지. \"휴, 다행이다.\" 마음씨 좋은 선비 덕분에 새끼 까치들은 목숨을 건졌단다.",
+      "srcPage": 2,
+      "srcSentenceEA": 13,
+      "srcWordEA": 83,
+      "character": "선비,어미 까치,구렁이,나무,새끼 까치,활,화살",
+      "setting": "산길,깊은 산속",
+      "action": "걸어가고,보았어,쏘았어,타고 올라와,날름거리자,울어 댔지,떨어졌지",
+      "feeling": "다행이다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "어디에서 까치 울음소리가 들려왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 2,
+          "ansM1": "깊은 산속",
+          "ansM2": "산속",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "나무를 타고 올라와 새끼 까치들을 잡아먹으려는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 2,
+          "ansM1": "구렁이",
+          "ansM2": "커다란 구렁이",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "화살에 맞은 구렁이가 나무에서 떨어지자, 선비는 어떤 마음이 들었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새끼 까치들은 목숨을 살릴 수 있어서 다행이라 생각했을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "구렁이가 혀를 날름거리자, 새끼 까치들이 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "죽을힘을 다해 울어 댔지.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

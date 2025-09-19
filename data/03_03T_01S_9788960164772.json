@@ -1,0 +1,84 @@
+﻿{
+  "title": "칠석날 만나는 견우와 직녀",
+  "author": "동화랑",
+  "illustrator": "김은경",
+  "isbn": "9788960164772",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46574",
+      "srcText": "아주 먼 옛날, 하늘나라를 다스리는 옥황상제에게 직녀라는 어여쁜 딸이 있었단다. 직녀는 베 짜는 솜씨가 뛰어났어. 달가닥달가닥, 잘가닥잘가닥 직녀가 짜 놓은 베를 보면 누구나 칭찬을 아끼지 않았어. 땅에는 견우라는 부지런한 총각이 살고 있었어. \"이랴이랴, 워워!\" 견우는 온종일 소를 몰아 밭을 갈았어. 어찌나 착하고 부지런한지 하늘나라까지 소문이 났단다.",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 51,
+      "character": "옥황상제,직녀,견우,밭,소,베",
+      "setting": "하늘나라",
+      "action": "살고 있었어,밭을 갈았어,뛰어났어",
+      "feeling": "착하고 부지런한지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "견우라는 총각이 사는 곳은 어디였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "땅",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "옥황상제는 어디를 다스리는 분인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하늘나라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "견우에 관해 어떤 소문이 하늘나라까지 퍼졌나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "착하고 부지런하다는 소문이 났습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "옥황상제의 딸 직녀는 어떤 솜씨가 좋았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "베 짜는 솜씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

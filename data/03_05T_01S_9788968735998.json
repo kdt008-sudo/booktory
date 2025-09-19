@@ -1,0 +1,70 @@
+﻿{
+  "title": "우리 함께 해요!",
+  "author": "방구",
+  "illustrator": "사자",
+  "isbn": "9788968735998",
+  "publishedYear": 2018,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47609",
+      "srcText": "친구들아 안녕? 나는 눈에 보이진 않지만 너희 몸속에 살고 있는 백혈구라고 해. 나는 너희 몸속에 들어와 감기 같은 나쁜 병에 걸리게 하는 바이러스와 세균들을 무찌르는 면역세포야. 너희 몸을 튼튼하게 지켜주는 일을 하는 셈이지. 좋지 않은 생활습관을 가진 건이에게 감기균이 침입하면 어떤 일이 일어나는지 지금부터 같이 볼까?",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 50,
+      "character": "백혈구,바이러스,세균,면역세포,감기균",
+      "setting": null,
+      "action": "들어와,무찌르는,지켜주는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "좋지 않은 생활습관을 가진 건이에게 감기균이 침입하면 어떤 일이 일어나는지 지금부터 같이 볼까?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "좋지 않은 생활 습관이 있는 건이에게 바이러스와 세균들이 침입하면 어떤 일이 일어날까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "백혈구가 바이러스나 세균하고 싸워서 몸에 열이 날 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "백혈구는 몸을 보호하기 위해 어떤 일을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸속에 들어온 나쁜 병을 일으키는 바이러스와 세균들을 무찔러 우리 몸을 튼튼하게 지켜주는 일을 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "몸속에 들어와 감기 같은 나쁜 병에 걸리게 하는 바이러스와 세균들을 무찌르는 면역세포를 무엇이라고 부르나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "백혈구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

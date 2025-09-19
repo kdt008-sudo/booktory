@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "전병준",
   "isbn": "8990591333",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "얼마쯤 가다 보니 잔디밭이 나왔어요. “잔디가 참 푹신푹신하게 생겼군. 여기서 잠이나 한숨 자고 갈까?” 게으른 사위는 쿨쿨 잠을 잤습니다.",
       "srcPage": 7,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "잔디,사위",
+      "setting": "잔디밭",
+      "action": "잠을 잤습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "가다 보니 무엇이 나왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잔디밭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "푹신푹신하게 생긴 건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잔디",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "게으른 사위는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쿨쿨 잠을 잤습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

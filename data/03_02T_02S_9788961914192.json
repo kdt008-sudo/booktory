@@ -3,10 +3,8 @@
   "author": "김성은",
   "illustrator": "홍찬주",
   "isbn": "9788961914192",
-  "readAge": "초등_저학년",
   "publishedYear": 2010,
   "publisher": "한얼교육",
-  "classification": "자연탐구",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,343 @@
       "srcText": "나무가 말했어요. “누구나 하나씩 가지고 있어.” 나무는 나무 그림자, 사람은 사람 그림자, 강아지는 강아지 그림자. 강아지가 말했어요. “뭐든지 따라 하는 흉내쟁이야.” 같이 뛰고, 같이 앉고, 같이 걷고.",
       "srcPage": 7,
       "srcSentenceEA": 6,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "나무,사람,강아지,그림자",
+      "setting": null,
+      "action": "뛰고,앉고,걷고,따라 하는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구나 하나씩 가지고 있다고 말한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "강아지는 그림자에 대해 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그림자는 뭐든지 따라 하는 흉내쟁이라고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40589",
       "srcText": "어느 날 나는 궁금해졌어요. “그림자는 뭘까?” 그러자 해가 말했어요. “그건 빛이 만드는 거야.” 빛을 비추면 반대쪽에 그림자가 짠!",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "그림자,해,빛",
+      "setting": null,
+      "action": "말했어요,만드는 거야,비추면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "나는 무엇에 대해 궁금해졌나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그림자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그림자는 누가 만드나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빛이 만들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40590",
       "srcText": "송이가 말했어요. “늘 까만 옷만 입어.” 노란 옷을 입어도 까망, 빨간 옷을 입어도 까망. 웅이가 말했어요. “이랬다저랬다 하는 변덕쟁이야.” 길어졌다 짧아지고, 멀리 갔다 가까이 오고.",
       "srcPage": 9,
       "srcSentenceEA": 6,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "송이,웅이,옷",
+      "setting": null,
+      "action": "입어,길어졌다 짧아지고,멀리 갔다 가까이 오고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "늘 까만 옷만 입는다고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "송이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "웅이는 왜 그림자가 이랬다저랬다 하는 변덕쟁이라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길어졌다가 짧아지고 멀리 갔다가 가까이 오기도 하니까요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40594",
       "srcText": "손전등이 말했어. “모습이 자꾸 변하는 마술쟁이야.” 전등 빛으로 손을 비추면 여우가 되었다가 독수리가 되었다가 토끼가 되었다가 백조로 얍! 그리고 엄마가 말했어. “그림자는 다정한 친구란다. 내일 해가 뜨면 다시 만나서 재미있게 놀아 줄 거야. 잘 자라, 우리 아기.”",
       "srcPage": 15,
       "srcSentenceEA": 7,
-      "srcWordEA": 41
+      "srcWordEA": 41,
+      "character": "여우,독수리,토끼,백조,손전등,전등,그림자,손,엄마,친구",
+      "setting": null,
+      "action": "만나서,놀아 줄 거야,변하는,손을 비추면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "모습이 자꾸 변하는 마술쟁이라고 누가 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손전등",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 그림자에 대해 뭐라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "다정한 친구라 내일 해가 뜨면 다시 만나서 재미있게 놀아줄 거라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40591",
       "srcText": "고양이가 말했어요. “숨바꼭질을 좋아하는 장난꾸러기야.” 어디 어디 숨었나? 큰 그림자 속에 숨었다!",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "고양이",
+      "setting": "그림자 속",
+      "action": "숨었나",
+      "feeling": "좋아하는",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "숨바꼭질을 좋아하는 장난꾸러기라고 누가 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어디에 숨었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰 그림자 속",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그림자가 장난꾸러기라고 말한 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숨으며 노는 숨바꼭질을 좋아해서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그림자는 숨바꼭질할 때 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "즐거울 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40593",
       "srcText": "낚시꾼 아저씨가 말했어요. “그림자는 춤을 잘 춰.” 물속에 비친 그림자, 흔들흔들 흔들리는 그림자. 먹구름이 말했어요. “빛을 가리면 사라지지.” 먹구름이 해를 가리면 그림자가 스르르.",
       "srcPage": 13,
       "srcSentenceEA": 6,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "낚시꾼 아저씨,그림자,먹구름,빛,해,물속",
+      "setting": null,
+      "action": "잘 춰,흔들리는,가리면 사라지지,가리면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "그림자는 춤을 잘 춘다고 누가 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낚시꾼 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "먹구름이 해를 가리면 그림자는 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그림자가 사라져요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40592",
       "srcText": "우체부 아저씨가 말했어요. “어떤 때는 꼭 괴물 같아.” 계단을 올라가는 그림자, 구불구불 구부러진 그림자.",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "우체부 아저씨,괴물,그림자,계단",
+      "setting": null,
+      "action": "올라가는,구부러진",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어떤 때는 꼭 괴물 같다고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우체부 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "계단을 올라가는 그림자는 어떻게 보였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "구불구불 구부러졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

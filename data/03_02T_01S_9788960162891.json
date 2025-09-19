@@ -1,0 +1,56 @@
+﻿{
+  "title": "배는 어떻게 물에 뜰까? ",
+  "author": "강용숙",
+  "illustrator": "김은경",
+  "isbn": "9788960162891",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52011",
+      "srcText": "바다가 잔잔한 날, 항구에 배들이 모여서 이야기를 나누고 있었어. 물고기를 잡는 어선이 말했어. “난 오징어를 잡으러 갔는데 물고기가 엄청 많이 잡혀서 기분이 최고였어.”",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "character": "바다,배,오징어",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "난 오징어를 잡으러 갔는데 물고기가 엄청 많이 잡혀서 기분이 최고였어.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "항구에 모여 이야기를 나누고 있는 것들은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "배",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어선이 기분이 최고였다고 말한 이유는 무엇인가요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "오징어를 잡으러 갔는데 물고기가 엄청 많이 잡혔기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

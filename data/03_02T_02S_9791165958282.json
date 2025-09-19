@@ -3,10 +3,8 @@
   "author": "풋풋 ",
   "illustrator": " 혜마",
   "isbn": "9791165958282",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "오늘은 강아지 초코의 생일이에요! 초코는 아침부터 커다란 케이크를 만들고, 풍선으로 알록달록 장식도 했어요. \"이제 곧 친구들이 오겠지?\" 초코는 두근두근 친구들을 기다렸지요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "강아지 초코,풍선,케이크",
+      "setting": null,
+      "action": "만들고,장식도 했어요,기다렸지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "초코는 아침부터 커다란 케이크도 만들고 풍선으로는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알록달록 장식도 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "오늘은 누구의 생일인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "강아지 초코",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

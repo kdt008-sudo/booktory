@@ -1,0 +1,56 @@
+﻿{
+  "title": "솔비가 태어났어요",
+  "author": "민수현",
+  "illustrator": "이주윤",
+  "isbn": "9788963830285",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47867",
+      "srcText": "엄마 친구들이 놀러 오는 날이라 엄마는 아침부터 바빴어요. 솔비도 덩달아 바빴지요. 심부름도 해야 하고 인형들도 정리해야 했거든요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "엄마 친구들,엄마,솔비",
+      "setting": null,
+      "action": "인형들도 정리해야,놀러 오는,심부름도 해야 하고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 집에 놀러 오나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "솔비는 심부름도 해야 하고 또 무엇을 해야 해서 바빴나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "인형들도 정리해야 했거든요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

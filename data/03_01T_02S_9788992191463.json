@@ -1,0 +1,70 @@
+﻿{
+  "title": "재주 많은 네 친구",
+  "author": "김현애",
+  "illustrator": "이상호",
+  "isbn": "9788992191463",
+  "publishedYear": 2006,
+  "publisher": "한국아이엔이",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47765",
+      "srcText": "“야, 이 사람 정말 쓸모가 있겠는데.” 힘센돌이는 그 젊은이를 깨웠어요. “아니, 감히 낮잠 자는 나를 깨우는 놈이 누구야. 에잇!” 그 젊은이는 화가 나서 힘센돌이에게 덤벼들었지만, 감히 당해 내지는 못했어요. “아이고 나보다 더 센 사람이 있다니, 형님으로 모시겠습니다.” “그럼, 같이 나라를 구하러 가세.” 동생이 된 콧바람 장사는 힘센돌이를 따라 나섰어요. 한참을 걷고 있는데, 산기슭에서 나무가 뽑힐 정도의 강풍이 불어 왔어요. 숲으로 들어가 보니, 한 젊은이가 낮잠을 자고 있었는데, 숨을 쉴 때마다 콧바람에 의해 나무까지 흔들리고 심지어는 뿌리가 뽑히기까지 하는 것이 아니겠어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 10,
+      "srcWordEA": 86,
+      "character": "힘센돌이,젊은이,장사",
+      "setting": "숲",
+      "action": "깨웠어요,덤벼들었지만,따라 나섰어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "낮잠에서 깬 젊은이는 화가 나서 힘센돌이에게 어떻게 행동했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "덤벼들었어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "숲으로 들어가 보니 한 젊은이가 무엇을 하고 있었나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "낮잠을 자고 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "힘센돌이가 깨운 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콧바람 장사",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

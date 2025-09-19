@@ -1,0 +1,70 @@
+﻿{
+  "title": "냠냠 쩝쩝, 몸에 좋은 식물",
+  "author": "이수나",
+  "illustrator": "이정인, 이재은",
+  "isbn": "9788959042197",
+  "publishedYear": 2004,
+  "publisher": "(주)한국퍼킨스교육연구원",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "50425",
+      "srcText": "\"와! 온통 새파랗다. 채소랑 과일이 아주 많네!\" 다래는 처음 와 보는 농장이 무척 신기하고 재미있어요. 하지만 찬우는 왠지 뾰로통해요. \"난 채소 싫어. 맛이 없어!\" \"찬우야, 봐 봐. 만날 반찬으로 만들어진 채소나 시장에 있는 과일만 봤는데, 저렇게 줄기에 주렁주렁 열려 있는 게 신기하지 않니?\" 다래는 밥상에 오르는 채소가 무척 궁금했어요. 날마다 채소를 먹지만 어떻게 나고 자라는지 잘 몰랐거든요.",
+      "srcPage": 4,
+      "srcSentenceEA": 10,
+      "srcWordEA": 65,
+      "character": "채소,과일,다래,찬우,반찬",
+      "setting": "농장",
+      "action": null,
+      "feeling": "재미있어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "다래는 어디에 처음 와 봤나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "농장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "채소가 싫다고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "찬우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "다래는 농장에 처음 와봐서 기분이 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무척 신기하고 재미있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

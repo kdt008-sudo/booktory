@@ -1,0 +1,70 @@
+﻿{
+  "title": "자동차야, 고마워!",
+  "author": "소라게",
+  "illustrator": "정민정",
+  "isbn": "9791165953454",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48827",
+      "srcText": "“부릉부릉! 아빠, 내 자동차 어때요?” “이야, 정말 멋지네. 아빠 자동차와 꼭 닮았는걸!” “아빠가 더 멋진 자동차들을 알려 줄게.”",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "아빠,자동차",
+      "setting": null,
+      "action": "알려 줄게",
+      "feeling": "멋지네",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "내 차가 멋지다고 칭찬해 준 사람은 누구인가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아빠는 무엇을 더 알려준다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "더 멋진 자동차들을 알려준다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "내 자동차는 누구의 것과 닮았나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아빠 자동차와 닮았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

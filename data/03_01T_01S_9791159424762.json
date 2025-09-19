@@ -1,0 +1,70 @@
+﻿{
+  "title": "파랑새를 찾아서",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "최지연",
+  "isbn": "9791159424762",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47547",
+      "srcText": "틸틸과 미틸은 사이좋은 남매예요. 착한 두 사람은 누군가를 도와주는 일이 좋았어요. 어느 날 이웃집 할머니가 물었어요. “파랑새를 본 적 있니?”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "틸틸,미틸,이웃집 할머니,남매,파랑새",
+      "setting": "어느 날",
+      "action": "물었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "틸틸은 누구와 사이좋은 남매인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "미틸",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "이웃집 할머니는 무엇을 물어보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "파랑새를 본 적이 있냐고 물어보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "이웃집 할머니가 질문을 한 건 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어느 날",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+﻿{
+  "title": "동글동글 지그재그 따라그려요",
+  "author": "아이글터",
+  "illustrator": "Zuni",
+  "isbn": "9788993877403",
+  "publishedYear": 2009,
+  "publisher": "어깨동무",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "14084",
+      "srcText": "동글동글. 엄마 달팽이와 아기 달팽이가 소풍을 가요. 땡땡땡. 꼬꼬 아줌마가 트라이앵글을 연주해요. 뭉실뭉실. 흰 구름이 파란 하늘에 떠 있어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "character": "엄마 달팽이,아기 달팽이,꼬꼬 아줌마",
+      "setting": null,
+      "action": "소풍을 가요,떠 있어요,연주해요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 소풍을 가나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 달팽이와 아기 달팽이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "꼬꼬 아줌마는 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "트라이앵글을 연주해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "14085",
+      "srcText": "넘실넘실. 파도를 타고 바다 친구들이 수영해요. 대롱대롱. 거미가 멋진 집을 지어요. 꼬불꼬불. 땅속 집에는 부지런한 개미들이 살아요. 지그재그. 아빠와 산으로 여행을 가요.",
+      "srcPage": 7,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29,
+      "character": "파도,바다 친구들,거미,부지런한 개미들,아빠",
+      "setting": "땅속 집,산",
+      "action": "수영해요,멋진 집을 지어요,여행을 가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "파도를 타고 수영하는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바다 친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "부지런한 개미들은 어디에 사나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "땅속 집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "거미는 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "멋진 집을 지어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "비행기를 타려면",
+  "author": "윤선아",
+  "illustrator": "이인화",
+  "isbn": "9791165953799",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47281",
+      "srcText": "짠! 이건 내 여권이야. 내 얼굴 사진이 있고, 국적과 이름, 생일이 적힌 수첩이지. 여권은 다른 나라에 갈 때 꼭 필요해. 오늘 우리 가족은 공항으로 가서 비행기를 타고 해외여행을 갈 거야.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 34,
+      "character": "얼굴,여권,사진,국적,이름,생일,수첩,나라,우리,가족,공항,비행기,해외여행",
+      "setting": null,
+      "action": "타고,꼭 필요해,갈 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "다른 나라에 갈 때 꼭 필요한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여권",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "오늘 우리 가족은 공항으로 가서 무엇을 타고 여행을 가나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "비행기를 타고 해외여행을 가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

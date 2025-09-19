@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026296",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“우와, 재미있다!” “휴, 아까 조마조마했어. 공룡에게 잡히는 줄 알고.” 영화 (쥐라기 공원)을 함께 본 삼총사는 이런저런 말을 주고받았어요. 공룡을 무척 좋아하는 유비는 영화가 끝나고 나서도 흥분이 가라앉지 않은 것 같았어요. “공룡을 실제로 보면 어떤 기분일까?” 유비의 말에 마리가 빙그레 웃으며 농담을 했어요. “어떤 기분일지 모를 걸. 금방 잡아먹힐 테니까!” 그때 투덜이가 말도 안 된다는 듯 툴툴거리며 말했어요. “쳇, 이 세상에 공룡이 어디 있냐!” 그 말에 유비가 발끈했어요. “공룡은 멸종해서 지금은 없지만 옛날엔 있었어!” 하지만 투덜이는 고개를 휘휘 저었어요. “공룡은 그냥 영화랑 만화에서 만든 거야!”",
       "srcPage": 7,
       "srcSentenceEA": 15,
-      "srcWordEA": 92
+      "srcWordEA": 92,
+      "character": "공룡,삼총사,유비,마리,투덜이",
+      "setting": null,
+      "action": "주고받았어요,말했어요,고개를 휘휘 저었어요",
+      "feeling": "발끈했어요,웃으며,흥분이 가라앉지 않은 것 같았어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "이 세상에 공룡이 없다는 투덜이의 말에 유비는 발끈해서 뭐라고 말했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공룡은 지금은 멸종했지만 옛날엔 있었다고 말했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "투덜이는 왜 공룡을 실제로 봐도 기분을 모를 것이라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "금방 잡아먹힐 것이기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "삼총사가 함께 본 영화는 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쥐라기 공원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

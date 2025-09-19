@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026371",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "할아버지가 나가자 마리가 혼잣말로 중얼거렸어요. “무리하시면 건강에 안 좋으실 텐데.” 맛있게 사과를 먹던 유비와 투덜이도 마리 눈치를 보며 슬쩍 말했어요. “괜찮으실 거야. 늘 하시던 일이잖아.” “그래, 너무 걱정 마.” 마리는 친구들 말은 듣지도 않고 다시 중얼거렸어요. “농약을 안 뿌리면 안 되는 걸까?” 그 말에 투덜이가 툴툴거리며 말했어요. “우리 엄마는 사과 껍질에 농약이 묻어 있다고 꼭 깎아 먹으래. 난 껍질째 통째로 먹고 싶은데!” 그러자 유비가 어깨를 으쓱하며 말했어요. “농약 안 치고 사과 키우는 방법이 있으면 좋을 텐데.” “에이, 그런 방법이 어디 있어?”",
       "srcPage": 9,
       "srcSentenceEA": 14,
-      "srcWordEA": 87
+      "srcWordEA": 87,
+      "character": "할아버지,마리,사과,유비,투덜이,농약,우리 엄마,사과 껍질",
+      "setting": null,
+      "action": "중얼거렸어요,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "할아버지가 나가자 혼잣말로 중얼거린 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "맛있게 사과를 먹던 유비와 투덜이는 어떻게 말했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "마리의 눈치를 보며 슬쩍 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,70 @@
+﻿{
+  "title": "잘 가, 병아리야!",
+  "author": "백금서",
+  "illustrator": "박경민",
+  "isbn": "9788961916172",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49202",
+      "srcText": "\"삐악삐악!\" 학교 앞에서 한 장사꾼이 노란 병아리를 팔고 있어요. \"와! 정말 귀엽다. 아저씨, 병아리 한 마리만 주세요.\" 나리는 용돈으로 병아리 한 마리를 샀어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "장사꾼,병아리,아저씨,나리",
+      "setting": "학교 앞",
+      "action": "팔고,샀어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "귀여운 병아리를 본 나리는 용돈으로 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "한 마리를 샀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "장사꾼 아저씨가 삐악삐악 울고 있는 노란 동물을 어디에서 팔고 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "학교 앞",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "장사꾼 아저씨는 무엇을 팔고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "병아리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

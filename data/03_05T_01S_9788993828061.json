@@ -1,0 +1,115 @@
+﻿{
+  "title": "뚱땅뚱땅 냄비로",
+  "author": "신연미",
+  "illustrator": "반정원",
+  "isbn": "9788993828061",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16454",
+      "srcText": "냄비랑 놀면 정말정말 재미있어. 나처럼 해 봐. 쏘옥! 공을 넣어 봐. 어때? 재미있지?",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 18,
+      "character": "냄비,공,나",
+      "setting": null,
+      "action": "넣어 봐,놀면",
+      "feeling": "재미있어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "무엇으로 놀고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "냄비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "나처럼 무엇을 해보라고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "냄비에 공을 넣어 보라고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "냄비랑 놀면 어떤 기분일까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재미있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16455",
+      "srcText": "뚱땅뚱땅 두드려 봐. 어때? 재미있지? 두둥실, 띄워 봐. 어때? 재미있지? 딴딴딴 딴! 행진해 봐. 어때? 재미있지? 그리고,",
+      "srcPage": 6,
+      "srcSentenceEA": 11,
+      "srcWordEA": 27,
+      "character": null,
+      "setting": null,
+      "action": "두드려 봐,띄워 봐,행진해 봐",
+      "feeling": "재미있지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뚱땅뚱땅 두드리고 두둥실 띄우는 게 어떤 느낌일 거라고 이야기하나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재미있을 거라고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "뚱땅뚱땅 무엇을 해보라고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "두드려 보라고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

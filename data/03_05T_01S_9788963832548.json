@@ -1,0 +1,56 @@
+﻿{
+  "title": "쑴풍쑴풍별 쌍둥이",
+  "author": "이지은",
+  "illustrator": "강윤주",
+  "isbn": "9788963832548",
+  "publishedYear": 2011,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47879",
+      "srcText": "\"에헴, 푸른 마을 주민 여러분께 알립니다. 우리 마을에 손마나의 찾아가는 산부인과가 왔습니다.\" 이장님 목소리가 들려오자 푸른 마을 주민들의 귀가 쫑긋쫑긋! \"에헴, 진료를 받을 분은 마을 가운데 큰 나무 아래로 오세요.\"",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "character": "손마나,이장님",
+      "setting": null,
+      "action": "왔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "진료를 받을 분은 마을 가운데 큰 나무 아래로 오세요라고 말한 사람은 누구 일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이장님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "푸른 마을에 손마나의 찾아가는 무엇이 왔을까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산부인과",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

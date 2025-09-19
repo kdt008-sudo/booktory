@@ -1,0 +1,115 @@
+﻿{
+  "title": "하카를 추자!",
+  "author": "하늘땅",
+  "illustrator": "조수진",
+  "isbn": "9791128214905",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42040",
+      "srcText": "그거 알아? 뉴질랜드에는 세 가지 키위가 있어. 난 ‘키위 키위’ 하고 우는 새. 이건 새콤달콤한 키위. 우리도 키위라고 불러 줘. ",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "character": "키위,새",
+      "setting": null,
+      "action": "불러 줘",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "그거 알아? 뉴질랜드에는 세 가지 키위가 있어.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새콤달콤한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "키위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "우리를 어떻게 불러달라고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "키위라고 불러 달라고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "뉴질랜드에는 무엇이 있나요?",
+          "queType": 6,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세 가지의 키위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42041",
+      "srcText": "마오리족과 백인은 인사도 따로따로.  만나서 반가워. 우리는 손을 잡고 인사해. \n우리는 이렇게 인사해.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "마오리족,백인",
+      "setting": null,
+      "action": "잡고,인사해",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "누가 인사를 따로따로 하나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마오리족과 백인",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "우리는 인사를 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "손을 잡고 인사해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

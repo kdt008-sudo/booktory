@@ -1,0 +1,70 @@
+﻿{
+  "title": "제비의 칭찬 신문사",
+  "author": "김예실",
+  "illustrator": "정미예",
+  "isbn": "9788961911573",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47884",
+      "srcText": "어느 따스한 봄날이에요. 쯔빗쯔빗, 쯔빗쯔빗! 까만 양복에 파란 넥타이를 맨 제비 한 마리가 숲 속 마을에 찾아왔어요. '아담하고 조용한 게 마음에 드는군.'",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24,
+      "character": "양복,넥타이,제비",
+      "setting": "어느 따스한 봄날,숲 속 마을",
+      "action": "찾아왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "제비는 숲 속 마을을 어떻게 생각했나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아담하고 조용한 곳이라고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "까만 양복에 파란 넥타이를 맨 누가 마을에 찾아 왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "제비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "따스한 봄날 마을에 제비 몇 마리가 찾아왔나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "한 마리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

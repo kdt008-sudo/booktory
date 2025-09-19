@@ -1,0 +1,56 @@
+﻿{
+  "title": "아이처럼 상상하는 스필버그",
+  "author": "고영이",
+  "illustrator": "최경식",
+  "isbn": "9791128220593",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47256",
+      "srcText": "꼬마 스필버그는 겁쟁이였어. 창문에 비친 나무 그림자도 무서워할 만큼 말이야. 어느 날 겁쟁이 스필버그는 자기가 상상한 괴물 이야기를 친구들에게 들려주었어. ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": "꼬마 스필버그,나무,창문",
+      "setting": null,
+      "action": "들려주었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "겁쟁이 스필버그는 자기가 상상한 괴물 이야기를 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들에게 들려주었어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "꼬마 스필버그는 창문에 비친 무슨 그림자도 무서워할 만큼 겁쟁이였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

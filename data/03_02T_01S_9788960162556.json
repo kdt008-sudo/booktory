@@ -1,0 +1,56 @@
+﻿{
+  "title": "개는 어째서 소리를 잘 들을까? ",
+  "author": "윤성은",
+  "illustrator": "신경란",
+  "isbn": "9788960162556",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51770",
+      "srcText": "나는 심심해서 구석구석 오줌도 '찍' 갈겨놓고, 간식이 있나 코를 킁킁거렸어. 그때 부스럭 소리가 났어. 나는 귀를 쫑긋 세우고 두리번거렸어. '쳇! 휴지 구르는 소리였군.'",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "character": "코,귀",
+      "setting": null,
+      "action": "두리번거렸어,킁킁거렸어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나는 무엇을 쫑긋 세우고 두리번거렸나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "귀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "나는 무엇을 찾아 코를 킁킁거렸나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "간식",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

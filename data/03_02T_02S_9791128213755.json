@@ -3,10 +3,8 @@
   "author": "김순한",
   "illustrator": "문종인",
   "isbn": "9791128213755",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,149 @@
       "srcText": "바위와 바위 사이에 웅덩이가 있어. 말미잘이 촉수를 펼치고 흐느적거려. 집게도 고둥의 껍데기를 지고 웅덩이 바닥을 기어 다니고 있어.",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "바위,웅덩이,말미잘,촉수,집게,고둥,껍데기",
+      "setting": null,
+      "action": "촉수를 펼치고 흐느적거려",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "바위와 바위 사이에 무엇이 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "웅덩이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "말미잘은 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "촉수를 펼치고 흐느적거려요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40375",
       "srcText": "어느새 바닷물이 빠져나가 갯벌로 바뀌었네. 엄마, 갯벌에는 누가 살고 있을까요? 난 갯벌에 사는 칠게야. 영양 많은 개흙을 먹고 살지. 난 갯벌 위를 기어 다니는 말뚝망둥어야. 갯벌에서 날 찾아봐!",
       "srcPage": 2,
       "srcSentenceEA": 6,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "바닷물,갯벌,엄마,칠게,개흙,말뚝망둥어",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "갯벌에는 누가 살고 있을까요?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 개흙을 먹고 사나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "칠게",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "갯벌에는 누가 살고 있나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "칠게와 말뚝망둥어가 살아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40377",
       "srcText": "앗! 갑자기 새가 나타났어! 모두들 구멍 속으로 쏙쏙, 눈 깜 짝할 사이에 숨었어. 알락꼬리마도요가 칠게를 잡았네. 좀도요도 갯지렁이를 콕 물었어. 갯벌은 새들이 먹이를 먹고 쉬어 가기에 좋은 곳이야.",
       "srcPage": 15,
       "srcSentenceEA": 5,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "새,모두들,알락꼬리마도요,칠게,좀도요,갯지렁이,갯벌,새들",
+      "setting": null,
+      "action": "숨었어,잡았네,콕 물었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "갯벌은 새들이 먹이를 먹고 쉬어 가기에 좋은 곳이야.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 칠게를 잡았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알락꼬리마도요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "새가 나타나자 모두들 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모두들 구멍 속으로 숨었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알락꼬리마도요가 칠게를 잡고, 좀도요가 갯지렁이를 무는 것처럼 갯벌은 새들에게 어떤가요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "갯벌은 새들이 먹이를 먹고 쉬어 가기에 좋은 곳이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

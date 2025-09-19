@@ -3,10 +3,8 @@
   "author": "장선혜",
   "illustrator": "편형규",
   "isbn": "9791128213960",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 2,
   "paragraphInfo": [
     {
@@ -14,14 +12,90 @@
       "srcText": "꼬꼬마 과학자가 들려주는 물체와 물질 이야기. 나무가 쑥쑥 자라서는 자연 물질의 이용에 대한 이야기입니다. 자연에서 얻은 물질은 우리 생활의 많은 부분에 이용되고 있습니다. 글 없는 순수한 그림책인 나무가 쑥쑥 자라서는 나무가 우리 생활에 어떻게 이용되고 있는지 알려 주고 있습니다.",
       "srcPage": 2,
       "srcSentenceEA": 4,
-      "srcWordEA": 42
+      "srcWordEA": 42,
+      "character": "꼬꼬마 과학자,나무,물체,물질,자연,글,그림책",
+      "setting": null,
+      "action": "알려 주고 있습니다,이용되고,자라서는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "물체와 물질 이야기를 들려준 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼬꼬마 과학자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "자연에서 얻은 물질은 어떻게 되고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우리 생활의 많은 부분에 이용되고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "40330",
       "srcText": "내가 심은 나무야. 내 키가 크는 것처럼 나무도 쑥쑥 자라지. 나무는 아주 큰 나무가 되었어. 그리고 그 나무로 내 아기의 침대를 만들었지.",
       "srcPage": 2,
       "srcSentenceEA": 4,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "나무,아기,침대",
+      "setting": null,
+      "action": "만들었지,자라지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아기의 침대로 만든 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "내 키가 크는 것처럼 나무도 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쑥쑥 자라지. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

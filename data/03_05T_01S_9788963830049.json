@@ -1,0 +1,191 @@
+﻿{
+  "title": "큰 트럭 작은 트럭",
+  "author": "고강우",
+  "illustrator": "김준미",
+  "isbn": "9788963830049",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16344",
+      "srcText": "굴착기가 푹푹! \"땅을 파내자!\" 작은 트럭이 빵빵! \"작은 돌들을 나르자!\"",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 11,
+      "character": "굴착기,땅,트럭,작은 돌들",
+      "setting": null,
+      "action": "땅을 파내자,나르자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 땅을 파내자고 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "굴착기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "작은 트럭은 무엇을 하자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "작은 크기의 돌을 나르자고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16345",
+      "srcText": "큰 트럭이 붕붕! \"큰 돌들을 나르자!\" 와, 예쁜 공원이다!",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "character": "트럭,돌",
+      "setting": null,
+      "action": "나르자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 붕붕 소리를 냈나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "큰 트럭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "큰 트럭은 무엇을 하자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "커다란 돌을 나르자고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16339",
+      "srcText": "기중기가 윙윙! \"바위를 치우자!\" 불도저가 웅웅! \"길을 만들자!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 9,
+      "character": "기중기,바위,불도저,길",
+      "setting": null,
+      "action": "치우자,만들자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "누가 바위를 치우자고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기중기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "불도저는 무엇을 하자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "길을 만들자고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16335",
+      "srcText": "큰 트럭이 붕붕! \"일하러 가자!\" 작은 트럭이 빵빵! \"우리도 같이 갈래!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12,
+      "character": "트럭,우리",
+      "setting": null,
+      "action": "일하러 가자,갈래",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "빵빵 소리를 낸 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "작은 트럭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "큰 트럭은 무엇을 하자고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "일을 하러 가자고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

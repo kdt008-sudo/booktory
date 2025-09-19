@@ -1,0 +1,84 @@
+﻿{
+  "title": "숲 속 마을의 멋진 파티",
+  "author": "김성춘",
+  "illustrator": "이선주",
+  "isbn": "9788967760137",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48707",
+      "srcText": "“내 파티에 와 주어서 고마워.” 여우가 친구들을 반겼어요. “흐음, 맛있는 냄새!” 모두 꼴깍꼴깍 침을 삼켰어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "여우,친구들",
+      "setting": "파티",
+      "action": "반겼어요,삼켰어요",
+      "feeling": "고마워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "누구의 파티에 친구들이 갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "모두들 맛있는 냄새를 맡고 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "침을 삼켰어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "여우는 어디에 온 친구들을 반겼나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파티",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "파티에 온 친구들을 보고 여우는 어떤 기분이었나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "고마웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

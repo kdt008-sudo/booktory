@@ -1,0 +1,101 @@
+﻿{
+  "title": "동물들이 뿌직!",
+  "author": "꼬두람이",
+  "illustrator": "김석류",
+  "isbn": "9791165432171",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "22421",
+      "srcText": "개 네 마리가 다다다다 오더니, 멍멍 멍멍! 뿌직! 뿌직! 뿌직! 뿌직! 오리 다섯 마리가 뒤뚱뒤뚱 오더니, 꽥꽥 꽥꽥 꽥! 뿌직! 뿌직! 뿌직! 뿌직! 뿌직! 아, 배고파! 이제 밥 먹으러 가자.",
+      "srcPage": 6,
+      "srcSentenceEA": 13,
+      "srcWordEA": 42,
+      "character": "개,오리,밥",
+      "setting": null,
+      "action": "오더니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "다섯 마리나 온 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "개는 무엇을 하고 멍멍 짖었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "다다다다 오더니 짖었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "22420",
+      "srcText": "말 한 마리가 저벅저벅 오더니, 힝! 뿌직! 양 두 마리가 자박자박 오더니, 매매! 뿌직! 뿌직! 돼지 세 마리가 타박타박 오더니, 꿀꿀 꿀! 뿌직! 뿌직! 뿌직!",
+      "srcPage": 3,
+      "srcSentenceEA": 9,
+      "srcWordEA": 33,
+      "character": "말,양,돼지",
+      "setting": null,
+      "action": "오더니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "어떤 동물이 두 마리가 왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "양",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "돼지는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "돼지 세 마리가 오더니 똥을 쌌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

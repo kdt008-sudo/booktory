@@ -1,0 +1,101 @@
+﻿{
+  "title": "쿨쿨 잘도 자네요",
+  "author": "토요카 가즈히코",
+  "illustrator": "토요카 가즈히코",
+  "isbn": "9788997300457",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "15598",
+      "srcText": "두 눈이 말똥말똥! “악어야, 뭐 하니?” 악어가 콜콜 낮잠을 자고 있어요. 뱀이 씩씩 낮잠을 자고 있어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "character": "눈,악어,뱀",
+      "setting": null,
+      "action": "자고 있어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 콜콜 낮잠을 자고 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "악어",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "뱀은 씩씩 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낮잠을 자고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "15599",
+      "srcText": "고양이가 음냐음냐 낮잠을 자고 있어요. 개구리가 그렁그렁 낮잠을 자고 있어요. 엄마 캥거루는 쌕쌕, 아기 캥거루도 색색 낮잠을 자고 있어요. 코끼리는 드르렁드르렁, 나비는 새근새근 낮잠을 자고 있어요. 모두 모두 쿨쿨쿨 낮잠을 자고 있어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "character": "고양이,개구리,캥거루,코끼리,나비",
+      "setting": null,
+      "action": "자고 있어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누가 음냐음냐 낮잠을 자고 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "엄마 캥거루와 아기 캥거루가 무엇을 하고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "낮잠을 자고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

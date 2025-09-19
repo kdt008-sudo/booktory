@@ -1,0 +1,56 @@
+﻿{
+  "title": "모기가 날아왔어요",
+  "author": "키우치 카츠",
+  "illustrator": "키우치 카츠",
+  "isbn": "9788963830803",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51146",
+      "srcText": "위잉 위이이잉. 커다란 모기 한 마리가 집 안으로 날아왔어요. 부웅 부웅 슈웅. 모기는 수박을 먹으려고 했어요. 얍!",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21,
+      "character": "모기,수박",
+      "setting": null,
+      "action": "날아왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "커다란 모기 한 마리가 집 안으로 날아와 무엇을 먹으려고 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "무엇이 집 안으로 날아왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "커다란 모기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

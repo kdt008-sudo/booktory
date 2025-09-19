@@ -3,10 +3,8 @@
   "author": "초콜릿나무",
   "illustrator": "김지영",
   "isbn": "9791188491322",
-  "readAge": "초등_저학년",
   "publishedYear": 2019,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 9,
   "paragraphInfo": [
     {
@@ -14,63 +12,447 @@
       "srcText": "가속도. 힘차게 달리면 강한 힘이 생겨. 작용 반작용. 장대로 땅을 짚으면 높이 올라. 탄성력. 휘어진 장대가 반듯해지려는 힘 때문에 더 높이 올라 바를 넘지. 중력. 공중에서 땅으로 떨어져.",
       "srcPage": 9,
       "srcSentenceEA": 7,
-      "srcWordEA": 35
+      "srcWordEA": 35,
+      "character": null,
+      "setting": null,
+      "action": "짚으면,달리면",
+      "feeling": null,
+      "causalRelationship": "힘차게 달리면 강한 힘이 생겨.,휘어진 장대가 반듯해지려는 힘 때문에 더 높이 올라 바를 넘지.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "장대로 땅을 짚으면 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "높이 올라.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "더 높이 올라 바를 넘는 힘은 어떤 것인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "휘어진 장대가 반듯해지려는 힘 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41678",
       "srcText": "장대높이뛰기? 기다란 장대로 땅을 짚고 훌쩍 뛰기만 하면 될까? 아니, 아니. 내가 만약 변신하지 않는다면, 공중에 둥둥 떠 있기만 할걸. 내가 변신해야 높이 잘 뛸 수 있어.",
       "srcPage": 9,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": null,
+      "setting": null,
+      "action": "땅을 짚고,뛰기만,떠 있기만,뛸 수 있어",
+      "feeling": null,
+      "causalRelationship": "내가 만약 변신하지 않는다면,공중에 둥둥 떠 있기만 할걸.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "기다란 장대로 땅을 짚고 훌쩍 뛰고 난 후에 어떻게 해야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "변신해야 높이 잘 뛸 수 있어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "달려오는 힘이 변신하지 않는다면 어떻게 될까요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공중에 둥둥 떠 있기만 하게 될 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41674",
       "srcText": "여기는 올림픽 운동장. 운동선수들은 어떻게 치타처럼 빠르게, 새처럼 높게, 개구리처럼 멀리 뛸 수 있는 걸까? 그건 바로 힘, 나 때문이지. 내가 여러 모습으로 변하니까 멋지게 운동할 수 있는 거야.",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "운동선수들,힘,치타,새,개구리",
+      "setting": "올림픽 운동장",
+      "action": "변하니까,있는 거야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "운동선수들은 어떻게 치타처럼 빠르게,새처럼 높게,개구리처럼 멀리 뛸 수 있는 걸까?",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "치타처럼 빠르게 달리는 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "운동선수들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "선수들이 운동하고 있는 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "올림픽 운동장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "운동선수들이 멋지게 운동할 수 있는 이유는 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "힘이 여러 모습으로 변하기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "운동선수들은 어떻게 개구리처럼 멀리 뛸 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "개구리처럼 앉았다가 힘을 주며 높게 뛰는 거 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41679",
       "srcText": "가속도. 힘차게 달려서 강한 힘을 만들어. 작용 반작용. 발로 공을 차면 공이 앞으로 나아가. 포물선 운동. 공이 공중에서 반원 모양으로 날아가. 헤딩. 공이 방향을 바꿔 골문 속으로 들어가.",
       "srcPage": 11,
       "srcSentenceEA": 7,
-      "srcWordEA": 35
+      "srcWordEA": 35,
+      "character": null,
+      "setting": null,
+      "action": "달려서,공을 차면",
+      "feeling": null,
+      "causalRelationship": "발로 공을 차면 공이 앞으로 나아가.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "공이 공중에서 반원 모양으로 날아가다가 헤딩하면 어떻게 되나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공이 방향을 바꿔 골문 속으로 들어가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "발로 공을 차면 어떻게 되나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공이 앞으로 나아가.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41680",
       "srcText": "축구도 마찬가지야. 그냥 공을 뻥, 차기만 하면 될까? 아니, 아니. 내가 만약 변신하지 않는다면, 공은 골문으로 가지 않고 하늘 높이 올라갈걸. 내가 변신해야 공이 골문으로 들어갈 수 있어.",
       "srcPage": 11,
       "srcSentenceEA": 5,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "공,축구,골대",
+      "setting": null,
+      "action": "차기만 하면,올라갈걸",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "내가 변신해야 공이 골문으로 들어갈 수 있어.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "축구할 때 차는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "공을 뻥 찼을 때 내가 변신하지 않으면 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "공이 하늘 높이 올라갈 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "공이 골문으로 들어가려면 어떻게 해야 할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "골문 방향으로 힘껏 차야 들어갈 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41676",
       "srcText": "내가 변신해야 멀리멀리 잘 뛸 수 있어. 가속도. 힘껏 달리면 속도가 점점 빨라져. 작용 반작용. 구름판을 밟으면, 멀리 뛸 수 있는 힘으로 변하지. 관성. 달려오던 힘 때문에 공중에서 앞으로 나가. 중력. 공중에서 땅으로 떨어져.",
       "srcPage": 7,
       "srcSentenceEA": 9,
-      "srcWordEA": 42
+      "srcWordEA": 42,
+      "character": null,
+      "setting": null,
+      "action": "잘 뛸 수 있어,밟으면,나가,떨어져",
+      "feeling": null,
+      "causalRelationship": "힘껏 달리면 속도가 점점 빨라져.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "구름판을 밟으면 뛰어오던 힘은 어떻게 바뀌나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "멀리 뛸 수 있는 힘으로 변하지.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "힘껏 달리면 어떻게 되나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "가속도가 붙어서 속도가 점점 빨라져요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41681",
       "srcText": "원심력과 구심력. 해머를 빙글빙글 돌려 강한 힘을 만들어. 관성. 해머의 손잡이를 놓으면, 해머가 앞으로 나가. 포물선 운동. 해머가 공중에서 반원 모양으로 날아가.",
       "srcPage": 15,
       "srcSentenceEA": 6,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "해머,손잡이",
+      "setting": null,
+      "action": "돌려,놓으면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "강한 힘을 만들기 위해 빙글빙글 돌리는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "해머",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "빙글빙글 돌며 강한 힘을 만들다가 손잡이를 놓으면 어떻게 될까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "해머가 공중에서 반원 모양으로 날아가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41682",
       "srcText": "중력. 공중에 있던 해머가 땅으로 떨어져. 이렇게 힘이 바뀌어야 제대로 운동할 수 있어. 변신의 대장, 힘! 나야말로 올림픽 금메달감이지?",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "해머,힘,땅",
+      "setting": null,
+      "action": "떨어져,바뀌어야",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "중력에 의해 공중에 있던 해머는 어디로 떨어지나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "땅",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "운동 종목이 달라지면 어떻게 해야 제대로 할 수 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "쓰는 힘도 바뀌어야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41683",
       "srcText": "해머던지기? 해머를 빙빙 돌리다가 휙, 던지면 그만일까? 아니, 아니. 내가 만약 변신하지 않는다면, 빙글빙글 계속 돌기만 할걸. 내가 변신해야 해머도 멀리멀리 날아갈 수 있어.",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "해머",
+      "setting": null,
+      "action": "돌리다가,던지면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "해머를 빙빙 돌리다 휙 던지는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "해머던지기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "해머가 멀리 날아갈 수 있으려면 어떻게 해야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빙빙 돌리다가 던질 때 힘껏 던져요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

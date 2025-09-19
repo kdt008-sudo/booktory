@@ -1,0 +1,56 @@
+﻿{
+  "title": "달래의 설빔",
+  "author": "전다연",
+  "illustrator": "진선미",
+  "isbn": "9791165957193",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48374",
+      "srcText": "알에서 갓 깨어난 어린 누에. 까맣고 조그마해서 이름도 개미누에래요. 꼬물꼬물 아기 같아요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "누에,알,개미누에",
+      "setting": null,
+      "action": "갓 깨어난,조그마해서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "무엇이 알에서 갓 깨어났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "누에",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "알에서 갓 깨어난 어린 누에는 꼬물꼬물 무엇 같아요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

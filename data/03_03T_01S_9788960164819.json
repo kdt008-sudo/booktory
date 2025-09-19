@@ -1,0 +1,56 @@
+﻿{
+  "title": "해와 달이 된 오누이",
+  "author": "박성아",
+  "illustrator": "강현주",
+  "isbn": "9788960164819",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46889",
+      "srcText": "아주 오랜 옛날에 떡장수 아주머니가 굽이굽이 고개를 넘을 때였어. 커다란 호랑이가 앞을 딱 막고 말했어. “떡 하나 주면 안 잡아먹지!” 어흥! 떡 하나 주면 안 잡아먹지!",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29,
+      "character": "떡장수 아주머니,고개,호랑이",
+      "setting": null,
+      "action": "딱 막고 말했어,고개를 넘을,떡 하나 주면,안 잡아먹지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "누가 고개를 넘고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "떡장수 아주머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "커다란 호랑이가 나타나 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "앞을 딱 막더니 떡을 하나 주면 안 잡아먹겠다고 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

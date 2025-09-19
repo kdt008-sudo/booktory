@@ -1,0 +1,84 @@
+﻿{
+  "title": "조그만 트럭의 커다란 꿈",
+  "author": "이혜옥",
+  "illustrator": "이주윤",
+  "isbn": "9791186298114",
+  "publishedYear": 2015,
+  "publisher": "꼬마대통령",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49106",
+      "srcText": "세바퀴는 인도네시아에 사는 조그만 트럭이에요. 다른 트럭들은 바퀴가 네 개씩 있는데, 세바퀴는 바퀴가 세 개뿐인 삼륜 트럭이에요. 그래서 이름도 ‘세바퀴’ 지요. 세바퀴는 몸집도 다른 트럭보다 작아서, 과일처럼 작고 가벼운 물건만 날라요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35,
+      "character": "세바퀴,삼륜 트럭,몸집,트럭,바퀴",
+      "setting": "인도네시아",
+      "action": "사는,날라요",
+      "feeling": null,
+      "causalRelationship": "세바퀴는 몸집도 다른 트럭보다 작아서,과일처럼 작고 가벼운 물건만 날라요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "세바퀴는 어디에 사는 조그만 트럭인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "인도네시아",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "바퀴가 세 개뿐인 트럭을 무엇이라고 부르나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "삼륜 트럭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "세바퀴가 과일처럼 작고 가벼운 물건만 나르는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸집이 다른 트럭보다 작기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "세바퀴는 어떤 물건을 나르나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "과일처럼 작고 가벼운 물건",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

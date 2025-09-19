@@ -1,0 +1,160 @@
+﻿{
+  "title": "코끼리 헬리콥터",
+  "author": "야마구치 미네야스",
+  "illustrator": "야마구치 미네야스",
+  "isbn": "9788997300532",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7144",
+      "srcText": "우아, 날씨 좋다. 슬슬 산책이나 가 볼까? “얘들아, 맛있게 먹으렴.” 오물오물 쩝쩝 “바나나는 언제 먹어도 맛있어.” ",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18,
+      "character": "바나나",
+      "setting": null,
+      "action": null,
+      "feeling": "좋다,맛있어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "산책을 가서 먹은 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바나나",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "코끼리들은 날씨가 어떻다고 느꼈나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "좋다고 느꼈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7145",
+      "srcText": "“모두 모여라, 미끄럼틀 타자.” 엄마 코끼리 등을 엉금엉금 올라서 미끌미끌 슈웅! 미끌 울렁, 미끌 울렁 울퉁불퉁 미끄럼틀.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "미끄럼틀,엄마 코끼리",
+      "setting": "엄마 코끼리 등",
+      "action": "올라서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "미끄럼틀을 타려고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엉금엉금 올라갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아기 코끼리들이 탄 미끄럼틀은 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 코끼리 등",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "아기 코끼리는 엄마 코끼리 등을 무엇이라고 생각했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "미끄럼틀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7146",
+      "srcText": "영차 영차, 코끼리 로켓 발사! 빙글빙글 뱅글뱅글 코끼리 헬리콥터. “야호, 신난다!” 구름 터널을 지나서 슝슝슝! ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17,
+      "character": "코끼리 로켓,코끼리 헬리콥터",
+      "setting": "구름 터널",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "빙글빙글 뱅글뱅글 날아간 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리 헬리콥터",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "코끼리 헬리콥터는 어디를 지나갔나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "구름 터널을 지나갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

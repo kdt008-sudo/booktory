@@ -1,0 +1,56 @@
+﻿{
+  "title": "자동차는 어떻게 움직일까? ",
+  "author": "김영이",
+  "illustrator": "정경문",
+  "isbn": "9788960162761",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51997",
+      "srcText": "찻길에는 신호등이 있어. 빨간색 신호등은‘정지’, 초록색 신호등은‘출발’표시야. 안전벨트는 꼭 매야 해. 차가 갑자기‘끼익!’멈출 때, ‘꽈당!’충돌할 때, 사람을 안전하게 꼭 잡아주니까.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 27,
+      "character": "신호등,안전벨트",
+      "setting": null,
+      "action": "잡아주니까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨간색 신호등은 무슨 표시인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "정지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "차가 갑자기 멈추거나 충돌할 때 사람을 안전하게 꼭 잡아주는 것은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "안전벨트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

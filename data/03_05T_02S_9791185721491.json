@@ -3,10 +3,8 @@
   "author": "이은재",
   "illustrator": "김정혜",
   "isbn": "9791185721491",
-  "readAge": "초등_저학년",
   "publishedYear": 2014,
   "publisher": "황우출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“선생님, 죄송해요. 솔방울을 못 찾았어요.” 토리가 울먹이면서 솔잎이 담긴 바구니를 내밀었어요. “아니야, 토리야. 아주 잘했어! 솔잎도 훌륭한 땔감이란다!” 선생님은 토리를 꼭 안아 주었어요. 친구들도 짝짝짝 박수를 쳐 주었답니다.",
       "srcPage": 15,
       "srcSentenceEA": 8,
-      "srcWordEA": 34
+      "srcWordEA": 34,
+      "character": "선생님,솔방울,토리,바구니",
+      "setting": null,
+      "action": "울먹이면서,내밀었어요,안아 주었어요,박수를 쳐 주었답니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "친구들도 짝짝짝 박수를 쳐 주었답니다.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "선생님은 토리를 어떻게 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꼭 안아 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "토리는 무엇을 못 찾았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "솔방울",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "짝짝짝 친구들은 왜 토리에게 박수를 쳐주었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "토리가 솔방울을 열심히 찾은 것을 응원해주려고요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,70 @@
+﻿{
+  "title": "렘브란트의 친구",
+  "author": "하늘땅",
+  "illustrator": "김삼현",
+  "isbn": "9791165950545",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48214",
+      "srcText": "내겐 오랜 친구가 있어. 아무도 흉내 낼 수 없는 그림을 그리는 화가, 바로 렘브란트야. 렘브란트는 사람을 그릴 때, 다양한 표정과 동작을 화폭에 담고 싶었어. “튈프 박사님의 강의를 듣고 있는 내 표정 좀 봐. 목을 쭉 빼고 신기한 듯 쳐다보고 있군.” 렘브란트의 그림을 본 사람들은 너도나도 감탄했지.",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 50,
+      "character": "렘브란트,튈프 박사,그림을 본 사람들,화폭,목",
+      "setting": null,
+      "action": "그리는,듣고,목을 쭉 빼고,쳐다보고,본",
+      "feeling": "감탄했지",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "아무도 흉내 낼 수 없는 그림을 그리는 화가는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "렘브란트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "렘브란트의 그림을 본 사람들은 어떤 감정을 느꼈나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "감탄했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "렘브란트는 사람을 그릴 때 화폭에 무엇을 담고 싶었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다양한 표정과 동작",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

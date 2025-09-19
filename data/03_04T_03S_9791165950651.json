@@ -1,0 +1,70 @@
+﻿{
+  "title": "부탁해요, 로댕 씨!",
+  "author": "하늘땅",
+  "illustrator": "김민승",
+  "isbn": "9791165950651",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48068",
+      "srcText": "로댕이 동상을 만들기로 했다는 소문은 금세 마을 곳곳으로 퍼졌어요. 사람들은 모였다 하면 로댕과 칼레의 영웅들에 대해 이야기했지요. \"그 유명한 조각가 로댕이 칼레를 구한 6명의 영웅을 동상으로 만들 거래요.\" \"최고의 조각가 로댕이 가장 용감한 영웅들을 만든다니, 벌써부터 기대가 되는군요.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39,
+      "character": "로댕,칼레",
+      "setting": null,
+      "action": "퍼졌어요,이야기했지요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "그 유명한 조각가 로댕이 칼레를 구한 6명의 영웅을 동상으로 만들 거래요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "로댕이 동상을 만들기로 했다는 소문이 어디로 퍼졌나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "마을 곳곳",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "누가 칼레의 영웅들을 동상으로 만드나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "로댕",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "유명한 조각가 로댕은 무엇을 했나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "6명의 영웅을 동상으로 만들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

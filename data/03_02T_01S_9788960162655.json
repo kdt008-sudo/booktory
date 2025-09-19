@@ -1,0 +1,56 @@
+﻿{
+  "title": "줄줄이 먹고 먹히며 ",
+  "author": "김영이",
+  "illustrator": "천필연, 서복현, 하미희",
+  "isbn": "9788960162655",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51993",
+      "srcText": "생물은 먹고 먹히며 살아가. 하늘의 왕자 힘센 독수리는 작은 새나 뱀을 잡아먹고....... 구불구불 뱀은 저보다 작고 약한 개구리 나도 더 쥐를 잡아먹고.......",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24,
+      "character": "생물,독수리,새,뱀,개구리,두더쥐",
+      "setting": null,
+      "action": "잡아먹고,살아가",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "독수리는 무엇을 잡아 먹나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "작은 새나 뱀을 잡아먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "개구리나 두더쥐를 잡아먹는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뱀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

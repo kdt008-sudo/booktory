@@ -1,0 +1,160 @@
+﻿{
+  "title": "태워 줄까?",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432331",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7055",
+      "srcText": "자동차가 부릉부릉 부릉부릉! “아기 돼지야, 태워 줄까?” “아니 아니!” 버스가 빵빵 빵빵! “아기 돼지야, 태워 줄까?” “아니 아니!”",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19,
+      "character": "자동차,아기 돼지,버스",
+      "setting": null,
+      "action": "태워 줄까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "태워 줄까,아니",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "부릉부릉 소리를 내는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자동차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "자동차는 아기 돼지에게 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자동차에 태워 주려고 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 돼지는 대답한 후 어떻게 할 것 같아요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "열심히 걸어 가고 있을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7057",
+      "srcText": "기차가 칙칙폭폭 칙칙폭폭! “아기 돼지야, 태워 줄까?” “아니 아니!” 자전거가 따릉따릉 따릉따릉! “자전거야, 나 좀 타도 돼?” “그럼그럼!”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19,
+      "character": "기차,아기 돼지,자전거",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "자전거야,나 좀 타도 돼",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "칙칙폭폭 소리를 내는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "자전거는 아기 돼지를 어떻게 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아기 돼지를 태워 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7056",
+      "srcText": "배가 뚜뚜! 뚜뚜! “아기 돼지야, 태워 줄까?” “아니 아니!” 비행기가 부우우웅 부우우웅! “아기 돼지야, 태워 줄까?” “아니 아니!”",
+      "srcPage": 4,
+      "srcSentenceEA": 7,
+      "srcWordEA": 20,
+      "character": "배,아기 돼지,비행기",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "태워 줄까,아니",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누구에게 배를 태워 줄까 물어봤나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 돼지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 돼지는 왜 배와 비행기를 타지 않았을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "배와 비행기를 타는 것이 무서워서 그랬을 거 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

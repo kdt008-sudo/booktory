@@ -1,0 +1,70 @@
+﻿{
+  "title": "아기 고양이가 야옹!",
+  "author": "라파엘라 볼라피오",
+  "illustrator": "라파엘라 볼라피오",
+  "isbn": "9791165435783",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2839",
+      "srcText": "어? 생쥐 인형이 어디 있지? 야옹! 어디 있니? 야옹야옹! 어디 있을까? 야옹야옹! 찾았다, 생쥐 인형! 야옹야옹 야아옹! 아기 고양이가 야옹!",
+      "srcPage": 1,
+      "srcSentenceEA": 9,
+      "srcWordEA": 29,
+      "character": "생쥐 인형,아기 고양이",
+      "setting": null,
+      "action": "찾았다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "아기 고양이가 야옹",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무엇을 찾고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "생쥐 인형",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "생쥐 인형을 어떻게 했을까?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "찾았다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "어떻게 하면 고양이를 찾을까?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아기 고양이가 야옹 울면서 찾아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+﻿{
+  "title": "찾아봐요, 짜잔!",
+  "author": "장선혜",
+  "illustrator": "이지원",
+  "isbn": "9791128212123",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "1990",
+      "srcText": "올록볼록 하트 어디 어디 숨었나요? 보일락 말락 보일락 말락. 찾아봐요, 짜잔! 동그라미, 세모, 네모, 별, 하트, 모두 모두 모였네. 이제 무얼 할까?",
+      "srcPage": 21,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26,
+      "character": "하트,동그라미,세모,네모,별",
+      "setting": null,
+      "action": "숨었나요,찾아봐요,모였네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "찾아봐요,짜잔",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "숨어있는 무엇을 찾고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하트",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "다양한 모양들이 어떻게 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모양들이 모두 모여있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "하트는 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "숨어 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "무슨 일이 일어났을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "어떤 모양을 찾았을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

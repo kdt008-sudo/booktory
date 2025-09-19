@@ -1,0 +1,70 @@
+﻿{
+  "title": "돌리틀 선생님의 항해기",
+  "author": "휴 로프팅",
+  "illustrator": "김은경",
+  "isbn": "9788961910149",
+  "publishedYear": 1991,
+  "publisher": "(주식회사)한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "33262",
+      "srcText": "어느 날 신경통으로 돌리틀 선생님의 병원을 찾은 아주머니 한 분이 고슴도치가 있는 줄도 모르고 그만 의자에 앉아 버렸습니다. \"앗, 따가워!\" 아주머니는 깜짝 놀라 한바탕 소란을 피웠습니다. 그 이후, 그 아주머니는 다시는 돌리틀 선생님에게 진찰을 받으러 오지 않았습니다.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 39,
+      "character": "돌리틀 선생님,아주머니,고슴도치",
+      "setting": "병원",
+      "action": "앉아 버렸습니다,소란을 피웠습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": " 고슴도치가 있는 줄도 모르고 그만 의자에 앉아 버린 아주머니는 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "깜짝 놀라 한바탕 소란을 피웠습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "어느 날 신경통으로 아주머니 한 분이 찾은 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "병원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "신경통으로 돌리틀 선생님의 병원을 찾은 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아주머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

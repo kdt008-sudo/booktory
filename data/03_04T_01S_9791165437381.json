@@ -3,10 +3,8 @@
   "author": "꼬두람이",
   "illustrator": "꼬두람이",
   "isbn": "9791165437381",
-  "readAge": "유아",
   "publishedYear": 2023,
   "publisher": "아람키즈",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "엄마랑 함께 놀아요. 까르르까르르! 엄마랑 함께 빨래를 해요. 조물조물 꼭꼭!  엄마랑 함께 숨바꼭질을 해요. 찾았다, 엄마! 엄마가 내 발을 씻겨 주어요. 헤헤, 간지러워요!",
       "srcPage": 1,
       "srcSentenceEA": 8,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "엄마,발",
+      "setting": null,
+      "action": "함께 놀아요,함께 빨래를 해요,숨바꼭질을 해요,찾았다,발을 씻겨 주어요",
+      "feeling": "간지러워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구와 함께 놀았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마랑 함께 무엇을 하였을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빨래도 하고 숨바꼭질을 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "엄마가 내 발을 씻겨줄 때 어떤 느낌인가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "간지러워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

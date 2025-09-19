@@ -1,0 +1,70 @@
+﻿{
+  "title": "천국의 모델",
+  "author": "이용인",
+  "illustrator": "유지연",
+  "isbn": "9791165950705",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48079",
+      "srcText": "안녕! 난 파리에서 가장 잘생긴 고양이 아르테야. 낮에는 시내에 있는 미술관에 가서 그림을 보며 시간을 보내지. 고양이가 어떻게 그럴 수 있느냐고? 내가 누구랑 사는지 알면 이해가 갈 거야.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "character": "아르테야,그림,고양이",
+      "setting": "파리,낮,시내,미술관",
+      "action": "보며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "파리에서 가장 잘생긴 고양이의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아르테",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "고양이 아르테는 미술관에 가서 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "그림을 보며 시간을 보내요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "고양이 아르테는 낮에 어디에서 시간을 보내나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "시내에 있는 미술관",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

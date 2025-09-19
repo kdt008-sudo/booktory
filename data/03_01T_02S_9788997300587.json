@@ -1,0 +1,146 @@
+﻿{
+  "title": "꼬마 자동차",
+  "author": "타다 히로시",
+  "illustrator": "타다 히로시",
+  "isbn": "9788997300587",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8346",
+      "srcText": "노란 자동차를 타고 거리로 나가요. 자, 신나게 달려 볼까요? 와, 정말 빠르네요. 씽씽 쌩쌩 스포츠카!",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18,
+      "character": "자동차,스포츠카",
+      "setting": null,
+      "action": "타고,거리로 나가요,달려 볼까요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "씽씽 쌩쌩 정말 빠른 차는 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "스포츠카",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "노란 자동차를 타고 거리로 나가 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "산나게 달려 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8348",
+      "srcText": "기름이 가득 들었어요. 뿌앙 뿌앙 유조차! 승객을 많이 태웠어요. 키다리 이층 버스!",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15,
+      "character": "기름,유조차,승객,이층 버스",
+      "setting": null,
+      "action": "태웠어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "기름이 가득 든 차는 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "유조차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "키다리 이층 버스는 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "승객을 많이 태웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8349",
+      "srcText": "자동차들을 옮겨 줘요. 힘센 자동차 운반차! 짐을 잔뜩 실었어요. 기다란 트레일러!",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 14,
+      "character": "자동차,트레일러",
+      "setting": null,
+      "action": "짐을 잔뜩 실었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "짐을 가득 실은 차는 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "트레일러",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "자동차 운반차는 왜 힘이 세다고 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "짐을 잔뜩 실었어도 힘차게 가기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

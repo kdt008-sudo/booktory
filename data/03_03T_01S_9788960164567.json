@@ -1,0 +1,70 @@
+﻿{
+  "title": "굴비보다 짠 자린고비",
+  "author": "배은율",
+  "illustrator": "김유진",
+  "isbn": "9788960164567",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46728",
+      "srcText": "마침 장독 옆에 있던 암탉이 파리를 날름 잡아먹었어. “아이고, 아까운 내 된장!” 자린고비는 애가 타서 팔짝팔짝 뛰었어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18,
+      "character": "장독,암탉,파리,된장,자린고비",
+      "setting": null,
+      "action": "잡아먹었어,뛰었어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "자린고비는 애가 타서 팔짝팔짝 뛰었어.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "애가 타서 팔짝팔짝 뛴 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "자린고비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "애가 탄 자린고비는 그 후 어떻게 했을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "암탉을 괴롭힐 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "장독 옆에 있던 암탉이 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파리를 날름 잡아먹었어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

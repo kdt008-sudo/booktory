@@ -1,0 +1,70 @@
+﻿{
+  "title": "초대받지 않은 손님은 누구일까? / 누가 구멍을 메웠을까?",
+  "author": "이현서",
+  "illustrator": "이탁근",
+  "isbn": "9791128221408",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47387",
+      "srcText": "고민하던 촌장이 손님들에게 말했어. “이 자리는 우리 마을의 일을 해결하기 위한 중요한 자리예요. 그러니 초대받지 않은 분은 어서 돌아가 주세요.” 그러자 구석에 앉아 있던 랍비가 슬그머니 일어났어.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 29,
+      "character": "촌장,손님들,랍비",
+      "setting": "구석",
+      "action": "말했어,앉아 있던,일어났어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "고민하던 누가 손님들에게 말했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "촌장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "초대받지 않은 분은 어떻게 하라고 말했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "돌아가라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "랍비는 어디에 앉아 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구석",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

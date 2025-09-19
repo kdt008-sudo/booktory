@@ -3,10 +3,8 @@
   "author": "우와조아",
   "illustrator": "이현주",
   "isbn": "9788964170113",
-  "readAge": "유아",
   "publishedYear": 2009,
   "publisher": "어깨동무",
-  "classification": "예술경험",
   "paragraphInfoCount": 14,
   "paragraphInfo": [
     {
@@ -14,98 +12,644 @@
       "srcText": "마침 뱀이 구불렁 구불렁 기어왔어요. \"뱀아, 우릴 은행나무 아줌마에게 데려다 줄래?\" \"좋아! 어서 내 등에 타.\" 그런데 이게 웬일이에요. 미끄덩미끄덩 \"어이쿠, 또 미끄러졌어!\"",
       "srcPage": 6,
       "srcSentenceEA": 6,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "뱀,은행나무 아줌마,등",
+      "setting": null,
+      "action": "데려다 줄래,타,기어왔어요,미끄러졌어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "은행나무 아줌마에게 데려다 준다고 한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뱀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "뱀에게 은행나무 아줌마에게 데려다 달라고 하니 뱀은 뭐라고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "등에 타라고 하였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16094",
       "srcText": "\"은행나무가 어디쯤 있지?\" 파랑새가 낮게 날며 찾아보았어요. \"여기쯤 있을 것 같은데?\" \"어? 저기 은행나무가 보인다.\" \"어디? 어디? 어어어!\" 파랑새가 나뭇가지를 피하느라 기우뚱거렸지요. \"으아아악!\"",
       "srcPage": 12,
       "srcSentenceEA": 7,
-      "srcWordEA": 28
+      "srcWordEA": 28,
+      "character": "은행나무,파랑새,나뭇가지",
+      "setting": null,
+      "action": "날며,찾아보았어요,보인다,기우뚱거렸지요,피하느라",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "파랑새가 찾고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은행나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "낮게 날던 파랑새는 어떻게 되었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나뭇가지에 부딪칠까 봐 피하느라 기우뚱거렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15998",
       "srcText": "슈우웅, 파랑새 날개가 흔들흔들! \"엄마야! 난 몰라.\" 개미는 눈을 꼭 감아버렸어요. \"나를 꼭 잡아.\"",
       "srcPage": 11,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "파랑새 날개,개미,눈",
+      "setting": null,
+      "action": "감아버렸어요,잡아",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "날개가 흔들리자 누가 눈을 꼭 감았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "파랑새는 날개가 흔들릴 때 개미가 눈을 꼭 감자 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꽉 잡으라고 하였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15984",
       "srcText": "\"이러다 늦겠어! 어쩌지?\" 달팽이는 손목시계를 보며 걱정했어요. \"그럼! 토끼에게 부탁하면 어떨까?\" \"맞다! 토끼는 빠르니까.\"",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "달팽이,손목시계,토끼",
+      "setting": null,
+      "action": "보며,부탁하면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이는 무엇을 보고 걱정을 하였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손목시계",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이는 토끼에게 무엇을 하려고 하나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "부탁을 하려고",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16093",
       "srcText": "\"왜 꼼짝도 않지?\" 나무 위로 올라간 개미는 깜짝 놀랐어요. \"으악! 원숭이가 아니라 게으른 나무늘보였어.\"",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "나무,개미,원숭이,나무늘보",
+      "setting": null,
+      "action": "올라간",
+      "feeling": "놀랐어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나무 위에 있는 건 누구였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무늘보",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "개미는 대답이 없는 원숭이를 보기 위해 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나무 위로 올라갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "꼼짝도 안 하자 나무 위로 올라간 개미는 어떤 반응을 보였나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나무늘보가 있어서 깜짝 놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15988",
       "srcText": "달팽이와 개미는 토끼 귀를 꼭 잡았어요. 풀쩍풀쩍 토끼는 잘도 뛰었어요. \"엄청 빠르다. 금방 가겠어.\" \"빨리 가서 맛있는 케이크를 먹어야지.\" 개미는 침을 꼴깍 삼켰지요.",
       "srcPage": 4,
       "srcSentenceEA": 6,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "달팽이,개미,토끼,귀,케이크",
+      "setting": null,
+      "action": "잡았어요,삼켰지요,먹어야지,가겠어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이와 개미가 잡고 있는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼 귀",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "빨리 가서 맛있는 케이크를 먹고 싶은 개미는 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "케이크를 먹고 싶은 마음에 침을 꼴깍 삼켰어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15997",
       "srcText": "마침 파랑새가 포르르 내려앉았어요. \"얘들아, 여기서 뭐 해?\" \"훨훨 파랑새야, 우리 좀 태워줄래?\" \"그래그래! 내가 휘익 날아가 줄게.\"",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "파랑새,우리",
+      "setting": null,
+      "action": "내려앉았어요,태워줄래,날아가 줄게",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 날아서 태워 준다고 하였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파랑새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "파랑새는 어떻게 데려가 준다고 하였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "날아서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16091",
       "srcText": "그런데 이게 웬일이에요. 뛰어가던 토끼가 낮잠을 자 버리는 거예요. \"토끼야! 자면 어떻게 해?\" \"생일 케이크 다 먹으면 안 되는데.\" \"어쩌지? 은행나무 아줌마가 기다릴 텐데.\"",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "토끼,생일 케이크,은행나무 아줌마",
+      "setting": null,
+      "action": "뛰어가던,자면,먹으면",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 기다리고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은행나무 아줌마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "뛰어가던 토끼가 갑자기 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "갑자기 낮잠이 들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15995",
       "srcText": "\"좋아, 터널까지만 태워줄게. 어서 타.\" \"뿌! 뿌! 지네 기차 나갑니다.\" \"뿌! 뿌! 터널 앞입니다! 내리세요.\"",
       "srcPage": 7,
       "srcSentenceEA": 7,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "터널,지네 기차",
+      "setting": null,
+      "action": "내리세요,태워줄게,나갑니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누가 터널 앞까지 태워주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "지네는 무엇으로 흉내 내며 터널까지 데려다주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "기차 흉내를 내며 터널 앞까지 데려다주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15996",
       "srcText": "풀숲에서 지네가 고개를 내밀었어요. \"얘들아, 뭐 하니?\" 개미와 달팽이는 생일 파티 이야기를 했어요.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "풀숲,지네,고개,개미,달팽이",
+      "setting": null,
+      "action": "이야기를 했어요,내밀었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "풀숲에서 고개를 내민 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "개미와 달팽이는 무엇에 대해 지네에게 이야기를 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "생일 파티에 대해 이야기했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16095",
       "srcText": "\"은행나무 아줌마! 생신을 축하해요!\" \"고마워, 그런데 어떻게 하늘로 왔니?\" 은행나무 아줌마는 나뭇잎을 살랑살랑 흔들었어요. 달팽이와 개미는 더듬이를 으쓱거렸답니다.",
       "srcPage": 13,
       "srcSentenceEA": 5,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "은행나무 아줌마,하늘,나뭇잎,달팽이,개미,더듬이",
+      "setting": null,
+      "action": "으쓱거렸답니다,흔들었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이와 개미는 누구의 생신을 축하한 것인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은행나무 아줌마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "하늘에서 온 달팽이와 개미가 궁금했던 은행나무 아줌마는 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나뭇잎을 살랑살랑 흔들며 궁금해서 물었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16096",
       "srcText": "달팽이와 개미는 은행잎 위로 떨어졌어요. \"얘들아, 어서 와! 늦지 않았네?\" \"그럼요! 늦으면 안 되죠.\"",
       "srcPage": 13,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "달팽이,개미,은행잎",
+      "setting": null,
+      "action": "떨어졌어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "늦지 않게 도착한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달팽이와 개미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이와 개미는 무엇 위로 떨어졌나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은행잎 위로 떨어졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "15983",
       "srcText": "\"달팽아, 빨리빨리! 늦었단 말이야.\" \"맞아! 오늘 은행나무 아줌마 생신이지.\" \"생일파티는 12시에 시작한대. 빨리가자.\" \"그래, 어서어서 가자!\"",
       "srcPage": 2,
       "srcSentenceEA": 6,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "달팽아,은행나무 아줌마",
+      "setting": null,
+      "action": "늦었단,가자",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "오늘은 누구의 생일파티가 있는 날인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "은행나무 아줌마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": " 달팽이는 어떻게 가고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빨리 가고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16092",
       "srcText": "\"이제 어떻게 가지?\" \"와! 저기 봐, 원숭이다.\" 달팽이가 나무 위를 보며 소리쳤어요. \"원숭이야, 우리 좀 태워줘.\" 하지만 아무런 대답이 없었어요.",
       "srcPage": 8,
       "srcSentenceEA": 5,
-      "srcWordEA": 23
+      "srcWordEA": 23,
+      "character": "원숭이,달팽이,나무",
+      "setting": null,
+      "action": "보며,소리쳤어요,태워줘",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나무 위에 있는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달팽이는 원숭이에게 뭐라고 이야기했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "태워달라고 얘기했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

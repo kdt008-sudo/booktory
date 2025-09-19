@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026074",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "그때 투덜이가 엉뚱한 이야기를 했어요. “그럼 물 대신 콜라 마시면 되겠네.” 그 말에 마리가 나무라듯 말했어요. “으이구, 그럼 세수랑 양치질도 콜라로 할래? 샤워랑 빨래도? 물이 부족해지면 우린 정말 하루도 살아갈 수 없어. 투덜아, 지금 우리가 농담할 때가 아니라고!” 그때 박사님이 막 연구소로 돌아왔어요. “박사님, 회의는 잘 끝났어요?” 하지만 박사님의 표정은 밝지 않았어요. “응? 아, 회의? 글쎄다.” 박사님의 어두운 표정에 유비가 말했어요. “회의 결과가 별로였나 봐.” 물 대신 콜라 마시자! 지금 농담할 때가 아니지!",
       "srcPage": 9,
       "srcSentenceEA": 16,
-      "srcWordEA": 84
+      "srcWordEA": 84,
+      "character": "투덜이,물,콜라,마리,박사님,유비",
+      "setting": "연구소",
+      "action": "이야기를 했어요,나무라듯 말했어요,돌아왔어요,말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "박사님이 막 어디로 돌아왔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연구소",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "물 대신 콜라 마시면 되겠다는 엉뚱한 이야기를 누가 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "투덜이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마리가 투덜이에게 나무라듯 말한 이유가 무엇일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "물이 부족해지면 우리가 모두 정말 하루도 살아가기 어려울 정도로 심각해지는 것을 투덜이가 잘 이해를 못해서 그런 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

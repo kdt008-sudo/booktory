@@ -3,10 +3,8 @@
   "author": "유가은",
   "illustrator": "이종균",
   "isbn": "9788966923625",
-  "readAge": "초등_저학년",
   "publishedYear": 2012,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 4,
   "paragraphInfo": [
     {
@@ -14,28 +12,236 @@
       "srcText": "“알을 품으려면 배불리 먹어야 해.” “물고기도 냠냠.” “새우도 꿀꺽.” “알을 품으려면 준비 운동도 해야지.” “하나 둘, 하나 둘.” “영차, 영차.” “어? 내 알이 어떤 것이었더라? 이것 같기도 하고, 저것 같기도 하고.”",
       "srcPage": 6,
       "srcSentenceEA": 8,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "물고기,새우,알",
+      "setting": null,
+      "action": "품으려면,먹어야 해,준비 운동도 해야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "어? 내 알이 어떤 것이었더라?",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알을 품기 위해 무엇을 먹었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "물고기와 새우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알을 품기 위해 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "준비 운동",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아빠 펭귄들은 준비 운동을 한 뒤 알을 보고 무슨 생각을 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "내 알이 어떤 것인지 헷갈렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "2926",
       "srcText": "“우리가 품어 줄까?” “그래, 그러자.” “우리도 셋, 알도 셋이네!” 아빠 펭귄들은 알을 하나씩 나누어 가졌어요. ",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "우리,알,아빠 펭귄",
+      "setting": null,
+      "action": "품어 줄까?,나누어 가졌어요.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "아빠 펭귄들은 알을 하나씩 나누어 가졌어요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아빠 펭귄들이 나누어 가진건 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아빠 펭귄들이 알을 왜 나눠 가졌나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "알을 품어 주기 위해서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알을 품기 위해 아빠 펭귄들은 어떻게 했나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "알을 하나씩 나누어 가졌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "2930",
       "srcText": "알을 품은 지 오랜 시간이 흘렀어요.“힘내라, 힘!” “나온다, 나와!” “보인다, 보여!” “어? 다들 임금펭귄이 아니잖아?” “아무렴 어때. 아빠 하나에 새끼 하나! 우리 모두 한 가족인걸.” ",
       "srcPage": 11,
       "srcSentenceEA": 8,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "알,임금펭귄,아빠,새끼,가족",
+      "setting": null,
+      "action": "품은 지,힘내라,나온다,보인다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "알을 품은 지 오랜 시간이 흘렀어요.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알을 품은 이는 누구 인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "임금펭귄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알이 깨기 시작하자 뭐라고 외쳤나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "힘내라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아빠펭귄은 임금펭귄이 아닌 새끼를 보고 무슨 생각을 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "새끼가 임금펭귄이 아니어도 한 가족이라고 생각했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "2925",
       "srcText": "임금펭귄들이 먹이를 찾으러 하나둘 바다로 가요. “앗, 누가 알을 잃어버렸나 봐. 어쩌지?” “여기에도 알이 있어!” “여기에도!” 아빠 펭귄 셋이 말했어요. ",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "임금펭귄,아빠 펭귄",
+      "setting": "바다",
+      "action": "말했어요,가요,먹이를 찾으러",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "먹이를 찾으러 바다로 가는 이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "임금펭귄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "임금펭귄은 먹이를 찾으러 어디로 갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알을 발견한 임금펭귄의 기분은 어떨까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "놀랐을 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

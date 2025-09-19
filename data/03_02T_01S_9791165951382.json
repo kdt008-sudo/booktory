@@ -1,0 +1,84 @@
+﻿{
+  "title": "열매로 만든 집",
+  "author": "이윤진",
+  "illustrator": "탐씨",
+  "isbn": "9791165951382",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48726",
+      "srcText": "애벌레는 어디로 가야 할지 몰라 두리번거리며 기어갔어요. 그러다 ‘열매 부동산’ 앞에 도착했어요. 당신에게 딱 맞는 열매 집을 구해 드립니다.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "애벌레,열매 집",
+      "setting": "열매 부동산",
+      "action": "기어갔어요,구해 드립니다,도착했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "당신에게 딱 맞는 열매 집을 구해 드립니다.",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "애벌레는 기어가다가 어디 앞에 도착했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "열매 부동산",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "어디로 가야 할지 몰라 두리번거리며 기어간 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "애벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "애벌레는 자신에게 맞는 집을 구할까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 2,
+          "ansM1": "열매 부동산에서 친절하게 구해 줄 것 같아요.",
+          "ansM2": "애벌레는 열매 집이 필요해서 구할 것 같아요.",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "애벌레는 열매 부동산 앞에서 무엇을 보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "당신에게 딱 맞는 열매 집을 구해 드립니다라는 글을 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

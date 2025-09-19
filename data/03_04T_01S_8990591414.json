@@ -3,10 +3,8 @@
   "author": "이준연",
   "illustrator": "한주연",
   "isbn": "8990591414",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "아기봄바람 살랑이가 살았어요. \"살랑이는 마음씨도 따뜻했지만 부지런했어요. 북쪽 나라 꽃씨들은 아직도 쿨쿨 자고 있을 거야. 어서 빨리 깨워야지.\"",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "아기봄바람,살랑이,꽃씨들",
+      "setting": null,
+      "action": "살았어요,자고 있을거야,깨워야지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "아기봄바람 살랑이의 성격은 어땠나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "마음씨가 따뜻하고 부지런했습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "아기봄바람 살랑이는 누구를 깨울 계획을 가지고 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "북쪽 나라 꽃씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

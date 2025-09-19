@@ -1,0 +1,56 @@
+﻿{
+  "title": "강아지 꿀꺽 호랑이 줄줄",
+  "author": "박영란",
+  "illustrator": "장은주",
+  "isbn": "9791128212918",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48569",
+      "srcText": "옛날 옛적에 둘째가라면 서러울 정도로 게으른 게으름뱅이가 살았어. 이 게으름뱅이가 하루 종일 하는 일은 고작 아랫목에서 밥 먹고, 윗목 가서 똥 싸고, 또 아랫목에서 밥 먹고, 윗목 가서 똥 싸고, 그러곤 쿨쿨 잠만 자는 거였어. 하루는 게으름뱅이를 보며 참다 참다 지친 어머니가 일을 하지 않으면, 밥도 주지 않고 내쫓겠다고 했어. ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 52,
+      "character": "게으름뱅이,아랫목,밥,윗목,똥,잠,어머니",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "일을 하지 않으면,밥도 주지 않고 내쫓겠다고 했어.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "옛날 옛적에 둘째가라면 서러울 정도로 게으른 누가 살았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "게으름뱅이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "하루는 게으름뱅이를 보며 참다 참다 지친 어머니가 어떻게 했나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "일을 하지 않으면, 밥도 주지 않고 내쫓겠다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

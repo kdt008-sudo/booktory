@@ -1,0 +1,84 @@
+﻿{
+  "title": "헨젤과 그레텔",
+  "author": "문이재 독서논술연구소",
+  "illustrator": "박석철",
+  "isbn": "9791159424793",
+  "publishedYear": 2020,
+  "publisher": "무지개",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47597",
+      "srcText": "숲 속 마을에 사이좋은 남매가 살고 있었어요. 오빠는 헨젤, 동생은 그레텔이었지요. 하지만 나무꾼 아빠는 너무 가난했고 새엄마는 헨젤과 그레텔을 아주 싫어했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23,
+      "character": "헨젤,그레텔,새엄마,남매,오빠,동생,나무꾼 아빠",
+      "setting": "숲 속 마을",
+      "action": "살고 있었어요,너무 가난했고",
+      "feeling": "싫어했어요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "사이좋은 남매가 어디에 살고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲 속 마을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "사이좋은 남매 중 동생의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "그레텔",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "새엄마는 헨젤과 그레텔을 어떻게 생각했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몹시 싫어했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "숲속 마을에 누가 살고 있었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사이좋은 남매",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

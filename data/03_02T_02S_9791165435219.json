@@ -3,10 +3,8 @@
   "author": "하늘땅",
   "illustrator": "국지승",
   "isbn": "9791165435219",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "오호, 공룡이 나타났어!  무섭게 달려들어 볼까?  다다다닥, 스르륵. 너희야? 놀랐잖아. 안녕? 우리야,우리!",
       "srcPage": 16,
       "srcSentenceEA": 7,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "공룡,너희,우리",
+      "setting": null,
+      "action": "나타났어,달려들어",
+      "feeling": "무섭게,놀랐잖아",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇이 나타났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공룡",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어떻게 달려들었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무섭게 달려들었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "공룡이 무섭게 달려들었을 때의 마음은 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "깜짝 놀랐어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

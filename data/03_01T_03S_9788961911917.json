@@ -1,0 +1,56 @@
+﻿{
+  "title": "청아의 소원",
+  "author": "김영아",
+  "illustrator": "노문영",
+  "isbn": "9788961911917",
+  "publishedYear": 2008,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48015",
+      "srcText": "중국의 어느 시장 골목에 청아라는 여자아이가 있었어요. 청아는 어머니와 시장에서 허드렛일을 하며 하루하루 힘겹게 살아갔지요. 하지만 청아는 언제나 밝고 씩씩했어요. 하루는, 청아가 시장 골목에서 비질을 하고 있었어요. 그러다 금은방 집 아이 옆으로 가게 되었는데, 갑자기 그 아이가 소리치며 말하는 거예요. “저리 가! 내 비단옷에 더러운 때가 묻겠어.” 청아는 그 아이가 입은 빨간 비단옷을 보았어요. ‘아, 나도 부자라면 저런 옷을 입을 수 있을 텐데.'",
+      "srcPage": 5,
+      "srcSentenceEA": 9,
+      "srcWordEA": 70,
+      "character": "청아,어머니",
+      "setting": null,
+      "action": "비질을 하고 있었어요,소리치며 말하는 거예요,보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "청아는 누구와 살고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "어머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_고학년",
+          "question": "청아는 시장 골목에서 무엇을 하고 있었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비질",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

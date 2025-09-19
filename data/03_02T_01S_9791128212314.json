@@ -1,0 +1,70 @@
+﻿{
+  "title": "가루 가루, 밀가루야!",
+  "author": "하늘땅",
+  "illustrator": "유한나,김유대",
+  "isbn": "9791128212314",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2229",
+      "srcText": "뽕뽕 구멍도 뚫어 보고. 조물조물 작게 잘라 보고. 우아, 정말 길어졌어! 배배 꼬아 봐. 아이, 재밌어!",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20,
+      "character": "구멍",
+      "setting": null,
+      "action": "뚫어 보고,잘라 보고,꼬아 봐",
+      "feeling": "재밌어",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "뽕뽕 무엇을 뚫어 보았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "구멍",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "조물조물 무엇을 해 보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "작게 잘라 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "배배 꼬아보며 어떻다고 느꼈나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "재밌다고 느꼈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

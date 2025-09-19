@@ -1,0 +1,129 @@
+﻿{
+  "title": "안녕?",
+  "author": "김경미",
+  "illustrator": "아람북스",
+  "isbn": "9791128212475",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7273",
+      "srcText": "쌩쌩 비행기 타고 하늘 위로 날아갈까? 새야, 안녕? 구름아, 안녕? 슈웅슈웅 로켓 타고 우주로 여행 갈까? 달아, 안녕? 별아, 안녕? “우리 아기, 또 탈 거야?” “아니, 아니. 이제 그만 집에 갈래요.”",
+      "srcPage": 7,
+      "srcSentenceEA": 9,
+      "srcWordEA": 37,
+      "character": "새,구름,달,별,아기",
+      "setting": null,
+      "action": "비행기 타고,날아갈까,로켓 타고,여행 갈까,집에 갈래요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "이제 그만 집에 갈래요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "쌩쌩 비행기 타고 하늘 위로 날아가서 처음으로 누구를 만났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "슈웅슈웅 무엇을 타고 우주 여행을 가려고 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "로켓",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "여기저기 여행을 다닌 아기는 이제 무엇을 할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "집에 가서 쉴 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7272",
+      "srcText": "곰돌아, 우리 오늘 어디 갈까? 부릉부릉 버스 타고 숲 속으로 나들이 갈까? 다람쥐야, 안녕? 나무야, 안녕? 둥둥 잠수함 타고 바닷속 구경 갈까? 고래야, 안녕? 물고기야, 안녕?",
+      "srcPage": 3,
+      "srcSentenceEA": 7,
+      "srcWordEA": 32,
+      "character": "곰돌아,숲 속,나무,바닷속,고래,물고기,다람쥐,잠수함",
+      "setting": "오늘",
+      "action": "버스 타고,나들이 갈까,잠수함 타고,구경 갈까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "곰돌이는 버스 타고 숲 속으로 나들이 가서 처음으로 누구를 만났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다람쥐",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "곰돌이와 함께 숲 속에도 가고 바닷속에도 간 건 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오늘",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "둥둥 잠수함을 타고 무엇을 했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바닷속 구경 가서 고래도 만나고 물고기도 만났어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

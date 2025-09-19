@@ -3,10 +3,8 @@
   "author": "김지현",
   "illustrator": "김승연",
   "isbn": "9791165435554",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 11,
   "paragraphInfo": [
     {
@@ -14,77 +12,523 @@
       "srcText": "“콜린은 키가 작으니까 짧은 줄넘기!” “오빠는 키가 크니까 긴 줄넘기!” “으앙, 나도 큰 자동차, 긴 줄넘기를 갖고 싶단 말이야.”",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "콜린,오빠",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "오빠는 키가 크니까 긴 줄넘기!",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누가 짧은 줄넘기를 받았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콜린",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "오빠는 왜 긴 줄넘기를 받았나요?",
+          "queType": 5,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "키가 크니까",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17404",
       "srcText": "오빠는 높이 있는 스위치를 딸깍. 콜린은 낮게 있는 꼬마전등을 딸깍. “엄마, 나도 큰 자동차 갖고 싶어요. 긴 줄넘기도 갖고 싶고, 높이 있는 스위치도 끄고 싶어요.”",
       "srcPage": 12,
       "srcSentenceEA": 4,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "오빠,콜린,엄마",
+      "setting": null,
+      "action": "갖고,끄고 싶어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린은 누구에게 이야기 하고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린은 무엇을 하고 싶어 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "큰 자동차와 긴 줄넘기를 갖고, 높이 있는 스위치도 끄고 싶어해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14976",
       "srcText": "아이가 보기 1단계 측정 두 사물 비교 오빠는 큰 자동차를, 콜린은 작은 자동차를 가졌어요. 오빠는 긴 줄넘기를, 콜린은 짧은 줄넘기를 가졌어요. 오빠는 높이 있는 스위치를 끄고, 콜린은 낮게 있는 꼬마전등을 켰어요.",
       "srcPage": 14,
       "srcSentenceEA": 3,
-      "srcWordEA": 33
+      "srcWordEA": 33,
+      "character": "아이,오빠,콜린",
+      "setting": null,
+      "action": "끄고,켰어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "작은 자동차를 가진 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콜린",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "오빠는 높이 있는 스위치를 끄고, 콜린은 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "낮게 있는 꼬마전등을 켰어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14977",
       "srcText": "아이와 함께 종류는 같지만 크기, 길이, 높이가 다른 두 사물을 주변에서 찾아 보세요. 예를 들어, 엄마의 손거울과 현관에 걸린 거울 중에 어느 것이 크고 작은지 비교하거나, 튀김용 젓가락과 아이의 젓가락 중에 어느 것이 길고 짧은지 비교하는 것도 좋은 활동이 됩니다. 비교할 때는 가급적이면 두 사물을 나란히 놓아 주세요. 특히 길이와 높이를 비교할 때는 두 사물의 한쪽 끝을 잘 맞추어 기준점이 같아지도록 신경 써 주세요.",
       "srcPage": 14,
       "srcSentenceEA": 4,
-      "srcWordEA": 67
+      "srcWordEA": 67,
+      "character": "아이,엄마",
+      "setting": null,
+      "action": "찾아 보세요,놓아 주세요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "튀김용 젓가락과 누구의 젓가락을 비교하는 것이 좋은 활동이 될까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "크기, 길이, 높이를 비교할 때는 사물들을 어떻게 두어야 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "가급적이면 두 사물을 나란히 놓아야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14978",
       "srcText": "엄마가 보기. 두 사물 비교를 알아보아요. 두 사물의 크기, 길이, 높이를 비교하려면 비교에 필요한 언어를 알아야 합니다. 아이들은 보통 ‘크다, 작다’라는 말로 대부분의 사물을 비교하지요. 정확한 비교 개념을 익히기 위해, 길이를 비교할 때는 ‘길다, 짧다’, 높이를 비교할 때는 ‘높다, 낮다’라고 말하도록 이끌어 주세요.",
       "srcPage": 14,
       "srcSentenceEA": 8,
-      "srcWordEA": 50
+      "srcWordEA": 50,
+      "character": "엄마,아이들",
+      "setting": null,
+      "action": "비교할,말하도록,이끌어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "크다, 작다라는 말로 대부분의 사물을 비교하는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아이들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "높이를 비교할 때는 어떻게 하도록 이끄는 것이 좋을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "높다, 낮다라고 말하도록 이끌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14975",
       "srcText": "아빠가 자동차랑 줄넘기를 사 왔어요. “오빠는 몸집이 크니까 큰 자동차!” “콜린은 몸집이 작으니까 작은 자동차!”",
       "srcPage": 5,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "아빠,자동차,줄넘기,오빠,콜린",
+      "setting": null,
+      "action": "사 왔어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "큰 자동차는 누구에게 주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "아빠는 무엇을 사오셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자동차랑 줄넘기를 사 오셨어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17405",
       "srcText": "“네가 자라서 오빠처럼 커지면 큰 자동차, 긴 줄넘기 다 줄게. 밥 많이 먹고 잠을 잘 자면 금방 쑥쑥 자랄 거야. 그때까지 기다릴 수 있지?”",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "오빠",
+      "setting": null,
+      "action": "많이 먹고,잘 자면,기다릴",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린이 누구처럼 커져야 큰 자동차, 긴 줄넘기를 가질 수 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 어떻게 해야 쑥쑥 자랄 거라고 얘기하셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "밥 많이 먹고 잠을 잘 자면 금방 자랄 거라고 하셨어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17402",
       "srcText": "“그것 봐, 콜린. 너한테는 너무 크고, 너무 길잖아.” 콜린은 부러운 듯 오빠를 바라보았어요.",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "콜린,오빠",
+      "setting": null,
+      "action": "바라보았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린은 누구를 부러워했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린은 오빠가 부러워서 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "부러운 듯 오빠를 바라보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14979",
       "srcText": "사람들이 강아지를 산책시키고 있어요. 어느 강아지의 목줄이 길고 짧은지 이야기해 보아요. 공원에 가면 나무들을 볼 수 있어요. 어떤 나무가 높고 낮은지 이야기해 보아요.",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "사람들,강아지",
+      "setting": "공원",
+      "action": "산책시키고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "누구의 목줄이 길고 짧은지 비교해보라고 하였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "강아지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어디에 가면 나무들을 볼 수 있을까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "공원",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사람들이 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "강아지를 산책시키고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "14980",
       "srcText": "아이와 함께 하기 1단계 측정 두 사물 비교 엄마와 함께 동네 산책을 나가요. 주위에 보이는 여러 가지 사물에 대해 이야기를 나누어 보아요. 큰길에 두 종류의 차가 지나가요. 버스와 승용차 중에 어느 것이 큰가요?",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 36
+      "srcWordEA": 36,
+      "character": "아이,엄마,버스,승용차",
+      "setting": "동네,큰길",
+      "action": "산책을 나가요,이야기를 나누어,지나가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "큰길에 무엇이 지나가나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "버스와 승용차",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "어디로 산책을 나가나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "동네",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "주위에 보이는 여러 가지 사물에 대해 무엇을 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이야기를 나누어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17403",
       "srcText": "“콜린, 이제 잘 시간이야.” “높이 있는 스위치는 오빠가 끄고, 낮게 있는 꼬마전등은 콜린이 켜.” “높이 있는 스위치, 내가 끌래.” “그것 봐. 너한테는 너무 높잖아.”",
       "srcPage": 10,
       "srcSentenceEA": 5,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "콜린,오빠",
+      "setting": null,
+      "action": "끄고,켜,끌래",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "낮게 있는 꼬마전등은 누가 켤까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "콜린",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "콜린은 무엇을 하겠다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "높이 있는 스위치를 끄겠다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

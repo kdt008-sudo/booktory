@@ -1,0 +1,129 @@
+﻿{
+  "title": "입을 크게 벌리고, 아!",
+  "author": "고지혜",
+  "illustrator": "최민오",
+  "isbn": "9791128212185",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2075",
+      "srcText": "“말랑말랑 감 이제 먹을 수 있어. 맛있게 냠냠.” 감이 빨갛게 익으면 모두 모두 아! 입을 크게 벌리고 아!",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21,
+      "character": "감,입",
+      "setting": null,
+      "action": "먹을 수 있어,벌리고",
+      "feeling": "맛있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "말랑말랑한 무엇을 먹을 수 있을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "감을 먹기 위해 한 행동은 무엇인가요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "입을 크게 벌렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "말랑말랑 익은 감의 맛은 어떠한가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "맛있어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "2074",
+      "srcText": "“얘들아, 뭐 해?” “우리 말랑말랑 감 기다려” “빨가헥 익은 감 아직 먹을 수 없어. 조금 더 기다려야 돼.” 아기 동물들이 꾸벅꾸벅, 그런데 감 하나가. 아기곰 머리 위로. 퍽!",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 32,
+      "character": "감,아기 동물들,아기곰,머리",
+      "setting": null,
+      "action": "기다려,기다려야 돼,꾸벅꾸벅",
+      "feeling": null,
+      "causalRelationship": "빨갛게 익은 감 아직 먹을 수 없어. 조금 더 기다려야 돼.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 동물들은  말랑말랑한 무엇을 기다리나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "감",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "기다리던 아기 동물들은 어떻게 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "꾸벅꾸벅 졸고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "빨갛게 익은 감을 먹을 수 없기 때문에 어떻게 해야 하나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "조금 더 기다려야 돼.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

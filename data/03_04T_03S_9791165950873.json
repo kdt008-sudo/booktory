@@ -1,0 +1,56 @@
+﻿{
+  "title": "모든 아이는 화가",
+  "author": "장선혜",
+  "illustrator": "김지영",
+  "isbn": "9791165950873",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48166",
+      "srcText": "무얼 그리지. 좋은 생각이 떠오르지 않아. 이제 자연스럽게 새로운 생각이 나지 않아. 우리 그림에 싫증이 나. 뭔가 다른 방법을 찾아야 해. 모든 아이는. 화가예요!",
+      "srcPage": 6,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30,
+      "character": "모든 아이,화가",
+      "setting": null,
+      "action": null,
+      "feeling": "싫증이 나",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "모든 아이는 무엇이라고 했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "화가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "우리 그림에 싫증이 난 이유는 무엇일까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "자연스럽게 새로운 생각이나 좋은 생각이 나지 않아서예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

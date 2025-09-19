@@ -1,0 +1,56 @@
+﻿{
+  "title": "변덕쟁이 달님 ",
+  "author": "박진영",
+  "illustrator": "안준석",
+  "isbn": "9788960162778",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52028",
+      "srcText": "달님, 안녕! 벙글벙글 환한 달님, 꼭 커다란 공 같아요. 달님, 아파요? 얼굴이 반쪽이 되었네요. 달님! 달님 얼굴이 쪽배 같아요. 누가 얼굴을 '앙!' 깨물어 먹었나요?",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 31,
+      "character": "달님,공,쪽배",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "달님 얼굴이 쪽배 같아요.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "반쪽이 된 달님의 얼굴은 무엇과 닮았나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쪽배 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "벙글벙글 환한 달님은 무엇과 닮았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "커다란 공",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

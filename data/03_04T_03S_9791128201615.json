@@ -1,0 +1,56 @@
+﻿{
+  "title": "꼬마 피카소 아트북",
+  "author": "강정하, 하늘땅",
+  "illustrator": "강정하, 하늘땅",
+  "isbn": "9791128201615",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47824",
+      "srcText": "여러 가지 머리카락이 있어요. 어느 머리카락이 옆에 있는 친구들에게 어울릴까요? 직접 그려 주세요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15,
+      "character": "머리카락,친구들",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "여러 가지 머리카락이 있어요. 어느 머리카락이 옆에 있는 친구들에게 어울릴까요?",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "옆에 있는 친구들에게 어울릴 머리카락을 어떻게 알아볼까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "직접 그려 보아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "여러 가지 무엇이 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "머리카락",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

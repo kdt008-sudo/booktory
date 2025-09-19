@@ -1,0 +1,98 @@
+﻿{
+  "title": "아직 먹을 수 없어",
+  "author": "장선혜",
+  "illustrator": "조수진",
+  "isbn": "9791128212055",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2047",
+      "srcText": "드디어 이가 모두 열. 딱딱한 밤을 우적우적. “야호, 이제 뭐든지 먹을 수 있어!”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14,
+      "character": "이,밤",
+      "setting": null,
+      "action": "먹을 수 있어,우적우적",
+      "feeling": "야호",
+      "causalRelationship": "이가 모두 열",
+      "outcomeResolution": "이가 모두 열. 이제 뭐든지 먹을 수 있어!",
+      "prediction": null,
+      "queAnsPairInfoCount": 5,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "이로 딱딱한 밤뿐만 아니라 또 무엇을 먹을 수 있을까?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아몬드랑 호두도 다 먹을 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "딱딱한 무엇을 우적우적 먹을까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "밤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "이제 뭐든지 어떻게 할 수 있을까?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "먹을 수 있어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "이제 뭐든지 먹을 수 있어서 기분이 어떨까?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "기분이 좋아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "딱딱한 밤을 우적우적 왜 먹을 수 있을까?",
+          "queType": 5,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "이가 모두 열개라서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

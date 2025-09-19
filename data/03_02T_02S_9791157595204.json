@@ -3,10 +3,8 @@
   "author": "윤아해",
   "illustrator": "노성빈",
   "isbn": "9791157595204",
-  "readAge": "초등_저학년",
   "publishedYear": 2016,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 8,
   "paragraphInfo": [
     {
@@ -14,56 +12,374 @@
       "srcText": "심심해진 원숭이가 물속에서 첨벙첨벙. 연못 물이 이리 튀고 저리 튀고 올챙이들도 여기저기 흩어졌어. “아이고, 내 아가들!” 엄마 개구리도 화났지 뭐야.",
       "srcPage": 10,
       "srcSentenceEA": 4,
-      "srcWordEA": 22
+      "srcWordEA": 22,
+      "character": "원숭이,연못,올챙이,개구리,엄마,물",
+      "setting": "물속",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "올챙이들이 여기저기 흩어져 화가 난 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 개구리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "원숭이가 첨벙첨벙 물을 튀긴 곳은 어디인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "올챙이들이 있는 물속에서 ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41449",
       "srcText": "까불까불 원숭이 하루 종일 까불까불. 재미있는 일이 없을까, 두리번두리번. 느릿느릿 코알라 대롱대롱 매달리다 나무 잡고 꾸벅꾸벅. 대롱대롱 꾸벅꾸벅 대롱대롱 꾸벅꾸벅. 까불까불 원숭이도 대롱대롱 꾸벅꾸벅 대롱대롱 꾸벅꾸벅.",
       "srcPage": 5,
       "srcSentenceEA": 5,
-      "srcWordEA": 30
+      "srcWordEA": 30,
+      "character": "원숭이,코알라",
+      "setting": null,
+      "action": "매달리다,잡고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "하루 종일 까불까불 재미있는 일을 찾고 있는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "느릿느릿 코알라는 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "대롱대롱 매달려 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41450",
       "srcText": "하지만 까불까불 원숭이는 잠이 오지 않았어. 그래서 참다 참다 꺅꺅꺅 소리를 질렀지. “아이, 시끄러워!” 졸던 코알라가 화났지 뭐야.",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "원숭이,코알라",
+      "setting": null,
+      "action": "질렀지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "잠이 오지 않은 원숭이는 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "소리를 질렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "시끄러운 소리에 화가 난 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코알라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41453",
       "srcText": "연못가의 엄마 개구리 폴짝폴짝 뛰다가 물속으로 풍덩. 폴짝폴짝 풍덩 폴짝폴짝 풍덩. 까불까불 원숭이도 폴짝폴짝 풍덩 폴짝폴짝 풍덩.",
       "srcPage": 9,
       "srcSentenceEA": 3,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "엄마,개구리,원숭이,물속",
+      "setting": "연못가",
+      "action": "뛰다가",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마 개구리의 모습을 따라한 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마 개구리는 어디에 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연못가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "연못가에서 엄마 개구리는 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "폴짝폴짝 뛰다가 물속으로 풍덩 뛰었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41451",
       "srcText": "꽉꽉꽉 엄마 오리 뒤뚱뒤뚱 걸어서 꽁지 들고 부르르. 뒤뚱뒤뚱 부르르 뒤뚱뒤뚱 부르르. 까불까불 원숭이도 뒤뚱뒤뚱 부르르 뒤뚱뒤뚱 부르르.",
       "srcPage": 7,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "오리,엄마,원숭이",
+      "setting": null,
+      "action": "걸어서",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마 오리를 따라 하는 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마 오리는 어떤 행동을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뒤뚱뒤뚱 걷고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41452",
       "srcText": "엄마 오리가 알 위에 살짝 앉으니 까불까불 원숭이도 알 위에 쿵! 알 하나가 깨질 뻔했어. “앗, 내 알!” 엄마 오리가 화났지 뭐야.",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "오리,엄마,원숭이,알",
+      "setting": null,
+      "action": "앉으니,화났지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "알 위에 살짝 앉은 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마 오리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇  때문에 알이 깨질 뻔했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "원숭이가 알 위에 앉아서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41448",
       "srcText": "곰은 가고 없는데, 까불까불 원숭이는 다디단 꿀맛에 정신없이 벌통을 쪽쪽쪽 빨았어. 화가 난 벌들이 애앵 날아오르더니 원숭이 엉덩이를 콕콕콕 쿡쿡쿡 찔렀지 뭐야. “앗, 따가워!” 엉덩이가 새빨개진 까불까불 원숭이. 이리저리 왔다 갔다 엉덩이를 문지르며 멀리멀리 달아나 버렸어.",
       "srcPage": 13,
       "srcSentenceEA": 5,
-      "srcWordEA": 39
+      "srcWordEA": 39,
+      "character": "곰,원숭이,벌들,엉덩이,꿀맛",
+      "setting": null,
+      "action": "빨았어,문지르며,달아나",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "벌에 쏘여 새빨개진 곳은 어디인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엉덩이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "벌에 쏘인 원숭이는 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이리저리 왔다 갔다 엉덩이를 문지르며 멀리멀리 달아나 버렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "41447",
       "srcText": "커다란 곰이 벌통 잡고 쪽쪽 빨아서 꿀꺽꿀꺽 삼켜. 쪽쪽 꿀꺽꿀꺽 쪽쪽 꿀꺽꿀꺽. 까불까불 원숭이도 쪽쪽 꿀꺽꿀꺽 쪽쪽 꿀꺽꿀꺽.",
       "srcPage": 11,
       "srcSentenceEA": 3,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "곰,벌통,원숭이",
+      "setting": null,
+      "action": "빨아서,삼켜",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "곰의 모습을 그대로 따라 한 건 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "곰은 꿀을 먹기 위해 어떤 행동을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "벌통을 잡고 쪽쪽 빨아 먹었다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

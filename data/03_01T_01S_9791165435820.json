@@ -1,0 +1,115 @@
+﻿{
+  "title": "산책하러 가요",
+  "author": "다카기 상고",
+  "illustrator": "다카기 상고",
+  "isbn": "9791165435820",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2760",
+      "srcText": "“에그! 엄마를 잃어버렸구나!” “야옹야옹! 야아옹!” “야옹!”  “우리 아기, 여기에 있었네! 야옹야옹!” “야옹!” 아기 고양이들이 엄마랑 종종 종종 산책하러 가요. 야옹! 야옹! 야옹! 아기 동물들이 엄마랑 산책하러 가요. 꿀꿀! 매애! 멍멍! 야옹!",
+      "srcPage": 10,
+      "srcSentenceEA": 13,
+      "srcWordEA": 43,
+      "character": "엄마,아기,아기 고양이,아기 동물",
+      "setting": null,
+      "action": "잃어버렸구나,있었네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "엄마를 잃어버렸구나",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "엄마를 잃어버린 후 어떻게 행동할 것 같나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마를 찾으러 다닐 것 같아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 고양이들은 누구랑 산책하러 가나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 동물들은 엄마랑 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산책하러 가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "2759",
+      "srcText": " 아기 돼지들이 엄마랑 뒤뚱뒤뚱 산책하러 가요. 꿀꿀! 꿀꿀! 꿀꿀! “꿀꿀!” “꿀꿀!” “꿀꿀! 어?” “야옹!” 아기 양들이 엄마랑 사뿐사뿐 산책하러 가요. 매애! 매애! 매애! “매애!” “매애!” “매애! 어?” “야옹!” 강아지들이 엄마랑 자박자박 산책하러 가요. 멍멍! 멍멍! 멍멍! “멍멍!” “멍멍!” “멍멍! 어?” “야옹!”",
+      "srcPage": 6,
+      "srcSentenceEA": 15,
+      "srcWordEA": 56,
+      "character": "아기 돼지들,엄마,아기 양들,강아지들",
+      "setting": null,
+      "action": "산책하러 가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "엄마랑 뒤뚱뒤뚱 산책하러 가는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 돼지들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기 양들은 엄마랑 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사뿐사뿐 산책하러 가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

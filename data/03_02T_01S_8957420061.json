@@ -1,0 +1,56 @@
+﻿{
+  "title": "하늘의 사냥꾼 매",
+  "author": "채영숙, 김미선, 류재혁, 현진오",
+  "illustrator": "정보 없음",
+  "isbn": "8957420061",
+  "publishedYear": 2003,
+  "publisher": "생각의 샘",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48275",
+      "srcText": "매는 우리나라에서 사계절을 사는 텃새이지만 보기는 쉽지 않아요. 사람의 발길이 닿지 않는 바닷가 벼랑이나 산속 절벽에 둥지를 마련하기 때문입니다. 봄이 가까워지면‘끼웃끼웃’하면서 암컷이 웁니다. 그러면 수컷이 잡아 온 먹이를 암컷에게 줍니다. 짝짓기를 하기 전에 관심을 표현하는 행동입니다. 매가 둥지를 트는 바닷가 벼랑 매의 짝짓기 3월 초순부터 하순까지 매가 짝짓기하는 모습을 볼 수 있어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 58,
+      "character": "매,암컷,수컷,짝짓기,텃새",
+      "setting": null,
+      "action": "줍니다,웁니다,볼 수 있어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우리나라에서 사계절을 사는 텃새이지만 보기는 쉽지 않은 새 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "매",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "매가 짝짓기하는 모습은 언제 볼 수 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "3월 초순부터 하순까지 볼 수 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

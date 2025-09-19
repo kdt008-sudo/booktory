@@ -1,0 +1,143 @@
+﻿{
+  "title": "한옥 ",
+  "author": "이규희",
+  "illustrator": "최양숙",
+  "isbn": "9791165957216",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41833",
+      "srcText": "하늘 향해 솟아오른 듬직한 솟을대문. 솟을대문은 집에서 가장 큰 문이에요. 나쁜 귀신 들어오지 못하게 도깨비 무늬 문고리 앞세운다.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20,
+      "character": "하늘,솟을대문,귀신,도깨비 무늬 문고리",
+      "setting": "집",
+      "action": "앞세운다,솟아오른",
+      "feeling": "듬직한",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "솟을대문의 모습은 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "하늘 향해 솟아오른 듬직한 대문이예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "하늘 향해 솟아오른 것은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "솟을대문",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "솟을대문은 어디에서 가장 큰 문일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "솟을대문은 나쁜 귀신 들어오지 못하게 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "도깨비 무늬 문고리를 앞세워요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "41834",
+      "srcText": "비 그치면 아이들 달려 나가 중문을 폴짝 뛰어넘어 기웃기웃 편문을 살짝 빠져나가 갸웃갸웃 쪽문을 팔짝 뛰어오며 두리번두리번. 중문은 솟을대문을 뺀, 집 안에 있는 모든 문을 말해요. 편문은 드나들기 편하게 만든 문을 뜻하고, 쪽문은 사람들이 드나들도록 만든 작은 문을 가리켜요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 41,
+      "character": "중문,아이들,쪽문,편문,솟을대문,문",
+      "setting": "집 안",
+      "action": "뛰어넘어,살짝 빠져나가,팔짝 뛰어오며,만든,드나들도록,가리켜요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "중문을 폴짝 뛰어넘는 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아이들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "중문은 솟을대문을 뺀 어디에 있는 모든 문을 말하는 걸까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집 안",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "쪽문은 어떤 문일까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사람들이 드나들도록 만든 작은 문이예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

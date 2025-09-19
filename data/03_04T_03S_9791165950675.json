@@ -1,0 +1,56 @@
+﻿{
+  "title": "색을 먹는 달팽이",
+  "author": "기정이,하늘땅",
+  "illustrator": "양미란",
+  "isbn": "9791165950675",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48049",
+      "srcText": "향기 나는 꽃, 벌레, 하늘. 그리고 아무렇게나 자라는 풀도 아름다운 색을 갖고 있어. '그런데 나는.' 달팽이는 풀이 죽었어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20,
+      "character": "꽃,벌레,하늘,풀,달팽이",
+      "setting": null,
+      "action": "자라는,갖고 있어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "풀이 죽은 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달팽이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "꽃, 벌레, 하늘, 그리고 아무렇게나 자라는 풀도 무엇을 갖고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아름다운 색을 갖고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

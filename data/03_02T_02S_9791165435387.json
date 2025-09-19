@@ -3,10 +3,8 @@
   "author": "이경혜",
   "illustrator": "김규택",
   "isbn": "9791165435387",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람키즈",
-  "classification": "자연탐구",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,177 @@
       "srcText": "다시 아침이 되자, 준이가 일어나 기지개를 쭉 켜지.  둥지로 돌아온 부우는 새끼들과 함께 소르르 잠이 들어.  같으면서도 다른 하루. 준이와 부우가 왜 만나기 힘든지 이젠 알겠지?",
       "srcPage": 15,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "준이,부우,새끼들",
+      "setting": "아침,둥지",
+      "action": "일어나,기지개를 쭉 켜지,돌아온,잠이 들어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이가 언제 일어날까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아침",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이가 일어나서 무엇을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기지개를 쭉 켜지.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이가 일어나면 누가 잠이 들까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "부우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "1180",
       "srcText": "준이가 꿈나라에서 신나게 놀고 있을 때. 부우는 새끼들에게 먹이를 물어다 주지. 새끼들은 더 달라고 자꾸만 보채. ",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "준이,부우,새끼들",
+      "setting": "꿈나라",
+      "action": "놀고,물어다 주지,달라고,보채",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "부우는 누구에게 먹이를 물어다 주었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새끼들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이가 어디에서 신나게 놀고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "꿈나라",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "부우가 새끼들에게 먹이를 물어다 주자 새끼들은 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "더 달라고 자꾸만 보채.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "1179",
       "srcText": "이 아이는 준이이고, 이 새는 솔부엉이 부우야. 준이와 부우는 가까이 사는데도 거의 만난 적이 없어.   왜 그럴까? ",
       "srcPage": 4,
       "srcSentenceEA": 3,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "아이,준이,새,솔부엉이,부우",
+      "setting": null,
+      "action": "사는데도,만난 적이 없어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "준이와 부우는 가까이 사는데도 거의 만난 적이 없어.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "솔부엉이의 이름은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "부우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이는 어디에 사나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "부우와 가까이 살아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "준이와 부우는 가까이 사는데도 거의 만난 적이 없는 이유는 무엇일까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "깨어있는 시간이 달라서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

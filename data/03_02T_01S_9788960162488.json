@@ -1,0 +1,70 @@
+﻿{
+  "title": "스케이트 선수, 소금쟁이 ",
+  "author": "김영이",
+  "illustrator": "김상희",
+  "isbn": "9788960162488",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49262",
+      "srcText": "물속 곤충들은 헤엄을 잘 쳐요. 물방개는 꼬리에 공기 방울을 달고 '풍덩' 잠수하고, 맴돌이 물매암이는 물 위를빙글빙글 돌아요. \"난 아빠 됐다!\" 수컷 물자라는 알을 업고 신이 나서 물 위를 들락거려요. 알들이 맑은 공기를 숨쉬게 하려는 뜻이에요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 39,
+      "character": "물방개,수컷 물자라,곤충들,공기방울,물매암이,알",
+      "setting": null,
+      "action": "돌아요,들락거려요",
+      "feeling": null,
+      "causalRelationship": "수컷 물자라는 알을 업고 신이 나서 물 위를 들락거려요. 알들이 맑은 공기를 숨쉬게 하려는 뜻이에요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "꼬리에 공기 방울을 달고 잠수하는 곤충은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "물방개",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "수컷 물자라가 알을 업고 신이 나서 물 위를 들락거리는 까닭은 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "알들이 맑은 공기를 숨 쉬게 하기 위해서 입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "맴돌이 물매암이는 물 위에서 무엇을 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빙글빙글 돌아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

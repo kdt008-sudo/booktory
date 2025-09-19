@@ -1,0 +1,70 @@
+﻿{
+  "title": "이담에 커서 무얼 할까?",
+  "author": "조선학",
+  "illustrator": "이상윤",
+  "isbn": "9791165950712",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48094",
+      "srcText": "봄이 되었지만, 아직 눈이 녹지 않은 새하얀 들판에 작은 통나무집 하나가 있어요. 그 집에는 모슈카와 가족들이 함께 살지요. \"내가 태어나던 날, 아랫마을에 큰불이 났었대.\"",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25,
+      "character": "모슈카,가족들",
+      "setting": "봄,통나무집,아랫마을",
+      "action": "살지요,큰불이 났었대",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "아직 눈이 녹지 않은 새하얀 들판에 무엇이 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "작은 통나무집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "통나무집에는 누가 사나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "모슈카와 가족들이 함께 살아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "내가 태어나던 날, 어디에서 큰불이 났나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아랫마을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

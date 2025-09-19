@@ -1,0 +1,56 @@
+﻿{
+  "title": "악기가 되어 보자!",
+  "author": "조선학",
+  "illustrator": "홍시야",
+  "isbn": "9791165950729",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48120",
+      "srcText": "\"하아암.\" 봄 햇살은 정말 따뜻하고 부드러워. 햇살을 꼭 끌어안고 자고 싶어. 선생님의 목소리가 마치 자장가처럼 아련히 들려오는데. 그때, 내 귀에 들려온 건 동동동. 작은북 소리였어. 누구지? 어디서 나는 소릴까?",
+      "srcPage": 5,
+      "srcSentenceEA": 7,
+      "srcWordEA": 36,
+      "character": "선생님,목소리",
+      "setting": null,
+      "action": "끌어안고 자고 싶어,들려오는데",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "봄 햇살이 따뜻하고 부드러워서 어떻게 하고 싶었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "끌어안고 자고 싶다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "마치 자장가처럼 아련히 들려오는 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선생님의 목소리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+﻿{
+  "title": "잠옷 입고 자자",
+  "author": "야마모토 마츠코",
+  "illustrator": "야마모토 마츠코",
+  "isbn": "9788997300617",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6851",
+      "srcText": "곰돌아, 이제 잘 시간이야! 곰돌이 잠옷, 내 잠옷! 혼자서 입어 볼까?",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "곰돌아,잠옷",
+      "setting": null,
+      "action": "입어 볼까",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "이제 잘 시간이야!",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "내 잠옷은 어떤 잠옷인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰돌이 잠옷",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "나는 곰돌이 잠옷을 어떻게 하려고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "혼자서 입어 보려고 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "잘 시간의 곰돌이는 어떨까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "졸려요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "6852",
+      "srcText": "단추부터 끼워야지. 하하하, 곰돌이 좀 봐! 바지도 입어야지! 어, 이상하네? 어? 우하하하! 와, 다 입었다! 자 그럼. 곰돌아, 잘 자!",
+      "srcPage": 10,
+      "srcSentenceEA": 9,
+      "srcWordEA": 28,
+      "character": "단추,곰돌이,바지",
+      "setting": null,
+      "action": "끼워야지,입어야지,다 입었다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "누구를 보고 하하하 웃었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰돌이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "단추를 끼우고 나서 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "바지를 입었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

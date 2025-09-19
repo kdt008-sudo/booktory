@@ -3,10 +3,8 @@
   "author": "강윤정",
   "illustrator": "정영희",
   "isbn": "8990591341",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 2,
   "paragraphInfo": [
     {
@@ -14,14 +12,104 @@
       "srcText": "‘꼬르륵!’ 뱃속에서 소리가 났습니다. 아하! 호야가 배가 고픈가 보네요. “집에 가서 밥 먹어야지.” 호야는 ‘안녕’ 손을 흔들며 집으로 갔습니다.",
       "srcPage": 6,
       "srcSentenceEA": 6,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "호야,집,밥",
+      "setting": null,
+      "action": "손을 흔들며 집으로 갔습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "호야는 밥을 먹기 위해 손을 흔들며 어디로 갔나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "집",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "호야  뱃속에서 꼬르륵 소리가 난 이유는 무엇인가요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "배가 고프기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "49338",
       "srcText": "“호야, 놀자!” “호야, 이리 와!” 놀이터에서 친구들이 불렀습니다. 호야는 냉큼 미끄럼대로 뛰어갔어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "친구들,호야,미끄럼대",
+      "setting": "놀이터",
+      "action": "뛰어갔어요,불렀습니다.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "친구들은 어디에서 호야를 불렀나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "놀이터",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "친구들이 같이 놀자고 누구를 불렀나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호야",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "호야는 냉큼 어디로 뛰어갔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "미끄럼대로 뛰어갔지요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

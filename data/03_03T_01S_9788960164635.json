@@ -1,0 +1,56 @@
+﻿{
+  "title": "매 맞은 망주석",
+  "author": "동화랑",
+  "illustrator": "정경문",
+  "isbn": "9788960164635",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52481",
+      "srcText": "비단 장수는 엉엉 울면서 원님을 찾아갔어요. 사정을 다 듣고 난 원님이 물었어요. \"네가 잠든 걸 본 사람이 있느냐?\" \"아니요, 망주석만 있었습니다.\"",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "비단 장수,원님,망주석",
+      "setting": null,
+      "action": "울면서,찾아갔어요,듣고,물었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "사정을 다 듣고 원님은 누구에게 물었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "비단 장수",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "비단 장수는 엉엉 울면서 누구를 찾아갔나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원님을 찾아갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

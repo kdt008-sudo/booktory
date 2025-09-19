@@ -1,0 +1,115 @@
+﻿{
+  "title": "자연에서 만나요",
+  "author": "마리아 베어,소냐 발라프",
+  "illustrator": "춤추는코끼리",
+  "isbn": "9788993828764",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8214",
+      "srcText": "등딱지가 반들반들 아기 거북. 모래 위를 뒤뚱뒤뚱 아기 물개. 긴 주둥이 꾸룩꾸룩 아기 병코돌고래. 엄마 뒤를 졸랑졸랑 아기 범고래. ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "등딱지,아기,거북,물개,주둥이,병코돌고래,범고래,엄마",
+      "setting": "모래 위",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "등딱지가 반들반들한 아기 동물은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "거북",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 물개는 어디를 뒤뚱뒤뚱 가고 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "모래 위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "엄마 뒤를 졸랑졸랑 따라가고 있는 동물은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 범고래",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "8212",
+      "srcText": "까만 눈 말똥말똥 아기 오소리. 뾰족한 털 따끔따끔 아기 고슴도치. 코끝에 털이 삐죽삐죽 아기 웜뱃.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "눈,아기,오소리,털,고슴도치,웜뱃,코",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "코끝에 털이 삐죽삐죽 아기 웜뱃.",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "까만 눈이 말똥말똥한 아기 동물은 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오소리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아기 고슴도치는 위험할 때 어떻게 자기를 지킬까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "뾰족하고 따끔따끔한 털로 자신을 지켜요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

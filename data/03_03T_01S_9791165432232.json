@@ -1,0 +1,115 @@
+﻿{
+  "title": "아이코! 똥이다!",
+  "author": "신연미",
+  "illustrator": "양윤미",
+  "isbn": "9791165432232",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "27308",
+      "srcText": "\"아이코! 똥이다!\" 사슴이 똥 위로 겅중 뛰어가요. \"아이코! 똥이다!\" 두더지가 똥 아래 땅속으로 삭삭 지나가요. \"아이코! 똥이다!\" 토끼가 똥 앞으로 깡충깡충 지나가요.",
+      "srcPage": 3,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "character": "똥,사슴,두더지,토끼,땅",
+      "setting": null,
+      "action": "뛰어가요,지나가요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "토끼는 똥을 보고 어떻게 지나가나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "똥 앞으로 깡충깡충 지나갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "똥 위로 뛰어 가는것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사슴",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "27309",
+      "srcText": "\"아이코! 똥이다!\" 여우가 똥 뒤로 사뿐사뿐 지나가요. 개미들이 조르르조르르 다가오더니, \"우아! 똥 모양 빵이네!\" 영차 ! 개미들이 똥 빵을 들고 조르르조르르 신나게 가요.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 28,
+      "character": "똥,여우,개미들,똥 모양 빵,똥 빵",
+      "setting": null,
+      "action": "지나가요,다가오더니,들고,가요",
+      "feeling": "신나게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "여우는 무엇을 보고 뒤로 지나갈까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "똥",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "개미들은 똥을 보고 무엇이라고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "똥 모양 빵이라고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "똥 모양 빵을 들고 가는 개미들의 기분은 어떤가요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "빵을 신나게 들고 갑니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

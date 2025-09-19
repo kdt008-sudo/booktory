@@ -1,0 +1,143 @@
+﻿{
+  "title": "우리 아기, 뽀뽀!",
+  "author": "엘리자베스 코우돌",
+  "illustrator": "김세정",
+  "isbn": "9791165435851",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "2435",
+      "srcText": "우리 아기, 어디에 뽀뽀해 줄까? 아무 데나요! 아무 데나? 정말? 엄마는 알지. 우리 아기가 제일 좋아하는 뽀뽀는. 엄마랑 똑 닮은 코에 하는 뽀뽀! 우리 아기, 사랑해! 쪼옥!",
+      "srcPage": 8,
+      "srcSentenceEA": 9,
+      "srcWordEA": 35,
+      "character": "우리 아기,엄마",
+      "setting": "닮은 코",
+      "action": "뽀뽀해 줄까",
+      "feeling": "좋아,사랑해",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "우리 아기가 제일 좋아하는 뽀뽀는.",
+      "queAnsPairInfoCount": 5,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리 아기 어디에 뽀뽀해 줄까라고 말한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기가 엄마랑 똑닮은 곳은 어디일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "사랑스러운 아기에게 엄마는 무엇을 물어보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "어디에 뽀뽀해 줄까라고 물어보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "아기가 뽀뽀해 달라고 할 때 엄마의 기분은 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사랑스러운 마음이 들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "엄마는 아기가 제일 좋아하는 어디에 뽀뽀를 해 주었을까요?",
+          "queType": 7,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "엄마랑 똑 닮은 코",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "2434",
+      "srcText": "우리 아기, 길쭉길쭉 목에 쪽쪽! 우리 아기, 보들보들 이마에 쪽쪽! 우리 아기, 포동포동 뺨에 쪽쪽!",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17,
+      "character": "목,이마,우리 아기",
+      "setting": "목,이마,뺨",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누구의 목과 이마, 빰에 뽀뽀를 할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "우리 아기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "우리 아기의 길쭉길쭉한 어느 곳에 뽀뽀를 하나요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "목에 뽀뽀를 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

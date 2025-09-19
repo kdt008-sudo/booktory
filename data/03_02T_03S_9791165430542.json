@@ -1,0 +1,70 @@
+﻿{
+  "title": "장난감보다 소중한 선물",
+  "author": "서보현",
+  "illustrator": "김현정",
+  "isbn": "9791165430542",
+  "publishedYear": 2020,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49076",
+      "srcText": "크리스마스 전날 밤, 산타 할아버지는 썰매에 선물을 잔뜩 실었어요. \"어이쿠, 너무 무거워요.\" 순록 루돌이가 투덜투덜했지만, 산타 할아버지는 그저 싱글벙글 웃었지요. \"아이들이 기뻐하는 얼굴을 상상해 보라고!\" 휙! 휙! 휙! 달리는 썰매 위에서 산타 할아버지가 손을 휘두르자 장난감들이 굴뚝으로 쏙쏙 들어갔어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 44,
+      "character": "산타 할아버지,썰매,선물,순록 루돌이,아이들,장난감들",
+      "setting": "크리스마스 전날 밤,굴뚝",
+      "action": "잔뜩 실었어요,투덜투덜했지만,싱글벙글 웃었지요,손을 휘두르자,쏙쏙 들어갔어요.",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "짐이 너무 무겁다며 순록 루돌이는 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "투덜투덜 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "산타 할아버지가 썰매에 선물을 잔뜩 싣는 것은 언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "크리스마스 전날 밤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "누가 손을 휘두르자 장난감들이 굴뚝으로 쏙쏙 들어갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "산타 할아버지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

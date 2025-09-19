@@ -1,0 +1,115 @@
+﻿{
+  "title": "게으름뱅이 잭",
+  "author": "조지프 제이콥스",
+  "illustrator": "구윤미",
+  "isbn": "9791128210488",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "42400",
+      "srcText": "그런데 무슨 일이 일어났는지 알아? 우유가 다 쏟아졌지 뭐야. 엄마는 이마를 짚으며 말했어. “아이고! 잭 생각을 좀 하렴. 머리에 이고 왔어야지!”",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "character": "우유,엄마,이마,머리",
+      "setting": null,
+      "action": "짚으며 말했어,쏟아졌지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "우유를 다 쏟은 이는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "잭이 실수를 한 것을 보고 엄마는 어떤 반응을 보이셨나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "머리에 이고 왔어야 했다고 이마를 짚으며 말했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "42399",
+      "srcText": "잭이 빈둥거리고 있다고? 그렇지 않아. 잭은 곰곰이 생각하고 있어. 잭이 졸고 있다고? 아니라니까. 잭은 생각하고 있는 거야. 잭은 사람들과 좀 다른 생각을 하며 지낼 뿐이지. 지금도.",
+      "srcPage": 4,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33,
+      "character": "잭",
+      "setting": null,
+      "action": "빈둥거리고,졸고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "잭은 사람들과 좀 다른 생각을 하며 지낼 뿐이지.",
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "사람들과 좀 다른 생각을 하는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "잭",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "잭은 빈둥거리는 것이 아니라 무엇을 하고 있다고 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "곰곰이 생각하고 있다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "잭은 어떤 생각을 하고 있었을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "어떤 일을 할까 늘 궁리해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

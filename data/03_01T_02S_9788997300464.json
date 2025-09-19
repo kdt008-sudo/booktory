@@ -1,0 +1,70 @@
+﻿{
+  "title": "파인 파인 파인애플",
+  "author": "오자키 요코",
+  "illustrator": "오자키 요코",
+  "isbn": "9788997300464",
+  "publishedYear": 2016,
+  "publisher": "(주)푸름이닷컴",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "6820",
+      "srcText": "파인 파인 파인애플 칙칙폭폭 기차 연기. 파인 파인 파인애플 빙글빙글 풍차 놀이. 파인 파인 파인애플 째깍째깍 시계. 파인 파인 파인애플 새콤달콤 파인애플.  “맛있게 먹겠습니다!”",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27,
+      "character": "파인애플,기차,풍차,시계",
+      "setting": null,
+      "action": "먹겠습니다",
+      "feeling": "맛있게",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "무엇을 맛있게 먹으려고 할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "파인애플",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "파인애플을 어떻게 하기로 하였을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "맛있게 먹겠다고 하였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "초등_저학년",
+          "question": "파인애플은 어떤 맛일까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "새콤달콤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

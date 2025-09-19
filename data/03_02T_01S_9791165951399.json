@@ -1,0 +1,56 @@
+﻿{
+  "title": "세상에서 가장 특별한 식물",
+  "author": "김호미",
+  "illustrator": "김유대",
+  "isbn": "9791165951399",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48735",
+      "srcText": "숲속에 비실비실한 아기 사자가 살았어. 아기 사자는 다른 사자들처럼 힘이 세지고 싶었지. “얘야, 힘이 세지려면 꾸준히 운동을 해야 한단다.” 아빠 사자가 아기 사자에게 말했지만 아기 사자는 들은 척도 하지 않았어.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 32,
+      "character": "아기 사자,아빠 사자",
+      "setting": "숲속",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "비실비실한 아기 사자는 어디에 살았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "숲속",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "다른 사자들처럼 힘이 세지고 싶었던 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 사자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

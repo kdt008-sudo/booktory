@@ -3,10 +3,8 @@
   "author": "홍건국",
   "illustrator": "김하영",
   "isbn": "9791185721286",
-  "readAge": "초등_저학년",
   "publishedYear": 2014,
   "publisher": "황우출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "옛날, 어느 마을의 부자가 생일잔치를 열었어요. 부자는 가난한 사람들에게 맛난 음식을 대접했어요. 마을 사람들은 부자에게 선물을 주었어요. “저희들의 마음이니 받아 주세요.” “고맙습니다. 잘 쓰겠습니다.”",
       "srcPage": 4,
       "srcSentenceEA": 5,
-      "srcWordEA": 27
+      "srcWordEA": 27,
+      "character": "부자,가난한 사람들,마을 사람들,음식,선물",
+      "setting": "어느 마을",
+      "action": "대접했어요,주었어요,생일잔치를 열었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "부자는 가난한 사람들에게 무엇을 대접했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "음식",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "마을 사람들은 부자에게 무엇을 주었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "선물",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "옛날, 어느 마을에서 누가 생일 잔치를 열었나요?\t",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "부자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

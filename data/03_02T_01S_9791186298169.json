@@ -1,0 +1,98 @@
+﻿{
+  "title": "우주 비행사가 되고 싶은 토끼",
+  "author": "한미숙",
+  "illustrator": "김연정",
+  "isbn": "9791186298169",
+  "publishedYear": 2015,
+  "publisher": "꼬마대통령",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47655",
+      "srcText": "\"우주로 가기 위한 모든 훈련을 마친 침팬지 우주 비행사가 탄생했습니다.\" 우주 비행사가 되면 달에도 갈 수 있겠지? 와, 정말 신나겠다. 그런데 우주 비행사가 되려면 어떤 훈련을 받아야 할까? 나도 우주에 가고 싶다!",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36,
+      "character": "우주,침팬지 우주 비행사,달",
+      "setting": null,
+      "action": "훈련을 받아야,갈 수 있겠지",
+      "feeling": "신나겠다",
+      "causalRelationship": null,
+      "outcomeResolution": "우주로 가기 위한 모든 훈련을 마친 침팬지 우주 비행사가 탄생했습니다.",
+      "prediction": "우주 비행사가 되면 달에도 갈 수 있겠지?",
+      "queAnsPairInfoCount": 5,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우주 비행사가 되어 우주에 가면 어떤 감정을 느낄까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "신나는 감정",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우주 비행사가 되려면 무엇을 받아야 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "훈련을 받아야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우주 비행사가 되면 달뿐만 아니라 어디에도 갈 수 있을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "화성에도 가고 저 멀리 토성과 목성에도 갈 수 있을 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "침팬지 우주 비행사는 어떻게 탄생할까요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "우주로 가기 위한 모든 훈련을 잘 마쳐야 해요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "우주로 가기 위한 모든 훈련을 마친 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "침팬지 우주 비행사",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+﻿{
+  "title": "뽕! 누가 뀌었을까?",
+  "author": "서은",
+  "illustrator": "김아현",
+  "isbn": "9791165432201",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 3,
+  "paragraphInfo": [
+    {
+      "srcTextID": "30875",
+      "srcText": "부우웅! 누가 방귀를 뀌었을까? 코끼리가 쿵쿵 걸으며, 부우우우웅! 넌 방귀 안 뀌니? 헤헤! 나도 오물오물 고구마 먹고, 뽕 뽕 뽀옹!",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25,
+      "character": "코끼리",
+      "setting": null,
+      "action": "걸으며,먹고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "쿵쿵 걸으며 방귀를 부우웅 뀐 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코끼리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "나는 어떻게 방귀를 뀌나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나는 오물오물 고구마 먹고 방귀를 뽕 뀌어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "30876",
+      "srcText": "뽕! 누가 방귀를 뀌었을까? 토끼가 깡충깡충 뛰며, 뽕 뽕 뽕! 뿡! 누가 방귀를 뀌었을까? 원숭이가 흔들흔들 매달리며,뿡 뿡 뿡!",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "character": "토끼,원숭이",
+      "setting": null,
+      "action": "뛰며,매달리며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "깡충깡충 뛰면서 방귀를 뀐 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "원숭이는 어떻게 방귀를 뀌었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "원숭이가 흔들흔들 매달리며 뿡뿡 방귀를 뀌었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "30877",
+      "srcText": "뿌웅! 누가 방귀를 뀌었을까? 소가 우물우물 먹으며, 뿌웅뿌웅! 뽀옹! 누가 방귀를 뀌었을까? 사자가 자박자박 걸으며, 뽀옹 뽀오옹! ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22,
+      "character": "소,사자",
+      "setting": null,
+      "action": "먹으며,걸으며",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "우물우물 먹으면서 뿌웅 방귀를 뀐 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "소",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "사자는 어떻게 방귀를 뀌었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사자는 자박자박 걸으며 뽀옹 방귀를 뀌었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

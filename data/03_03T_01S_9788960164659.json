@@ -1,0 +1,56 @@
+﻿{
+  "title": "어린 사또의 지혜",
+  "author": "이현정",
+  "illustrator": "권혜준",
+  "isbn": "9788960164659",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46603",
+      "srcText": "하루는 사또가 이방을 불렀어. \"왜 부르셨소?\" 이방이 올톡볼톡 퉁명스럽게 묻자. 사또가 또랑또랑하게 말했어. \"석수를 불러 돌로 갓을 만들게 하라.\" 이방은 비죽비죽 거렸지. \"쳇, 그깟 돌갓은 어디에 쓰려고?\" 돌갓을 가져오자 사또가 명령했어. \"이방은 어서 그 돌갓을 쓰라!\"",
+      "srcPage": 3,
+      "srcSentenceEA": 9,
+      "srcWordEA": 40,
+      "character": "사또,이방,석수,돌갓",
+      "setting": null,
+      "action": "불렀어,묻자,말했어,가져오자,명령했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "이방이 돌갓을 가져오자, 사또가 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "이방에게 돌갓을 쓰라 명령했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "석수를 불러 돌로 갓을 만들게 하라고 한 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사또",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

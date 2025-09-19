@@ -3,10 +3,8 @@
   "author": "오주현",
   "illustrator": "이남구",
   "isbn": "9788959047611",
-  "readAge": "유아",
   "publishedYear": 2006,
   "publisher": "한국퍼킨스",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "온 동네가 북적북적 새벽부터 분주해요. 오늘은 오일장에 가는 날이거든요. 장에 가는 길은 꼬불꼬불 꼬부랑, 꼬부랑길이지요. 꼬부랑길을 따라가 보면 아랫마을 금순이도 만날 수 있어요.",
       "srcPage": 9,
       "srcSentenceEA": 4,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "금순이",
+      "setting": "동네,새벽,오늘,길,오일장",
+      "action": "따라가 보면,분주해요,가는,만날 수",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "오늘은 무슨 날인가요?",
+          "queType": 2,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "오일장에 가는 날이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "장에 가는 길에 누구를 만날 수 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "금순이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "동네사람들은 무엇을 하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "온 동네가 북적북적 새벽부터 분주하게 움직이고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

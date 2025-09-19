@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157025985",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,73 @@
       "srcText": "미래 초등학교 앞에 도착한 유비는 주변을 살펴보았어요. ‘오늘 아침에 여기서 비슷한 개를 본 것 같은데?’ 유비는 교문 근처를 샅샅이 훑어보았어요. “앗, 저기 있다!” 드디어 아침에 보았던 그 개를 발견했어요. 하얀 털의 그 개는 노랑머리 강아지와 생김새가 비슷했어요. 유비는 꼬리를 흔드는 개를 쓰다듬어 주었어요. 그러자 개가 유비의 손바닥을 핥았어요. “간지러워!” 유비는 그 개를 유심히 관찰했어요. 털 색깔은 다르지만 귀가 닮은 것 같았어요. “맞아! 노랑머리 강아지랑 귀가 아주 똑같아! 색깔은 돌연변이라 다를 수도 있는 거니까.” 유비는 그 개를 한 번 더 쓰다듬은 다음 재빨리 연구소를 향해 달렸어요. “조금 있다 보자! 내가 잃어버린 새끼를 찾아 줄게!”",
       "srcPage": 13,
       "srcSentenceEA": 15,
-      "srcWordEA": 105
+      "srcWordEA": 105,
+      "character": "유비,노랑머리 강아지",
+      "setting": "미래 초등학교",
+      "action": "훑어보았어요,쓰다듬어 주었어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "유비는 그 개를 한 번 더 쓰다듬은 다음 재빨리 연구소를 향해 달렸어요.",
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "유비는 왜 연구소로 달려갔을까요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마를 찾는 강아지가 연구소에서 기다리고 있어서일 거예요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "유비는 꼬리를 흔드는 개를 어떻게 해 주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "쓰다듬어 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "유비는 어디를 샅샅이 훑어보았나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "미래 초등학교 교문 근처",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "하얀 털의 개는 누구와 생김새가 비슷했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "노랑머리 강아지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

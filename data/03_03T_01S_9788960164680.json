@@ -1,0 +1,56 @@
+﻿{
+  "title": "말하는 남생이",
+  "author": "박성아",
+  "illustrator": "계창훈",
+  "isbn": "9788960164680",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52620",
+      "srcText": "옛날 어느 마을에 형과 아우가 살았어. 형은 게으름뱅이에다 심술쟁이였고, 아우는 부지런하고 마음씨가 착했지. 하루는 아우가 밤을 따며 말했어. “요 알밤, 어머니 갖다 드려야지!” 그러자 누군가가 아우 말을 따라했어. “요 알밤, 어머니 갖다 드려야지!”",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 36,
+      "character": "형,아우,밤",
+      "setting": null,
+      "action": "말을 따라했어,마음씨가 착했지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "부지런하고 마음씨가 착한 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아우",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아우가 무엇을 하고 있을때 누군가가 말을 따라했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "알밤을 따고 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "김혜란",
   "illustrator": "권효실",
   "isbn": "8990591090",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“고마워, 그럼, 한컵만.” 뚱아는 분꽃을 위해 물 한 컵을 담아갑니다. “오리 뒤뚱이가 목 마르대. 어쩌지?” “괜찮아, 얼마든지.” 물통 속의 물이 ‘반짝’ 대답합니다.",
       "srcPage": 8,
       "srcSentenceEA": 7,
-      "srcWordEA": 26
+      "srcWordEA": 26,
+      "character": "뚱아,오리 뒤뚱이,물통,분꽃",
+      "setting": null,
+      "action": "물 한 컵을 담아갑니다,대답합니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "목이 말라 물이 필요한 뒤뚱이는 어떤 동물인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "뚱아는 누구를 위해 물 한컵을 담아갔나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "분꽃",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

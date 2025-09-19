@@ -1,0 +1,56 @@
+﻿{
+  "title": "컴퓨터는 어떻게 작동할까요?",
+  "author": "남석기",
+  "illustrator": "황지영",
+  "isbn": "9788959042470",
+  "publishedYear": 2004,
+  "publisher": "(주)한국퍼킨스교육연구원",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "43484",
+      "srcText": "“도망쳐! 고양이가 쫓아오고 있어!” 야옹! 후닥닥! 오늘도 생쥐 가족은 고양이에게 쫓기고 있어요. “막내야, 이쪽이야! 빨리빨리!”",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 20,
+      "character": "고양이,생쥐 가족,막내",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "오늘도 생쥐 가족은 고양이에게 쫓기고 있어요.",
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "생쥐 가족들은 누구에게 쫓기고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고양이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "고양이가 쫓아오자 생쥐 가족은 어떻게 하고 있나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "도망치고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

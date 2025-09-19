@@ -1,0 +1,84 @@
+﻿{
+  "title": "아니야, 아니야!",
+  "author": "김민진",
+  "illustrator": "아람북스",
+  "isbn": "9791128212765",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "8345",
+      "srcText": "이게 뭐지? 길쭉길쭉 코. 아니야, 아니야. 코끼리 닮은 청소기야. 코끼리인가? 엄마야! 날카로운 이빨. 악어 닮은 가위야. 싹둑싹둑! 악어인가봐. 앗! 뾰족뾰족 가시. 고슴도치 닮은 빗이야. 쓱쓱! 고슴도치네! 이건 쫑긋쫑긋 귀. 토끼 닮은 빨래집게야. 꾹꾹! 귀여운 토끼구나. 아이코! 무서운 뱀이다. 도망가자! 아니야, 아니야! 우리 아빠야.",
+      "srcPage": 10,
+      "srcSentenceEA": 24,
+      "srcWordEA": 66,
+      "character": "코,청소기,코끼리, 엄마,이빨,가위,악어,가시,빗,고슴도치,귀,빨래집게,토끼,뱀,아빠",
+      "setting": null,
+      "action": "도망가자",
+      "feeling": "귀여운,무서운",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "길쭉길쭉 코를 가진 코끼리를 닮은 것은 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "청소기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무서운 뱀인줄 알고 어떻게 하자고 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "도망가자.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "쫑긋쫑긋 귀를 보고 무엇이라고 생각했나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "귀여운 토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "날카로운 이빨을 가진 악어를 닮은 것은 무엇이었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가위",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

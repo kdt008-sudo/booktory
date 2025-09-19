@@ -3,10 +3,8 @@
   "author": "우와조아",
   "illustrator": "박미옥",
   "isbn": "9788993877762",
-  "readAge": "유아",
   "publishedYear": 2009,
   "publisher": "어깨동무",
-  "classification": "예술경험",
   "paragraphInfoCount": 7,
   "paragraphInfo": [
     {
@@ -14,49 +12,343 @@
       "srcText": "상수리나무가 나뭇가지를 살짝 흔들었어. \"다람쥐야, 다람쥐야! 열매를 맺고 있단다.\"맛있겠다! 정말 맛있겠다!",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 14
+      "srcWordEA": 14,
+      "character": "상수리나무,나뭇가지,다람쥐,열매",
+      "setting": null,
+      "action": "흔들었어,맺고 있단다",
+      "feeling": "맛있겠다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "열매를 보며 어떤 감정을 느낄까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "맛있겠다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나뭇가지를 살짝 흔든 건 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "상수리나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "상수리나무로 인해 나뭇가지는 어떻게 됐을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "살짝 흔들렸어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16325",
       "srcText": "그때 바람이 휘익 불어왔어. \"가을아, 가을아! 뭐 하니?\" 정원사 아저씨가 땀을 닦으며 대답했지. \"나무들이 잘 자라게 보살펴 준단다.\" 그렇군요! 그렇군요!",
       "srcPage": 11,
       "srcSentenceEA": 7,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "정원사 아저씨,땀,나무",
+      "setting": null,
+      "action": "닦으며,대답했지,보살펴 준단다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "땀을 닦으며 대답한 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "정원사 아저씨",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "정원사 아저씨는 어떤 행동을 하고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나무들이 잘 자라게 보살펴 주고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17799",
       "srcText": "황금빛 벼들이 바람에 출렁거렸지. \"아저씨, 아저씨! 알찬 곡식을 만들고 있어요.\" 그래그래! 수고하려무나!",
       "srcPage": 3,
       "srcSentenceEA": 5,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "벼,아저씨,곡식",
+      "setting": null,
+      "action": "만들고 있어요,출렁거렸지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "바람에 출렁거린 건 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "황금빛 벼들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇을 만들고 있다고 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "알찬 곡식을 만들고 있대요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "17801",
       "srcText": "단풍나무가 얼굴을 붉히며 대답했지. \"잠자리야, 잠자리야! 단풍을 만들고 있단다.\" 빨간 단풍잎! 숨바꼭질할까?",
       "srcPage": 7,
       "srcSentenceEA": 5,
-      "srcWordEA": 15
+      "srcWordEA": 15,
+      "character": "단풍나무,얼굴,잠자리,단풍",
+      "setting": null,
+      "action": "대답했지,만들고 있단다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "얼굴을 붉히며 대답한 건 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "단풍나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "단풍나무는 무엇을 하고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "단풍을 만들고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16329",
       "srcText": "\"울긋불긋 단풍이 참 예쁘군요!\" \"달콤한 꿀맛! 고마워요.\" 가을은 산들산들 손 흔들며 떠나갔어. 안녕! 내년에 또 만나요!",
       "srcPage": 13,
       "srcSentenceEA": 6,
-      "srcWordEA": 20
+      "srcWordEA": 20,
+      "character": "단풍,가을,손",
+      "setting": null,
+      "action": "흔들며 떠나갔어,만나요",
+      "feeling": "예쁘군요,고마워요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "산들산들 손 흔들며 떠나간 건 무엇일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "가을은 어떤 행동을 하면서 떠났을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "손을 흔들며 떠나갔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "단풍을 보면서 어떤 감정을 느낄까요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "예쁘군요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16330",
       "srcText": "모두 모두 큰소리로 인사했어. \"맛난 햅쌀밥, 잘 먹을게.\" \"고소한 도토리로 겨울 준비 할게요.\"",
       "srcPage": 13,
       "srcSentenceEA": 3,
-      "srcWordEA": 13
+      "srcWordEA": 13,
+      "character": "햅쌀밥,도토리",
+      "setting": null,
+      "action": "인사했어,먹을게,준비 할게요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무엇으로 겨울을 준비할까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "도토리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "모두 큰소리로 어떤 행동을 했을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "인사를 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "16324",
       "srcText": "하늘하늘 코스모스가 배시시 웃었어. \"꿀벌아, 꿀벌아! 예쁜 꽃을 피우고 있어.\"",
       "srcPage": 8,
       "srcSentenceEA": 3,
-      "srcWordEA": 11
+      "srcWordEA": 11,
+      "character": "코스모스,꿀벌,꽃",
+      "setting": null,
+      "action": "웃었어,피우고 있어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "배시시 웃는 건 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코스모스",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "코스모스는 어떤 일을 하고 있을까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "예쁜 꽃을 피우고 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

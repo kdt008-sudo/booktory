@@ -1,0 +1,70 @@
+﻿{
+  "title": "조개가 가장 맛있어",
+  "author": "최명희",
+  "illustrator": "이은진",
+  "isbn": "9788963830605",
+  "publishedYear": 2010,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "46899",
+      "srcText": "시원한 바닷가에 아기 게가 살았어요. 아기 게는 까딱까딱 옆으로 걸으며 조개를 찾았어요. “아, 조개는 언제 먹어도 정말 맛있어!”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "아기 게,조개",
+      "setting": "바닷가",
+      "action": "걸으며,찾았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "아기 게는 어디에 살고 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바닷가",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "아기 게가 정말 맛있다고 한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "조개",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_저학년",
+          "question": "아기 게는 조개를 찾기 위해 어떻게 걸었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "옆으로 걸었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

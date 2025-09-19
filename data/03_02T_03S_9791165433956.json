@@ -1,0 +1,70 @@
+﻿{
+  "title": "하나, 둘, 셋 하면 시작해요! 지구 사랑",
+  "author": "신연미",
+  "illustrator": "아람키즈",
+  "isbn": "9791165433956",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47786",
+      "srcText": "숲이 사라지고 있어요. 가구와 종이를 만들고, 집을 지을 목재를 구하느라, 사람들은 매일 수많은 나무를 베고 있어요. 더욱 심각한 것은 지구의 산소통인 원시림들이 돈벌이가 될 기름야자나무와 사탕수수를 심기 위해서, 소를 기를 땅을 구하기 위해서, 가축을 먹일 콩과 옥수수를 기르기 위해서 등등 여러 가지 이유로 파괴되고 있다는 거예요. 사람들은 매일 수많은 나무를 베고 있어요. 초록 숲은 지구의 산소통이에요. 숲의 나무들은 환경에 해로운 이산화 탄소를 빨아들이고, 공기를 맑게 해 주는 산소를 내뿜어요. 나무 한 그루는 두 사람이 평생 들이마실 산소를 내뿜어요. 그리고 비가 많이 내릴 때 나무는 빗물을 빨아들여 뿌리에 모아 두어 홍수를 막아 주어요. 반대로 비가 오지 않아 가뭄이 들 때는 모아 두었던 물을 내보내어 메마른 땅에 적셔 주어요. 태풍이 불 때도 숲은 바람을 막아 주어 사람들의 보금자리를 보호해 주어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 10,
+      "srcWordEA": 127,
+      "character": "가구,종이,목재,사람들,나무,산소통,집,초록 숲,이산화탄소,산소,빗물,홍수,가뭄,태풍",
+      "setting": null,
+      "action": "만들고,구하느라,베고 있어요,내뿜어요,빨아들이고,막아 주어요,보호해 주어요",
+      "feeling": null,
+      "causalRelationship": "지구의 산소통인 원시림들이 돈벌이가 될 기름야자나무와 사탕수수를 심기 위해서,소를 기를 땅을 구하기 위해서,가축을 먹일 콩과 옥수수를 기르기 위해서 등등 여러 가지 이유로 파괴되고 있다는 거예요.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "태풍이 불면 숲은 바람을 막아서 사람들의 보금자리를 어떻게 해주나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "보호해 주어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "사람들은 가구와 종이를 만들기 위해 매일 무엇을 베고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "나무",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "지구의 산소통인 숲은 왜 파괴되고 있나요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사람들이 돈벌이를 위해서 땅을 무분별하게 사용하고 있기 때문이에요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "까꿍! 날 찾아봐 ",
+  "author": "박진영",
+  "illustrator": "김기택",
+  "isbn": "9788960162457",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "51777",
+      "srcText": "깜깜한 밤에 놀러 나온 곤충 친구가 있네. 누구인지 이름을 알겠니? 연못에서 곤충 친구들이 헤엄치고 있네. 누구인지 이름을 말해 볼까?",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22,
+      "character": "곤충",
+      "setting": null,
+      "action": "헤엄치고 있네",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "곤충은 언제 놀러왔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "깜깜한 밤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "곤충들은 어디에서 헤엄치고 있나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "연못에서",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "아빠와 날씨 괴물(기상학자)",
+  "author": "이세진",
+  "illustrator": "이세희",
+  "isbn": "9788968737091",
+  "publishedYear": 2020,
+  "publisher": "키움북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47746",
+      "srcText": "아빠가 곧 집으로 돌아오실 거야. 아빠는 먼 나라에서 일하고 계셔서, 비행기를 타고 오신대. 하지만 날씨가 나쁘면 비행기는 날지 못해. 비가 많이 오면 안 되는데... 바람이 심하게 불면 안 되는데... \"날씨 괴물에게 부탁해 봐야겠다!\"",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 37,
+      "character": "아빠,비행기,날씨 괴물,비,집",
+      "setting": null,
+      "action": "일하고 계셔서,타고,부탁해 봐야겠다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "아빠는 먼 나라에서 무엇을 하고 계시나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "일하고 계세요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "누가 곧 집으로 돌아오실까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "근이와 원이의 힘겨루기",
+  "author": "조정옥",
+  "illustrator": "여동헌",
+  "isbn": "9788961916158",
+  "publishedYear": 2011,
+  "publisher": "한얼교육",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49221",
+      "srcText": "조선 시대 선비인 홍서봉의 어린 시절 이야기예요. 가난했던 서봉이네는 어머니가 삯바늘질을 해서 겨우 먹고 살았어요. 하지만 인정이 많은 서봉이 어머니는 불쌍한 사람들을 보면 그냥 지나치지 않고 밥을 퍼 주곤 했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 32,
+      "character": "홍서봉,어머니,삯바느질",
+      "setting": null,
+      "action": "밥을 퍼 주곤 했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "조선 시대 선비인 누구의 어린 시절 이야기인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "홍서봉",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "서봉이 어머니는 불쌍한 사람들을 보면 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "밥을 퍼 주곤 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

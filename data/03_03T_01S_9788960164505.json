@@ -1,0 +1,84 @@
+﻿{
+  "title": "노래하는 혹부리 영감",
+  "author": "꾸러기 글방",
+  "illustrator": "조현아",
+  "isbn": "9788960164505",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49704",
+      "srcText": "아주 옛날에 노래를 참 잘하는 혹부리 영감이 살았어. 혹부리 영감은 새참을 먹다가도 흥얼흥얼, 나무를 하다가도 흥얼흥얼, 날이 어둑어둑해져도 흥얼흥얼 노래를 불렀단다. “아이고, 날이 벌써 어두워지다니!” 사방이 깜깜해지자, 혹부리 영감은 산속 빈집을 찾아갔어. 그런데 빈집에 혼자 있자니 괜히 무섭고 으스스하지 뭐야.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 43,
+      "character": "혹부리 영감",
+      "setting": "빈집",
+      "action": "먹다가도,하다가도,불렀단다,찾아갔어",
+      "feeling": "무섭고",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "사방이 깜깜해지자, 혹부리 영감은 어디를 찾아갔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 2,
+          "ansM1": "산속 빈집",
+          "ansM2": "빈집",
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "아주 옛날에 노래를 참 잘하는 누가 살았나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "혹부리 영감",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "빈집에 혼자 있는 혹부리 영감의 기분이 어땠을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "괜히 무섭고 으스스했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "혹부리 영감은 새참을 먹다가도 나무를 하다가도 날이 어둑어둑해져도 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "흥얼흥얼 노래를 불렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

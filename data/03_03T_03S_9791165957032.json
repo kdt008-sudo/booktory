@@ -1,0 +1,129 @@
+﻿{
+  "title": "지구가 아프면 나도 아파요",
+  "author": "하늘땅",
+  "illustrator": "백정석",
+  "isbn": "9791165957032",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "41820",
+      "srcText": "더 이상 갈 곳이 없어요. 더 이상 걸을 힘도 없어요. 지구가 아프면 나도 아파요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16,
+      "character": "지구,나",
+      "setting": null,
+      "action": "걸을 힘도 없어요",
+      "feeling": "아파요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "더 이상 갈 곳이 없고 또 더 이상 어떻게 할 것도 없다고 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "걸을 힘조차 없다고 하였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "지구가 아프면 나는 어떨까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "지구에 사는 나도 아파요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "누가 아프면 나도 아픈가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "지구",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "41821",
+      "srcText": "사람들이 조용조용 운전하기 시작해요. 저기 아빠도 보여요. 이젠 새들이 놀라지 않아요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13,
+      "character": "사람들,아빠,새",
+      "setting": null,
+      "action": "보여요,운전하기 시작해요",
+      "feeling": "놀라지 않아요",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "저기 보인 것은 누구일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아빠",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "사람들은 조용조용 무엇을 하기 시작했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "운전",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "새들은 어떤 반응을 보였나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사람들이 조용조용 운전해서 새들이 더이상 놀라지 않아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

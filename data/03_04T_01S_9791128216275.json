@@ -3,10 +3,8 @@
   "author": "이선아",
   "illustrator": "문구선",
   "isbn": "9791128216275",
-  "readAge": "유아",
   "publishedYear": 2018,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 4,
   "paragraphInfo": [
     {
@@ -14,28 +12,236 @@
       "srcText": "쫑긋쫑긋, 무슨 소리지? 창문을 열어 보니. 사각사각 수박 먹는 소리예요. 창문 너머로 여름이 왔어요.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 17
+      "srcWordEA": 17,
+      "character": "창문,수박",
+      "setting": "여름",
+      "action": "열어 보니,먹는",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사각사각 소리는 어떤 과일을 먹을 때 나는 소리일까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "수박",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사각사각 수박 먹는 소리는 어느 계절에 들리나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "여름",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "사각사각 수박 먹는 소리가 궁금해서 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "창문을 열어보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4611",
       "srcText": "발름발름, 무슨 냄새지? 창문을 열어 보니. 향긋한 라일락 냄새예요. 창문 너머로 봄이 왔어요.",
       "srcPage": 2,
       "srcSentenceEA": 4,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "창문,라일락 냄새",
+      "setting": "봄",
+      "action": "열어 보니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "창문을 열어 보니 어떤 꽃의 향긋한 냄새가 났나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "라일락",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "향긋한 라일락 냄새가 나는 계절은  언제인가요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "봄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "무슨 냄새인지 알아보기 위해 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "창문을 열었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4615",
       "srcText": "킁킁 킁킁, 이건 또 무슨 냄새지? 창문을 열어 보니. 달콤한 사과 냄새예요. 창문 너머로 가을이 왔어요.",
       "srcPage": 6,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "창문,사과",
+      "setting": "가을",
+      "action": "열어 보니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "창문을 열어 보니 달콤한 냄새가 나는 어떤 과일이 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "사과",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "달콤한 사과 냄새가 나는 계절은 어느 계절일까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "가을",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "냄새를 알기 위해 무슨 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "창문을 열었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "4616",
       "srcText": "왁자지껄, 이건 또 무슨 소리야? 창문을 열어 보니. 와글와글 눈싸움 하는 소리예요. 창문 너머로 겨울이 왔어요.",
       "srcPage": 8,
       "srcSentenceEA": 4,
-      "srcWordEA": 19
+      "srcWordEA": 19,
+      "character": "창문",
+      "setting": "겨울,창문 너머",
+      "action": "열어 보니",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "왁자지껄, 와글와글은 무엇을 할 때 나는 소리인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "눈싸움",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "와글와글 눈싸움 하는 소리는 어느 계절에 들리나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "겨울",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "왁자지껄 소리가 무엇인지 알아보기 위해 무엇을 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "창문을 열어 보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

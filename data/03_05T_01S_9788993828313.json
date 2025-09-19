@@ -1,0 +1,191 @@
+﻿{
+  "title": "날이면 날마다",
+  "author": "서은",
+  "illustrator": "박찬욱",
+  "isbn": "9788993828313",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 4,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16098",
+      "srcText": "날이면 날마다 하마는 물 안에 있지. 왜? 푸푸 물놀이하려고. 날이면 날마다 다람쥐는 나무 구멍 밖에 있지. 왜? 대굴대굴 도토리 주우려고.",
+      "srcPage": 4,
+      "srcSentenceEA": 6,
+      "srcWordEA": 25,
+      "character": "하마,물,다람쥐,나무,토토리",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "날이면 날마다 하마는 물 안에 있지. 왜? 푸푸 물놀이하려고,날이면 날마다 다람쥐는 나무 구멍 밖에 있지. 왜? 대굴대굴 도토리 주우려고",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 누가 물 안에 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하마",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 다람쥐가 나무 구멍 밖에 있는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "대굴대굴 도토리 주우려고.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16097",
+      "srcText": "날이면 날마다 원숭이는 나무 위에 있지. 왜? 흔들흔들 나무타기 하려고. 날이면 날마다 사자는 나무 아래 있지. 왜? 시원한 그늘에서 낮잠을 자려고.",
+      "srcPage": 2,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "character": "원숭이,나무,사자",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": "날이면 날마다 원숭이는 나무 위에 있지. 왜? 흔들흔들 나무타기 하려고,날이면 날마다 사자는 나무 아래 있지. 왜? 시원한 그늘에서 낮잠을 자려고",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 사자가 나무 아래에 있는 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": " 시원한 그늘에서 낮잠을 자려고.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 누가 나무 위에 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "원숭이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16099",
+      "srcText": "날이면 날마다 아기 펭귄은 아빠 펭귄 앞에 있지. 왜? 쌩쌩 추운 바람 피하려고. 날이면 날마다 아기 오리들은 엄마 오리 뒤를 따라가지. 왜? 뒤뚱뒤뚱 산책 가려고.",
+      "srcPage": 6,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30,
+      "character": "아기 펭귄,아빠 펭귄,아기 오리들,엄마 오리",
+      "setting": null,
+      "action": "뒤를 따라가지",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 누가 아빠 펭귄 앞에 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아기 펭귄",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 아기 오리들이 어떻게 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마 오리 뒤를 따라가요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "16100",
+      "srcText": "날이면 날마다 기린은 나무 옆에 있지. 왜? 냠냠 나뭇잎을 먹으려고. 밤이면 밤마다 아기는 엄마랑 아빠 가운데 있지. 왜? 쌔근쌔근 잠을 자려고.",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26,
+      "character": "기린,나무,나뭇잎,아기,엄마,아빠",
+      "setting": null,
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": "날이면 날마다 기린은 나무 옆에 있지,밤이면 밤마다 아기는 엄마랑 아빠 가운데 있지",
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "날이면 날마다 누가 나무 옆에 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "기린",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "밤이면 밤마다 아기가 잠을 자려고 어떻게 하나요?",
+          "queType": 7,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "엄마랑 아빠 가운데 있어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

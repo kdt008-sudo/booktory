@@ -1,0 +1,56 @@
+﻿{
+  "title": "어흥! 고기 밥이 최고야 ",
+  "author": "박진영",
+  "illustrator": "최영미",
+  "isbn": "9788960162754",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52050",
+      "srcText": "심술쟁이 사자 대왕이 드르 드르 코를 골다 소리를 질렀어요.“어, 배고프다. 어서 빨리 밥 가져와!” 사자 대왕의 호통에 힘이 약한 동물들은 겁을 먹고 밥을 준비했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27,
+      "character": "사자,코,밥",
+      "setting": null,
+      "action": "소리를 질렀어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "누가 사자 대왕의 호통에 겁을 먹고 밥을 준비했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "힘이 약한 동물들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "심술쟁이 사자 대왕은 왜 소리를 질렀나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "배가 고파서 얼른 밥을 가져오라고 소리를 질렀습니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

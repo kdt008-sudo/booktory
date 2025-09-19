@@ -3,10 +3,8 @@
   "author": "와이엔티",
   "illustrator": "전병준",
   "isbn": "9791157026067",
-  "readAge": "초등_저학년",
   "publishedYear": 2017,
   "publisher": "황우출판사",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "향기로운 생선 도둑.마리는 모처럼 집에서 화장실 청소를 했어요. 원래 화장실 청소는 엄마 담당이지만 엄마가 바빠서 마리가 대신하기로 한 거예요. 물론 청소한 대가로 용돈을 따로 받기로 했지요. “으, 더러워.” 화장실 바닥을 청소하고 변기를 들여다보니 누리끼리한 때가 보였어요. 냄새도 고약했고요. ‘변기는 꼭 변기용 세제로 닦아야 해!’ 마리는 엄마가 피자 가게로 나가면서 지시한 말을 잊지 않고 있었어요. ‘이게 변기용 세제구나.’ 마리는 세제를 솔에 묻혀 변기를 반짝반짝하게 닦았어요. 누리끼리한 변기가 깨끗해지니 속이 다 시원했어요. 윽, 더러워!",
       "srcPage": 7,
       "srcSentenceEA": 13,
-      "srcWordEA": 83
+      "srcWordEA": 83,
+      "character": "마리,엄마,변기용 세제",
+      "setting": "화장실",
+      "action": "청소를 했어요,닦았어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "엄마는 변기를 닦을 때 꼭 무엇을 사용하라고 지시했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "변기용 세제",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마리는 엄마가 지시한 말을 기억하고 어떻게 청소했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "세제를 솔에 묻혀 변기를 반짝반짝하게 닦았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "마리는 모처럼 어디를 청소했나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "화장실",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

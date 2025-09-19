@@ -1,0 +1,129 @@
+﻿{
+  "title": "태양의 전사",
+  "author": "로즈마리 서트클리프",
+  "illustrator": "삽화 없는 동화책",
+  "isbn": "8975254860",
+  "publishedYear": 1996,
+  "publisher": "학원출판공사",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "28780",
+      "srcText": "양 떼를 지키는 개가 두 마리 그 옆에 엎드려 있었다. 한 마리는 주인처럼 늙어 코끝이 잿빛으로 변한 영리해 보이는 개이고, 다른 한 마리는 젊고 몸집이 가느다란 개였다. 개 옆에는 9세쯤 되어 보이는 남자아이가 쭈그리고 앉아 젊은 쪽 개의 귀를 만지작거리고 있었다.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 43,
+      "character": "양,개,귀,남자아이,주인",
+      "setting": null,
+      "action": "엎드려 있었다,쭈그리고 앉아,만지작거리고 있었다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "양 떼를 지키는 동물은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "개",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "개 옆에는 9세쯤 되어 보이는 남자아이가 무엇을 하고 있었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "쭈그리고 앉아 젊은 쪽 개의 귀를 만지작거리고 있었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "28775",
+      "srcText": "진홍빛 실. 늙은 양치기가 무릎에 창을 올려 놓고 앉아 바다를 바라보고 있었다. 그 모습은 뒤쪽 언덕에 서 있는, 바람에 일그러진 아가위나무처럼 이 언덕의 한 부분을 이루고 있었다. 노인은 몸집이 작고 살빛이 검었으며, 금작화 뿌리처럼 몸의 뼈마디가 억세 보였다.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 41,
+      "character": "바다,아가위나무,노인",
+      "setting": "언덕",
+      "action": "창을 올려놓고,앉아,바라보고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "노인은 몸집이 작고 살빛이 검었으며, 금작화 뿌리처럼 몸의 뼈마디가 억세 보였다.",
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "아가위나무는 어디에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "언덕",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "노인은 어디를 바라보고 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바다",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "늙은 양치기는 무엇을 하고 있었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "늙은 양치기가 무릎에 창을 올려 놓고 앉아 바다를 바라보고 있었다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "노인의 모습은 어때 보였나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "몸집이 작고 살빛이 검었으며, 금작화 뿌리처럼 몸의 뼈마디가 억세 보였어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

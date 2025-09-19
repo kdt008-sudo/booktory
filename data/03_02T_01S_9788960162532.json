@@ -1,0 +1,56 @@
+﻿{
+  "title": "피부야, 뭘 느꼈니? ",
+  "author": "정명숙",
+  "illustrator": "김태란",
+  "isbn": "9788960162532",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49385",
+      "srcText": "\"난 환하면 무엇이든 잘 봐.\" \"난 냄새를 잘 맡아.\" \"난 소리를 잘 들어.\" \"난 맛을 잘 구별해.\" 눈, 코, 귀, 입이 자랑을 했어요.",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24,
+      "character": "눈,코,귀,입,냄새,소리,맛",
+      "setting": null,
+      "action": "자랑을 했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "귀는 뭐라고 자랑하고 있나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "난 소리를 잘 들어.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "눈은 뭐라고 자랑하나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "난 환하면 무엇이든 잘 봐.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

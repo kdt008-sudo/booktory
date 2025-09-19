@@ -3,10 +3,8 @@
   "author": "이영호",
   "illustrator": "김성종",
   "isbn": "8990591074",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "“에미야, 저 괭이 시골로 가져가야겠다. 광에 쥐가 많거든.” “안 돼요. 할머니! 나비는 내 친구예요.” 보람이는 얼굴이 하얗게 질려 외쳐 댔습니다.",
       "srcPage": 12,
       "srcSentenceEA": 6,
-      "srcWordEA": 24
+      "srcWordEA": 24,
+      "character": "에미,괭이,쥐,할머니,나비,친구,보람이,광",
+      "setting": null,
+      "action": "가져가야겠다,외쳐 댔습니다",
+      "feeling": null,
+      "causalRelationship": "저 괭이 시골로 가져가야겠다. 광에 쥐가 많거든.",
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "나비는 누구의 친구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "보람이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "괭이를 시골로 가져가야겠다고 한 이유는 무엇인가요?",
+          "queType": 5,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "광에 쥐가 많아서요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "보람이는 누구에게 외쳐 댔나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할머니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

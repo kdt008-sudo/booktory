@@ -3,10 +3,8 @@
   "author": "백은하",
   "illustrator": "윤정미",
   "isbn": "9791185721330",
-  "readAge": "초등_저학년",
   "publishedYear": 2014,
   "publisher": "황우출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "친구들 몰래 가방에서 초콜릿을 꺼내고는 야금야금 먹으면서 씩 웃었어요. 그런데 갑자기 배를 움켜잡고 떼굴떼굴 굴렀어요. “아이고! 배 아파. 아야.” “안 되겠다. 도도야! 집에 가야겠다.”",
       "srcPage": 6,
       "srcSentenceEA": 7,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "친구들,도도",
+      "setting": null,
+      "action": "꺼내고는,먹으면서 씩 웃었어요,떼굴떼굴 굴렀어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "도도는 갑자기 배를 움켜잡고 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "떼굴떼굴 굴렀어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "도도는 누구 몰래 초콜릿을 먹었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "친구들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

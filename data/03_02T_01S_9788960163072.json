@@ -1,0 +1,56 @@
+﻿{
+  "title": "(빨주노초파남보) 무지개 ",
+  "author": "김영이",
+  "illustrator": "김태란",
+  "isbn": "9788960163072",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52044",
+      "srcText": "빛의 요정들은 물보라를 만나도 ‘피용~!’물 알갱이 속으로 들어가 빛깔 옷을 입고서요. 빨주노초파남보 차례차례로. 우와! 저녁 무렵 여우비가 내릴 때 해를 등지고 하늘을 봐요. 공중에 떠있는 물방울 속에 빛의 요정들이 서있을걸요. *여우비-볕이 나 있는 날 잠깐 오다 그치는 비 “빨주노초파남보!” 꼬마들이 하늘을 보며 외쳐요. “와, 무지개다!” 둥근 무지개야.” 우와!",
+      "srcPage": 10,
+      "srcSentenceEA": 11,
+      "srcWordEA": 57,
+      "character": "요정,꼬마",
+      "setting": null,
+      "action": "외쳐요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "여우비가 내리는 하늘에서 꼬마들은 무엇을 보고 외쳤나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무지개를 보고 외쳐요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "공중에 떠 있는 물방울 속에 누가 서 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "빛의 요정",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -3,10 +3,8 @@
   "author": "최형미",
   "illustrator": "양지윤",
   "isbn": "9791185721361",
-  "readAge": "초등_저학년",
   "publishedYear": 2014,
   "publisher": "황우출판사",
-  "classification": "신체운동_건강",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "수다쟁이 통통이가 친구들에게 무서운 소문을 알려줬어요. “이상한 사람이 아이들을 잡아간대.” “뭐라고? 그게 정말이야?” “며칠 전에 아랫마을 아이들이 두 명이나 잡혀갔대.”",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 21
+      "srcWordEA": 21,
+      "character": "통통이,친구들,이상한 사람,아이들,아랫마을",
+      "setting": null,
+      "action": "알려줬어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "수다쟁이 통통이가 친구들에게 무엇을 해주었나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "무서운 소문을 알려줬어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "초등_저학년",
+          "question": "며칠 전에 누가 두 명이나 잡혀갔나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "아랫마을 아이들",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

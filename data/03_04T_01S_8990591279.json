@@ -3,10 +3,8 @@
   "author": "이슬기",
   "illustrator": "이규경",
   "isbn": "8990591279",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "까미는 구멍으로 머리를 들이밀었어요. “아이 아파! 어깨가 걸리잖아?” 몸이 나무 판자에 걸려 버렸어요. 까미는 낑낑거리다 간신히 집밖으로 나왔습니다. “휴우! 이제야 살겠다.”",
       "srcPage": 7,
       "srcSentenceEA": 6,
-      "srcWordEA": 25
+      "srcWordEA": 25,
+      "character": "까미,구멍,머리,어깨,몸,나무판자",
+      "setting": null,
+      "action": "들이밀었어요,걸려 버렸어요,나왔습니다",
+      "feeling": "아파",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "낑낑거리다 간신히 집 밖으로 나온 사람은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "까미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "까미는 나무판자에 몸이 걸리자 어땠나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "아픔을 느꼈어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "까미는 구멍으로 머리를 어떻게 했나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "들이밀었어요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

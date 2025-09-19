@@ -1,0 +1,115 @@
+﻿{
+  "title": "우아, 멋지다!",
+  "author": "꼬두람이",
+  "illustrator": "꼬두람이",
+  "isbn": "9791165432362",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "paragraphInfoCount": 2,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7987",
+      "srcText": "모두 멋지게 차려입고 모였어요. 이제부터 즐겁게 파티를 해요. 곰 한 마리가 고깔모자를 썼어요. “우아, 멋지다!” 악어 두 마리가 선글라스를 썼어요. “우아, 멋지다!” 펭귄 세 마리가 머리띠를 둘렀어요. “우아, 멋지다!”",
+      "srcPage": 3,
+      "srcSentenceEA": 8,
+      "srcWordEA": 33,
+      "character": "곰,고깔모자,악어,선글라스,펭귄,머리띠",
+      "setting": null,
+      "action": "모였어요,파티를 해요,썼어요,둘렀어요",
+      "feeling": "멋지다",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "누가 고깔모자를 썼나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "곰 한 마리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "무엇을 하기 위해 모두 멋지게 차려입고 모였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "즐겁게 파티를 하려고요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "파티에 참석한 곰과 악어, 펭귄은 서로를 보고 어떻다고 했나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "멋지다고 했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    },
+    {
+      "srcTextID": "7986",
+      "srcText": "뾰족뾰족 고깔모자 하나! 누가 쓸까요?  동글동글 선글라스 둘! 누가 쓸까요? 반짝반짝 머리띠 셋! 누가 두를까요? 펄럭펄럭 망토 넷! 누가 걸칠까요? 알록달록 리본 다섯! 누가 맬까요?",
+      "srcPage": 1,
+      "srcSentenceEA": 10,
+      "srcWordEA": 35,
+      "character": "고깔모자,선글라스,머리띠,망토,리본",
+      "setting": null,
+      "action": "쓸까요,두를까요,걸칠까요,맬까요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "뾰족뾰족한 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "고깔모자",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "의사소통",
+          "readAge": "유아",
+          "question": "펄럭펄럭 망토를 어떻게 할까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "걸쳐요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

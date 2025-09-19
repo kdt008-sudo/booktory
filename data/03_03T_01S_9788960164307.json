@@ -1,0 +1,56 @@
+﻿{
+  "title": "토끼의 간을 가지러 온 자라",
+  "author": "강용숙",
+  "illustrator": "채수현",
+  "isbn": "9788960164307",
+  "publishedYear": 2011,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52614",
+      "srcText": "옛날 옛날에, 토끼 한 마리가 폴짝폴짝 뛰어 언덕을 오르고 있었어요. \"잠깐만요!\" 멀리서 자라 한 마리가 느릿느릿 따라오며 토끼를 불렀지요. 혹시 당신이 토 선생님이세요? 자라가 묻자 토끼가 돌아보았지요. \"토 선생님? 나 말인가요?\" 자라가 바짝 다가서며 말했어요. \"예, 바다 속 용궁에는 토 선생님에 대한 소문이 자자하지요.\" \"똑같아! 그림하고 똑같아!\"",
+      "srcPage": 2,
+      "srcSentenceEA": 9,
+      "srcWordEA": 53,
+      "character": "토끼,자라",
+      "setting": null,
+      "action": "뛰어,오르고,따라오며,불렀지요,돌아보았지요.다가가며 말했어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "자라가 멀리서 느릿느릿 따라오며 토끼를 불렀더니 토끼는 어떻게 하였나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼가 돌아보았지요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "유아",
+          "question": "폴짝폴짝 뛰어 언덕을 오르고 있는 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "토끼",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

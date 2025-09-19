@@ -3,10 +3,8 @@
   "author": "김성은",
   "illustrator": "정소영",
   "isbn": "9791165959623",
-  "readAge": "유아",
   "publishedYear": 2024,
   "publisher": "아람북스",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "옛날에 글만 읽는 점잖은 김 선비가 살았어. 김 선비에게는 별난 버릇이 하나 있었지. 바로 손톱, 발톱을 똑똑 깎아서 밖으로 휙 던지기! 그러면 툇마루 밑에서 쥐 한 마리가 뽀르르 달려 나와 손톱, 발톱을 야금야금 먹어 치웠어.",
       "srcPage": 4,
       "srcSentenceEA": 4,
-      "srcWordEA": 38
+      "srcWordEA": 38,
+      "character": "김 선비,손톱,발톱,쥐",
+      "setting": null,
+      "action": "깎아서,먹어 치웠어,던지기",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "누구에게 손톱, 발톱을 깎아서 밖으로 던지는 별난 버릇이 있었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "김 선비",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "툇마루 밑에서 쥐 한 마리가 달려 나와서 무엇을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "김 선비가 던진 손톱, 발톱을 먹어 치웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

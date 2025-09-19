@@ -3,10 +3,8 @@
   "author": "허은실",
   "illustrator": "김주희",
   "isbn": "9791128213908",
-  "readAge": "초등_저학년",
   "publishedYear": 2022,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,59 @@
       "srcText": "얘들아, 나물 캐러 가자. 바구니 옆에 끼고 한 손에 호미 들고 산과 들로 나물 캐러 가자. 매끈매끈 기름나물, 돌돌 말아 고사리, 울지 마라 달래, 아따 춥다 냉이. 재미있는 이름만큼 종류도 가지가지. 무슨 무슨 나물이 있는지 한번 구경해 볼래?",
       "srcPage": 4,
       "srcSentenceEA": 5,
-      "srcWordEA": 42
+      "srcWordEA": 42,
+      "character": "나물,바구니,손,호미",
+      "setting": null,
+      "action": "끼고,들고",
+      "feeling": "재미있는",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "재미있는 이름만큼 무엇도 가지가지인가요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "나물 종류",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "한 손에 든 것은 무엇일까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "호미",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "무엇을 옆에 끼고 나물을 캐러 갈까요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "바구니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

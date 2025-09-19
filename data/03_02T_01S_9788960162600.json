@@ -1,0 +1,56 @@
+﻿{
+  "title": "내 알을 부탁해! ",
+  "author": "강용숙",
+  "illustrator": "정영희",
+  "isbn": "9788960162600",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52051",
+      "srcText": "뻐꾸기 한 마리가 숲속을 뱅뱅 돌며 중얼거렸어. ‘아이고, 집이 없는데 어디 다 알을 낳지?’갑자기 뻐꾸기가 크큭 웃었어. ‘와, 저기 오목눈이가 있네. 쟤는 알을 많이 낳으니까 내 알 하나쯤 있어도 모를 거야.’",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35,
+      "character": "뻐꾸기,알,오목눈이",
+      "setting": null,
+      "action": "숲속을 뱅뱅 돌며 중얼거렸어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "숲속을 뱅뱅 돌며 어디다 알을 낳을지 고민하던 새는 누구인가요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뻐꾸기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "알을 많이 낳는 새는 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "오목눈이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

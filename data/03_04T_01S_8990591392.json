@@ -3,10 +3,8 @@
   "author": "김종상",
   "illustrator": "박현자",
   "isbn": "8990591392",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "“찌륵찌륵또르르.” 새가 날아와 돌멩이 얼굴에 부리를 닦았어요. “너, 내가 걸레인 줄 아니?” 돌멩이가 툭 쏘아 붙어요.",
       "srcPage": 6,
       "srcSentenceEA": 3,
-      "srcWordEA": 18
+      "srcWordEA": 18,
+      "character": "새,돌멩이,걸레,부리",
+      "setting": null,
+      "action": "날아와,부리를 닦았어요,툭 쏘아 붙어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "새가 날아와서 돌멩이에게 어떻게 했나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "돌멩이 얼굴에 부리를 닦았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "돌멩이는 자신을 무엇에 비유하며 툭 쏘아 붙였나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "걸레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

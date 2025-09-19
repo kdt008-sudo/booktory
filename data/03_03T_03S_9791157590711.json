@@ -1,0 +1,70 @@
+﻿{
+  "title": "칭찬 딱지 10장",
+  "author": "장선혜",
+  "illustrator": "김호랑",
+  "isbn": "9791157590711",
+  "publishedYear": 2015,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48902",
+      "srcText": "딱 한 친구만 빼고요. 바로 곤충을 좋아해서 곤충 딱지를 받은 상추였어요. “소은아, 오늘 노래 정말 잘하더라.” 상추는 소은이에게 무당벌레가 그려진 딱지를 주었어요. “응, 고마워. 그런데 나는 너 칭찬 안 할 거야. 칭찬하면 공주 딱지 줘야 하니까.” “나는 괜찮아.”",
+      "srcPage": 6,
+      "srcSentenceEA": 8,
+      "srcWordEA": 42,
+      "character": "친구,곤충,상추,소은,무당벌레,딱지,공주 딱지,곤충 딱지",
+      "setting": null,
+      "action": "주었어요,줘야 하니까",
+      "feeling": "고마워",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "딱지를 받은 소은이는 어떤 기분이었을까요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "소은이는 고마웠어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "상추는 소은이에게 노래를 잘한다며 어떤 행동을 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "딱지를 주었어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "곤충을 좋아해서 곤충 딱지를 받은 것은 누구인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "상추",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

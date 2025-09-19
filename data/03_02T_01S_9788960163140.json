@@ -1,0 +1,56 @@
+﻿{
+  "title": "에계! 식물이 움직이네 ",
+  "author": "예종화",
+  "illustrator": "신승희",
+  "isbn": "9788960163140",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52002",
+      "srcText": "식물은 한 발짝도 못 움직여. 땅속에 뿌리를 박고 있기 때문이야. 그렇지만 몸의 일부를 조금씩 움직이는 식물들이 있어. 난 해바라기 꽃봉오리야. 온종일 해님을 바라보며 돌아. 꽃이 활짝 필 때까지, 빙 빙!",
+      "srcPage": 5,
+      "srcSentenceEA": 6,
+      "srcWordEA": 35,
+      "character": "뿌리,해바라기",
+      "setting": null,
+      "action": "해님을 바라보며,못 움직여,박고",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "식물은 왜 한 발짝도 못 움직이나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "땅속에 뿌리를 박고 있기 때문입니다.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "해님을 바라보며 꽃이 활짝 필 때까지 몸을 조금씩 움직여 빙빙 도는 꽃은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "해바라기",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

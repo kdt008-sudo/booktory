@@ -3,10 +3,8 @@
   "author": "장선혜",
   "illustrator": "조혜진",
   "isbn": "9788966923632",
-  "readAge": "초등_저학년",
   "publishedYear": 2012,
   "publisher": "아람북스",
-  "classification": "자연탐구",
   "paragraphInfoCount": 3,
   "paragraphInfo": [
     {
@@ -14,21 +12,191 @@
       "srcText": "기다란 코 옆으로 손가락 둘을 쏙쏙! 하얀 앞니가 둘 나왔네. 둘은 2. 무서운 도깨비 머리에 손가락 셋을 쏙쏙쏙! 심술궂은 뿔이 셋 나왔네. 셋은 3.",
       "srcPage": 5,
       "srcSentenceEA": 6,
-      "srcWordEA": 29
+      "srcWordEA": 29,
+      "character": "코,손가락,앞니,도깨비 머리,뿔",
+      "setting": "코 옆으로",
+      "action": null,
+      "feeling": "무서운",
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "도깨비 머리에 손가락 몇 개를 가져다 댔나요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "손가락 셋을 가져다 대요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "손가락 둘로 하얀 앞니를 만들려면 어디에 둘까요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "코 옆으로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "심굴 궂은 뿔이 셋 나온 도깨비를 보면 어떤 감정이 드나요?",
+          "queType": 4,
+          "queFormat": "단답",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무서워요",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "3028",
       "srcText": "모두 손가락을 펼쳐 봐. 어흥, 사자 엉덩이에 손가락 하나를 쏙! 사자 꼬리가 하나 나왔네. ",
       "srcPage": 3,
       "srcSentenceEA": 3,
-      "srcWordEA": 16
+      "srcWordEA": 16,
+      "character": "손가락,사자 꼬리,사자 엉덩이",
+      "setting": null,
+      "action": "펼쳐 봐",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": "사자 꼬리가 하나 나왔네.",
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사자 엉덩이에 손가락을 가져다 대니 무엇이 나왔나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "사자 꼬리가 하나 나왔어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "사자 엉덩이에 쏙 하고 가져다 댄 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "손가락",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "모두 손가락 모양을 어떻게 할까요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "손가락을 펼쳐 보아요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     },
     {
       "srcTextID": "3030",
       "srcText": "아, 벌린 토끼 입 안에 손가락 넷을 쏙쏙쏙쏙! 누런 이가 넷 나왔네. 넷은 4. 무시무시한 늑대 입 안에 손가락 다섯을 쏙쏙쏙쏙쏙! 뾰족뾰족 이가 다섯 나왔네. 다섯은 5.",
       "srcPage": 7,
       "srcSentenceEA": 6,
-      "srcWordEA": 32
+      "srcWordEA": 32,
+      "character": "토끼 입,손가락,누런 이,늑대 입,뾰족뾰족 이",
+      "setting": "입 안에",
+      "action": null,
+      "feeling": "무시무시한",
+      "causalRelationship": null,
+      "outcomeResolution": "누런 이가 넷 나왔네,뾰족뾰족 이가 다섯 나왔네",
+      "prediction": null,
+      "queAnsPairInfoCount": 4,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": " 토끼 입 안에서 넷 나온 것은 무엇인가요?",
+          "queType": 1,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "누런 이가 넷 나왔네. ",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "뾰족뾰족한 이는 어디에 있나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "늑대 입 안",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "늑대를 보면 어떤 감정이 드나요?",
+          "queType": 4,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "무시무시한 감정이 들어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_저학년",
+          "question": "손가락 다섯으로 무엇이 되었나요?",
+          "queType": 6,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "뾰족뾰족 이가 다섯 나왔네.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

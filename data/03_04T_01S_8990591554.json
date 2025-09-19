@@ -3,10 +3,8 @@
   "author": "류현영",
   "illustrator": "박기욱",
   "isbn": "8990591554",
-  "readAge": "유아",
   "publishedYear": 2003,
   "publisher": "생각의샘",
-  "classification": "예술경험",
   "paragraphInfoCount": 1,
   "paragraphInfo": [
     {
@@ -14,7 +12,45 @@
       "srcText": "옛날 옛날, 하늘에는 해가 열두 개나 있었어요. 사람들은 너무 더워서 아무 일도 할 수가 없었답니다. 임금님이 드디어 나섰어요. “저 하늘에 있는 해를 없애는 사람에게 큰 상과 높은 벼슬을 주겠노라!”",
       "srcPage": 5,
       "srcSentenceEA": 4,
-      "srcWordEA": 31
+      "srcWordEA": 31,
+      "character": "해,사람들,임금님",
+      "setting": "옛날,하늘",
+      "action": null,
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "해를 없애는 사람에게 큰 상과 높은 벼슬을 준다고 말한 사람은?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "임금님",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "유아",
+          "question": "열두 개의 해는 어디에 떠 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "하늘",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
     }
   ]
 }

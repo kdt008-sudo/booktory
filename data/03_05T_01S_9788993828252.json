@@ -1,0 +1,56 @@
+﻿{
+  "title": "동글동글 이건 뭘까?",
+  "author": "이산나",
+  "illustrator": "조연정",
+  "isbn": "9788993828252",
+  "publishedYear": 2009,
+  "publisher": "별똥별",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "16592",
+      "srcText": "흐음, 이건 뭘까? 바로바로, 과일 바구니. 냠냠 맛있게 먹어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 11,
+      "character": "과일 바구니",
+      "setting": null,
+      "action": "먹어요",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "이건 뭐였나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "과일 바구니",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "신체운동_건강",
+          "readAge": "유아",
+          "question": "과일 바구니를 보고 무엇을 하기로 했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "냠냠 맛있게 먹어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+  "title": "올라올라, 주문을 외워 봐!",
+  "author": "조선학",
+  "illustrator": "지우",
+  "isbn": "9791165950743",
+  "publishedYear": 2020,
+  "publisher": "아람북스",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "48118",
+      "srcText": "칼로는 비가 안 올 때도 장화를 신었어. 엄마가 말려도 소용없었지. 사람들이 빤히 쳐다보면 다리를 내밀면서 이렇게 말했어. \"나보다 장화가 잘 어울리는 다리는 없을걸요.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25,
+      "character": "칼로,엄마,사람들,비,장화,다리",
+      "setting": null,
+      "action": "신었어,말려도,쳐다보면,내밀면서,말했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "누가 비가 안 올 때도 장화를 신었나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "칼로",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "예술경험",
+          "readAge": "초등_고학년",
+          "question": "칼로는 사람들이 빤히 쳐다보면 무엇을 내밀었나요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "다리",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+﻿{
+  "title": "달 천사, 루나",
+  "author": "김호현",
+  "illustrator": "김정진",
+  "isbn": "9791186298176",
+  "publishedYear": 2015,
+  "publisher": "꼬마대통령",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "47671",
+      "srcText": "별이 총총한 밤이었어요. 오늘도 먹보 루나는 달을 바라보며 둥근 빵을 먹고 있었어요. \"저 달처럼 큰 빵을 먹고 싶어.\"",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19,
+      "character": "별,루나,달,빵",
+      "setting": "밤",
+      "action": "바라보며,먹고 있었어요,먹고 싶어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "먹보 루나는 언제 달을 바라보며 둥근 빵을 먹고 있었나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "별이 총총한 밤",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "먹보 루나는 무엇을 바라보며 둥근 빵을 먹나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "먹보 루나는 무엇을 먹고 싶어 하나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "달처럼 큰 빵",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

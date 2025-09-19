@@ -1,0 +1,56 @@
+﻿{
+  "title": "나의 학교 나의 선생",
+  "author": "조반니 모스카",
+  "illustrator": "삽화 없는 동화책",
+  "isbn": "8975254348",
+  "publishedYear": 1996,
+  "publisher": "학원출판공사",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "45324",
+      "srcText": "나는 그에게 물어보았습니다. \"플루리노란 누구니? 이상한 팽이로 무엇을 하니?\"",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 10,
+      "character": "나,플루리노,팽이",
+      "setting": null,
+      "action": "물어보았습니다",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "플루리노는 무엇을 가지고 있나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "팽이",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "초등_고학년",
+          "question": "나는 그에게 무엇을 물어보았나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "플루리노란 누구냐고 물어보았어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

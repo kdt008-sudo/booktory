@@ -1,0 +1,56 @@
+﻿{
+  "title": "(연못 속의) 별난 식구들 ",
+  "author": "김영이",
+  "illustrator": "김기택",
+  "isbn": "9788960163133",
+  "publishedYear": 2019,
+  "publisher": "세종",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "52049",
+      "srcText": "“학배기야, 학배기야! 네 엄마 아빠는 누구니?” “우리 엄마 아빠는 비행사. 하늘을 휙휙 나는 잠자리야.” “송장헤엄 치개야! 너 진짜 송장처럼 헤엄치니?” “흐흐흐, 맞아맞아. 죽은 척벌 누워있다가 벌레가 떨어지면 냉큼 잡아먹어.” “힘센 대 장물 장군아! 네가 가진 무기는 뭐니?” “내 앞다리의 갈고리발톱. 무엇이든 낚아챌 수 있어.”",
+      "srcPage": 10,
+      "srcSentenceEA": 12,
+      "srcWordEA": 50,
+      "character": "벌레,잠자리,송장헤엄치개,학배기,물장군",
+      "setting": null,
+      "action": "헤엄치니,낚아챌",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 2,
+      "queAnsPairInfo": [
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "송장헤엄치개는 죽은 척 누워있다가 무엇이 떨어지면 냉큼 잡아먹나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "벌레",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "자연탐구",
+          "readAge": "유아",
+          "question": "무엇이든 낚아챌 수 있는 것은 무엇이 있기 때문일까요?",
+          "queType": 3,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "갈고리발톱",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}

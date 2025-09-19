@@ -1,0 +1,70 @@
+﻿{
+  "title": "할아버지는 왜 땅을 쓸었을까?",
+  "author": "조정옥",
+  "illustrator": "문희정",
+  "isbn": "9791128208614",
+  "publishedYear": 2017,
+  "publisher": "아람",
+  "paragraphInfoCount": 1,
+  "paragraphInfo": [
+    {
+      "srcTextID": "49031",
+      "srcText": "따뜻한 햇볕이 비치는 오후, 아이들이 운동장을 뛰어다녔어. 그런데 한 할아버지가 빗자루를 들고 쓱싹쓱싹 바닥을 쓸기 시작했어. “할아버지, 왜 바닥을 쓸고 계세요?”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22,
+      "character": "할아버지,빗자루,바닥",
+      "setting": "운동장",
+      "action": "뛰어다녔어,들고,쓸기 시작했어",
+      "feeling": null,
+      "causalRelationship": null,
+      "outcomeResolution": null,
+      "prediction": null,
+      "queAnsPairInfoCount": 3,
+      "queAnsPairInfo": [
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "누가 빗자루를 들고 쓱싹쓱싹 바닥을 쓸기 시작했나요?",
+          "queType": 1,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "할아버지",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "한 할아버지가 빗자루를 들고 무엇을 하기 시작했나요?",
+          "queType": 3,
+          "queFormat": "서술",
+          "ansType": "함축적",
+          "ansCount": 1,
+          "ansM1": "쓱싹쓱싹 바닥을 쓸기 시작했어요.",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        },
+        {
+          "classification": "사회관계",
+          "readAge": "초등_고학년",
+          "question": "따뜻한 햇볕이 비치는 오후, 아이들이 어디를 뛰어다녔나요?",
+          "queType": 2,
+          "queFormat": "단답",
+          "ansType": "명시적",
+          "ansCount": 1,
+          "ansM1": "운동장",
+          "ansM2": null,
+          "ansM3": null,
+          "ansM4": null,
+          "ansM5": null
+        }
+      ]
+    }
+  ]
+}
